@@ -80,6 +80,7 @@ Check the list of sources on the site first. If the source is already there, cit
    - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `talk`, `recording`, `video`, `interview` or `unpublished`.
    - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"oa-person-000008"`.
    - For a chapter or an article, put the book or journal title in `in`, and the pages in `pages`.
+   - For a book listed on WorldCat, add its OCLC number as `oclc`, such as `"1434248522"`.
    - For a website, add `url`. Run `npm run archive` to add `archive_url`.
    - Leave out any field you do not know.
 4. Save, open a pull request and wait for the check to pass. Then cite the new id from your records.

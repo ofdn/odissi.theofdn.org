@@ -67,6 +67,11 @@
       "type": "string",
       "pattern": "^[0-9X-]{10,17}$"
     },
+    "oclc": {
+      "type": "string",
+      "pattern": "^[0-9]+$",
+      "description": "OCLC number, the id WorldCat gives a book."
+    },
     "doi": {
       "type": "string",
       "pattern": "^10\\.[0-9]{4,9}/\\S+$"

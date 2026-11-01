@@ -11,7 +11,7 @@ const names = (ctx, list = []) => list.map((p) => (ctx.get(p) ? displayName(ctx.
 export function sourceCitations(src, ctx) {
   const by = names(ctx, src.authors).join(", ");
   const year = src.date?.slice(0, 4) ?? "n.d.";
-  const title = displayName(src);
+  const title = src.subtitle?.en ? `${displayName(src)}: ${src.subtitle.en}` : displayName(src);
   const where = [src.in && `${t("cite.in", {}, ctx.lang)} ${src.in}${src.volume ? ` ${src.volume}` : ""}`, src.publisher, src.pages].filter(Boolean).join(", ");
   const online = [src.url, src.archive_url && `${t("source.archived_at", {}, ctx.lang)} ${src.archive_url}`].filter(Boolean).join(". ");
   const tail = [where, online].filter(Boolean).join(". ");
@@ -26,6 +26,7 @@ export function bibtex(src, ctx) {
     ["author", names(ctx, src.authors).map(texEscape).join(" and ")],
     ["editor", names(ctx, src.editors).map(texEscape).join(" and ")],
     ["title", `{${texEscape(displayName(src))}}`],
+    ["subtitle", src.subtitle?.en && `{${texEscape(src.subtitle.en)}}`],
     [IN_FIELD[src.type] ?? "howpublished", src.in && texEscape(src.in)],
     ["volume", src.volume],
     ["publisher", src.publisher && texEscape(src.publisher)],
@@ -34,6 +35,7 @@ export function bibtex(src, ctx) {
     ["pages", src.pages],
     ["isbn", src.isbn],
     ["doi", src.doi],
+    ["oclc", src.oclc],
     ["url", src.url],
     ["langid", src.language],
     ["addendum", src.archive_url && `Archived at \\url{${src.archive_url}}`],
@@ -55,6 +57,7 @@ export default function source(record, ctx) {
     [t("source.date", {}, lang), record.date && escapeHtml(record.date)],
     [t("source.pages_label", {}, lang), record.pages && escapeHtml(record.pages)],
     ["ISBN", record.isbn && escapeHtml(record.isbn)],
+    ["WorldCat", record.oclc && `<a href="https://search.worldcat.org/title/${escapeHtml(record.oclc)}">${escapeHtml(record.oclc)}</a>`],
     ["DOI", record.doi && `<a href="https://doi.org/${escapeHtml(record.doi)}">${escapeHtml(record.doi)}</a>`],
     [t("source.url", {}, lang), record.url && `<a href="${escapeHtml(record.url)}">${escapeHtml(record.url.replace(/^https?:\/\/|\/$/g, ""))}</a>`],
     [t("source.archive_url", {}, lang), record.archive_url && `<a href="${escapeHtml(record.archive_url)}">${escapeHtml(snapshot(record.archive_url) ?? t("source.archived", {}, lang))}</a>`],
