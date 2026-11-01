@@ -1,0 +1,21 @@
+{
+  "id": "oa-raga-000078",
+  "name": {
+    "en": "Madhusri",
+    "or": "ମଧୁଶ୍ରୀ",
+    "alternates": [
+      "Madhushri",
+      "Madhushree"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/madhusri-madhushri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

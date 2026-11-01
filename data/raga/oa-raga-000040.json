@@ -1,0 +1,21 @@
+{
+  "id": "oa-raga-000040",
+  "name": {
+    "en": "Ramakeri",
+    "or": "ରାମକେରୀ",
+    "alternates": [
+      "Ramakiri",
+      "Ramakri"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/ramakeri-ramakiri-ramakriya-ramakri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
