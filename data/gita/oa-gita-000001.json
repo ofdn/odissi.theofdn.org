@@ -7,7 +7,7 @@
       "Kadamba Bane Banshi Bajilare"
     ]
   },
-  "poet": "oa-person-000001",
+  "composer": "oa-person-000001",
   "mula_raga": [
     "oa-raga-000002"
   ],
@@ -77,11 +77,9 @@
   },
   "sources": [
     {
-      "source": "oa-source-000001"
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kadamba-bane-bansi-bajila-re-gopalakrusna-dhanasri/"
     }
-  ],
-  "entered_by": [
-    "Subhashish Panigrahi"
   ],
   "record_status": "active",
   "superseded_by": null,

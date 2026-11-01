@@ -15,7 +15,7 @@ A check runs on every pull request. It tells you if a field is wrong or a link p
 
 ## Linking records
 
-Records point to each other by id. A gīta names its poet as `"poet": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
+Records point to each other by id. A gīta names its composer as `"composer": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
 
 Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the śiṣyas by itself.
 
@@ -25,7 +25,7 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 - `name.en` is for display and may carry diacritics, such as `Kāmodī`. Put plain spellings, such as `Kamodi`, in `alternates`. Search finds both.
 - Ids, field names and fixed values such as `"song_type": "chaupadi"` are always plain lower-case letters.
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.
-- Cite every source in `sources`. See "Citing sources" below. Put your full name in `entered_by`.
+- Cite every source in `sources`. See "Citing sources" below.
 - A rendition needs no `name`. The site names it from the gīta and the people credited.
 - Give every carrier a `rights` status. Do not add audio files to the repository. Link a YouTube or Internet Archive copy in `online` instead.
 
@@ -69,7 +69,6 @@ Check the list of sources on the site first. If the source is already there, cit
      "date": "1975",
      "isbn": "978-81-00000-00-0",
      "language": "or",
-     "entered_by": ["Your full name"],
      "record_status": "active",
      "superseded_by": null,
      "created_at": "2026-11-01",
@@ -99,3 +98,7 @@ Install Node.js 20 or later. Run `npm install` once. Then:
 - `npm run validate` checks every record.
 - `npm run build` writes the site to `dist/`.
 - `npm run archive` looks up Wayback Machine copies of cited pages. Add `-- --save` to archive pages that have no copy yet.
+
+## Records imported from Odissi Music
+
+Most records come from Odissi Music. Their citations link the original pages but have no `archive_url` yet. Run `npm run archive` to look them all up. It checks about 1,900 pages, a few seconds apart, so it takes a few hours.

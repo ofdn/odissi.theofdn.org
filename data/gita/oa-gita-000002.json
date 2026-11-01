@@ -4,7 +4,7 @@
     "en": "Naba bilasini re nakhyatresa hasini",
     "or": "ନବ ବିଳାସିନୀ ରେ ନକ୍ଷତ୍ରେଶ ହାସିନୀ"
   },
-  "poet": "oa-person-000002",
+  "composer": "oa-person-000002",
   "mula_raga": [
     "oa-raga-000001"
   ],
@@ -103,9 +103,6 @@
       "url": "https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/",
       "archive_url": "https://web.archive.org/web/20260123134649/https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/"
     }
-  ],
-  "entered_by": [
-    "Subhashish Panigrahi"
   ],
   "record_status": "active",
   "superseded_by": null,

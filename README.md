@@ -8,11 +8,11 @@ Prateek Pattanaik leads the archive. It builds on his earlier work, including hi
 
 Each record is one JSON file in `data/<kind>/`, checked against `schema/<kind>.schema.json`.
 
-- `gita`: a song, with its poet, mūḷa rāga and tāḷa, and full text by stanza.
+- `gita`: a song, with its composer, mūḷa rāga and tāḷa, and full text by stanza.
 - `kabya`: a long work made of many gītas, such as a campū.
 - `rendition`: one recording, notation or manuscript copy of a gīta.
 - `carrier`: a disc, tape, manuscript, book or online copy that holds renditions.
-- `person`: a poet, guru, vocalist, instrumentalist, notator or scribe. Gurus are listed on the śiṣya's record.
+- `person`: a composer, poet, guru, vocalist, instrumentalist, notator or scribe. Gurus are listed on the śiṣya's record.
 - `raga`, `tala`: rāgas and tāḷas.
 - `collection`: a personal, family or institutional collection.
 

@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://odissi.theofdn.org/schema/person.schema.json",
   "title": "Person",
-  "description": "A poet, guru, vocalist, instrumentalist, notator or scribe.",
+  "description": "A composer, poet, guru, vocalist, instrumentalist, notator or scribe.",
   "type": "object",
   "allOf": [
     {

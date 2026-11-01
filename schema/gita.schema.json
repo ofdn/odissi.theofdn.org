@@ -2,21 +2,18 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://odissi.theofdn.org/schema/gita.schema.json",
   "title": "Gīta",
-  "description": "A song: one poem and its tune, made together by the poet.",
+  "description": "A song: one poem and its tune, made together by the composer (bāggeyakāra). With no composer, the site shows Unknown.",
   "type": "object",
   "allOf": [
     {
       "$ref": "defs.schema.json#/$defs/common"
     }
   ],
-  "required": [
-    "poet"
-  ],
   "properties": {
     "id": {
       "pattern": "^oa-gita-[0-9]{6}$"
     },
-    "poet": {
+    "composer": {
       "$ref": "defs.schema.json#/$defs/ref_person"
     },
     "mula_raga": {
@@ -24,14 +21,14 @@
       "items": {
         "$ref": "defs.schema.json#/$defs/ref_raga"
       },
-      "description": "Rāga(s) as the poet marked them (mūḷa svara)."
+      "description": "Rāga(s) as the composer marked them (mūḷa svara)."
     },
     "mula_tala": {
       "type": "array",
       "items": {
         "$ref": "defs.schema.json#/$defs/ref_tala"
       },
-      "description": "Tāḷa(s) as the poet marked them."
+      "description": "Tāḷa(s) as the composer marked them."
     },
     "song_type": {
       "enum": [

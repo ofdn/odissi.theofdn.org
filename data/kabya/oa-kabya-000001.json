@@ -8,7 +8,7 @@
       "Kisori Champu"
     ]
   },
-  "poet": "oa-person-000002",
+  "composer": "oa-person-000002",
   "form": "campu",
   "parts": 34,
   "description": {
@@ -19,9 +19,6 @@
       "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/kabya/kisorachandrananda-champu-kisori-champu-kabisurjya/"
     }
-  ],
-  "entered_by": [
-    "Subhashish Panigrahi"
   ],
   "record_status": "active",
   "superseded_by": null,

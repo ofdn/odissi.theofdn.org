@@ -9,7 +9,6 @@
     ]
   },
   "roles": [
-    "poet",
     "composer"
   ],
   "period": "18th century",
@@ -22,9 +21,6 @@
       "url": "https://odissimusic.co.in/index.php/poets/kabisurjya-baladeba-ratha/",
       "archive_url": "https://web.archive.org/web/20260420010212/https://odissimusic.co.in/index.php/poets/kabisurjya-baladeba-ratha/"
     }
-  ],
-  "entered_by": [
-    "Subhashish Panigrahi"
   ],
   "record_status": "active",
   "superseded_by": null,

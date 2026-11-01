@@ -9,14 +9,11 @@
       "$ref": "defs.schema.json#/$defs/common"
     }
   ],
-  "required": [
-    "poet"
-  ],
   "properties": {
     "id": {
       "pattern": "^oa-kabya-[0-9]{6}$"
     },
-    "poet": {
+    "composer": {
       "$ref": "defs.schema.json#/$defs/ref_person"
     },
     "form": {

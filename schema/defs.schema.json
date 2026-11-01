@@ -193,7 +193,6 @@
       "type": "object",
       "required": [
         "id",
-        "entered_by",
         "record_status",
         "created_at",
         "updated_at"
