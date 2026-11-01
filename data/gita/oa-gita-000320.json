@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-000320",
+  "name": {
+    "en": "Dekha basanta kala",
+    "or": "ଦେଖ ବସନ୍ତ କାଳ"
+  },
+  "composer": "oa-person-000008",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-basanta-kala/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ବସନ୍ତ କାଳ",
+          "ସଜନୀ ଆହା କି ମଞ୍ଜୁଳ ।",
+          "ମଳୟ ପବନେ ମଧୁପ ଗୁଞ୍ଜନେ କୁଞ୍ଜକାନନେ",
+          "ମଧୁମୟ ବେଶେ ସାଜି ସୁମାନସେ",
+          "ଆସ ଗୋ ଚଞ୍ଚଳ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋହନ ବଂଶୀ ପଞ୍ଚମ ତାନେ",
+          "ବାଜେ ସଘନେ",
+          "ପରଶି ମରମେ ମନ ବଳୁଥିବ ଗୋ",
+          "ମୋହନ ଧିଆନେ",
+          "ଆଉ କଲେ ହେଳା ବୁଡ଼ିବଟି ଭେଳା",
+          "ଧର ବରଣମାଳା",
+          "ଭଣଇ ତାରିଣୀ ନୋହି ତୁ ମାନିନୀ",
+          "ନିଧୁବନେ ଚାଲ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-basanta-kala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

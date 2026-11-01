@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001432",
+  "name": {
+    "en": "Mohana murali dhari",
+    "or": "ମୋହନ ମୁରଲୀଧାରୀ"
+  },
+  "composer": "oa-person-000008",
+  "mula_raga": [
+    "oa-raga-000203"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-murali-dhari-kakubha-tarini-patra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋହନ ମୁରଲୀଧାରୀ, ଆହେ ଶ୍ୟାମ",
+          "କଳା କଳେବର ରଙ୍ଗିମା ଅଧର ପୀତବସନ ବେଣୁଧାରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶିଖୀପୁଚ୍ଛଚୂଳ ରଙ୍ଗ ଜାମୁଡାଳ ରୁଞ୍ଜଗୁଞ୍ଜମାଳଧାରୀ",
+          "କେଳିନୀପମୂଳଚାରୀ ଆଦିମୂଳ କାଳିନ୍ଦୀକୂଳ ବିହାରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁନ୍ଦରବୃନ୍ଦ ପୁରନ୍ଦର ମନ୍ଦରଧାରଣ ଷଣ୍ଢବିହାରୀ",
+          "ଗୋପପୁର ଇନ୍ଦୁ ଘନଶ୍ୟାମବନ୍ଧୁ ନନ୍ଦ ମନାନନ୍ଦକାରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋକୁଳ ମଣ୍ଡଳାଖଣ୍ଡଳ ମକର କୁଣ୍ଡଳ ଯୁଗଳ ଧାରୀ",
+          "ଯଶୋଦାର ବଳା ଗୋକୁଳ ଅବଳାକୁଳ ମନଧନ ହାରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଖିଳକାରଣ ନିଖିଳପାଳନ ଗୋଧେନୁ ଚାରଣକାରୀ",
+          "ତାରିଣୀ ଚରଣ ମାଗଇ ଶରଣ ଶ୍ରୀପଦ ନଳିନ ଧରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-murali-dhari-kakubha-tarini-patra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

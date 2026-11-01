@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-000004",
+  "name": {
+    "en": "Braja kisori nuha manini",
+    "or": "ବ୍ରଜ କିଶୋରୀ ନୁହଁ ମାନିନୀ"
+  },
+  "composer": "oa-person-000008",
+  "mula_raga": [
+    "oa-raga-000005"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/braja-kisori-nuha-manini/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବ୍ରଜ କିଶୋରୀ ନୁହଁ ମାନିନୀ ଧନୀ",
+          "କୁଞ୍ଜ ବିନୋଦିନୀ କୁଞ୍ଜର ଗାମିନୀ ।",
+          "ବ୍ରଜରାଜ ତନୁଜ ବ୍ରଜେନ୍ଦୁ ସଜନୀ",
+          "ଚାହିଁ ରହିଥିବେ ତୋ ଯିବା ସରଣୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସାଜ ସଜ ବେଗେ ମନ ଅନୁରାଗେ",
+          "ହୁଅ ଅଭିସାର ପରାଣ ଆବେଗେ",
+          "ସହି ନୁହେ ହେଳା ପୀରତି ବତ୍ସଳା",
+          "ଆରେ ନବ ବାଳା କେଳି ସୁକୁଶଳା",
+          "(ପଡ଼ି)",
+          "ମଞ୍ଜୁଳ ଭାଷିଣୀ ମୋହନ ମୋହିନୀ",
+          "କଞ୍ଜ ନୟନେ ଦିଅ ଅଞ୍ଜନ ଏକ୍ଷଣି",
+          "ରଞ୍ଜ ରମଣେ ଆଜ ମଞ୍ଜୁ ସୁହାସିନୀ",
+          "ଆସ ରାସରସିକେ ଭାଷେ ତାରିଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/braja-kisori-nuha-manini/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

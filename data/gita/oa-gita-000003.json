@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-000003",
+  "name": {
+    "en": "Manamohane nuha abhimanini",
+    "or": "ମନମୋହନେ ନୁହଁ ଅଭିମାନିନୀ"
+  },
+  "composer": "oa-person-000008",
+  "mula_raga": [
+    "oa-raga-000003"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manamohane-nuha-abhimanini/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନମୋହନେ ନୁହଁ ଅଭିମାନିନୀ",
+          "ତାଙ୍କ ସମୟକୁ ଅଣ୍ଟିଗଲାଣି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମାନମୟୀ ତେଜ ମାନ",
+          "ଧନୀ ମୋ ବଚନ ମାନ",
+          "କି ହୋଇବ କେତେ କଲେ ଭାଳେଣି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଞ୍ଜ ସମୟ ହେଲାଣି",
+          "କଞ୍ଜ ତ ଘୁମାଇଲାଣି",
+          "କୁଞ୍ଜେ ହେଟି ଶ୍ୟାମ ବିଜେ ବୋଲେ ତାରିଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manamohane-nuha-abhimanini/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
