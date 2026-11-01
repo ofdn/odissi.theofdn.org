@@ -1,14 +1,13 @@
 {
   "id": "oa-source-000002",
   "name": {
-    "en": "Metadata draft for the archive"
+    "en": "Prateek Pattanaik"
   },
-  "type": "unpublished",
-  "contributing": true,
+  "type": "website",
   "authors": [
     "Prateek Pattanaik"
   ],
-  "date": "2026-10",
+  "url": "https://pattaprateek.com/",
   "language": "en",
   "entered_by": [
     "Subhashish Panigrahi"
@@ -17,7 +16,5 @@
   "superseded_by": null,
   "created_at": "2026-11-01",
   "updated_at": "2026-11-01",
-  "note": {
-    "en": "Prateek Pattanaik drafted these fields and values in October 2026 for the first records in this archive."
-  }
+  "archive_url": "https://web.archive.org/web/20260904033318/https://pattaprateek.com/"
 }
