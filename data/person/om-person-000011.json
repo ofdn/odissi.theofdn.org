@@ -1,0 +1,25 @@
+{
+  "id": "om-person-000011",
+  "name": {
+    "en": "Ramarao Patro"
+  },
+  "roles": [
+    "guru"
+  ],
+  "sources": [
+    {
+      "title": "Prateek Pattanaik",
+      "url": "https://pattaprateek.com/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

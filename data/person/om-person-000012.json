@@ -1,0 +1,41 @@
+{
+  "id": "om-person-000012",
+  "name": {
+    "en": "Prateek Pattanaik"
+  },
+  "roles": [
+    "vocalist",
+    "instrumentalist",
+    "scholar",
+    "collector"
+  ],
+  "instruments": [
+    "bīṇā"
+  ],
+  "gurus": [
+    "om-person-000009",
+    "om-person-000010",
+    "om-person-000011"
+  ],
+  "sampradaya": "South Odishan",
+  "website": "https://pattaprateek.com/",
+  "bio": {
+    "en": "Musician, scholar and archivist. A vocalist and bīṇākāra, he was trained by his grandmother Kanak Lata Sabath and Brundabana Khandual before studying under Ramarao Patro, in the lineage of Tarini Charan Patra. He is a research scholar at Berhampur University, working on the 17th-century treatise Saṅgītanārāyaṇa."
+  },
+  "sources": [
+    {
+      "title": "Prateek Pattanaik",
+      "url": "https://pattaprateek.com/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

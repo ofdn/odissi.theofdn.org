@@ -1,0 +1,28 @@
+{
+  "id": "om-raga-000002",
+  "name": {
+    "en": "Dhanāśrī",
+    "or": "ଧନାଶ୍ରୀ",
+    "alternates": [
+      "Dhanasri",
+      "Dhanashri"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dhanasri",
+      "url": "https://odissimusic.co.in/index.php/raga/dhanasri-dhanashri/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "om-person-000003",
+  "name": {
+    "en": "Singhari Shyamsundar Kar"
+  },
+  "roles": [
+    "guru",
+    "vocalist"
+  ],
+  "sources": [
+    {
+      "title": "Metadata draft for the archive",
+      "type": "personal knowledge",
+      "author": "Prateek Pattanaik",
+      "date": "2026-10"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

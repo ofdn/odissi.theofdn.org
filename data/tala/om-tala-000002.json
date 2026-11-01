@@ -1,0 +1,30 @@
+{
+  "id": "om-tala-000002",
+  "name": {
+    "en": "Aṭhatāḷi",
+    "or": "ଅଠତାଳି",
+    "alternates": [
+      "Athatali",
+      "Athtali",
+      "Athatala",
+      "Athtala"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Athatali",
+      "url": "https://odissimusic.co.in/index.php/tala/athatali-athtali/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

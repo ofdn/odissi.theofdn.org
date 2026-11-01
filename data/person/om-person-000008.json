@@ -1,0 +1,54 @@
+{
+  "id": "om-person-000008",
+  "name": {
+    "en": "Tarini Charan Patra",
+    "alternates": [
+      "Acharya Tarini Charan Patra",
+      "Aṣṭābadhānī Āchārya Tarini Charan Patra"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist",
+    "poet",
+    "composer",
+    "notator"
+  ],
+  "instruments": [
+    "bīṇā"
+  ],
+  "birth_year": 1893,
+  "death_year": 1979,
+  "place": {
+    "en": "Pittala, Ganjam"
+  },
+  "sampradaya": "South Odishan",
+  "bio": {
+    "en": "Born in Pittala, Ganjam, in 1893. A bīṇākāra and vocalist, he was also a poet and composer of Odissi songs."
+  },
+  "sources": [
+    {
+      "title": "Tarini Charan Patra",
+      "url": "https://odissimusic.co.in/index.php/guru/tarini-charan-patra/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    },
+    {
+      "title": "Prateek Pattanaik",
+      "url": "https://pattaprateek.com/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
