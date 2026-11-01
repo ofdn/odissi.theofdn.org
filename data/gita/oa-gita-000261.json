@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000261",
+  "name": {
+    "en": "Hori range bihari",
+    "or": "ହୋରି ରଙ୍ଗେ ବିହରି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000026"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hori-range-bihari-hari-sange-sri-kisori/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହୋରି ରଙ୍ଗେ ବିହରି",
+          "ହରି ସଙ୍ଗେ ଶ୍ରୀ କିଶୋରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପବନେ ଚଳି ଚମ୍ପକ ବଲ୍ଲୀ",
+          "ତମାଳେ ଢଳିଲା ପରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଶୁପୀ ବାଳା ଚପଳା ମାଳା",
+          "ଘନକୁ ଘେରିଲା ପରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେମାବ୍ଜ ବନ ବୟସୀ ଜନ",
+          "ମଧୁବ୍ରତ ଗିରିଧାରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଫିଙ୍ଗୁ ଅବିର ବ୍ରଜସୁନ୍ଦର",
+          "କଞ୍ଚୁଲୀ ଗଳି ବାହାରି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀ ରାଧା ଫିଙ୍ଗୁ ମୋହନ ଜଗୁଁ",
+          "ବାଜି ହୃଦରେ ସଞ୍ଚରି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ନଳ ଯନ୍ତର ଧରି ରତ୍ନର",
+          "ବିଞ୍ଚନ୍ତି ପନୀର ବାରି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ନୟନ ତୃଷ୍ଣ",
+          "ହୋଇଲା ସେ ଶୋଭା ସ୍ମରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hori-range-bihari-hari-sange-sri-kisori/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

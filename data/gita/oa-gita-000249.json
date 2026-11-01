@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000249",
+  "name": {
+    "en": "Jiba para parana sangini",
+    "or": "ଯିବା ପରା ପରାଣ ସଙ୍ଗିନୀ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000026"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-para-parana-sangini/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯିବା ପରା ପରାଣ ସଙ୍ଗିନୀ ଉଠିଆରେ",
+          "ଦିଶୁଥିବ ଶ୍ୟାମ ବାମ ପାଶ ପଡ଼ିଆରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବ୍ରଜ ହାଟ ବାଟ ହେଲାଣି ନିଛାଟ",
+          "ଜଗିଥିବେ ବ୍ରଜବିଧୁ ନିକୁଞ୍ଜ ଦୁଆରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପବନେ ପଲ୍ଲବ ଚଳିଲେ ମାଧବ",
+          "ପଥ ଚାହୁଁଛନ୍ତି ଧରି କେଶର ପୁଆରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଜ ହେବା ସଜ ପରାର୍ଦ୍ଧ ଚିତ୍ତଜ",
+          "ନିଉଁଛାଇ ହେବେ ହୋଇ ପଦତଳିଆରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅନା ଓଷଧୀଶ ହେଲାନି ପ୍ରକାଶ",
+          "ଶୁଣୁ ନାହୁଁ ଅଛନ୍ତି କୁଞ୍ଜେ ଏକୁଟିଆରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯାମ ହେଲା ଆସି ଉଠାଉଛି ବସି",
+          "ଭାଳୁ ଭାଳୁ ଡାକିବ ତ କୁକ୍କୁଟ କୁଆରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଆଳୀ କର ଧରି ଚାହୁଁ ଶ୍ରୀ କିଶୋରୀ",
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷେ ହେଟି ସେ ବଳିୟାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-para-parana-sangini/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

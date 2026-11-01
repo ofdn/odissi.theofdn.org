@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-001227",
+  "name": {
+    "en": "E nanda sunu trahi na karibe ki",
+    "or": "ଏ ନନ୍ଦସୂନୁ ତ୍ରାହି ନ କରିବେ କି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-nanda-sunu-trahi-na-karibe-ki-bhairabi-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ ନନ୍ଦସୂନୁ ତ୍ରାହି ନ କରିବେ କି",
+          "ବିଷାଦ କାହିଁକି ହେ",
+          "ଛୁଆଇଁ ଚରଣ ମୋକ୍ଷ କରିଦେଲେ",
+          "ବୃକ୍ଷ ଯୁଗଳକୁ ମାନସେ ନାହିଁ କି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ଯମୁନା ତୀରେ ପଶୁପ ସୁତଙ୍କୁ",
+          "ଦାବାଗ୍ନି ଭୟରୁ ହେ",
+          "ବୁଜଟି ବୋଲି କଲେ ପାନ",
+          "ବନ ପରି ଆହା ବହ୍ନିକି ଦୂରରୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶରଣାର୍ଥି ତତି ଶରଣ୍ୟ ଏ ଖ୍ୟାତି",
+          "ଅଜାଣ୍ଡ କୋଟିରେ ହେ",
+          "ମଣି ଶ୍ରୀ ପ୍ରତାପରୁଦ୍ର ଦେବ ଭୂପ",
+          "ଭଣିଲେ ସେ ମୂର୍ତ୍ତି ଭାବି ହୃଦୟରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-nanda-sunu-trahi-na-karibe-ki-bhairabi-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

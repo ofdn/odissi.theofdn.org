@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-001218",
+  "name": {
+    "en": "Daya na karantu mun dasi sina",
+    "or": "ଦୟା ନ କରନ୍ତୁ ମୁଁ ଦାସୀ ସିନା"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/daya-na-karantu-mun-dasi-sina-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୟା ନ କରନ୍ତୁ ମୁଁ ଦାସୀ ସିନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୁଃଖ ଦେଇ ଶ୍ୟାମକୁ ରାଧା ସୁଖୀ ହେବାକୁ",
+          "ରୁଷିବ କଲୁ କି ଏ ଆଲୋଚନା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯେ ତାଙ୍କ ମନୋହାରୀ ତା ନଉକରୀ କରି",
+          "ଦିନ ନେବି ପଛକେ ଗୁମାନ ନାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯାହାରେ ହେଲେ ସଖୀସେ ହୋଇଥିଲେ ସୁଖୀ",
+          "ମିଳିଲା ପରି କୋଟି ଲକ୍ଷ ସୁନା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯଶୋଦାଙ୍କ ପୁଣ୍ୟରେ ଚିରଞ୍ଜିବୀ ବ୍ରଜରେ",
+          "ହୋଇ ସେ ସହୀ ରହିଥାନ୍ତି କିନା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିକଟରେ କି ଦୂରେ ନିତି ଶ୍ରୀମୁଖ ଥରେ",
+          "ଦେଖୁଥିବି ଏତିକି ମୋ କାମନା ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ କହି ହସି ଭାଷିଲେ ସହୀ",
+          "କେ ତୋ ପଛରେ ରହିଛନ୍ତି ଅନା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/daya-na-karantu-mun-dasi-sina-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000269",
+  "name": {
+    "en": "E ghana dina eka nebe ki kari",
+    "or": "ଏ ଘନ ଦିନ ଏକା ନେବେ କି କରି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ghana-dina-eka-nebe-ki-kari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ ଘନ ଦିନ ଏକା ନେବେ କି କରି",
+          "ପାମର ଦଇବ କଲା ଆହା ଏତେ ସରି ସହି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶୁଣି ଭେକ କେକୀ ନାଦ ପରମାଦରୁ ପ୍ରମାଦ",
+          "କି ହେଉଥିବ ସେ ହୃଦ ଶୁଣ ସହଚରୀ ସହି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଝଟକେ ଅନା ବିଦ୍ୟୁତ ମତ୍ତେ ଅଳି କରେ ରୁତ",
+          "ବହେ ମାଳତୀ ମରୁତ ଡାକୁଛି ଝିଙ୍କାରୀ ସହି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯିବାକୁ ମାଗୁ ମେଲାଣି ମୋତେ ମୋର ଗୁଣମଣି",
+          "ନିଷେଧିଲି ପୁଣ ପୁଣି କରେ କର ଧରି ସହି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରଖି ନୟନର ନୀର ଲେଉଟି ବିଲୋକିବାର",
+          "ଫାଟି ଯାଉନାହିଁ ଉର ସେ ରୂପ ସୁମରି ସହି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣଙ୍କୁ ମୋର ପ୍ରବାସ କଷ୍ଟ ଶଙ୍କର",
+          "ଏହି ବାରକ ଉଦ୍ଧର କହୁଛି ଜୁହାରି ସହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ghana-dina-eka-nebe-ki-kari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000234",
+  "name": {
+    "en": "Jana are mana",
+    "or": "ଜାଣ ଆରେ ମନ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000079"
+  ],
+  "mula_tala": [
+    "oa-tala-000015"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jana-are-mana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜାଣ ଆରେ ମନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାମ କ୍ରୋଧାଦି କରପଥ କଢାଳି ନିକର",
+          "ଅସତ୍ ପ୍ରବୃତ୍ତି କଷ୍ଟପ୍ରଦ ଭୟଙ୍କର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭୀଷଣ ଦଉଡ଼ିମାନ ଦୃଢ଼େ ଗଳେ ବାନ୍ଧି",
+          "ବିନାଶ କରୁଅଛନ୍ତି ମୋତେ ନିରବଧି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏଣୁ ତୁ ଶ୍ରୀକୃଷ୍ଣ ଭକ୍ତମାନଙ୍କର ପାଶେ",
+          "ସକାତରେ ଉଚ୍ଚସ୍ୱରେ କାନ୍ଦ ଅହର୍ନିଶେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତୋ ରୋଦନ ଶୁଣି ସେହି ସାଧକ ବୈଷ୍ଣବେ",
+          "ଆସି ଏ ଶତ୍ରୁଙ୍କ ହସ୍ତୁ ରକ୍ଷଣ କରିବେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିର୍ବୈର ହୋଇ ଗୋପାଳକୃଷ୍ଣ ପ୍ରେମାନନ୍ଦେ",
+          "ସେବା କରଇ ନିଶ୍ଚିନ୍ତେ ଶ୍ରୀ ରାଧାଗୋବିନ୍ଦେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jana-are-mana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

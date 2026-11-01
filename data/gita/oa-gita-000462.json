@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000462",
+  "name": {
+    "en": "Jiba e jibana sina re sajani",
+    "or": "ଯିବ ଏ ଜୀବନ ସିନା ରେ ସଜନୀ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000051"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-e-jibana-sina-re-sajani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯିବ ଏ ଜୀବନ ସିନା ରେ ସଜନୀ",
+          "ମୋହନ ପ୍ରୀତି କେ କଲାନି ମନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେହାନ୍ତରେ ଲଭିବାକୁ ସୁମନା",
+          "ସଦା କରୁଛି ଯା ପଦ ଭାବନା",
+          "(ପଡ଼ି)",
+          "ଗୁରୁଜନ ନିନ୍ଦା ଆଦି ଯାତନା",
+          "ତା ଯାକ କରୁଛି ମୁଁ କି ଶୋଚନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଜଣାଉଛି ମୋତେ ଲୋଳଲୋଚନା",
+          "ମନେ ରଖିଥା କା ଆଗେ କହନା",
+          "(ପଡ଼ି)",
+          "ଗୋପାଳକୃଷ୍ଣ ସୁବେଶ ରଚନା",
+          "ସମ୍ଭାର ଛାମୁରେ କଲା ଘଟନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-e-jibana-sina-re-sajani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000271",
+  "name": {
+    "en": "Janagala kahinki parimana",
+    "or": "ଜଣାଗଲା କାହିଁକି ପରିମାଣ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janagala-kahinki-parimana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜଣାଗଲା କାହିଁକି ପରିମାଣ",
+          "କରର ଚୂଡ଼ିକି ଲୋଡ଼ା କେଣେ ଦରପଣ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲଲାଟେ ସିନ୍ଦୂର ଚିହ୍ନ ହୋଇଛି ବିଭ୍ରାଣ",
+          "ଡେରିଲା ପରି ମଦନ ଶୋଣିତ କୃପାଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅଧର ଅଞ୍ଜନ ଦାଗ ଦହୁଛି ପରାଣ",
+          "ଚନ୍ଦ୍ରାବଳୀ କ୍ରୋଡ଼ କୁରଙ୍ଗ କର ପ୍ରୟାଣ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଘଷିଛି ତା ତନୁ ହେମ କଷଟି ପାଷାଣ",
+          "ଗଣ୍ଡେ ଧରି ଦେଖି ଯା ଦର୍ପଣ ଯୁବରାଣ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶାଖୋଟ କୁଞ୍ଜ ଗୃହିଣୀ ବିଟ ନ ବଖାଣ",
+          "ବକୀବଧ କଥା କି ବହୁଦିନ ପୁରାଣ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବିବେକପଣେ ବାରଣ ପରାଏ ସୁଜାଣ",
+          "ସରସପଣରେ ବୃଦ୍ଧ ଗଡ୍‌ଡର ବିଷାଣ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଭାଷେ ଗୋପାଳକୃଷ୍ଣ ଦେଉଥିଲେ ତ ରାଣ",
+          "ହାତ ଯୋଡ଼ି ବୋଲେ ଏବେ କର ପରିତ୍ରାଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janagala-kahinki-parimana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

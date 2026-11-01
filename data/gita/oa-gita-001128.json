@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-001128",
+  "name": {
+    "en": "Jete kahile tote kisori mani",
+    "or": "ଯେତେ କହିଲେ ତୋତେ କିଶୋରୀ ମଣି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000122"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jete-kahile-tote-kisori-mani-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯେତେ କହିଲେ ତୋତେ କିଶୋରୀ ମଣି",
+          "ପ୍ରତେ ନ କରି ବୋଇଲୁ ଯେ କେ ଜାଣି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସର୍ବଦା ସୁପ୍ରସନ୍ନ ସଜ କଞ୍ଜ ଲପନ",
+          "ଶୁଖାଇ ନୟନରୁ ପୋଛିଲୁ ପାଣି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁନ୍ଦର ପୁରନ୍ଦର ମୁକୁଟ ଅଳଙ୍କାର",
+          "ହେଲେ କି ପଦେ ସତ ନାହିଁ ତା ବାଣୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଦ୍ୱିତୀୟ ବିଦଗ୍ଧ ଧୀର ଶୀଳ ସୁସ୍ନିଗ୍ଧ",
+          "ହୋଇ କି ହେବ ଜାର ବର ଅଗ୍ରଣୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଉ ସେ ପରସଙ୍ଗ ବୋଲି ଦମ୍ଭରେ ଅଙ୍ଗ",
+          "ଭାଙ୍ଗି ଦେଲୁ ନାହୁଁ କି ଜୃମ୍ଭାକୁ ଆଣି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମନକୁ ନ ଆସିଲେ ଅସାର ଭଲ ହେଲେ",
+          "ବୋଲୁ ଉଠିଗଲୁ ରେ ପ୍ରାଣ ମିତଣୀ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଆସ ଆସ ଉଛୁର ହେଲାନି ଅଭିସାର",
+          "କାଳ ଆଗ ସଜାଡ଼ିଦେବି ମୁଁ ବେଣୀ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ହେଲାନି ହେଲା କଥା ହୋଇବ କି ଅନ୍ୟଥା",
+          "ଗୋପାଳକୃଷ୍ଣ ଶ୍ରୀ ଲଳିତାଙ୍କୁ ଭଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jete-kahile-tote-kisori-mani-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

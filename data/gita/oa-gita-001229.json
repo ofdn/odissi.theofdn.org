@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001229",
+  "name": {
+    "en": "E ki paramada asi padila ma",
+    "or": "ଏ କି ପରମାଦ ଆସି ପଡ଼ିଲା ମା"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000139"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-paramada-asi-padila-ma-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ କି ପରମାଦ ଆସି ପଡ଼ିଲା ମା",
+          "ଦଣ୍ଡେ ତ ଶ୍ୟାମ ସଙ୍ଗ ନ ଛାଡ଼ିଲା ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେହି ବରହ ଉତ୍ତଂସ ସେହି ନଟବର ବେଶ",
+          "ଯେଣେ ଗଲେ ଆଗେ ରହି ଏଡ଼ିଲା ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚଳି ଯେତେ ପରି କଳି କଲେ ଶିଖଣ୍ଡ ମଉଳି",
+          "ନ ଛଳି କର ଶିରରେ ଯୋଡ଼ିଲା ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରୋଷେ ମୁଁ ଅଧର ଦଂଶି ବେଣୀ ଶେଷରେ ପ୍ରେୟସୀ",
+          "ମାରୁ ମାରୁ ହୃଦେ ହସି ଜଡ଼ିଲା ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କେଉଁ ପଥେ କେ ନ ଜାଣୁ ଯାଇ ସେ ମୁଁ ନ ଯାଉଣୁ",
+          "ନିତି ମୋର ଶେଯରେ ପହୁଡ଼ିଲା ମା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷଣ ବୃଷଭାନୁ ଜେମା ଶୁଣ",
+          "ସେ ପ୍ରେମସିନ୍ଧୁରେ ଚିତ୍ତ ବୁଡ଼ିଲା ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-paramada-asi-padila-ma-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000109",
+  "name": {
+    "en": "Chhaila bara chhamure padili",
+    "or": "ଛଇଳବର ଛାମୁରେ ପଡ଼ିଲି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhailabara-chhamure-padili-chhaila-bara-chhamu-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛଇଳବର ଛାମୁରେ ପଡ଼ିଲି ମା",
+          "ଛନ୍ଦିହେଲା ପଦଯୁଗ ତୋତେ ଲୋଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଗେ ଗଲା ଇନ୍ଦୁରେଖା ପଛେ ରହିଲା ବିଶାଖା",
+          "ଏକା ଲାଜ ଜଳଧିରେ ମୁଁ ବୁଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦମଦମ ହେଲା ଛାତି ଖସିଗଲା ଗୋ ମୋ ଧୃତି",
+          "କହିବାର ଭାରତୀ ମୁଁ ହୁଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରୋମାଞ୍ଚିତ ହୋଇଗଲି ଛୁଆଇଁ ଦେଉଁ ମୁରଲୀ",
+          "ହସି ଦନ୍ତେ ଦନ୍ତବାସ ଭିଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଥରି ଥରି ପ୍ରାଣମିତ ପାଣିକି କୋରକୀକୃତ",
+          "କରି କେତେ ଥର ଶିରେ ଯୋଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଧନ ଜନ ଗଉରବ ଗୁରୁଜନ ଭାଷା ଭାବ",
+          "କୁଳାଚାର ଧରମକୁ ଏଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷିଲା ହେଟି କୁଟିଳା ଆସିଲା",
+          "ବୋଲି ଗଲେ ଏଣିକି ବାହୁଡ଼ିଲି ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhailabara-chhamure-padili-chhaila-bara-chhamu-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

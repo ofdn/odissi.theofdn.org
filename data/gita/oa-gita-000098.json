@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000098",
+  "name": {
+    "en": "Aja braja raja pure laje mu budili",
+    "or": "ଆଜ ବ୍ରଜରାଜ ପୁରେ ଲାଜେ ମୁଁ ବୁଡ଼ିଲି ମା"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000042"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-braja-raja-pure-laje-mu-budili-ma-mohana-kalyana-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଜ ବ୍ରଜରାଜ ପୁରେ ଲାଜେ ମୁଁ ବୁଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରୋହିଣୀଙ୍କ ସଙ୍ଗତରେ ଥିଲି ରନ୍ଧନ ମନ୍ଦିରେ",
+          "ପଛକୁ ନାଗରବର ଦୃଷ୍ଟିରେ ପଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହୃଦ କରେ ଦମଦମ ବୁଦ୍ଧି ମୋ ହୋଇଲା ବାମ",
+          "ସୁଧା ସମ ଶିଖରିଣୀ ଜଳେ ନିଉଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କପଟିନୀ କୁନ୍ଦବଲ୍ଲୀ ଜାଣି ପାଶୁ ଗଲା ଚଳି",
+          "ସାରୀ ପଢ଼ିବାରୁ ଆଣି ଓଢ଼ଣୀ ଓଢ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହେଲା କି ପାକ ସମ୍ଭାର ବୋଲି ପଚାରନ୍ତେ ମୋର",
+          "ଧୃତି ଖସିଗଲା ପ୍ରତିଉତ୍ତର ହୁଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୋ ଓଷ୍ଠ କମ୍ପିଲା ଚାହିଁ ହସିଲା ସେ ଆଡ଼େ ରହି",
+          "ତା ଇଙ୍ଗିତ ହେଜି ଶୀଘ୍ରେ ଅଧର ପୀଡ଼ିଲି ମା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ କହିଲା ରହୁ ଜଟିଳା ଅଇଲା",
+          "ଆସନ୍ତୁ ସଜନୀ ତୋତେ କେତେ ମୁଁ ଲୋଡ଼ିଲି ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-braja-raja-pure-laje-mu-budili-ma-mohana-kalyana-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

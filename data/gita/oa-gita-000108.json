@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000108",
+  "name": {
+    "en": "Dekhile dekhila pari",
+    "or": "ଦେଖିଲେ ଦେଖିଲା ପରି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000038"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekhile-dekhila-pari-thare-rasika-rajanku/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖିଲେ ଦେଖିଲା ପରି ଥରେ ରସିକରାଜଙ୍କୁ",
+          "ଅଖିଳ ବ୍ରଜବାସୀଙ୍କ ଆଖିର ପୁଣ୍ୟ ପୁଞ୍ଜକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁରଭୀଗଣ ପଛରେ ମୁରଲୀ ବଜାଇ ଧୀରେ",
+          "ନାଚି ଆସିବା ବେଳରେ ବନ ବାହୁଡ଼ା ସଜକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିନ୍ଦୁ ବିନ୍ଦୁ ଶ୍ରମଝାଳ ଅଳକାବୃତ କପୋଳ",
+          "ମକର କୁଣ୍ଡଳ ଗଣ୍ଡ ଶିଖଣ୍ଡଚୂଳ ଧ୍ୱଜକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନଟବର ଶିଖାମଣି ଚରମ ଦେଶର ବେଣୀ",
+          "ଚାଳିବାର ବଂଶୀ ରନ୍ଧ୍ରେ ଚାରୁ ଅଙ୍ଗୁଳି ବ୍ରଜକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନାସିକାର ମୋତିବର ଧୀର ଧୀର ଚଳିବାର",
+          "ଗୁଞ୍ଜହାର ତୁଲେ ଉତ ପରମ ବନ୍ୟ ସ୍ରଜକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଝୁମୁଝୁମୁ ବାଜିବାର ମଞ୍ଜୁଳମଣି ମଞ୍ଜୀର",
+          "ଗୋପାଳକୃଷ୍ଣ ଚିନ୍ତେ ସେ ଛନ୍ଦା ଚରଣ କଞ୍ଜକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekhile-dekhila-pari-thare-rasika-rajanku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000256",
+  "name": {
+    "en": "Brajendra nandana sahi",
+    "or": "ବ୍ରଜେନ୍ଦ୍ର ନନ୍ଦନ ସହି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000082"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajendra-nandana-sahi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବ୍ରଜେନ୍ଦ୍ର ନନ୍ଦନ ସହି ଏକା ଶ୍ରୀ ରାଧାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚନ୍ଦ୍ରାବଳୀ ଆଦି କରି । ପଶୁପ ନଗରୀ ନାରୀ ।",
+          "ବୃଥା ପଛେ ପଛେ ଧାଇଁବାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏ ଦେହ ସେ ପରାଣଟି । ସେ ତନୁ ଏ ଜୀବନଟି ।",
+          "ବାରି ହେଉନାହିଁ ପ୍ରୀତି ଯାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯେଉଁ ପରି ସୁଲକ୍ଷଣ । ଯେମନ୍ତ ଶୋଭା ସୁଗୁଣ ।",
+          "ଊଣା ଅଧିକ ନାହିଁ ବାହାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସେ ଦୁହିଙ୍କି ଏକା ବେଳେ । ଦେଖି ଦେଉଛି ଯେ ଡୋଳେ ।",
+          "ଆନ ଇଚ୍ଛା ହେଉଛି କି ତାର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯା ମନ କୃଷ୍ଣକୁ ରସି । ଭଜିବ ରାଧାର ଦାସୀ ।",
+          "ହେଉ ଗୋପାଳକୃଷ୍ଣ ପ୍ରକାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajendra-nandana-sahi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

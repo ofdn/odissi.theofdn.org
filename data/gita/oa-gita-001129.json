@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001129",
+  "name": {
+    "en": "Asi jaichi sina karamaku",
+    "or": "ଆସି ଯାଇଛି ସିନା କରମକୁ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asi-jaichi-sina-karamaku-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆସି ଯାଇଛି ସିନା କରମକୁ",
+          "ରାଧା ରୁଷିବାର ଥାଇ ଶ୍ୟାମକୁ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବ୍ରଜଯାକ ସଭେ ତାର ସେ ବୃଷଭାନୁ ଜେମାର",
+          "ଏଥିରୁ ନ ଜାଣେ ତାରତମକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେ ହେଲେ ବିଲୋକିଛି କି ସଜନୀ ଦୁହେଁ ଦୁହିଁକି",
+          "ଭ୍ରମରେ କରିବାର ଚରମକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅପରାଧେ କେତେ ଥର କ୍ଷମା କରି ନାହିଁ ତାର",
+          "ଯାଉ ବୋଲି ପଛ କରି ତମକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଳୀକି ଦେଖିଲେ ଯାର ପରିବାର ପରି ତାର",
+          "ହୁଏ ଯେ ତେଜି ଲାଜ ସରମକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଜାଣି ସଜନୀ ଇଙ୍ଗିତ ଗୋପାଳକୃଷ୍ଣ ଭାଷିତ",
+          "କଲା ଦୋଷ ଭେଦିଛି ମରମକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asi-jaichi-sina-karamaku-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

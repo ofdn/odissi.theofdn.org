@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000262",
+  "name": {
+    "en": "Jibana jiba para sumari sumari ma",
+    "or": "ଜୀବନ ଯିବ ପରା ସୁମରି ସୁମରି ମା"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jibana-jiba-para-sumari-sumari-ma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜୀବନ ଯିବ ପରା ସୁମରି ସୁମରି ମା",
+          "ମିଳିବେ କି ସତେ ମୋତେ ନିକୁଞ୍ଜ ବିହାରୀ ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଭ୍ରଲିହାଗ୍ନି ଦହୁଛି ଚଉଦିଗେ ଘେରି",
+          "ବଞ୍ଚିବ କେହି କୋମଳ ରଙ୍ଗଣୀ ବଲ୍ଲରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୂର୍ବ ପୁଣ୍ୟପୁଞ୍ଜ ସବୁ ଦିଶିବ ମୋହରି",
+          "ହେବି ଯଶୋଦା ବାତ୍ସଲ୍ୟ ଲକ୍ଷ୍ମୀଙ୍କ କିଙ୍କରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲଳିତ ତ୍ରିଭଙ୍ଗ ଭଙ୍ଗୀ ଆହା ବଂଶୀଧାରୀ",
+          "ଆଖିରେ ନାଚୁଛି ଶିର ଶିଖଣ୍ଡ ମାଧୁରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବିନୟ ମିଶା କଟାକ୍ଷ କୁଣନ ଚାତୁରୀ",
+          "ନିଶି ଦିନ ରହିଲା ମୋ ମନେ ଘର କରି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହୁ କହୁ ଚାହୁଁ ଚାହୁଁ କାଳ ଗଲା ସରି",
+          "ମନମଥ ହୃଦୟ ପକାଉଛି ବିଦାରି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଅଇଲା ସେ କାଳେ ବିହାରି",
+          "ପ୍ରିୟ ପ୍ରତ୍ୟନଙ୍ଗ ଲେଖ ହୃଦ ବାସେ ଧରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jibana-jiba-para-sumari-sumari-ma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

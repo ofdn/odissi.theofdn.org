@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-001209",
+  "name": {
+    "en": "Deli sahi kulaku teki jalanjali",
+    "or": "ଦେଲି ସହୀ କୁଳକୁ ଟେକି ଜଳାଞ୍ଜଳି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000088"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/deli-sahi-kulaku-teki-jalanjali-chakrakeli-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଲି ସହୀ କୁଳକୁ ଟେକି ଜଳାଞ୍ଜଳି",
+          "କଲି ଶ୍ୟାମ ପ୍ରୀତିକି ଜୀବନ ସଙ୍ଖାଳି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରିଥିଲି ମୁଁ ଯେତେକ ବାର ବ୍ରତାବଳୀ",
+          "ହେଲାନି ତା ଯାକ ପାଦ ତଳେ ନିଉଛାଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୋଟି ଜନ୍ମାନ୍ତର ପୁଣ୍ୟ ଫଳ ଗଲା ମିଳି",
+          "ମୁଁ ଯୋଗିନୀ ଜାଣ ଆଳୀ ସେ ମୋହର ଥାଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋ ହୃଦର ନବ ମୃଗମଦ ପତ୍ରାବଳୀ",
+          "ମତ୍ତ ମଧୁକର ସେ ମୁଁ କାନନ ନିଆଳୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସୁଗୁଣ ସୁନ୍ଦରପଣ ଯାକ ଭାଳି ଭାଳି",
+          "ନାମ ଜପୁଥିବି ଏକା ଧରି ଜପାମାଳି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଅଖିଳ ସୌଭାଗ୍ୟବତୀ ମଉଳିର ମାଳି",
+          "ତୁନି ହୁଅ ବୋଲନ୍ତି ଶ୍ରୀ ଲଳିତା ଏ ପାଳି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଶୁଭୁଛି କାନନୁ ବାହୁଡ଼ା ବଂଶୀ କାକଳୀ",
+          "ବୋଲେ ଗୋପାଳକୃଷ୍ଣ ଚାମର ଢାଳି ଢାଳି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/deli-sahi-kulaku-teki-jalanjali-chakrakeli-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-001228",
+  "name": {
+    "en": "Heti go syama bandhuku",
+    "or": "ହେଟି ଗୋ ଶ୍ୟାମ ବନ୍ଧୁକୁ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/heti-go-syama-bandhuku-ana-basanta-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେଟି ଗୋ ଶ୍ୟାମ ବନ୍ଧୁକୁ ଅନା କଦମ୍ବ ମୂଳକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲଳିତ ତ୍ରିଭଙ୍ଗ ଭଙ୍ଗୀ ନଟବର ବେଶ",
+          "ରଚିତ କର୍ଣ୍ଣେ ପ୍ରିୟ କନକ ମଞ୍ଜରୀ",
+          "ନବରତ୍ନ କୁଣ୍ଡଳକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଉନ୍ନିଦ୍ରତର ମାଳତୀ ମାଳା ହୃଦୟରେ",
+          "କି ରୁଚିର ନବ ଶିଖୀ ଶିଖଣ୍ଡ",
+          "ଦର ଅରାଳ ଚୂଳକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁଟିଳ ଅଳକା ତଳେ ଚନ୍ଦନର ବିନ୍ଦୁ",
+          "ଚାରୁ ଭୂରୁବଲ୍ଲୀ ନାଟ ନାସାରେ",
+          "ନୂଆ ମୁକୁତା ଫଳକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦଳିତ ନବ ଅଞ୍ଜନପୁଞ୍ଜ ତନୁ ଦ୍ୟୁତି",
+          "ଜଗିଛନ୍ତି ପଥ ଥରେ ଦିଶାଅ",
+          "ମୁଖଚନ୍ଦ୍ର ମଣ୍ଡଳକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୁରଲୀ ମଧୁର ନାଦେ ସୁରଭୀ କୁଳକୁ",
+          "ଡାକି ଡାକି ଢାଳୁଛନ୍ତି ତୋ ଆଡ଼େ",
+          "କେତେ ନୟନାଞ୍ଚଳକୁ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଚାହୁଁ ସଖୀ ଆପଟରେ ରହି ଶ୍ରୀ ରାଧିକା",
+          "ଗୋପାଳକୃଷ୍ଣ ବୋଲଇ ଝଡ଼ିଲା କରୁ",
+          "ମୁରଲୀ ତଳକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/heti-go-syama-bandhuku-ana-basanta-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
