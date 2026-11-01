@@ -16,10 +16,10 @@
   --footer-bg: #0B1A36;
   --footer-text: #D5DEEF;
   --ink-on-tint: #1a1a1a;
-  --font-heading: "Fira Sans Condensed", system-ui, sans-serif;
-  --font-body: "Fira Sans Condensed", system-ui, -apple-system, sans-serif;
-  --font-prose: "Spectral", Georgia, serif;
-  --font-condensed: "Fira Sans Condensed", "Arial Narrow", sans-serif;
+  --font-heading: "Montserrat", system-ui, sans-serif;
+  --font-body: "Noto Sans", "Arial Narrow", system-ui, sans-serif;
+  --font-prose: "Source Serif 4", Georgia, serif;
+  --font-condensed: "Noto Sans", "Arial Narrow", sans-serif;
   --font-odia: "Noto Sans Oriya", "Noto Sans Odia", "Odia Sangam MN", "Kalinga", system-ui, sans-serif;
   --max-prose: 68ch;
   --radius: 3px;
@@ -297,8 +297,8 @@ h2 { font-size: 1.4rem; font-weight: 600; margin: 2.5rem 0 1rem; }
 .film__facts { font-size: 1rem; line-height: 1.45; }
 .film__facts dl { margin: 0 0 2rem; }
 .film__facts dl > div { margin-bottom: 1rem; }
-.film__facts dt { font-weight: 700; }
-.film__facts dd { margin: 0; color: var(--color-text-muted); overflow-wrap: anywhere; }
+.film__facts dt { font-family: var(--font-condensed); font-weight: 700; }
+.film__facts dd { margin: 0; font-family: var(--font-heading); color: var(--color-text-muted); overflow-wrap: anywhere; }
 .film__facts a { color: var(--color-text); text-decoration-thickness: 1.5px; }
 .film__facts a:hover { color: var(--color-link-hover); }
 .film__main > :first-child { margin-top: 0; }
@@ -448,7 +448,7 @@ button.copy-id.copied::after { content: " \2713"; }
 .kind-label { margin: 0 0 0.5rem; font-weight: 700; }
 .kind-label a { color: var(--color-text-muted); }
 .film__lede:lang(or) { font-size: 1.35rem; margin: 0.5rem 0 0; }
-.film__subtitle { font-family: var(--font-body); font-size: 1.25rem; margin: 0.5rem 0 0; }
+.film__subtitle { font-family: var(--font-heading); font-size: 1.25rem; margin: 0.5rem 0 0; }
 .record-note { padding: 0.75rem 1rem; border-left: 3px solid var(--color-outline); max-width: var(--max-prose); }
 .record-meta { font-size: 0.95rem; color: var(--color-text-muted); }
 .sources { padding-left: 1.25rem; max-width: var(--max-prose); }
