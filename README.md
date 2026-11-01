@@ -16,6 +16,8 @@ Each record is one JSON file in `data/<kind>/`, checked against `schema/<kind>.s
 - `raga`, `tala`: rāgas and tāḷas.
 - `collection`: a personal, family or institutional collection.
 
+To add or edit records, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 Records link to each other by id, such as `om-raga-000001`. Names with diacritics are for display only. Search matches them with or without diacritics.
 
 ## Build
