@@ -7,7 +7,7 @@ export const SCHEMA_DIR = process.env.SCHEMA_DIR || join(ROOT, "schema");
 export const OUT_DIR = join(ROOT, "dist");
 export const TEMPLATE_DIR = join(ROOT, "site-templates");
 
-export const SITE_NAME = "Archive of Odissi Music";
+export const SITE_NAME = "The Odissi Archive";
 export const SITE_URL = (process.env.SITE_URL || "https://odissi.theofdn.org/").replace(/\/?$/, "/");
 // "/" on our own domain, "/odissi.theofdn.org/" on github.io
 export const BASE_PATH = new URL(SITE_URL).pathname;

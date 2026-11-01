@@ -2,7 +2,7 @@
   "name": "odissi-archive",
   "version": "0.1.0",
   "private": true,
-  "description": "Archive of Odissi music: gītas, kābyas, renditions, carriers, people, rāgas and tāḷas.",
+  "description": "The Odissi Archive: gītas, kābyas, renditions, carriers, people, rāgas and tāḷas.",
   "type": "module",
   "scripts": {
     "validate": "node scripts/validate.js",

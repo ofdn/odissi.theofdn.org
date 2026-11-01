@@ -1,6 +1,6 @@
-# odissi.theofdn.org
+# The Odissi Archive
 
-An archive of Odissi music. It holds gītas, the kābyas they come from, their renditions, the discs and manuscripts that carry them, and the people, rāgas and tāḷas behind them.
+The Odissi Archive is an archive of Odissi music at odissi.theofdn.org. It holds gītas, the kābyas they come from, their renditions, the discs and manuscripts that carry them, and the people, rāgas and tāḷas behind them.
 
 Prateek Pattanaik leads the archive. It builds on his earlier work, including his site [Odissi Music](https://odissimusic.co.in/).
 
