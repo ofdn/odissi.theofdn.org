@@ -1,14 +1,14 @@
 {
-  "id": "om-person-000010",
+  "id": "oa-person-000009",
   "name": {
-    "en": "Brundabana Khandual"
+    "en": "Kanak Lata Sabath"
   },
   "roles": [
     "guru"
   ],
   "sources": [
     {
-      "source": "om-source-000003"
+      "source": "oa-source-000003"
     }
   ],
   "entered_by": [

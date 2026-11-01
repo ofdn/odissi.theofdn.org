@@ -172,7 +172,7 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
     var next = isDark() ? "light" : "dark";
     document.documentElement.setAttribute("data-theme", next);
     try {
-      localStorage.setItem("om-theme", next);
+      localStorage.setItem("oa-theme", next);
     } catch (e) {}
     updateLabel();
   });

@@ -1,17 +1,15 @@
 {
-  "id": "om-person-000006",
+  "id": "oa-person-000003",
   "name": {
-    "en": "Banamali Maharana"
+    "en": "Singhari Shyamsundar Kar"
   },
   "roles": [
-    "instrumentalist"
-  ],
-  "instruments": [
-    "mardala"
+    "guru",
+    "vocalist"
   ],
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

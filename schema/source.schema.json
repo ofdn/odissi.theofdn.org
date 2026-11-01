@@ -14,7 +14,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-source-[0-9]{6}$"
+      "pattern": "^oa-source-[0-9]{6}$"
     },
     "type": {
       "enum": [
@@ -83,7 +83,7 @@
   },
   "$defs": {
     "people": {
-      "description": "Full names, or person ids such as om-person-000001 for people with a record here.",
+      "description": "Full names, or person ids such as oa-person-000001 for people with a record here.",
       "type": "array",
       "items": {
         "type": "string",

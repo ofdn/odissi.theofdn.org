@@ -1,5 +1,5 @@
 {
-  "id": "om-person-000001",
+  "id": "oa-person-000001",
   "name": {
     "en": "Gopalakrusna Pattanayaka",
     "or": "ଗୋପାଳକୃଷ୍ଣ ପଟ୍ଟନାୟକ",
@@ -16,12 +16,12 @@
   ],
   "sources": [
     {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/poets/gopalakrusna-pattanayaka/",
       "archive_url": "https://web.archive.org/web/20260711021630/https://odissimusic.co.in/index.php/poets/gopalakrusna-pattanayaka/"
     },
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

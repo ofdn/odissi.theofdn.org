@@ -1,15 +1,14 @@
 {
-  "id": "om-person-000004",
+  "id": "oa-person-000010",
   "name": {
-    "en": "Balakrushna Dash"
+    "en": "Brundabana Khandual"
   },
   "roles": [
-    "guru",
-    "music_director"
+    "guru"
   ],
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000003"
     }
   ],
   "entered_by": [

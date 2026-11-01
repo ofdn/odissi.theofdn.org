@@ -18,7 +18,7 @@ Each record is one JSON file in `data/<kind>/`, checked against `schema/<kind>.s
 
 To add or edit records, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Records link to each other by id, such as `om-raga-000001`. Names with diacritics are for display only. Search matches them with or without diacritics.
+Records link to each other by id, such as `oa-raga-000001`. Names with diacritics are for display only. Search matches them with or without diacritics.
 
 ## Build
 

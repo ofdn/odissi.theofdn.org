@@ -11,7 +11,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-collection-[0-9]{6}$"
+      "pattern": "^oa-collection-[0-9]{6}$"
     },
     "held_by": {
       "type": "array",

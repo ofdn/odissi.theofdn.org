@@ -1,5 +1,5 @@
 {
-  "id": "om-carrier-000002",
+  "id": "oa-carrier-000002",
   "name": {
     "en": "Kadamba Bane Banshi Bajilare Sangata, Odishi Song, Shyamamani Pattnaik"
   },
@@ -18,7 +18,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

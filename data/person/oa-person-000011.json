@@ -1,15 +1,14 @@
 {
-  "id": "om-person-000003",
+  "id": "oa-person-000011",
   "name": {
-    "en": "Singhari Shyamsundar Kar"
+    "en": "Ramarao Patro"
   },
   "roles": [
-    "guru",
-    "vocalist"
+    "guru"
   ],
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000003"
     }
   ],
   "entered_by": [

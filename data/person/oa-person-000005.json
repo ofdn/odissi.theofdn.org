@@ -1,5 +1,5 @@
 {
-  "id": "om-person-000005",
+  "id": "oa-person-000005",
   "name": {
     "en": "Shyamamani Patnaik",
     "alternates": [
@@ -15,8 +15,8 @@
     "en": "Badamba, Cuttack"
   },
   "gurus": [
-    "om-person-000003",
-    "om-person-000004"
+    "oa-person-000003",
+    "oa-person-000004"
   ],
   "awards": [
     {
@@ -26,7 +26,7 @@
   "gender": "female",
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

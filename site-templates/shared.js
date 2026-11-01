@@ -151,7 +151,7 @@ export function pageShell({ title, description, body, lang = "en", path = "/", p
 <head>
 <meta charset="utf-8">
 <script>
-try { var theme = localStorage.getItem("om-theme"); if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme); } catch (e) {}
+try { var theme = localStorage.getItem("oa-theme"); if (theme === "light" || theme === "dark") document.documentElement.setAttribute("data-theme", theme); } catch (e) {}
 </script>
 <title>${escapeHtml(fullTitle)}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">

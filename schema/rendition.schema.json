@@ -16,7 +16,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-rendition-[0-9]{6}$"
+      "pattern": "^oa-rendition-[0-9]{6}$"
     },
     "gita": {
       "$ref": "defs.schema.json#/$defs/ref_gita"

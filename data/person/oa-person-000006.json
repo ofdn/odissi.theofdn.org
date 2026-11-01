@@ -1,17 +1,17 @@
 {
-  "id": "om-person-000007",
+  "id": "oa-person-000006",
   "name": {
-    "en": "Bhubaneswar Mishra"
+    "en": "Banamali Maharana"
   },
   "roles": [
     "instrumentalist"
   ],
   "instruments": [
-    "violin"
+    "mardala"
   ],
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

@@ -1,5 +1,5 @@
 {
-  "id": "om-kabya-000001",
+  "id": "oa-kabya-000001",
   "name": {
     "en": "Kiśoracandrānanda Campū",
     "or": "କିଶୋରଚନ୍ଦ୍ରାନନ୍ଦ ଚମ୍ପୂ",
@@ -8,7 +8,7 @@
       "Kisori Champu"
     ]
   },
-  "poet": "om-person-000002",
+  "poet": "oa-person-000002",
   "form": "campu",
   "parts": 34,
   "description": {
@@ -16,7 +16,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/kabya/kisorachandrananda-champu-kisori-champu-kabisurjya/"
     }
   ],

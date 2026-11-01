@@ -1,18 +1,18 @@
 {
-  "id": "om-rendition-000002",
-  "gita": "om-gita-000001",
+  "id": "oa-rendition-000002",
+  "gita": "oa-gita-000001",
   "kind": "notation",
   "credits": [
     {
-      "person": "om-person-000008",
+      "person": "oa-person-000008",
       "role": "notator"
     }
   ],
   "raga": [
-    "om-raga-000002"
+    "oa-raga-000002"
   ],
   "tala": [
-    "om-tala-000002"
+    "oa-tala-000002"
   ],
   "date": "1969",
   "note": {
@@ -20,7 +20,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

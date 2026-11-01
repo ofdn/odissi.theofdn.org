@@ -1,17 +1,17 @@
 {
-  "id": "om-collection-000001",
+  "id": "oa-collection-000001",
   "name": {
     "en": "Prateek Pattanaik collection"
   },
   "held_by": [
-    "om-person-000012"
+    "oa-person-000012"
   ],
   "description": {
     "en": "About 40 shellac and vinyl records and 50 palm-leaf and paper manuscripts."
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

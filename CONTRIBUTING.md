@@ -6,7 +6,7 @@ Each record is one JSON file in `data/<kind>/`. You can add or edit records in t
 
 1. Open the folder for the kind of record, such as `data/gita/`.
 2. Open a similar record and copy its text.
-3. Find the highest number in the folder and add one. If the last file is `om-gita-000002.json`, the new one is `om-gita-000003.json`.
+3. Find the highest number in the folder and add one. If the last file is `oa-gita-000002.json`, the new one is `oa-gita-000003.json`.
 4. Click **Add file**, then **Create new file**. Name the file with the new id and paste the text.
 5. Change the `id` inside the file to match the file name. Edit the other fields.
 6. Click **Commit changes**. Choose **Create a new branch** and open a pull request.
@@ -15,7 +15,7 @@ A check runs on every pull request. It tells you if a field is wrong or a link p
 
 ## Linking records
 
-Records point to each other by id. A gīta names its poet as `"poet": "om-person-000001"`, and a rendition names its gīta as `"gita": "om-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
+Records point to each other by id. A gīta names its poet as `"poet": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
 
 Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the śiṣyas by itself.
 
@@ -37,8 +37,8 @@ Each book, article, website or recording is a source record in `data/source/`. A
 
 ```json
 "sources": [
-  { "source": "om-source-000002" },
-  { "source": "om-source-000001", "url": "https://odissimusic.co.in/index.php/raga/kamodi/" }
+  { "source": "oa-source-000002" },
+  { "source": "oa-source-000001", "url": "https://odissimusic.co.in/index.php/raga/kamodi/" }
 ]
 ```
 
@@ -54,13 +54,13 @@ A source is a work: a book, a chapter, a journal article, a thesis, a website, a
 
 Check the list of sources on the site first. If the source is already there, cite its id.
 
-1. Open `data/source/` and find the highest number. If the last file is `om-source-000004.json`, the new one is `om-source-000005.json`.
+1. Open `data/source/` and find the highest number. If the last file is `oa-source-000004.json`, the new one is `oa-source-000005.json`.
 2. Create the new file as in "Add a record in the browser" above. Copy a source of the same type as a start.
 3. Fill in the fields. A book looks like this:
 
    ```json
    {
-     "id": "om-source-000005",
+     "id": "oa-source-000005",
      "name": { "en": "Title of the book" },
      "type": "book",
      "authors": ["First1 Last1"],
@@ -79,7 +79,7 @@ Check the list of sources on the site first. If the source is already there, cit
 
    - `name.en` is the title as printed. Add the Odia title in `name.or`.
    - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `talk`, `recording`, `video`, `interview` or `unpublished`.
-   - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"om-person-000008"`.
+   - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"oa-person-000008"`.
    - For a chapter or an article, put the book or journal title in `in`, and the pages in `pages`.
    - For a website, add `url`. Run `npm run archive` to add `archive_url`.
    - Leave out any field you do not know.
@@ -89,7 +89,7 @@ The source gets its own page, with a BibTeX entry and a list of every record tha
 
 ## Withdrawing a record
 
-Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to `data/tombstones.json`. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
+Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to the list in `data/tombstones.json`. Create that file if it is not there yet. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
 
 ## Working on your own computer
 

@@ -14,7 +14,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-person-[0-9]{6}$"
+      "pattern": "^oa-person-[0-9]{6}$"
     },
     "roles": {
       "type": "array",

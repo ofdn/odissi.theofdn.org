@@ -1,5 +1,5 @@
 {
-  "id": "om-person-000008",
+  "id": "oa-person-000008",
   "name": {
     "en": "Tarini Charan Patra",
     "alternates": [
@@ -29,12 +29,12 @@
   },
   "sources": [
     {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/guru/tarini-charan-patra/",
       "archive_url": "https://web.archive.org/web/20260711014534/https://odissimusic.co.in/index.php/guru/tarini-charan-patra/"
     },
     {
-      "source": "om-source-000003"
+      "source": "oa-source-000003"
     }
   ],
   "entered_by": [

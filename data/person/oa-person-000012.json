@@ -1,5 +1,5 @@
 {
-  "id": "om-person-000012",
+  "id": "oa-person-000012",
   "name": {
     "en": "Prateek Pattanaik"
   },
@@ -13,9 +13,9 @@
     "bīṇā"
   ],
   "gurus": [
-    "om-person-000009",
-    "om-person-000010",
-    "om-person-000011"
+    "oa-person-000009",
+    "oa-person-000010",
+    "oa-person-000011"
   ],
   "sampradaya": "South Odishan",
   "website": "https://pattaprateek.com/",
@@ -24,7 +24,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000003"
+      "source": "oa-source-000003"
     }
   ],
   "entered_by": [

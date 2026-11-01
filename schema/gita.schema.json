@@ -14,7 +14,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-gita-[0-9]{6}$"
+      "pattern": "^oa-gita-[0-9]{6}$"
     },
     "poet": {
       "$ref": "defs.schema.json#/$defs/ref_person"

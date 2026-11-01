@@ -1,19 +1,19 @@
 {
-  "id": "om-gita-000002",
+  "id": "oa-gita-000002",
   "name": {
     "en": "Naba bilasini re nakhyatresa hasini",
     "or": "ନବ ବିଳାସିନୀ ରେ ନକ୍ଷତ୍ରେଶ ହାସିନୀ"
   },
-  "poet": "om-person-000002",
+  "poet": "oa-person-000002",
   "mula_raga": [
-    "om-raga-000001"
+    "oa-raga-000001"
   ],
   "mula_tala": [
-    "om-tala-000001"
+    "oa-tala-000001"
   ],
   "song_type": "champu",
   "kabya": {
-    "id": "om-kabya-000001",
+    "id": "oa-kabya-000001",
     "section": {
       "en": "Na paṭaḷa",
       "or": "ନ ପଟଳ"
@@ -21,7 +21,7 @@
   },
   "text": {
     "edition": {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/",
       "archive_url": "https://web.archive.org/web/20260123134649/https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/"
     },
@@ -99,7 +99,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/",
       "archive_url": "https://web.archive.org/web/20260123134649/https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/"
     }

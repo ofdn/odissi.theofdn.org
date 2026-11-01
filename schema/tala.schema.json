@@ -11,7 +11,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-tala-[0-9]{6}$"
+      "pattern": "^oa-tala-[0-9]{6}$"
     },
     "matra": {
       "type": "integer",

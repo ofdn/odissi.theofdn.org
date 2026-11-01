@@ -1,5 +1,5 @@
 {
-  "id": "om-gita-000001",
+  "id": "oa-gita-000001",
   "name": {
     "en": "Kadamba bane bansi bajila re",
     "or": "କଦମ୍ବ ବନେ ବଂଶୀ ବାଜିଲାରେ",
@@ -7,17 +7,17 @@
       "Kadamba Bane Banshi Bajilare"
     ]
   },
-  "poet": "om-person-000001",
+  "poet": "oa-person-000001",
   "mula_raga": [
-    "om-raga-000002"
+    "oa-raga-000002"
   ],
   "mula_tala": [
-    "om-tala-000002"
+    "oa-tala-000002"
   ],
   "song_type": "chaupadi",
   "text": {
     "edition": {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/song/kadamba-bane-bansi-bajila-re-gopalakrusna-dhanasri/"
     },
     "stanzas": [
@@ -77,7 +77,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

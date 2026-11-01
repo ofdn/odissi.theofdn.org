@@ -1,5 +1,5 @@
 {
-  "id": "om-raga-000001",
+  "id": "oa-raga-000001",
   "name": {
     "en": "Kāmodī",
     "or": "କାମୋଦୀ",
@@ -18,10 +18,10 @@
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     },
     {
-      "source": "om-source-000001",
+      "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/raga/kamodi/",
       "archive_url": "https://web.archive.org/web/20260420002956/https://odissimusic.co.in/index.php/raga/kamodi/"
     }

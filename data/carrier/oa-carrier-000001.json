@@ -1,5 +1,5 @@
 {
-  "id": "om-carrier-000001",
+  "id": "oa-carrier-000001",
   "name": {
     "en": "Lyrics of Gopalakrishna"
   },
@@ -12,7 +12,7 @@
   },
   "sources": [
     {
-      "source": "om-source-000002"
+      "source": "oa-source-000002"
     }
   ],
   "entered_by": [

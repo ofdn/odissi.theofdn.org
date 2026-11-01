@@ -5,43 +5,43 @@
   "$defs": {
     "id": {
       "type": "string",
-      "pattern": "^om-[a-z]+-[0-9]{6}$"
+      "pattern": "^oa-[a-z]+-[0-9]{6}$"
     },
     "ref_gita": {
       "type": "string",
-      "pattern": "^om-gita-[0-9]{6}$"
+      "pattern": "^oa-gita-[0-9]{6}$"
     },
     "ref_kabya": {
       "type": "string",
-      "pattern": "^om-kabya-[0-9]{6}$"
+      "pattern": "^oa-kabya-[0-9]{6}$"
     },
     "ref_rendition": {
       "type": "string",
-      "pattern": "^om-rendition-[0-9]{6}$"
+      "pattern": "^oa-rendition-[0-9]{6}$"
     },
     "ref_carrier": {
       "type": "string",
-      "pattern": "^om-carrier-[0-9]{6}$"
+      "pattern": "^oa-carrier-[0-9]{6}$"
     },
     "ref_person": {
       "type": "string",
-      "pattern": "^om-person-[0-9]{6}$"
+      "pattern": "^oa-person-[0-9]{6}$"
     },
     "ref_raga": {
       "type": "string",
-      "pattern": "^om-raga-[0-9]{6}$"
+      "pattern": "^oa-raga-[0-9]{6}$"
     },
     "ref_tala": {
       "type": "string",
-      "pattern": "^om-tala-[0-9]{6}$"
+      "pattern": "^oa-tala-[0-9]{6}$"
     },
     "ref_collection": {
       "type": "string",
-      "pattern": "^om-collection-[0-9]{6}$"
+      "pattern": "^oa-collection-[0-9]{6}$"
     },
     "ref_source": {
       "type": "string",
-      "pattern": "^om-source-[0-9]{6}$"
+      "pattern": "^oa-source-[0-9]{6}$"
     },
     "name": {
       "description": "en is the romanised name with diacritics (Kāmodī, Tāḷa). or is the name in Odia script.",

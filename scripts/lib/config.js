@@ -15,7 +15,7 @@ export const PUBLISHER = "O Foundation";
 export const PUBLISHER_PLACE = "Bhubaneswar";
 export const LICENCE = "CC BY-SA 4.0";
 
-export const ID_PREFIX = "om";
+export const ID_PREFIX = "oa";
 export const KINDS = ["gita", "kabya", "rendition", "carrier", "person", "raga", "tala", "collection", "source"];
 // sources are reached from each record and the footer, not the header
 export const NAV_KINDS = KINDS.filter((k) => k !== "source");

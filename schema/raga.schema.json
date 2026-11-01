@@ -11,7 +11,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-raga-[0-9]{6}$"
+      "pattern": "^oa-raga-[0-9]{6}$"
     },
     "svaras": {
       "type": "string",

@@ -15,7 +15,7 @@
   ],
   "properties": {
     "id": {
-      "pattern": "^om-carrier-[0-9]{6}$"
+      "pattern": "^oa-carrier-[0-9]{6}$"
     },
     "kind": {
       "enum": [
