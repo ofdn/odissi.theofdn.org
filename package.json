@@ -1,0 +1,16 @@
+{
+  "name": "odissi-archive",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Archive of Odissi music: gītas, kābyas, renditions, carriers, people, rāgas and tāḷas.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "build": "node scripts/build.js",
+    "mint": "node scripts/mint-id.js"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
