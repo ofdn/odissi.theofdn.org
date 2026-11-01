@@ -48,6 +48,43 @@ Each book, article, website or recording is a source record in `data/source/`. A
 
 The site builds a BibTeX entry for every source. All of them are in `sources.bib`.
 
+## Add a new source
+
+Check the list of sources on the site first. If the source is already there, cite its id.
+
+1. Open `data/source/` and find the highest number. If the last file is `om-source-000004.json`, the new one is `om-source-000005.json`.
+2. Create the new file as in "Add a record in the browser" above. Copy a source of the same type as a start.
+3. Fill in the fields. A book looks like this:
+
+   ```json
+   {
+     "id": "om-source-000005",
+     "name": { "en": "Title of the book" },
+     "type": "book",
+     "authors": ["First1 Last1"],
+     "publisher": "Name of the publisher",
+     "place": "Cuttack",
+     "date": "1975",
+     "isbn": "978-81-00000-00-0",
+     "language": "or",
+     "entered_by": ["Your full name"],
+     "record_status": "active",
+     "superseded_by": null,
+     "created_at": "2026-11-01",
+     "updated_at": "2026-11-01"
+   }
+   ```
+
+   - `name.en` is the title as printed. Add the Odia title in `name.or`.
+   - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `recording`, `video`, `interview`, `unpublished` or `other`.
+   - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"om-person-000008"`.
+   - For a chapter or an article, put the book or journal title in `in`, and the pages in `pages`.
+   - For a website, add `url`. Run `npm run archive` to add `archive_url`.
+   - Leave out any field you do not know.
+4. Save, open a pull request and wait for the check to pass. Then cite the new id from your records.
+
+The source gets its own page, with a BibTeX entry and a list of every record that cites it.
+
 ## Working on your own computer
 
 Install Node.js 20 or later. Run `npm install` once. Then:
