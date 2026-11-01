@@ -1,0 +1,28 @@
+{
+  "id": "oa-tala-000007",
+  "name": {
+    "en": "Jhampa",
+    "or": "ଝମ୍ପା",
+    "alternates": [
+      "Jhumpa"
+    ]
+  },
+  "matra": 10,
+  "bhaga": 4,
+  "chanda": [
+    2,
+    3,
+    2,
+    3
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/tala/jhampa-jhumpa-jhampaa-jhumpaa-jhampaka-jhamp-jhaam/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

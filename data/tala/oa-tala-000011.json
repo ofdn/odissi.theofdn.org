@@ -1,0 +1,30 @@
+{
+  "id": "oa-tala-000011",
+  "name": {
+    "en": "Aditala",
+    "or": "ଆଦିତାଳ",
+    "alternates": [
+      "Aaditala",
+      "Aaditaala",
+      "Aditaala"
+    ]
+  },
+  "matra": 16,
+  "bhaga": 4,
+  "chanda": [
+    4,
+    4,
+    4,
+    4
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/tala/aditala-adi-taala-aditaala-aaditala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

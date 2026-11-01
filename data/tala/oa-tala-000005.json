@@ -1,0 +1,25 @@
+{
+  "id": "oa-tala-000005",
+  "name": {
+    "en": "Jati",
+    "or": "ଯତି"
+  },
+  "matra": 14,
+  "bhaga": 4,
+  "chanda": [
+    3,
+    4,
+    3,
+    4
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/tala/jati-yati-jatitala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
