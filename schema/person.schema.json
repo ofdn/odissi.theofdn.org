@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/person.schema.json",
+  "title": "Person",
+  "description": "A poet, guru, vocalist, instrumentalist, notator or scribe.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "required": [
+    "roles"
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-person-[0-9]{6}$"
+    },
+    "roles": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "poet",
+          "composer",
+          "vocalist",
+          "instrumentalist",
+          "guru",
+          "notator",
+          "music_director",
+          "scribe",
+          "scholar",
+          "collector"
+        ]
+      },
+      "minItems": 1
+    },
+    "instruments": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "birth_year": {
+      "$ref": "defs.schema.json#/$defs/year"
+    },
+    "death_year": {
+      "$ref": "defs.schema.json#/$defs/year"
+    },
+    "period": {
+      "type": "string"
+    },
+    "place": {
+      "$ref": "defs.schema.json#/$defs/text"
+    },
+    "gurus": {
+      "type": "array",
+      "items": {
+        "$ref": "defs.schema.json#/$defs/ref_person"
+      },
+      "description": "Sisyas are worked out from these links."
+    },
+    "sampradaya": {
+      "type": "string"
+    },
+    "awards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "year": {
+            "$ref": "defs.schema.json#/$defs/year"
+          }
+        }
+      }
+    },
+    "gender": {
+      "type": "string",
+      "description": "Only as the person states it."
+    },
+    "bio": {
+      "$ref": "defs.schema.json#/$defs/text"
+    },
+    "image": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "url",
+        "credit"
+      ],
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "credit": {
+          "type": "string"
+        },
+        "alt": {
+          "type": "string"
+        }
+      }
+    },
+    "website": {
+      "type": "string",
+      "format": "uri"
+    }
+  },
+  "unevaluatedProperties": false
+}
