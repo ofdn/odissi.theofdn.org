@@ -25,10 +25,28 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 - `name.en` is for display and may carry diacritics, such as `Kāmodī`. Put plain spellings, such as `Kamodi`, in `alternates`. Search finds both.
 - Ids, field names and fixed values such as `"song_type": "chaupadi"` are always plain lower-case letters.
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.
-- List every source in `sources`. Put your full name in `entered_by`.
+- Cite every source in `sources`. See "Citing sources" below. Put your full name in `entered_by`.
+- A rendition needs no `name`. The site names it from the gīta and the people credited.
 - Give every carrier a `rights` status. Do not add audio files to the repository. Link a YouTube or Internet Archive copy in `online` instead.
 
 The full list of fields for each kind is in `schema/<kind>.schema.json`.
+
+## Citing sources
+
+Each book, article, website or recording is a source record in `data/source/`. Add the source once, then cite it by id from any record:
+
+```json
+"sources": [
+  { "source": "om-source-000002" },
+  { "source": "om-source-000001", "url": "https://odissimusic.co.in/index.php/raga/kamodi/" }
+]
+```
+
+- Add `pages` for a book or article.
+- Add `url` when you used one page of a website. Run `npm run archive` to add its Wayback Machine copy as `archive_url`.
+- Mark a large website or database that many records draw on with `"contributing": true`. Records then name it without its authors. Its own page credits them.
+
+The site builds a BibTeX entry for every source. All of them are in `sources.bib`.
 
 ## Working on your own computer
 
@@ -37,3 +55,4 @@ Install Node.js 20 or later. Run `npm install` once. Then:
 - `npm run mint -- gita` prints the next free id.
 - `npm run validate` checks every record.
 - `npm run build` writes the site to `dist/`.
+- `npm run archive` looks up Wayback Machine copies of cited pages. Add `-- --save` to archive pages that have no copy yet.
