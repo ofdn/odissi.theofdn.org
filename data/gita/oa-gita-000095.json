@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000095",
+  "name": {
+    "en": "Padi bhramare budigalu syama premare",
+    "or": "ପଡ଼ି ଭ୍ରମରେ ବୁଡ଼ିଗଲୁ ଶ୍ୟାମ ପ୍ରେମରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000029"
+  ],
+  "mula_tala": [
+    "oa-tala-000013"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/padi-bhramare-budigalu-syama-premare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଡ଼ି ଭ୍ରମରେ",
+          "ବୁଡ଼ିଗଲୁ ଶ୍ୟାମ ପ୍ରେମରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଜ ପ୍ରାଙ୍ଗଣେ ସଖୀ",
+          "ବରହୀ ନୃତ୍ୟ ନିରେଖି",
+          "ବରତନୁ ଥରୁଥିଲୁ",
+          "ଧଇର୍ଯ୍ୟେ ଉପେକ୍ଷି ରାଧେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପବିତ୍ରାଙ୍ଗୀ ସ୍ୱପନରେ",
+          "କି ବିଲୋକିଲୁ ରାତିରେ",
+          "ଭାବି ଶୋକ କରୁଥିଲୁ",
+          "ଧକି ଧକି ଧୀରେ ରାଧେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତ୍ରପାଭରେ ନିମଜ୍ଜିଲେ",
+          "କୃପାମୟୀ ଆଳି କୋଳେ",
+          "ଗୋପାଳକୃଷ୍ଣ ସେବେ ସେ",
+          "ଅମଳ ପଦ କମଳେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/padi-bhramare-budigalu-syama-premare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

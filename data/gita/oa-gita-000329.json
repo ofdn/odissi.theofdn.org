@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000329",
+  "name": {
+    "en": "Syama sundara murali ninada",
+    "or": "ଶ୍ୟାମ ସୁନ୍ଦର ମୁରଲୀ ନିନାଦ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000139"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-murali-ninada-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ସୁନ୍ଦର ମୁରଲୀ",
+          "ନିନାଦ ଜାତି ନେବ ମଣିଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗୁରୁଜନ ସଙ୍ଗେ କଥା ପରସଙ୍ଗେ",
+          "ବସିଥିଲି କି ଚମକି ପଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୂରିଲା ପୁଲକ ଦେହ ଗୋଟାଯାକ",
+          "ବିନା ଶୀତରେ ମୁଁ କେତେ ଥରିଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାହିଁ ଗଲା ମନ ବୁଡ଼ିଗଲା ଜ୍ଞାନ",
+          "ବେନି ନୟନ ମୁଁ ବୁଜି ରହିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନିଶି କି ଦିବସ ବନ କି ଆବାସ",
+          "ଜାଗର କି ସ୍ୱପନ ନ ହେଜିଲି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ସେ ଶ୍ରୀ ରାଧାଙ୍କୁ ଭାଷେ",
+          "ଗ୍ରାବ ଶ୍ରବି ଦ୍ରବୁଥିଲା ଚାହିଁଲି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-murali-ninada-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

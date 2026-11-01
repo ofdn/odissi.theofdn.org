@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-000099",
+  "name": {
+    "en": "Manasija mana mohana",
+    "or": "ମନସିଜ ମନମୋହନ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000031"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manasija-mana-mohana-ghanasyama-sundara-baradi-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନସିଜ ମନମୋହନ",
+          "ଘନଶ୍ୟାମ ସୁନ୍ଦର ରେ ସଜନୀ",
+          "ହେମବରନୀ ପ୍ରେମରେ ତୋର",
+          "ନିତି ଜରଜର ରେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସ୍ଫୁଟ ଚମ୍ପକ ବଲ୍ଲୀକି",
+          "ସେ ଯେ ଦୂରରୁ ବିଲୋକି",
+          "ଉଠି ଆସୁ ଆସୁ ତନୁଯାକ ହେଉ",
+          "ଥିଲା ଥର ଥର ରେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାଗକେଶର କୁଞ୍ଜରେ",
+          "ତୁ ପହୁଡ଼ିବା ଶେଯରେ",
+          "ବସି ରାଧେ ରାଧେ ବୋଲି ଗୀତ ଗାଉ",
+          "ଥିଲେ ଧୀର ଧୀର ରେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶୁଣି ହଂସଜା ବନରେ",
+          "ରାଜହଂସ ନିଃସ୍ୱନରେ",
+          "ତୋର ହଂସକ ପରି କଂସ",
+          "ବଇରୀ ମଣି ତରତର ରେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦେଖ କେତକୀ ଦଳରେ",
+          "ଲେଖି ଲେଖି ମୋ କରରେ",
+          "ଦେଉ ଦେଉ ନୟନ କଲେ",
+          "ଥନଥନ ନୀରେ ଧର ଧର ରେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୁଣି ଗୁଣି ଗୁଣଗଣକୁ",
+          "ତୋର ସୁନ୍ଦରପଣକୁ",
+          "ଗୋପାଳକୃଷ୍ଣର ପୁରତରେ କହୁ",
+          "ଥିଲେ ବାର ବାର ରେ ସଜନୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manasija-mana-mohana-ghanasyama-sundara-baradi-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

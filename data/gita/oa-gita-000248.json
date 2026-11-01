@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000248",
+  "name": {
+    "en": "Mohana prasanga sangini re",
+    "or": "ମୋହନ ପ୍ରସଙ୍ଗ ସଙ୍ଗିନୀ ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-prasanga-sangini-re-gopalakrusna-khambaja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋହନ ପ୍ରସଙ୍ଗ ସଙ୍ଗିନୀ ରେ ଆଉ କହନା",
+          "ଅଭ୍ରଲିହ ଅନଳରେ ସମିଧ ଦେଇ ଦହନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପୁଣି ମୁଁ ଆଶା କରିବି ବୋଲି କି କହୁଛୁ ଭାବି",
+          "ଶୁଖିଗଲା ଅଗାଧ ତରଣୀ ସୁତା ପ୍ରବାହନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶାଶୁ ନଣନ୍ଦ ଭର୍ତ୍ସନା ସ୍ୱବନ୍ଧୁଜନ ତର୍ଜ୍ଜନା",
+          "କେତେ ସୁହାଇବି ତନୁ ଶିଳା ମୁଁ ମହୀରୁହ ନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁମୁଦିନୀ ଗୋପୀବ୍ରଜ ବ୍ରଜବିଧୁ ସେ ସହଜ",
+          "ସେ କି ତୃଷିତ ଚାତକ ମୁଁ ନବ ବାରିବାହ ନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲୁଚାଇ ଜାତି ନାଶିଲି ଅଲଙ୍ଘ୍ୟ ଯାକ ଲଙ୍ଘିଲି",
+          "ବାସ ପ୍ରସାରି ମାଗୁଛି ସରି ଗୋ ମା ସେ ସ୍ନେହନା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷିତ ଶ୍ୟାମ ଲଳିତା ଏକାନ୍ତ",
+          "ହେଉଛନ୍ତି ପ୍ରାଙ୍ଗଣରେ ମାନସରେ ସନ୍ଦେହନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-prasanga-sangini-re-gopalakrusna-khambaja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000258",
+  "name": {
+    "en": "Kebe na thiba rusa aja kahinki",
+    "or": "କେବେ ନ ଥିବା ରୁଷା ଆଜ କାହିଁକି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kebe-na-thiba-rusa-aja-kahinki-dhanasri-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେବେ ନ ଥିବା ରୁଷା ଆଜ କାହିଁକି",
+          "ମୋହନ ଠାରୁ ମନ ଭାଜିଗଲା କି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଜିବୁ ତୁ ସିନା କିପରି ସେ ତୋ ବିନା",
+          "ବଞ୍ଚିବେ ମାନସରେ ପାଞ୍ଚିଲୁନି କି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶ୍ରୀ ବ୍ରଜେନ୍ଦ୍ର ନନ୍ଦନ ମୋ ଜୀବର ଜୀବନ",
+          "କେତେ ଥର ବୋଲିଛୁ ପାଶୋରିଲୁ କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମହାଭାବ ରୂପିଣୀ ପ୍ରେମ ଧନରେ ଜିଣି",
+          "ଅଧରୁ ସୁଧା ଯାକୁ ଦେଉଥିଲୁ କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆରେ ପ୍ରାଣମିତଣୀ କେ କି କହିଲେ ଶୁଣି",
+          "ଏପରି ହୁଅନା ରେ ଆଉ ଏଣିକି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ବୋଲେ ହାତ ଧରି ପହିଲେ",
+          "ଆନ ପକାଇ କୁହାଯାଇ ନାହିଁକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kebe-na-thiba-rusa-aja-kahinki-dhanasri-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "oa-gita-000325",
+  "name": {
+    "en": "To rupa prati dise disuchi re",
+    "or": "ତୋ ରୂପ ପ୍ରତି ଦିଶେ ଦିଶୁଛି ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000097"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/to-rupa-prati-dise-disuchi-re-gopalakrusna-bhinnasadaja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତୋ ରୂପ ପ୍ରତି ଦିଶେ ଦିଶୁଛି ରେ",
+          "ତୋ ପରି ଲାଜେ ରହି ହସୁଛି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରସାରି ମୁଁ ପଣତ ଡାକିଲେ ପ୍ରାଣମିତ",
+          "ଭୟେ ଦନ୍ତେ ରସନା ଦଂଶୁଛି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/to-rupa-prati-dise-disuchi-re-gopalakrusna-bhinnasadaja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

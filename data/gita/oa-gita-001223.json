@@ -1,0 +1,53 @@
+{
+  "id": "oa-gita-001223",
+  "name": {
+    "en": "Niparudha braja sasi",
+    "or": "ନୀପାରୂଢ଼ ବ୍ରଜ ଶଶୀ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000081"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/niparudha-braja-sasi-bihagada-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ନୀପାରୂଢ଼ ବ୍ରଜ ଶଶୀ କରୁ ବାସ କେ ଆକର୍ଷି",
+          "ମନ୍ଦ ମନ୍ଦ ହସି ହସି ଲାଜେ ମଜ୍ଜି ନବ ବୟସୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୁଞ୍ଚିତ କରି ଭ୍ରୂଲତା ପୁଣ ପୁଣ ହୋଇ ବନିତା",
+          "ସରାଗରେ ମାଗିବାର ହୃଦେ କୁନ୍ତଳ ବିନ୍ୟାସି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶ୍ରୀ ପ୍ରତାପରୁଦ୍ର ଦେବ ଭାବି ସ୍ୱାନ୍ତରେ ଏ ଭାବ",
+          "ପ୍ରେମ ସୁଧାବ୍ଧି ମଧ୍ୟରେ ମଜ୍ଜିଲେ ଦିବସ ନିଶି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/niparudha-braja-sasi-bihagada-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

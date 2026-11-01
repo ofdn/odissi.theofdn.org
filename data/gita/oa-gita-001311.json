@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001311",
+  "name": {
+    "en": "Syamala nirmala jaladhara chhabiki",
+    "or": "ଶ୍ୟାମଳ ନିର୍ମ୍ମଳ ଜଳଧର ଛବିକି"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000090"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syamala-nirmala-jaladhara-chhabiki-ananda-kedara-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମଳ ନିର୍ମ୍ମଳ ଜଳଧର ଛବିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲାଜ ପତି ପିତା କୁଳ ଜଳଧି କରି ଚଉଳ",
+          "ପ୍ରୀତି ଲାଗି ରାଧା ତନୁ ଦେଲାନି ବିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଜାଣରେ ସଜନୀ ଜୀବ ଯେବେ ହେଲେ ବରଜିବ",
+          "ଛାଡ଼ିଦେଲେ ସବୁଦିନେ ଜୀଇଥିବି କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଜ ଯାଏଁ ଆଜନମୁ ବରତ କେତେ କରି ମୁଁ",
+          "ବର ମୁଁ ମାଗୁଛି ନିତି ସେବି ରବିଙ୍କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବଳାରାତି ମଣି ମୋର ଗଳାର ଛଇଳାବର",
+          "ମୁଁ ଯୋଗୀ ସେ ଥାଳ ତେଜି ବରତିବି କି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଉପାୟ କହୁଛି ତୋତେ ବିଷ ଗୋଳି ଦେ ମୋ ହାତେ",
+          "ମନା କରନା ତୋ କଥା ନ ପାଳିବି କି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷିତ ଆଳୀ ବୁଝିବାକୁ ଚିତ୍ତ",
+          "ପଚାରିଲେ ବିଜେ କର ବୃନ୍ଦାଟବୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syamala-nirmala-jaladhara-chhabiki-ananda-kedara-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

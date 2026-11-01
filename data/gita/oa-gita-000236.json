@@ -1,0 +1,87 @@
+{
+  "id": "oa-gita-000236",
+  "name": {
+    "en": "Mu chhadi denti ki disa dele",
+    "or": "ମୁଁ ଛାଡ଼ିଦେନ୍ତି କି ଦିଶା ଦେଲେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000070"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mu-chhadi-denti-ki-disa-dele-behaga-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୁଁ ଛାଡ଼ିଦେନ୍ତି କି ଦିଶା ଦେଲେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପୁର ପଦ୍ଧତିରେ ଶ୍ରୀ ଚରଣାବ୍ଜରେ",
+          "ମୁଁ ନ ଲୋଟନ୍ତି କି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଦାବ୍ଜର ଧୂଳି ଅଙ୍ଗେ ହୋଇ ବୋଳି",
+          "ମୁଁ ନ ଗଡ଼ନ୍ତି କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆନନ୍ଦରେ ପ୍ରେମ ପୀୟୂଷ ସିନ୍ଧୁରେ",
+          "ମୁଁ ନ ମଜ୍ଜନ୍ତି କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୋର ଦଶା ଡୋଳେ ବିଲୋକି ବିକଳେ",
+          "ତୋଳନ୍ତେ ନାହିଁ କି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ହୋଇଲାର ଯୋଗ ଶ୍ରୀ କୃଷ୍ଣାଙ୍ଗରାଗ",
+          "ମୁଁ ନ ଲଭନ୍ତି କି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ପ୍ରତୀକରେ ଜୀବ ପ୍ରବେଶ ଉତ୍ସବ",
+          "ଘଟନ୍ତା ନାହିଁ କି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣର କୋଟି ଜନ୍ମାନ୍ତର",
+          "ଦୁଃଖ ରହନ୍ତା କି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mu-chhadi-denti-ki-disa-dele-behaga-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

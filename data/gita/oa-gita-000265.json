@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000265",
+  "name": {
+    "en": "Kete boli mo dukha sahibi re",
+    "or": "କେତେ ବୋଲି ମୋ ଦୁଃଖ ସହିବି ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000052"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kete-boli-mo-dukha-sahibi-re-gopalakrusna-ahari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେତେ ବୋଲି ମୋ ଦୁଃଖ ସହିବି ରେ",
+          "କା ଆଗେ ହୃଦ ଫେଡ଼ି କହିବି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲଭି ଏତେ କଷଣ ଯାଉ ନାହିଁ ପରାଣ",
+          "କି ଉପାୟ ସଙ୍ଗିନୀ ବିହିବି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପ୍ରବେଶ ହେଲେ ରାତି ଖସିଯାଉଛି ଧୃତି",
+          "ଜାଣି ନ ଥିଲି ଏକା ରହିବି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନୁହଇ ଦାସୀ ଭଳି ଆସିବା ପାଇଁ ଆଳୀ",
+          "ଛାମୁକୁ ଲେଖ କେହି ବିହିବି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦେହେ ପରାଣ ଥାଉ ସତେ ସଜନୀ ଆଉ",
+          "ଗୋପାଳକୃଷ୍ଣଙ୍କୁ ମୁଁ ଚାହିଁବି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kete-boli-mo-dukha-sahibi-re-gopalakrusna-ahari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

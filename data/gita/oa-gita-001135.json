@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-001135",
+  "name": {
+    "en": "Mo manaru jau nahi re sangata",
+    "or": "ମୋ ମନରୁ ଯାଉ ନାହିଁ ରେ ସଙ୍ଗାତ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000164"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-manaru-jau-nahi-re-sangata-sena-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ମନରୁ ଯାଉ ନାହିଁ ରେ ସଙ୍ଗାତ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବ୍ରଜେନ୍ଦୁ ବୋଲି କେ ଜାଣଇ ତମାଳ",
+          "ଭ୍ରମରେ ଦେଲି ଅନାଇ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବରହ ମୁକୁଟ ଖଞ୍ଜଣି ଚାତୁରୀ",
+          "ବିବେକ ଦେଲା ହଜାଇ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରହି ରହି ଡୋଳା ଢାଳି ଦେଇ ଶ୍ରୁତି",
+          "ତଟେ ଦେବାର ଥକାଇ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗୋଷ୍ଠେନ୍ଦୁ ପୁଣ୍ୟ ପୁଞ୍ଜ ଅନୁଭବକୁ",
+          "ଅଛିଟି କାହାରି ପାଇଁ ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପୁଷ୍ପବାଟୀ ଶିଳା ବେହରଣ କଥା",
+          "ଗୋପାଳକୃଷ୍ଣ କହଇ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-manaru-jau-nahi-re-sangata-sena-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

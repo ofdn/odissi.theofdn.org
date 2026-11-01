@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-001138",
+  "name": {
+    "en": "Muhamuhin kisora chandramankara mora",
+    "or": "ମୁହାମୁହିଁ କିଶୋର ଚନ୍ଦ୍ରମାଙ୍କର ମୋର"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000122"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/muhamuhin-kisora-chandramankara-mora-gopalakrusna-bagesri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୁହାମୁହିଁ କିଶୋର ଚନ୍ଦ୍ରମାଙ୍କର ମୋର",
+          "ଆଜ ଯମୁନା ତୀରେ ହୋଇଗଲା ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବେଳା ଶିଳାରେ ବସି ହେଳାରେ ତନୁ ଘଷି",
+          "ହେଉଥିଲି ବୟସୀ ଠାରି ଦେଲା ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଉଠୁ ମୁଁ ଝଟ କରି ଆଳୀ ଆପଟ କରି",
+          "ପ୍ରତି ପ୍ରତୀକ ଯାକ ଥରିଗଲା ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଫିଟି ଚରମେ କେଶ ଲୋଟୁଥିଲା ଗୋ ବାସ",
+          "ଥିବାଠାରେ ଯତନେ ନ ଥିଲା ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଉରି ରହ ବୋଲି ସେ କାଳେ ଭୂରୁବଲ୍ଲୀ",
+          "ଚାଲି ଚାହୁଁ ମୋ ଜ୍ଞାନ ହଜିଗଲା ମା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପଥରକୁ ଆସୁ ସେ ପଥ ମୋତେ ନ ଦିଶେ",
+          "ପାଥରେ ବୁଡ଼ ଆଳୀ କହିଦେଲା ମା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବୁଡ଼ିଗଲି ଲାଜରେ କାଳିନ୍ଦୀ ନୀରେ ନୀରେ",
+          "ଗୋପାଳକୃଷ୍ଣ ବାଟ କଢ଼ାଇଲା ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/muhamuhin-kisora-chandramankara-mora-gopalakrusna-bagesri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

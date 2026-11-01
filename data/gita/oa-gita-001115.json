@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001115",
+  "name": {
+    "en": "Manaku mana mo dhana",
+    "or": "ମନକୁ ମନ ମୋ ଧନ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000081"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manaku-mana-mo-dhana-bihagada-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନକୁ ମନ ମୋ ଧନ କି ବିଚାରୁଥିବ ବସି",
+          "ଦିନକୁ ଦିନ ହେବନି ଖିନ୍ନ ଲହୁଲି ବୟସୀ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପୁର ଦୁଆର କବାଟ ନିକଟରେ ରହି ବାଟ",
+          "ଜଗି ଜଗି ମୋ ଭେଟକୁ ନଟ ଖଞ୍ଜରୀଟ ଦୃଶୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଡାକିଲେ ବାୟସ ଆଗେ ଆହାର ଦେଇ ସରାଗେ",
+          "ପଚାରି ସନ୍ଦେଶ ମୋର ସଜ ନୀରଜ ସୁବାସୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଘଡ଼ିକି ଘଡ଼ି ନୟନ କରୁଥିବ ଥନଥନ",
+          "କେତେ ଦୀର୍ଘଶ୍ୱାସ ତେଜୁଥିବ ଗଣ୍ଡେ କର ନିବେଶି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶୀର୍ଣ୍ଣ ହୋଇଯିବା ଚାହିଁ ପଚାରିଲେ ତାକୁ ସହୀ",
+          "ମଥା ଲୁଆଇଁ କରଜ ଅବନୀରେ ଘଷି ଘଷି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସହିଥିବ ଶଙ୍କରଙ୍କୁ ଚମ୍ପକ ବଢ଼ାଇବାକୁ",
+          "ଗୋପାଳକୃଷ୍ଣ ବୋଲେ ମୁଁ ବିଦେଶ ଯିବାକୁ ମନାସି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manaku-mana-mo-dhana-bihagada-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

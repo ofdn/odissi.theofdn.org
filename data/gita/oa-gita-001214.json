@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-001214",
+  "name": {
+    "en": "Rakendu mukhi raseswari radhike",
+    "or": "ରାକେନ୍ଦୁମୁଖି ରାସେଶ୍ୱରି ରାଧିକେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rakendu-mukhi-raseswari-radhike-gopalakrusna-sanskrit-jhinjoti/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ରାକେନ୍ଦୁମୁଖି ରାସେଶ୍ୱରି ରାଧିକେ ମାଂ ପାହି",
+          "ଗୋକୁଳ କୁଳଜା ସାମନ୍ତମଣି ସ୍ୱଗଣେ ନିଧେହି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେବି କୃଷ୍ଣମୟି ହ୍ଲାଦିନି ସାଧ୍ୱୀଗଣ ବର୍ଯ୍ୟେ",
+          "ଲକ୍ଷ୍ମୀ ଲକ୍ଷ୍ମୀଜୟିନି ନୀରନିଧି ନିଭ ଗାମ୍ଭୀର୍ଯ୍ୟେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଶୁପୀ ପ୍ରେମ ବସତି ହେମଗୌରି ନବକିଶୋରି",
+          "କାଳିନ୍ଦୀତଟ କୁଞ୍ଜଗୃହିଣୀ କୀର୍ତ୍ତିଜା କୁମାରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମହାଭାବ ଚିନ୍ତାମଣି ଭାବିତ ଶ୍ରୀ ବିଗ୍ରହେ",
+          "କୃଷ୍ଣପ୍ରେମ ପୀୟୂଷପାତ୍ରି ସର୍ବସୁଗୁଣ ସଙ୍ଗ୍ରହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିଜ ପରିଜନ ତାପଧ୍ୱଂସିନି ବିଧୁ ସରସିଜ ସୌରଭେ",
+          "କନକାଚଳ ନିଳୟ ସରସ କେତକୀ ଦଳ ସନ୍ନିଭେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ରାଜିତୋନବିଂଶତି ଚିହ୍ନାନି ମୃଦୁ ପ୍ରପଦେ",
+          "ଗୋକୁଳେନ୍ଦ୍ର ତଦନ୍ତ ପ୍ରାଣପ୍ରେୟସି ଶୁଭ ବରଦେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଆଦାୟ ଗୋପାଳକୃଷ୍ଣ କବିଦସ୍ତୃଣାନି ଦର୍ଶନେ",
+          "ଯାରେ କିଙ୍କରୀମୀଶ୍ୱରି କୁରୁତବାଂଘ୍ରିନଳିନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rakendu-mukhi-raseswari-radhike-gopalakrusna-sanskrit-jhinjoti/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

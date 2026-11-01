@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000112",
+  "name": {
+    "en": "Sunajiba ki se srimukharu bani",
+    "or": "ଶୁଣାଯିବ କି ସେ ଶ୍ରୀମୁଖରୁ ବାଣୀ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000049"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunajiba-ki-se-srimukharu-bani-suna-jiba-ki-se-sri-mukharu-bani-bibhasa-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶୁଣାଯିବ କି ସେ ଶ୍ରୀମୁଖରୁ ବାଣୀ",
+          "ଶ୍ରବଣେ ମୋହର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନବନୀତ ମୃଦୁ ପୀୟୂଷରୁ ସ୍ୱାଦୁ",
+          "ଗୋଷ୍ଠ ଚନ୍ଦ୍ରମା ମୋହନ ମନ୍ତର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବନ ଲେଉଟାଣି ବଂଶୀସ୍ୱନ ଶୁଣି",
+          "ଅଗଣାରେ ଆଳୀଙ୍କି ଡାକିବାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋହନ ଶ୍ରୀହସ୍ତ ଚିଟାଉ ଏକାନ୍ତ",
+          "ସ୍ଥଳେ ରହି ହସି ପାଠ କଲାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଖୀ ପଛେ ଥାଇ ବଦନ ଲୁଆଇଁ",
+          "ବ୍ରଜବିଧୂଙ୍କୁ ଦେଲାର ଉତ୍ତର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପଦାବ୍ଜ ସେବାକୁ ଗୋପାଳକୃଷ୍ଣକୁ",
+          "ଆସ ବୋଲିବାର ସ୍ୱାମିନୀଙ୍କର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunajiba-ki-se-srimukharu-bani-suna-jiba-ki-se-sri-mukharu-bani-bibhasa-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

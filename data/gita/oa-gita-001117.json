@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-001117",
+  "name": {
+    "en": "Smare dei bandhu na ja re",
+    "or": "ସ୍ମରେ ଦେଇ ବନ୍ଧୁ ନ ଯା ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000026"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/smare-dei-bandhu-na-ja-re-mohana-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସ୍ମରେ ଦେଇ ବନ୍ଧୁ ନ ଯା ରେ",
+          "ରହ ଜିତେନ୍ଦ୍ରିୟ ଚିତ୍ତ ହଜା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗର୍ଭାଳସୀ ହଂସୀ ଗମନା",
+          "ପୁରାତନୁ ମନ କାମନା",
+          "ପୂର୍ଣ୍ଣ ହେବ ବୋଲି ସୁମନା",
+          "ଜଗିଛି ପଥ ମୃଣାଳ ଭୁଜା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କରେ ଗଣ୍ଡ କରି ଆଚ୍ଛନ୍ନ",
+          "ଧନ ନୁହ ରେ ଛନ୍ନଛନ୍ନ",
+          "ଟେକି ମୁଖ ମୃଗ ଲାଞ୍ଛନ",
+          "ମୋ ମନ କରାଇ ଦିଅ ଓଜା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସରଣୀ ନ ଭାଙ୍ଗି ବରଜ",
+          "ଲୁଆଇଁ ବଦନ ନୀରଜ",
+          "ଦରାଧର ଭିଡ଼ା ବରଜ",
+          "ଅନା ଥରେ ହସି ବିନା ଲଜ୍ଜାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭାଷ ଗିର ଆନ ଧରନା",
+          "ପର ବୋଲି ମୋତେ ଡରନା",
+          "କମ୍ପାନା ତୁ ଶମ୍ପାବରନା",
+          "ଲଭିଛି ତୋ ଭେଟ ହର ପୂଜାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣରେ ଦୂତୀକି",
+          "କହିବା ଶୁଭୁଛି ଶ୍ରୁତିକି",
+          "ଗଲେ ତ ନ ରହୁ କତିକି",
+          "ଅସୂୟା କାହିଁକି ଦୟା ମଜ୍ଜାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/smare-dei-bandhu-na-ja-re-mohana-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

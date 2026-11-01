@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000267",
+  "name": {
+    "en": "Ke patha bana kala re",
+    "or": "କେ ପଥ ବଣା କଲା ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000026"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-patha-bana-kala-re-mohana-gopalakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେ ପଥ ବଣା କଲା ରେ ବ୍ରଜବିଧୁକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସହି କେଉଁ ରମଣୀ ମୋ ପ୍ରୀତି ଚିନ୍ତାମଣି",
+          "ପାଇ ରଖି ଘେନିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେତେ ସରସେ ସଜ ସାଜିଥିଲି ମୁଁ ଆଜ",
+          "ମୋ ଆଶା ଛିନ୍ନାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋତେ ସ୍ମର ବହ୍ନିରେ ଜଳାଇ ସେ ଅଙ୍କରେ",
+          "ଧରି ନିଶି ବଞ୍ଚିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜଗି ଥିଲା କୋଠାରେ କି କହି ସେ ମୋ ନାଁରେ",
+          "ମାନସ ଭଙ୍ଗାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭାଷେ ହେଟି ବିଜେ କଲେ ସେ",
+          "ବୋଲି ଭୂରୁ ଚାଳିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-patha-bana-kala-re-mohana-gopalakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

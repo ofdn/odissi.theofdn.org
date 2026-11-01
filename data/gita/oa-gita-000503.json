@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000503",
+  "name": {
+    "en": "Ke ki kahi ki bigidaila re",
+    "or": "କେ କି କହି କି ବିଗିଡ଼ାଇଲା ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-ki-kahi-ki-bigidaila-re-gopalakrusna-dhanasri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେ କି କହି କି ବିଗିଡ଼ାଇଲା ରେ",
+          "ମୋହନଙ୍କୁ ମହୀରେ ଗଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରଥମ କରି ଆଜ ବ୍ରଜରାଜ ତନୁଜ",
+          "ନେତ୍ରରୁ ନୀର ନିଗିଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୋ ଲାଗି ରବିକନ୍ୟା ତୀର କୁସୁମ ବନ୍ୟା",
+          "ନିକୁଞ୍ଜ ଯାକ କେତେ ଲୋଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚାହୁଁ ଚମ୍ପକ ବଲ୍ଲୀ ସଜନୀ ତୁହି ବୋଲି",
+          "ଶ୍ୟାମ ଶ୍ରୀଭୁଜରେ ତ ଭିଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପଡ଼ିଲା କେଡ଼େ ଦଣ୍ଡ ନବ ଶିଖୀ ଶିଖଣ୍ଡ",
+          "ମୁକୁଟ ମଥାରୁ ଛଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଅଇଲି ସେ ସମୟ ହେଜି ମୁଁ କିଶଳୟ",
+          "ପାଇଁ ସୁବଳଙ୍କୁ ଦଉଡ଼ାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ ଭଣି ଶ୍ରୀମତୀଙ୍କି ସେକ୍ଷଣି",
+          "ଭେଟାଇ ଶ୍ୟାମ ଦୁଃଖ ଛଡ଼ାଇଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-ki-kahi-ki-bigidaila-re-gopalakrusna-dhanasri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

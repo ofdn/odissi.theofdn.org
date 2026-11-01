@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000240",
+  "name": {
+    "en": "Utha na kara matha",
+    "or": "ଉଠ ନ କର ମଠ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000014"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/utha-na-kara-matha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଉଠ ନ କର ମଠ ତୋ ଦରଶନକୁ",
+          "ମୋହନ ଆସିଛନ୍ତି ପରା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପଲଙ୍କ ତଳରେ ପ୍ରଦୀପ ପାଶରେ",
+          "ଉଭା ହୋଇଛନ୍ତି ଧୀରାଧୀରା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହେବୁ ବୋଲି ବେଶ କରି କେତେ ଆଶ",
+          "ଆଣିଛନ୍ତି ସୁମନସ ଝରା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହୁଅ ଅପହୁଡ଼ ତଳପ ସଜାଡ଼",
+          "ପ୍ରାଣନାଥ ମନୋରଥ ପୂରା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଖୀ କର ଧରି ଶ୍ରୀ ନବକିଶୋରୀ",
+          "ଚେତି ଉଭା ହେଲେ ବସୁନ୍ଧରାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସହି ଗଲେ କହି ସମୟକୁ ଚାହିଁ",
+          "ଗୋପାଳକୃଷ୍ଣ ବୋଲଇ ତ୍ୱରାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/utha-na-kara-matha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

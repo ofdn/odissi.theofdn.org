@@ -1,0 +1,79 @@
+{
+  "id": "oa-gita-000241",
+  "name": {
+    "en": "Prema chintamaniki ke rusaila re",
+    "or": "ପ୍ରେମ ଚିନ୍ତାମଣିକି କେ ରୁଷାଇଲା ରେ"
+  },
+  "composer": "oa-person-000001",
+  "mula_raga": [
+    "oa-raga-000006"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prema-chintamaniki-ke-rusaila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରେମ ଚିନ୍ତାମଣିକି କେ ରୁଷାଇଲା ରେ",
+          "କ୍ରମରେ ଏଣିକି ଭରସାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେ କଲା ଏ ବିଚାର କି ଶତ୍ରୁ ମୁଁ ତାହାର",
+          "ଭଙ୍ଗାଇ ମୋ ଆଶ ଲଭିବ କି ଯଶ",
+          "କ୍ଷୀରରେ ଖାର କେ ମିଶାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୁରାତନ ବେଶରେ ବସି କେଳିବାସରେ",
+          "ଗୁନ୍ଥୁଥିଲା ହାର ଶୁଣି ମୋର ଗିର",
+          "ନେତ୍ରୁ ନୀର ବରଷାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେହି ଦିନ ମାତର  ମୁଁ ତାକୁ ଦେଖିବାର",
+          "ହେଲି କେଡ଼େ ଦୋଷୀ ଲହୁଲି ବୟସୀ",
+          "ମୁଖ ଆଉ ନ ଦିଶାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦୁଃଖ ଶୁଣି ମୋ ବ୍ୟଥା ଲଭି ବା ଥାଉ କଥା",
+          "ପ୍ରସଙ୍ଗରେ ହେଲେ ମୋର ନାମ ଥରେ",
+          "ବଦନରେ ନ ବସାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋପାଳକୃଷ୍ଣ କହେ ମୂରୁଛିବାର ନୁହେଁ",
+          "କାହାକୁ ବୋଲିବି କି କରି ଚାହିଁବି",
+          "ବନ୍ଧୁ ଭଗାରି ହସାଇଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prema-chintamaniki-ke-rusaila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
