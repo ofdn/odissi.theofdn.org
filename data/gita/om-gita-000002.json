@@ -1,0 +1,120 @@
+{
+  "id": "om-gita-000002",
+  "name": {
+    "en": "Naba bilasini re nakhyatresa hasini",
+    "or": "ନବ ବିଳାସିନୀ ରେ ନକ୍ଷତ୍ରେଶ ହାସିନୀ"
+  },
+  "poet": "om-person-000002",
+  "mula_raga": [
+    "om-raga-000001"
+  ],
+  "mula_tala": [
+    "om-tala-000001"
+  ],
+  "song_type": "champu",
+  "kabya": {
+    "id": "om-kabya-000001",
+    "section": {
+      "en": "Na paṭaḷa",
+      "or": "ନ ପଟଳ"
+    }
+  },
+  "text": {
+    "edition": {
+      "title": "Naba Bilasini Re Nakhyatresa Hasini",
+      "url": "https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବ ବିଳାସିନୀ ରେ ନକ୍ଷତ୍ରେଶ ହାସିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନାହିଁ ବୋଲିବା ବାଣୀ ନିପଟ ନାହିଁ ଶୁଣି",
+          "ନଳିନାକ୍ଷିରେ ହୋଇ କିସ ହେବ",
+          "ନନ୍ଦନନ୍ଦନ ପ୍ରେମା ପ୍ରେମାରେ ନୁହେ ଜମା",
+          "ନିତମ୍ବିନୀଙ୍କ ଯେବେ ଗତି ଥିବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିଷ୍ଠୁର ଗୁଣ କୁଳିଶରୁ ପଡ଼ିଛି ବଳି",
+          "ନିଶ୍ଚୟ ତିନି ବର୍ଣ୍ଣ ନାହିଁ ଲେଖି",
+          "ନାଗରୀ ବିମୋହନ ମନ୍ତ୍ର ମାତ୍ରକ ମନ",
+          "କପଟ ସମ୍ପୂଟରେ ଅଛି ରଖି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନିରନ୍ତରାୟ ରସ ପ୍ରସାରଣେ ପୀୟୂଷ",
+          "ଧାରା ଧିକ୍କାରକାରୀ ପରି ଲାଗେ",
+          "ନିମିଷକରେ ଜ୍ୱାଳା ଜନ୍ମାଏ ଜିଣି ହାଳା",
+          "-ହଳକୁ ଯେ ସଙ୍ଖାଳି ମହା ନାଗେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନିଶିଦିନ ଶୟନ ନ ଜାଣଇ ନବୀନ",
+          "ବିସିନୀ ଦଳ ଶେଯ ଯାଏ ଜଳି",
+          "ନୀପବନ ପବନ ନିର୍ଦ୍ଧୂମ ଶିଖ ଧନ",
+          "-ଞ୍ଜୟ ଝାସରୁ କରେ କଟୁ କେଳି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିନ୍ଦାର ନିକେତନ ହୋଇବୁରେ ନୂତନ",
+          "ମନ୍ଦାର ବିମ୍ବ କୁରୁବିନ୍ଦାଧରା",
+          "ନିଶା ରମଣକର କଳିକାକଣ ତୋର",
+          "ହୋଇଯିବ କଳ୍ପାନ୍ତ କାଳ ଖରା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ନ ବରଷରୁ ଊଣା କାଳୁ ତ ଅଛି ଜଣା",
+          "ନଖାଗ୍ରେ ଉଦ୍ଧରିଲା ଗୋବର୍ଦ୍ଧନ",
+          "ନବ ନୀରଜକୋଷ ନିଭ ତୋ କୁଚ କିସ",
+          "ଅଣ୍ଟିବ କଣ୍ଠୀରବ ମଧ୍ୟା ଘେନ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ନିବେଦନ କରୁଛି କରକଞ୍ଜ ଧରୁଛି",
+          "ହେଲେ ହେଉ ଅରୁଚି ନିଦ୍ରାହାରେ",
+          "ନରନାଥ ଶ୍ରୀ ହରିଚନ୍ଦନ ବନ୍ଦେ ଗୋରୀ",
+          "ନ ରସ ନୀଳବାହା ମୁଦ୍ରାହାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Naba Bilasini Re Nakhyatresa Hasini",
+      "url": "https://odissimusic.co.in/index.php/song/naba-bilasini-re-nakhyatresa-hasini-na-champu-kamodi-adatali/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

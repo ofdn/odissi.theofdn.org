@@ -1,0 +1,97 @@
+{
+  "id": "om-gita-000001",
+  "name": {
+    "en": "Kadamba bane bansi bajila re",
+    "or": "କଦମ୍ବ ବନେ ବଂଶୀ ବାଜିଲାରେ",
+    "alternates": [
+      "Kadamba Bane Banshi Bajilare"
+    ]
+  },
+  "poet": "om-person-000001",
+  "mula_raga": [
+    "om-raga-000002"
+  ],
+  "mula_tala": [
+    "om-tala-000002"
+  ],
+  "song_type": "chaupadi",
+  "text": {
+    "edition": {
+      "title": "Kadamba Bane Bansi Bajila Re",
+      "url": "https://odissimusic.co.in/index.php/song/kadamba-bane-bansi-bajila-re-gopalakrusna-dhanasri/",
+      "type": "reference website",
+      "author": "Prateek Pattanaik",
+      "publisher": "Odissi Music",
+      "language": "en"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କଦମ୍ବ ବନେ ବଂଶୀ ବାଜିଲାରେ",
+          "ରାଧା ଦମ୍ଭ ଶିଖରୀ ଭାଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୋ ବିନା ପ୍ରତିକାର ଆନ କେ ନାହିଁ ମୋର",
+          "ବିବେକ ରତନ ମୋ ହଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କଢ଼ା ମୋତେ ସରଣୀ ଆରେ ପ୍ରାଣମିତଣୀ",
+          "ତୋ ବିନା ଜୀବନ ବରଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖି ବ୍ରଜେନ୍ଦୁ ମୁଖ ଲିଭାଇବିରେ ଦୁଃଖ",
+          "ସ୍ମରାନଳରେ ତନୁ ଭାଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପଳାଇଲାନି ମନ ବେଣୁପତି ଶୋଭନ",
+          "ପୀୟୂଷ ବାରିଧିରେ ମଜ୍ଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଚାଲ ଯିବା ଲଳିତା ବୋଲୁଁ କୀର୍ତ୍ତିଦା ସୁତା",
+          "ମୁଖ ସୁବର୍ଣ୍ଣାବ୍ଜ ବିରାଜିଲାରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଏକାନ୍ତ ଶ୍ରୀ ଲଳିତା ଶ୍ରୀ ବୃଷଭାନୁ ସୁତା",
+          "ଗୋପାଳକୃଷ୍ଣ ରହି ହେଜିଲାରେ"
+        ]
+      }
+    ]
+  },
+  "note": {
+    "en": "Prateek Pattanaik gives the mūḷa tāḷa as Aṭhatāḷi. The Odissi Music page for this song gives Jati."
+  },
+  "sources": [
+    {
+      "title": "Metadata draft for the archive",
+      "type": "personal knowledge",
+      "author": "Prateek Pattanaik",
+      "date": "2026-10"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

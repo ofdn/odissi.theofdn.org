@@ -1,0 +1,28 @@
+{
+  "id": "om-carrier-000001",
+  "name": {
+    "en": "Lyrics of Gopalakrishna"
+  },
+  "kind": "vinyl",
+  "year": 1985,
+  "rights": {
+    "status": "in_copyright",
+    "until": 2045,
+    "note": "Sound recordings are protected for 60 years from the year after publication (Copyright Act 1957, section 27)."
+  },
+  "sources": [
+    {
+      "title": "Metadata draft for the archive",
+      "type": "personal knowledge",
+      "author": "Prateek Pattanaik",
+      "date": "2026-10"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "om-rendition-000001",
+  "name": {
+    "en": "Kadamba bane bansi bajila re, sung by Shyamamani Patnaik"
+  },
+  "gita": "om-gita-000001",
+  "kind": "recording",
+  "credits": [
+    {
+      "person": "om-person-000005",
+      "role": "vocalist"
+    },
+    {
+      "person": "om-person-000006",
+      "role": "instrumentalist",
+      "instrument": "mardala"
+    },
+    {
+      "person": "om-person-000007",
+      "role": "instrumentalist",
+      "instrument": "violin"
+    },
+    {
+      "person": "om-person-000004",
+      "role": "music_director"
+    }
+  ],
+  "raga": [
+    "om-raga-000001"
+  ],
+  "tala": [
+    "om-tala-000001"
+  ],
+  "date": "1985",
+  "held_on": [
+    {
+      "carrier": "om-carrier-000001"
+    },
+    {
+      "carrier": "om-carrier-000002"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Metadata draft for the archive",
+      "type": "personal knowledge",
+      "author": "Prateek Pattanaik",
+      "date": "2026-10"
+    }
+  ],
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
