@@ -49,7 +49,9 @@ for (const { kind, file, record, error } of entries) {
     }
     if (!validate(record)) {
       for (const err of validate.errors) {
-        const extra = err.params?.additionalProperty ? ` ("${err.params.additionalProperty}")` : "";
+        const extra = err.params?.additionalProperty ? ` ("${err.params.additionalProperty}")`
+          : err.params?.unevaluatedProperty ? ` ("${err.params.unevaluatedProperty}")`
+          : err.params?.allowedValues ? `: ${err.params.allowedValues.join(", ")}` : "";
         errors.push(`${where}#${err.instancePath}: ${err.message}${extra}`);
       }
     }
