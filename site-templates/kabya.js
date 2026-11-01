@@ -5,10 +5,10 @@ export default function kabya(record, ctx) {
   const lang = ctx.lang;
   const gitas = ctx.refsTo(record.id, "gita").sort((a, b) => (a.kabya.position ?? 0) - (b.kabya.position ?? 0));
   const facts = [
-    [t("gita.poet", {}, lang), record.poet && link(ctx, record.poet)],
+    [t("gita.composer", {}, lang), record.composer ? link(ctx, record.composer) : escapeHtml(t("gita.unknown", {}, lang))],
     [t("kabya.form", {}, lang), record.form && escapeHtml(t(`kabya.form.${record.form}`, {}, lang))],
     [t("kabya.parts", {}, lang), record.parts && String(record.parts)],
-    [t("kabya.in_archive", {}, lang), String(gitas.length)],
+    [t("kabya.in_archive", {}, lang), gitas.length && String(gitas.length)],
   ];
   const list = gitas.length
     ? `<ul class="record-list record-list--detail">\n${gitas.map((g) => `<li>${link(ctx, g.id)} <span class="count">${g.kabya.section ? localized(g.kabya.section, lang) : ""}</span></li>`).join("\n")}\n</ul>`

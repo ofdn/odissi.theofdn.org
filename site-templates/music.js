@@ -106,29 +106,28 @@ export function recordCitation(ctx, record, extra = {}) {
   };
 }
 
-function recordEnd(ctx, record, citation, citeAs) {
+function recordEnd(ctx, record, citation, citeAs, sources) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const note = pick(record.note, lang) ? `<p class="record-note">${localized(record.note, lang)}</p>` : "";
-  const by = t("record.entered_by", { names: record.entered_by.join(", ") }, lang);
   return `${note}
-${sourcesList(ctx, record.sources)}
+${sourcesList(ctx, sources)}
 ${citationBlock(citation, lang, citeAs)}
 ${arkPermalink(record.id, lang)}
-<p class="record-meta">${escapeHtml(by)} ${escapeHtml(t("record.updated", { date: record.updated_at }, lang))} <a href="/api/${kind}/${record.id}.json">${escapeHtml(t("record.json", {}, lang))}</a></p>`;
+<p class="record-meta">${escapeHtml(t("record.updated", { date: record.updated_at }, lang))} <a href="/api/${kind}/${record.id}.json">${escapeHtml(t("record.json", {}, lang))}</a></p>`;
 }
 
 // Every record page goes through here so they share one layout:
 // kind and kicker, then the heading, its Odia form and a subtitle.
 // name stands in for record.name when the heading is another record's, as on renditions
-export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, citeAs, description, kicker = "", name = record.name, subtitle } = {}) {
+export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, citeAs, description, kicker = "", crumb = "", name = record.name, subtitle, sources = record.sources } = {}) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const title = displayName(record, lang);
   const heading = pick(name, lang)?.text ?? title;
   const odia = name?.or && lang !== "or" ? `<p class="film__lede" lang="or">${escapeHtml(name.or)}</p>` : "";
   const sub = subtitle ?? localized(record.subtitle, lang);
-  const header = `<p class="kind-label"><a href="/${kind}/">${escapeHtml(t(`kind.${kind}`, {}, lang))}</a>${kicker ? ` <span aria-hidden="true">›</span> ${kicker}` : ""}</p>
+  const header = `<p class="kind-label">${crumb ? `${crumb} <span aria-hidden="true">›</span> ` : ""}<a href="/${kind}/">${escapeHtml(t(`kind.${kind}`, {}, lang))}</a>${kicker ? ` <span aria-hidden="true">›</span> ${kicker}` : ""}</p>
 <h1 class="film__title">${escapeHtml(heading)}</h1>
 ${odia}
 ${sub ? `<p class="film__subtitle">${sub}</p>` : ""}`;
@@ -138,7 +137,7 @@ ${sub ? `<p class="film__subtitle">${sub}</p>` : ""}`;
     player,
     facts: factsAside(facts, { lang }),
     main,
-    end: recordEnd(ctx, record, cite, citeAs),
+    end: recordEnd(ctx, record, cite, citeAs, sources),
   });
   return pageShell({ title, description, body, lang, path: `/${kind}/${record.id}/`, headMeta: citationMeta(cite, lang) });
 }

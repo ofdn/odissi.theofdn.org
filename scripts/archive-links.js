@@ -9,11 +9,18 @@ import { loadRecords } from "./lib/records.js";
 const save = process.argv.includes("--save");
 const wait = (ms) => new Promise((done) => setTimeout(done, ms));
 
+// a gīta often cites the same page for its text and in sources
+const seen = new Map();
+
 async function latest(url) {
+  if (seen.has(url)) return seen.get(url);
+  await wait(2000 + Math.random() * 2000);
   const res = await fetch(`https://archive.org/wayback/available?url=${encodeURIComponent(url)}`);
   if (!res.ok) throw new Error(`Wayback lookup gave ${res.status}`);
   const snap = (await res.json()).archived_snapshots?.closest;
-  return snap?.available ? snap.url.replace(/^http:/, "https:") : null;
+  const copy = snap?.available ? snap.url.replace(/^http:/, "https:") : null;
+  seen.set(url, copy);
+  return copy;
 }
 
 // Save Page Now allows a few requests a minute  without an acount

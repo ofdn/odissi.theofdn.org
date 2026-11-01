@@ -41,6 +41,9 @@ export function bibtex(src, ctx) {
   return `@${BIB[src.type] ?? "misc"}{${src.id},\n${fields.map(([k, v]) => `  ${k.padEnd(9)} = {${v}},`).join("\n")}\n}`;
 }
 
+// the snapshot date sits in the wayback url as yyyymmdd
+const snapshot = (url) => url.match(/\/web\/(\d{4})(\d{2})(\d{2})/)?.slice(1).join("-");
+
 export default function source(record, ctx) {
   const lang = ctx.lang;
   const facts = [
@@ -54,7 +57,7 @@ export default function source(record, ctx) {
     ["ISBN", record.isbn && escapeHtml(record.isbn)],
     ["DOI", record.doi && `<a href="https://doi.org/${escapeHtml(record.doi)}">${escapeHtml(record.doi)}</a>`],
     [t("source.url", {}, lang), record.url && `<a href="${escapeHtml(record.url)}">${escapeHtml(record.url.replace(/^https?:\/\/|\/$/g, ""))}</a>`],
-    [t("source.archive_url", {}, lang), record.archive_url && `<a href="${escapeHtml(record.archive_url)}">${escapeHtml(t("source.archived", {}, lang))}</a>`],
+    [t("source.archive_url", {}, lang), record.archive_url && `<a href="${escapeHtml(record.archive_url)}">${escapeHtml(snapshot(record.archive_url) ?? t("source.archived", {}, lang))}</a>`],
   ];
   const citing = ctx.refsTo(record.id);
   const groups = KINDS.map((kind) => {

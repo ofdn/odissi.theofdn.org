@@ -31,8 +31,8 @@ export default function person(record, ctx) {
     [t("person.awards", {}, lang), awards],
     [t("person.website", {}, lang), record.website && `<a href="${escapeHtml(record.website)}">${escapeHtml(record.website.replace(/^https?:\/\/|\/$/g, ""))}</a>`],
   ];
-  const poems = sortByName(ctx.refsTo(record.id, "gita").filter((g) => g.poet === record.id), lang);
-  const kabyas = ctx.refsTo(record.id, "kabya").filter((k) => k.poet === record.id);
+  const poems = sortByName(ctx.refsTo(record.id, "gita").filter((g) => g.composer === record.id), lang);
+  const kabyas = ctx.refsTo(record.id, "kabya").filter((k) => k.composer === record.id);
   const renditions = ctx.refsTo(record.id, "rendition").filter((r) => r.credits.some((c) => c.person === record.id));
   const main = [
     record.bio ? `<p>${localized(record.bio, lang)}</p>` : "",
