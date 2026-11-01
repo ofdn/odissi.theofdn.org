@@ -1,0 +1,20 @@
+{
+  "id": "oa-person-000091",
+  "name": {
+    "en": "Managobinda",
+    "or": "ମାନଗୋବିନ୍ଦ"
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/managobinda-2/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "oa-person-000086",
+  "name": {
+    "en": "Nrusingha Pattanayaka",
+    "or": "ନୃସିଂହ ପଟ୍ଟନାୟକ"
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/nrusingha-pattanayaka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

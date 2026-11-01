@@ -1,0 +1,23 @@
+{
+  "id": "oa-person-000136",
+  "name": {
+    "en": "Tankadhara",
+    "or": "ଟଙ୍କଧର",
+    "alternates": [
+      "Tankadhara Subedara (Muga Apanna)"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/tankadhara-subedara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

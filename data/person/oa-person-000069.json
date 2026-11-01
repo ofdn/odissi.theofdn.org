@@ -1,0 +1,20 @@
+{
+  "id": "oa-person-000069",
+  "name": {
+    "en": "Lakhminarayana Deba",
+    "or": "ଲକ୍ଷ୍ମୀନାରାୟଣ ଦେବ"
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/lakhminarayana-deba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "oa-person-000046",
+  "name": {
+    "en": "Prataparudra Deba",
+    "or": "ପ୍ରତାପରୁଦ୍ର ଦେବ",
+    "alternates": [
+      "Gajapati Prataparudra Deba"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/gajapati-prataparudra-deba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

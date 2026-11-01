@@ -1,0 +1,23 @@
+{
+  "id": "oa-person-000017",
+  "name": {
+    "en": "Syamasundara",
+    "or": "ଶ୍ୟାମସୁନ୍ଦର",
+    "alternates": [
+      "Syamasundara Mahapatra"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/syamasundara-mahapatra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

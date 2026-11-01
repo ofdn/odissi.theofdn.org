@@ -1,0 +1,20 @@
+{
+  "id": "oa-person-000029",
+  "name": {
+    "en": "Ramachandra Deba",
+    "or": "ରାମଚନ୍ଦ୍ର ଦେବ"
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/ramachandra-deba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
