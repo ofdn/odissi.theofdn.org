@@ -39,7 +39,7 @@ export default function person(record, ctx) {
     parampara(ctx, record),
     section(t("person.gitas", {}, lang), linkList(ctx, poems), "gitas"),
     section(t("kind.kabya.plural", {}, lang), linkList(ctx, kabyas), "kabyas"),
-    section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions), "renditions"),
+    section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions, record.id), "renditions"),
     section(t("kind.collection.plural", {}, lang), linkList(ctx, ctx.refsTo(record.id, "collection")), "collections"),
   ].join("\n");
   return recordPage(ctx, record, { facts, main });

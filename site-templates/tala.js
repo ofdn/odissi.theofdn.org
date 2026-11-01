@@ -37,7 +37,7 @@ export default function tala(record, ctx) {
     cycle(record, lang) ? section(t("tala.cycle", {}, lang), `${cycle(record, lang)}\n<p class="record-meta">${escapeHtml(t("tala.legend", {}, lang))}</p>`, "cycle") : "",
     record.description ? `<p>${localized(record.description, lang)}</p>` : "",
     section(t("raga.gitas", {}, lang), linkList(ctx, gitas), "gitas"),
-    section(t("raga.renditions", {}, lang), renditionList(ctx, renditions), "renditions"),
+    section(t("raga.renditions", {}, lang), renditionList(ctx, renditions, record.id), "renditions"),
   ].join("\n");
   return recordPage(ctx, record, { facts, main });
 }

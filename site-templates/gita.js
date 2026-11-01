@@ -1,5 +1,5 @@
 import { escapeHtml, t, link, localized } from "./shared.js";
-import { recordPage, links, verse, section, renditionList, stanzaLabel } from "./music.js";
+import { recordPage, links, verse, section, renditionList, stanzaLabel, citation } from "./music.js";
 
 function meaning(gita, lang) {
   const m = gita.meaning;
@@ -29,14 +29,14 @@ export default function gita(record, ctx) {
   ];
   const ed = record.text?.edition;
   const edition = ed
-    ? `<p class="record-meta">${escapeHtml(t("gita.edition", {}, lang))} ${ed.url ? `<a href="${escapeHtml(ed.url)}">${escapeHtml(ed.title)}</a>` : escapeHtml(ed.title)}${ed.author ? `, ${escapeHtml(ed.author)}` : ""}.</p>`
+    ? `<p class="record-meta">${escapeHtml(t("gita.edition", {}, lang))} ${citation(ctx, ed)}.</p>`
     : "";
   const text = record.text ? section(t("gita.text", {}, lang), `${verse(record.text.stanzas, lang)}\n${edition}`, "text") : "";
   const renditions = ctx.refsTo(record.id, "rendition").filter((r) => r.gita === record.id);
   const main = [
     text,
     meaning(record, lang),
-    section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions), "renditions"),
+    section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions, record.id), "renditions"),
   ].join("\n");
   const poet = record.poet ? ctx.get(record.poet) : null;
   return recordPage(ctx, record, {

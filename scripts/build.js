@@ -8,7 +8,7 @@ import { createHash } from "node:crypto";
 import * as config from "./lib/config.js";
 import { loadRecords, refs, kindOf, publicCopy } from "./lib/records.js";
 import { toCsv, flatten } from "./csv.js";
-import { configure, t, displayName, altNames, listPage, homePage } from "../site-templates/shared.js";
+import { configure, t, displayName, altNames, listPage, homePage, renditionTitle } from "../site-templates/shared.js";
 
 const { DATA_DIR, OUT_DIR, TEMPLATE_DIR, KINDS, LANGS } = config;
 const STATIC_DIR = join(TEMPLATE_DIR, "static");
@@ -35,6 +35,8 @@ for (const { kind, file, record, error } of loadRecords(DATA_DIR)) {
   byKind[kind].push(copy);
 }
 
+for (const r of byKind.rendition) r.name ??= { en: renditionTitle(r, (id) => records.get(id)) };
+
 const backlinks = {};
 for (const record of records.values()) {
   for (const ref of refs(record)) {
@@ -43,9 +45,14 @@ for (const record of records.values()) {
 }
 
 const templates = {};
+const lists = {};
+const modules = {};
 for (const kind of KINDS) {
   const file = join(TEMPLATE_DIR, `${kind}.js`);
-  if (existsSync(file)) templates[kind] = (await import(pathToFileURL(file))).default;
+  if (!existsSync(file)) continue;
+  modules[kind] = await import(pathToFileURL(file));
+  templates[kind] = modules[kind].default;
+  lists[kind] = modules[kind].list ?? ((c) => listPage(c, kind));
 }
 const pageKinds = KINDS.filter((k) => templates[k]);
 
@@ -79,13 +86,14 @@ for (const kind of pageKinds) {
     write(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
   }
-  write(`${kind}/index.html`, rebase(listPage(ctx, kind)));
+  write(`${kind}/index.html`, rebase(lists[kind](ctx)));
 }
 
 const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
 write("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
+if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
 for (const kind of KINDS) {
   for (const record of byKind[kind]) write(`api/${kind}/${record.id}.json`, JSON.stringify(record, null, 2) + "\n");

@@ -25,6 +25,6 @@ export default function carrier(record, ctx) {
   ];
   const renditions = ctx.refsTo(record.id, "rendition");
   const note = r.note ? `<p>${escapeHtml(r.note)}</p>` : "";
-  const main = [section(t("carrier.rights", {}, lang), note, "rights"), section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions), "renditions")].join("\n");
+  const main = [section(t("carrier.rights", {}, lang), note, "rights"), section(t("kind.rendition.plural", {}, lang), renditionList(ctx, renditions, record.id), "renditions")].join("\n");
   return recordPage(ctx, record, { facts, main });
 }

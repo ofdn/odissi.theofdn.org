@@ -39,15 +39,32 @@ export function verse(stanzas, lang, only) {
     .join("\n");
 }
 
-function sourceItem(s) {
-  const title = s.url ? `<a href="${escapeHtml(s.url)}">${escapeHtml(s.title)}</a>` : escapeHtml(s.title);
-  const bits = [s.author !== s.title && s.author, s.publisher, s.date, s.pages].filter(Boolean).map(escapeHtml);
-  return `<li>${title}${bits.length ? `, ${bits.join(", ")}` : ""}</li>`;
+// authors may be names or person ids
+export function people(ctx, list = []) {
+  return list.map((p) => (ctx.get(p) ? link(ctx, p) : escapeHtml(p))).join(", ");
 }
 
-export function sourcesList(sources = [], lang) {
+// One cited source, as HTML. A contributing source is named without its
+// authors; they are credited on its own page.
+export function citation(ctx, c) {
+  const lang = ctx.lang;
+  const src = ctx.get(c.source);
+  const bits = [link(ctx, c.source)];
+  const byline = (src.authors ?? []).filter((a) => a !== displayName(src, lang));
+  if (!src.contributing) bits.push(people(ctx, byline), src.date && escapeHtml(src.date));
+  if (c.pages) bits.push(escapeHtml(t("source.pages", { pages: c.pages }, lang)));
+  const pages = [
+    c.url && `<a href="${escapeHtml(c.url)}">${escapeHtml(t("source.original", {}, lang))}</a>`,
+    c.archive_url && `<a href="${escapeHtml(c.archive_url)}">${escapeHtml(t("source.archived", {}, lang))}</a>`,
+  ].filter(Boolean);
+  const note = pick(c.note, lang) ? ` ${localized(c.note, lang)}` : "";
+  return `${bits.filter(Boolean).join(", ")}${pages.length ? `: ${pages.join(", ")}` : ""}${note}`;
+}
+
+export function sourcesList(ctx, sources = []) {
   if (!sources.length) return "";
-  return section(t("sources.heading", {}, lang), `<ul class="sources">\n${sources.map(sourceItem).join("\n")}\n</ul>`, "sources");
+  const items = sources.map((c) => `<li>${citation(ctx, c)}</li>`);
+  return section(t("sources.heading", {}, ctx.lang), `<ul class="sources">\n${items.join("\n")}\n</ul>`, "sources");
 }
 
 export function creditsFor(ctx, record, role) {
@@ -58,18 +75,23 @@ export function names(ctx, ids) {
   return ids.map((id) => displayName(ctx.get(id), ctx.lang));
 }
 
-// one line per rendition ,for gīta, person, rāga and tāḷa pages
-export function renditionLine(ctx, r) {
+// One line per rendition: the gīta, then kind, artists, rāga, tāḷa and date in small type.
+// pageId is the record the list sits on, so its own name is not repeated.
+export function renditionLine(ctx, r, pageId) {
   const lang = ctx.lang;
-  const people = (r.credits ?? []).filter((c) => ["vocalist", "notator", "scribe"].includes(c.role)).map((c) => link(ctx, c.person));
-  const bits = [t(`rendition.kind.${r.kind}`, {}, lang), people.join(", "), r.date && escapeHtml(r.date)].filter(Boolean);
-  return `<li><a href="${escapeHtml(ctx.url(r.id))}">${localized(r.name, lang)}</a> <span class="count">${bits.join(", ")}</span></li>`;
+  const href = escapeHtml(ctx.url(r.id));
+  const kind = escapeHtml(t(`rendition.kind.${r.kind}`, {}, lang));
+  const credited = r.credits.filter((c) => ["vocalist", "notator", "scribe"].includes(c.role) && c.person !== pageId).map((c) => link(ctx, c.person));
+  const others = (ids = []) => ids.filter((id) => id !== pageId).map((id) => link(ctx, id)).join(", ");
+  const rest = [credited.join(", "), others(r.raga), others(r.tala), r.date && escapeHtml(r.date)].filter(Boolean);
+  if (r.gita === pageId) return `<li><span class="count">${[`<a href="${href}">${kind}</a>`, ...rest].join(", ")}</span></li>`;
+  return `<li><a href="${href}">${localized(ctx.get(r.gita).name, lang)}</a> <span class="count">${[kind, ...rest].join(", ")}</span></li>`;
 }
 
-export function renditionList(ctx, renditions) {
+export function renditionList(ctx, renditions, pageId) {
   if (!renditions.length) return "";
   const sorted = [...renditions].sort((a, b) => (a.date ?? "").localeCompare(b.date ?? ""));
-  return `<ul class="record-list record-list--detail">\n${sorted.map((r) => renditionLine(ctx, r)).join("\n")}\n</ul>`;
+  return `<ul class="record-list record-list--detail">\n${sorted.map((r) => renditionLine(ctx, r, pageId)).join("\n")}\n</ul>`;
 }
 
 export function recordCitation(ctx, record, extra = {}) {
@@ -84,20 +106,20 @@ export function recordCitation(ctx, record, extra = {}) {
   };
 }
 
-function recordEnd(ctx, record, citation) {
+function recordEnd(ctx, record, citation, citeAs) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const note = pick(record.note, lang) ? `<p class="record-note">${localized(record.note, lang)}</p>` : "";
   const by = t("record.entered_by", { names: record.entered_by.join(", ") }, lang);
   return `${note}
-${sourcesList(record.sources, lang)}
-${citationBlock(citation, lang)}
+${sourcesList(ctx, record.sources)}
+${citationBlock(citation, lang, citeAs)}
 ${arkPermalink(record.id, lang)}
 <p class="record-meta">${escapeHtml(by)} ${escapeHtml(t("record.updated", { date: record.updated_at }, lang))} <a href="/api/${kind}/${record.id}.json">${escapeHtml(t("record.json", {}, lang))}</a></p>`;
 }
 
 // every record page goes through here so they share one layout
-export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, description } = {}) {
+export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, citeAs, description } = {}) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const title = displayName(record, lang);
@@ -111,7 +133,7 @@ ${odia}`;
     player,
     facts: factsAside(facts, { lang }),
     main,
-    end: recordEnd(ctx, record, cite),
+    end: recordEnd(ctx, record, cite, citeAs),
   });
   return pageShell({ title, description, body, lang, path: `/${kind}/${record.id}/`, headMeta: citationMeta(cite, lang) });
 }

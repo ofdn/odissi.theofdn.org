@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs";
-import { SITE_NAME, SITE_URL, PUBLISHER, PUBLISHER_PLACE, LICENCE, KINDS, arkUrl } from "../scripts/lib/config.js";
+import { SITE_NAME, SITE_URL, PUBLISHER, PUBLISHER_PLACE, LICENCE, KINDS, NAV_KINDS, arkUrl } from "../scripts/lib/config.js";
 
 export function escapeHtml(value) {
   return String(value)
@@ -78,6 +78,18 @@ export function altNames(record) {
   return [...new Set(all.filter((s) => s && s !== main))];
 }
 
+const TITLE_ROLES = { recording: ["vocalist", "instrumentalist"], notation: ["notator"], manuscript_copy: ["scribe"] };
+
+// "Kadamba bane bansi bajila re, sung by First1 Last1", for renditions with no name of their own
+export function renditionTitle(r, get, lang = "en") {
+  const gita = displayName(get(r.gita), lang);
+  for (const role of TITLE_ROLES[r.kind]) {
+    const people = r.credits.filter((c) => c.role === role).map((c) => displayName(get(c.person), lang));
+    if (people.length) return t(`rendition.title.${role}`, { gita, names: people.join(", ") }, lang);
+  }
+  return t("rendition.title", { gita, kind: t(`rendition.kind.${r.kind}`, {}, lang) }, lang);
+}
+
 export function link(ctx, id) {
   const record = ctx.get(id);
   if (!record) return escapeHtml(id);
@@ -120,7 +132,7 @@ function searchForm(lang) {
 }
 
 function siteNav(path, lang) {
-  const items = site.pageKinds.map((k) => {
+  const items = site.pageKinds.filter((k) => NAV_KINDS.includes(k)).map((k) => {
     const href = `/${k}/`;
     const current = path === href ? ' aria-current="page"' : path.startsWith(href) ? ' aria-current="true"' : "";
     return `<li><a href="${href}"${current}>${escapeHtml(t(`kind.${k}.plural`, {}, lang))}</a></li>`;
@@ -172,7 +184,7 @@ ${body}
 <footer class="site-footer">
 <div class="site-footer__inner">
 <img class="site-footer__logo" src="/ofdn-logo-white.svg" alt="" width="88" height="24">
-<p>${escapeHtml(SITE_NAME)}. ${tHtml("footer.project", { ofdn: '<a href="https://theofdn.org/">O Foundation</a>' }, lang)} ${tHtml("footer.licence", { licence: licenceLink }, lang)}</p>
+<p>${escapeHtml(SITE_NAME)}. ${tHtml("footer.project", { ofdn: '<a href="https://theofdn.org/">O Foundation</a>' }, lang)} ${tHtml("footer.licence", { licence: licenceLink }, lang)} <a href="/source/">${escapeHtml(t("footer.sources", {}, lang))}</a></p>
 </div>
 </footer>
 <script src="/site.js${site.jsVersion ? `?v=${site.jsVersion}` : ""}"></script>
@@ -235,7 +247,7 @@ export function embed(online, title, lang = "en") {
   return `<div class="media-embed"><iframe src="${src}" title="${frameTitle}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`;
 }
 
-function texEscape(s) {
+export function texEscape(s) {
   return String(s).replace(/([&%$#_{}])/g, "\\$1");
 }
 
@@ -305,11 +317,12 @@ export function citationMeta(c, lang = "en") {
     .join("\n");
 }
 
-export function citationBlock(c, lang = "en") {
-  const data = escapeHtml(JSON.stringify(buildCitations(c, lang)));
+// built is { apa, chicago, mla, bibtex } when the page cites something other than itself
+export function citationBlock(c, lang = "en", { heading = t("cite.heading", {}, lang), built = buildCitations(c, lang) } = {}) {
+  const data = escapeHtml(JSON.stringify(built));
   const id = escapeHtml(c.id);
   return `<section class="citation-block" data-citation="${data}" data-id="${id}" aria-labelledby="cite-${id}">
-<h2 id="cite-${id}">${escapeHtml(t("cite.heading", {}, lang))}</h2>
+<h2 id="cite-${id}">${escapeHtml(heading)}</h2>
 <div class="citation-controls">
 <label class="visually-hidden" for="citation-style-${id}">${escapeHtml(t("cite.format", {}, lang))}</label>
 <select id="citation-style-${id}" class="citation-style">

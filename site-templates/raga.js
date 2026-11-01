@@ -18,7 +18,7 @@ export default function raga(record, ctx) {
   const main = [
     record.description ? `<p>${localized(record.description, lang)}</p>` : "",
     section(t("raga.gitas", {}, lang), linkList(ctx, gitas), "gitas"),
-    section(t("raga.renditions", {}, lang), renditionList(ctx, renditions), "renditions"),
+    section(t("raga.renditions", {}, lang), renditionList(ctx, renditions, record.id), "renditions"),
   ].join("\n");
   return recordPage(ctx, record, { facts, main });
 }
