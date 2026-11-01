@@ -1,0 +1,20 @@
+{
+  "id": "oa-person-000114",
+  "name": {
+    "en": "Krusna Dasa Badajena",
+    "or": "କୃଷ୍ଣଦାସ ବଡ଼ଜେନା"
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/krusna-dasa-badajena-mahapatra-krushna-dasa-badajena-gitaprakasa-geeta-prakash/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

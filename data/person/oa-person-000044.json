@@ -1,0 +1,24 @@
+{
+  "id": "oa-person-000044",
+  "name": {
+    "en": "Gourahari",
+    "or": "ଗୌରହରି",
+    "alternates": [
+      "Sadhaka Kabi Gourahari Parichha",
+      "Gaurahari"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/gaurahari-gourahari-parichha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

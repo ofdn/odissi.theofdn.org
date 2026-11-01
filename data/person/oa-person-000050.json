@@ -1,0 +1,24 @@
+{
+  "id": "oa-person-000050",
+  "name": {
+    "en": "Dinakrusna",
+    "or": "ଦୀନକୃଷ୍ଣ",
+    "alternates": [
+      "Dinakrusna Dasa",
+      "Dinakrushna"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/dinakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
