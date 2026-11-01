@@ -347,9 +347,22 @@ export function listPage(ctx, kind) {
   const lang = ctx.lang;
   const plural = t(`kind.${kind}.plural`, {}, lang);
   const records = [...ctx.byKind[kind]].sort((a, b) => displayName(a, lang).localeCompare(displayName(b, lang)));
-  const list = records.length
-    ? `<ul class="record-list">\n${records.map((r) => `<li>${link(ctx, r.id)}</li>`).join("\n")}\n</ul>`
-    : `<p>${escapeHtml(t("list.empty", {}, lang))}</p>`;
+  const items = (rs) => `<ul class="record-list">\n${rs.map((r) => `<li>${link(ctx, r.id)}</li>`).join("\n")}\n</ul>`;
+  let list = records.length ? items(records) : `<p>${escapeHtml(t("list.empty", {}, lang))}</p>`;
+  // long lists get an A to Z row; Āḍatāḷi files under A
+  if (records.length > 30) {
+    const initial = (r) => {
+      const c = displayName(r, lang).normalize("NFD")[0].toUpperCase();
+      return c >= "A" && c <= "Z" ? c : "#";
+    };
+    const groups = new Map();
+    for (const r of records) groups.set(initial(r), [...(groups.get(initial(r)) ?? []), r]);
+    const row = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ", "#"]
+      .filter((c) => c !== "#" || groups.has("#"))
+      .map((c) => `<li>${groups.has(c) ? `<a href="#letter-${c === "#" ? "other" : c.toLowerCase()}">${c}</a>` : `<span>${c}</span>`}</li>`);
+    const sections = [...groups].map(([c, rs]) => `<h2 class="letter" id="letter-${c === "#" ? "other" : c.toLowerCase()}">${c}</h2>\n${items(rs)}`);
+    list = `<nav class="letters" aria-label="${escapeHtml(t("list.letters", {}, lang))}"><ul>${row.join("")}</ul></nav>\n${sections.join("\n")}`;
+  }
   const body = `<div class="page__wrap">
 <header class="page__header">
 <h1 class="page__title">${escapeHtml(plural)}</h1>

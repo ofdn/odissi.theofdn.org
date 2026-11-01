@@ -352,6 +352,14 @@ ul.record-list a { color: var(--color-text); font-weight: 600; text-decoration: 
 ul.record-list a:hover { color: var(--color-link-hover); text-decoration: underline; }
 ul.record-list .count { font-size: 0.9rem; color: var(--color-text-muted); }
 
+/* A to Z on long lists */
+.letters ul { display: flex; flex-wrap: wrap; gap: 0.25rem; list-style: none; margin: 0 0 1.5rem; padding: 0; max-width: var(--max-prose); }
+.letters a, .letters span { display: inline-flex; align-items: center; justify-content: center; min-width: 2rem; min-height: 2rem; font-family: var(--font-heading); font-weight: 600; }
+.letters a { color: var(--color-link); border: 1px solid var(--color-rule); border-radius: var(--radius); text-decoration: none; }
+.letters a:hover { color: var(--color-link-hover); text-decoration: underline; }
+.letters span { color: var(--color-text-muted); }
+h2.letter { margin: 2rem 0 0.5rem; scroll-margin-top: 8rem; }
+
 /* Chips, pastels from Tome */
 .chip {
   display: inline-flex;

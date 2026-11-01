@@ -28,6 +28,7 @@
   "media.player": "{title}, player from {provider}",
   "list.count.one": "1 record",
   "list.count": "{n} records",
+  "list.letters": "Jump to a letter",
   "list.empty": "No records yet.",
   "home.browse": "Browse the archive",
   "kind.gita": "Gīta",
