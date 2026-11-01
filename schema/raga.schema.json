@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/raga.schema.json",
+  "title": "Rāga",
+  "description": "A rāga with its svaras, āroha, ābaroha, bādī and sambādī.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-raga-[0-9]{6}$"
+    },
+    "svaras": {
+      "type": "string",
+      "description": "Svaras used. Capitals for śuddha, lower case for komaḷa or other forms, as the source writes them."
+    },
+    "aroha": {
+      "type": "string"
+    },
+    "abaroha": {
+      "type": "string"
+    },
+    "badi": {
+      "type": "string"
+    },
+    "sambadi": {
+      "type": "string"
+    },
+    "anga": {
+      "$ref": "defs.schema.json#/$defs/ref_raga"
+    },
+    "description": {
+      "$ref": "defs.schema.json#/$defs/text"
+    }
+  },
+  "unevaluatedProperties": false
+}

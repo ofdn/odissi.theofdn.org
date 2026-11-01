@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/collection.schema.json",
+  "title": "Collection",
+  "description": "A personal, family or institutional collection that carriers come from.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-collection-[0-9]{6}$"
+    },
+    "held_by": {
+      "type": "array",
+      "items": {
+        "$ref": "defs.schema.json#/$defs/ref_person"
+      }
+    },
+    "held_by_name": {
+      "type": "string",
+      "description": "An institution or family that has no person record."
+    },
+    "place": {
+      "$ref": "defs.schema.json#/$defs/text"
+    },
+    "description": {
+      "$ref": "defs.schema.json#/$defs/text"
+    }
+  },
+  "unevaluatedProperties": false
+}

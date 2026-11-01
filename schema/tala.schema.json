@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/tala.schema.json",
+  "title": "Tāḷa",
+  "description": "A tāḷa: mātrā count, bhāga, chanda, ghāta and anāghāta.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-tala-[0-9]{6}$"
+    },
+    "matra": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "bhaga": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "chanda": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      },
+      "description": "Mātrās in each bhāga, e.g. 4, 3, 4, 3."
+    },
+    "ghata": {
+      "$ref": "defs.schema.json#/$defs/numbers",
+      "description": "Mātrās with a clap."
+    },
+    "anaghata": {
+      "$ref": "defs.schema.json#/$defs/numbers",
+      "description": "Mātrās with a wave. Empty when there are none."
+    },
+    "description": {
+      "$ref": "defs.schema.json#/$defs/text"
+    }
+  },
+  "unevaluatedProperties": false
+}
