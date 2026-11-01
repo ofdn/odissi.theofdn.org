@@ -1,0 +1,265 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/defs.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^om-[a-z]+-[0-9]{6}$"
+    },
+    "ref_gita": {
+      "type": "string",
+      "pattern": "^om-gita-[0-9]{6}$"
+    },
+    "ref_kabya": {
+      "type": "string",
+      "pattern": "^om-kabya-[0-9]{6}$"
+    },
+    "ref_rendition": {
+      "type": "string",
+      "pattern": "^om-rendition-[0-9]{6}$"
+    },
+    "ref_carrier": {
+      "type": "string",
+      "pattern": "^om-carrier-[0-9]{6}$"
+    },
+    "ref_person": {
+      "type": "string",
+      "pattern": "^om-person-[0-9]{6}$"
+    },
+    "ref_raga": {
+      "type": "string",
+      "pattern": "^om-raga-[0-9]{6}$"
+    },
+    "ref_tala": {
+      "type": "string",
+      "pattern": "^om-tala-[0-9]{6}$"
+    },
+    "ref_collection": {
+      "type": "string",
+      "pattern": "^om-collection-[0-9]{6}$"
+    },
+    "name": {
+      "description": "en is the romanised name with diacritics (Kāmodī, Tāḷa). or is the name in Odia script.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "en"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "or": {
+          "type": "string",
+          "minLength": 1
+        },
+        "alternates": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "text": {
+      "description": "A short text in English, Odia or both.",
+      "type": "object",
+      "additionalProperties": false,
+      "minProperties": 1,
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "or": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1000,
+      "maximum": 2100
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$"
+    },
+    "numbers": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "type": {
+          "enum": [
+            "book",
+            "book chapter",
+            "journal article",
+            "thesis",
+            "manuscript",
+            "liner notes",
+            "archive record",
+            "reference website",
+            "interview",
+            "audio or video",
+            "personal knowledge",
+            "other"
+          ]
+        },
+        "author": {
+          "type": "string"
+        },
+        "publisher": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "pages": {
+          "type": "string"
+        },
+        "language": {
+          "type": "string",
+          "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$"
+        },
+        "archive_url": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      }
+    },
+    "entered_by": {
+      "description": "Full names of the people who entered or edited this record.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "online": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provider"
+      ],
+      "properties": {
+        "provider": {
+          "enum": [
+            "youtube",
+            "internet_archive",
+            "spotify",
+            "wikimedia_commons",
+            "other"
+          ]
+        },
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "uploaded_by": {
+          "type": "string"
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Start offset in seconds when one upload holds several renditions."
+        }
+      },
+      "anyOf": [
+        {
+          "required": [
+            "id"
+          ]
+        },
+        {
+          "required": [
+            "url"
+          ]
+        }
+      ]
+    },
+    "common": {
+      "type": "object",
+      "required": [
+        "id",
+        "name",
+        "entered_by",
+        "record_status",
+        "created_at",
+        "updated_at"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/id"
+        },
+        "name": {
+          "$ref": "#/$defs/name"
+        },
+        "note": {
+          "$ref": "#/$defs/text"
+        },
+        "sources": {
+          "$ref": "#/$defs/sources"
+        },
+        "entered_by": {
+          "$ref": "#/$defs/entered_by"
+        },
+        "record_status": {
+          "enum": [
+            "active",
+            "superseded",
+            "withdrawn"
+          ]
+        },
+        "superseded_by": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/id"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "created_at": {
+          "$ref": "#/$defs/date"
+        },
+        "updated_at": {
+          "$ref": "#/$defs/date"
+        }
+      }
+    }
+  }
+}
