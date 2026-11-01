@@ -1,7 +1,10 @@
 {
   "id": "oa-person-000012",
   "name": {
-    "en": "Prateek Pattanaik"
+    "en": "Prateek Pattanaik",
+    "alternates": [
+      "Pratīka Paṭṭanāẏaka"
+    ]
   },
   "roles": [
     "vocalist",

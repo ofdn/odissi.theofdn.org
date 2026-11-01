@@ -1,7 +1,10 @@
 {
   "id": "oa-person-000011",
   "name": {
-    "en": "Ramarao Patro"
+    "en": "Ramarao Patro",
+    "alternates": [
+      "Rāmārao Pātra"
+    ]
   },
   "roles": [
     "guru"

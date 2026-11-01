@@ -1,0 +1,26 @@
+{
+  "id": "oa-source-000003",
+  "name": {
+    "en": "Oḍiśī saṅgīta bāridhi"
+  },
+  "subtitle": {
+    "en": "Ācārya Tāriṇī Caraṇa Pātraṅka nirddeśita o saṅgrahita Oḍiśī prabandha guccha"
+  },
+  "type": "book",
+  "authors": [
+    "oa-person-000011",
+    "oa-person-000012"
+  ],
+  "editors": [
+    "oa-person-000008"
+  ],
+  "publisher": "Pen in Books",
+  "place": "Bhubaneswar",
+  "date": "2023",
+  "language": "or",
+  "oclc": "1434248522",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
