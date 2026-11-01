@@ -27,19 +27,12 @@
   "anaghata": [],
   "sources": [
     {
-      "title": "Comment on issue 1, Proposed records",
-      "url": "https://github.com/ofdn/odissi.theofdn.org/issues/1",
-      "type": "personal knowledge",
-      "author": "Prateek Pattanaik",
-      "date": "2026-10"
+      "source": "om-source-000004"
     },
     {
-      "title": "Tripata",
+      "source": "om-source-000001",
       "url": "https://odissimusic.co.in/index.php/tala/tripata-triputa-tripataa-triputaa/",
-      "type": "reference website",
-      "author": "Prateek Pattanaik",
-      "publisher": "Odissi Music",
-      "language": "en"
+      "archive_url": "https://web.archive.org/web/20260420004056/https://odissimusic.co.in/index.php/tala/tripata-triputa-tripataa-triputaa/"
     }
   ],
   "entered_by": [

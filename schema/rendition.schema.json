@@ -2,11 +2,11 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://odissi.theofdn.org/schema/rendition.schema.json",
   "title": "Rendition",
-  "description": "One performance, notation or manuscript copy of a gīta.",
+  "description": "One performance, notation or manuscript copy of a gīta. name is optional: the site names it from the gīta and the people credited.",
   "type": "object",
   "allOf": [
     {
-      "$ref": "defs.schema.json#/$defs/common"
+      "$ref": "defs.schema.json#/$defs/record"
     }
   ],
   "required": [

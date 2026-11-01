@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/source.schema.json",
+  "title": "Source",
+  "description": "A book, article, website, recording or other work that records cite. name.en is its title. The site builds a BibTeX entry for every source.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "required": [
+    "type"
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-source-[0-9]{6}$"
+    },
+    "type": {
+      "enum": [
+        "book",
+        "book_chapter",
+        "article",
+        "thesis",
+        "website",
+        "recording",
+        "video",
+        "interview",
+        "unpublished",
+        "other"
+      ]
+    },
+    "contributing": {
+      "type": "boolean",
+      "description": "A database or website that many records draw on, such as Odissi Music. Records name it without its authors; its own page credits them."
+    },
+    "authors": {
+      "$ref": "#/$defs/people"
+    },
+    "editors": {
+      "$ref": "#/$defs/people"
+    },
+    "in": {
+      "type": "string",
+      "description": "Book, journal or series the source sits in."
+    },
+    "volume": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "place": {
+      "type": "string"
+    },
+    "date": {
+      "$ref": "defs.schema.json#/$defs/date"
+    },
+    "pages": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$"
+    },
+    "isbn": {
+      "type": "string",
+      "pattern": "^[0-9X-]{10,17}$"
+    },
+    "doi": {
+      "type": "string",
+      "pattern": "^10\\.[0-9]{4,9}/\\S+$"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "archive_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Copy of url in the Internet Archive Wayback Machine."
+    }
+  },
+  "$defs": {
+    "people": {
+      "description": "Full names, or person ids such as om-person-000001 for people with a record here.",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "unevaluatedProperties": false
+}

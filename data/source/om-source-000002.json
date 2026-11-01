@@ -1,0 +1,23 @@
+{
+  "id": "om-source-000002",
+  "name": {
+    "en": "Metadata draft for the archive"
+  },
+  "type": "unpublished",
+  "contributing": true,
+  "authors": [
+    "Prateek Pattanaik"
+  ],
+  "date": "2026-10",
+  "language": "en",
+  "entered_by": [
+    "Subhashish Panigrahi"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01",
+  "note": {
+    "en": "Prateek Pattanaik drafted these fields and values in October 2026 for the first records in this archive."
+  }
+}

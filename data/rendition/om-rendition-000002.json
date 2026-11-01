@@ -1,8 +1,5 @@
 {
   "id": "om-rendition-000002",
-  "name": {
-    "en": "Kadamba bane bansi bajila re, notation by Tarini Charan Patra"
-  },
   "gita": "om-gita-000001",
   "kind": "notation",
   "credits": [
@@ -23,10 +20,7 @@
   },
   "sources": [
     {
-      "title": "Metadata draft for the archive",
-      "type": "personal knowledge",
-      "author": "Prateek Pattanaik",
-      "date": "2026-10"
+      "source": "om-source-000002"
     }
   ],
   "entered_by": [

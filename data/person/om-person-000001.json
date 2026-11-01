@@ -16,18 +16,12 @@
   ],
   "sources": [
     {
-      "title": "Gopalakrusna",
+      "source": "om-source-000001",
       "url": "https://odissimusic.co.in/index.php/poets/gopalakrusna-pattanayaka/",
-      "type": "reference website",
-      "author": "Prateek Pattanaik",
-      "publisher": "Odissi Music",
-      "language": "en"
+      "archive_url": "https://web.archive.org/web/20260711021630/https://odissimusic.co.in/index.php/poets/gopalakrusna-pattanayaka/"
     },
     {
-      "title": "Metadata draft for the archive",
-      "type": "personal knowledge",
-      "author": "Prateek Pattanaik",
-      "date": "2026-10"
+      "source": "om-source-000002"
     }
   ],
   "entered_by": [

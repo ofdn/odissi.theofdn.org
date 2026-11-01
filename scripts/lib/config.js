@@ -16,7 +16,9 @@ export const PUBLISHER_PLACE = "Bhubaneswar";
 export const LICENCE = "CC BY-SA 4.0";
 
 export const ID_PREFIX = "om";
-export const KINDS = ["gita", "kabya", "rendition", "carrier", "person", "raga", "tala", "collection"];
+export const KINDS = ["gita", "kabya", "rendition", "carrier", "person", "raga", "tala", "collection", "source"];
+// sources are reached from each record and the footer, not the header
+export const NAV_KINDS = KINDS.filter((k) => k !== "source");
 export const LANGS = ["en"];
 
 // ark links stay off until the shoulder is assigned

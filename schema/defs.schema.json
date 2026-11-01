@@ -39,6 +39,10 @@
       "type": "string",
       "pattern": "^om-collection-[0-9]{6}$"
     },
+    "ref_source": {
+      "type": "string",
+      "pattern": "^om-source-[0-9]{6}$"
+    },
     "name": {
       "description": "en is the romanised name with diacritics (Kāmodī, Tāḷa). or is the name in Odia script.",
       "type": "object",
@@ -96,63 +100,38 @@
         "minimum": 1
       }
     },
-    "source": {
+    "citation": {
+      "description": "Points to a source record. url and archive_url point to the page used, such as one song page on a website.",
       "type": "object",
       "additionalProperties": false,
       "required": [
-        "title"
+        "source"
       ],
       "properties": {
-        "title": {
-          "type": "string",
-          "minLength": 1
+        "source": {
+          "$ref": "#/$defs/ref_source"
+        },
+        "pages": {
+          "type": "string"
         },
         "url": {
           "type": "string",
           "format": "uri"
         },
-        "type": {
-          "enum": [
-            "book",
-            "book chapter",
-            "journal article",
-            "thesis",
-            "manuscript",
-            "liner notes",
-            "archive record",
-            "reference website",
-            "interview",
-            "audio or video",
-            "personal knowledge",
-            "other"
-          ]
-        },
-        "author": {
-          "type": "string"
-        },
-        "publisher": {
-          "type": "string"
-        },
-        "date": {
-          "type": "string"
-        },
-        "pages": {
-          "type": "string"
-        },
-        "language": {
-          "type": "string",
-          "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$"
-        },
         "archive_url": {
           "type": "string",
-          "format": "uri"
+          "format": "uri",
+          "description": "Copy of url in the Internet Archive Wayback Machine."
+        },
+        "note": {
+          "$ref": "#/$defs/text"
         }
       }
     },
     "sources": {
       "type": "array",
       "items": {
-        "$ref": "#/$defs/source"
+        "$ref": "#/$defs/citation"
       }
     },
     "entered_by": {
@@ -210,11 +189,10 @@
         }
       ]
     },
-    "common": {
+    "record": {
       "type": "object",
       "required": [
         "id",
-        "name",
         "entered_by",
         "record_status",
         "created_at",
@@ -260,6 +238,16 @@
           "$ref": "#/$defs/date"
         }
       }
+    },
+    "common": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/record"
+        }
+      ],
+      "required": [
+        "name"
+      ]
     }
   }
 }

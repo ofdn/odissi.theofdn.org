@@ -28,18 +28,12 @@
   ],
   "sources": [
     {
-      "title": "Metadata draft for the archive",
-      "type": "personal knowledge",
-      "author": "Prateek Pattanaik",
-      "date": "2026-10"
+      "source": "om-source-000002"
     },
     {
-      "title": "Adatali",
+      "source": "om-source-000001",
       "url": "https://odissimusic.co.in/index.php/tala/adatali-aadtali-ada-tali-aadatali/",
-      "type": "reference website",
-      "author": "Prateek Pattanaik",
-      "publisher": "Odissi Music",
-      "language": "en"
+      "archive_url": "https://web.archive.org/web/20260609082124/https://odissimusic.co.in/index.php/tala/adatali-aadtali-ada-tali-aadatali/"
     }
   ],
   "entered_by": [

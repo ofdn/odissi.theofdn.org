@@ -29,19 +29,12 @@
   },
   "sources": [
     {
-      "title": "Tarini Charan Patra",
+      "source": "om-source-000001",
       "url": "https://odissimusic.co.in/index.php/guru/tarini-charan-patra/",
-      "type": "reference website",
-      "author": "Prateek Pattanaik",
-      "publisher": "Odissi Music",
-      "language": "en"
+      "archive_url": "https://web.archive.org/web/20260711014534/https://odissimusic.co.in/index.php/guru/tarini-charan-patra/"
     },
     {
-      "title": "Prateek Pattanaik",
-      "url": "https://pattaprateek.com/",
-      "type": "reference website",
-      "author": "Prateek Pattanaik",
-      "language": "en"
+      "source": "om-source-000003"
     }
   ],
   "entered_by": [

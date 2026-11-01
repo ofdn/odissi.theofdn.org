@@ -26,10 +26,7 @@
   "gender": "female",
   "sources": [
     {
-      "title": "Metadata draft for the archive",
-      "type": "personal knowledge",
-      "author": "Prateek Pattanaik",
-      "date": "2026-10"
+      "source": "om-source-000002"
     }
   ],
   "entered_by": [
