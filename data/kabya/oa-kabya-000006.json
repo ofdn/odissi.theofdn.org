@@ -1,0 +1,18 @@
+{
+  "id": "oa-kabya-000006",
+  "name": {
+    "en": "Sarada Rahasa",
+    "or": "ଶରଦ ରାହାସ"
+  },
+  "composer": "oa-person-000131",
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/kabya/sarada-rahasa-biswambhara-rajendradeba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

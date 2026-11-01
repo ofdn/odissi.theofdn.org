@@ -1,0 +1,19 @@
+{
+  "id": "oa-kabya-000007",
+  "name": {
+    "en": "Sangita Radhamadhaba Nataka",
+    "or": "ସଙ୍ଗୀତ ରାଧାମାଧବ ନାଟକ"
+  },
+  "composer": "oa-person-000128",
+  "form": "nataka",
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/kabya/sangita-radhamadhaba-nataka-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
