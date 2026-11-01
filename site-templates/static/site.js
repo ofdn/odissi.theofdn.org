@@ -84,7 +84,7 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
   var MAX_RESULTS = 8;
 
   function loadIndex() {
-    indexPromise = indexPromise || fetch("/search.json").then(function (r) { return r.json(); });
+    indexPromise = indexPromise || fetch(form.dataset.index).then(function (r) { return r.json(); });
     return indexPromise;
   }
 

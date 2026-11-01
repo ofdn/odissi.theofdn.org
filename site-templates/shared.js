@@ -109,7 +109,7 @@ export function jsonLdScript(data) {
 function searchForm(lang) {
   const kinds = Object.fromEntries(KINDS.map((k) => [k, t(`kind.${k}`, {}, lang)]));
   return `<div class="header-search-wrap">
-<form class="header-search" action="/" method="get" role="search" data-kinds="${escapeHtml(JSON.stringify(kinds))}" data-none="${escapeHtml(t("search.none", {}, lang))}">
+<form class="header-search" action="/" method="get" role="search" data-index="/search.json" data-kinds="${escapeHtml(JSON.stringify(kinds))}" data-none="${escapeHtml(t("search.none", {}, lang))}">
 <span class="header-search-icon" aria-hidden="true">${SEARCH_ICON}</span>
 <label class="visually-hidden" for="header-search-input">${escapeHtml(t("search.label", {}, lang))}</label>
 <input id="header-search-input" type="search" name="q" placeholder="${escapeHtml(t("search.placeholder", {}, lang))}" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="header-search-results" aria-autocomplete="list">

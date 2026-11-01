@@ -9,6 +9,8 @@ export const TEMPLATE_DIR = join(ROOT, "site-templates");
 
 export const SITE_NAME = "Archive of Odissi Music";
 export const SITE_URL = (process.env.SITE_URL || "https://odissi.theofdn.org/").replace(/\/?$/, "/");
+// "/" on our own domain, "/odissi.theofdn.org/" on github.io
+export const BASE_PATH = new URL(SITE_URL).pathname;
 export const PUBLISHER = "O Foundation";
 export const PUBLISHER_PLACE = "Bhubaneswar";
 export const LICENCE = "CC BY-SA 4.0";

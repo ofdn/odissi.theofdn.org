@@ -13,6 +13,9 @@ import { configure, t, displayName, altNames, listPage, homePage } from "../site
 const { DATA_DIR, OUT_DIR, TEMPLATE_DIR, KINDS, LANGS } = config;
 const STATIC_DIR = join(TEMPLATE_DIR, "static");
 
+// templates link from the site root; this moves those links under BASE_PATH
+const rebase = (html) => (config.BASE_PATH === "/" ? html : html.replace(/ (href|src|action|data-index)="\/(?!\/)/g, ` $1="${config.BASE_PATH}`));
+
 function write(relPath, content) {
   const full = join(OUT_DIR, relPath);
   mkdirSync(dirname(full), { recursive: true });
@@ -73,15 +76,15 @@ const ctx = {
 const search = [];
 for (const kind of pageKinds) {
   for (const record of byKind[kind]) {
-    write(`${kind}/${record.id}/index.html`, templates[kind](record, ctx));
-    search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: url(record.id) });
+    write(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
+    search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
   }
-  write(`${kind}/index.html`, listPage(ctx, kind));
+  write(`${kind}/index.html`, rebase(listPage(ctx, kind)));
 }
 
 const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
-write("index.html", renderHome(ctx));
+write("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
 
 for (const kind of KINDS) {
