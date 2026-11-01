@@ -1,7 +1,13 @@
 {
   "id": "oa-carrier-000002",
   "name": {
-    "en": "Kadamba Bane Banshi Bajilare Sangata, Odishi Song, Shyamamani Pattnaik"
+    "en": "Kadamba Bane Banshi Bajilare Sangata",
+    "alternates": [
+      "Kadamba Bane Banshi Bajilare Sangata, Odishi Song, Shyamamani Pattnaik"
+    ]
+  },
+  "subtitle": {
+    "en": "Odishi Song, Shyamamani Pattnaik"
   },
   "kind": "online",
   "online": [
@@ -18,7 +24,7 @@
   },
   "sources": [
     {
-      "source": "oa-source-000002"
+      "source": "oa-source-000001"
     }
   ],
   "entered_by": [

@@ -118,15 +118,20 @@ ${arkPermalink(record.id, lang)}
 <p class="record-meta">${escapeHtml(by)} ${escapeHtml(t("record.updated", { date: record.updated_at }, lang))} <a href="/api/${kind}/${record.id}.json">${escapeHtml(t("record.json", {}, lang))}</a></p>`;
 }
 
-// every record page goes through here so they share one layout
-export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, citeAs, description } = {}) {
+// Every record page goes through here so they share one layout:
+// kind and kicker, then the heading, its Odia form and a subtitle.
+// name stands in for record.name when the heading is another record's, as on renditions
+export function recordPage(ctx, record, { facts = [], main = "", player = "", citation, citeAs, description, kicker = "", name = record.name, subtitle } = {}) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const title = displayName(record, lang);
-  const odia = record.name?.or && lang !== "or" ? `<p class="film__lede" lang="or">${escapeHtml(record.name.or)}</p>` : "";
-  const header = `<p class="kind-label"><a href="/${kind}/">${escapeHtml(t(`kind.${kind}`, {}, lang))}</a></p>
-<h1 class="film__title">${escapeHtml(title)}</h1>
-${odia}`;
+  const heading = pick(name, lang)?.text ?? title;
+  const odia = name?.or && lang !== "or" ? `<p class="film__lede" lang="or">${escapeHtml(name.or)}</p>` : "";
+  const sub = subtitle ?? localized(record.subtitle, lang);
+  const header = `<p class="kind-label"><a href="/${kind}/">${escapeHtml(t(`kind.${kind}`, {}, lang))}</a>${kicker ? ` <span aria-hidden="true">›</span> ${kicker}` : ""}</p>
+<h1 class="film__title">${escapeHtml(heading)}</h1>
+${odia}
+${sub ? `<p class="film__subtitle">${sub}</p>` : ""}`;
   const cite = citation ?? recordCitation(ctx, record);
   const body = filmLayout({
     header,

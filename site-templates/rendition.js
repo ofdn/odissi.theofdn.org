@@ -1,4 +1,4 @@
-import { escapeHtml, t, link, embed, mediaLink, displayName, localized } from "./shared.js";
+import { escapeHtml, t, link, embed, mediaLink, displayName, renditionPeople } from "./shared.js";
 import { recordPage, links, verse, section, names, recordCitation, stanzaLabel } from "./music.js";
 
 const BIB = { recording: "audio", notation: "unpublished", manuscript_copy: "unpublished" };
@@ -73,12 +73,21 @@ export default function rendition(record, ctx) {
   const carrier = record.held_on?.length ? ctx.get(record.held_on[0].carrier) : null;
   const citation = recordCitation(ctx, record, {
     type: BIB[record.kind],
-    title: displayName(record, lang),
+    title: gita ? displayName(gita, lang) : displayName(record, lang),
     authors: poet,
     performers: record.kind === "recording" ? names(ctx, people) : [],
     year: record.date?.slice(0, 4),
     container: carrier && carrier.kind !== "online" ? displayName(carrier, lang) : undefined,
     note: record.kind === "notation" ? t("cite.notation_by", { names: names(ctx, people).join(", ") }, lang) : undefined,
   });
-  return recordPage(ctx, record, { facts, main, player: player(ctx, record), citation, description: displayName(record, lang) });
+  return recordPage(ctx, record, {
+    facts,
+    main,
+    player: player(ctx, record),
+    citation,
+    description: displayName(record, lang),
+    name: gita?.name,
+    kicker: escapeHtml([t(`rendition.kind.${record.kind}`, {}, lang), record.date].filter(Boolean).join(", ")),
+    subtitle: renditionPeople(record).map((id) => link(ctx, id)).join(", "),
+  });
 }

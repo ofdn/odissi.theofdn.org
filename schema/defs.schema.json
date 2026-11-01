@@ -205,6 +205,10 @@
         "name": {
           "$ref": "#/$defs/name"
         },
+        "subtitle": {
+          "description": "Shown under the title, such as the rest of a disc or upload title.",
+          "$ref": "#/$defs/text"
+        },
         "note": {
           "$ref": "#/$defs/text"
         },

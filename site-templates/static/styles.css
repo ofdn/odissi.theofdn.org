@@ -448,6 +448,7 @@ button.copy-id.copied::after { content: " \2713"; }
 .kind-label { margin: 0 0 0.5rem; font-weight: 700; }
 .kind-label a { color: var(--color-text-muted); }
 .film__lede:lang(or) { font-size: 1.35rem; margin: 0.5rem 0 0; }
+.film__subtitle { font-family: var(--font-body); font-size: 1.25rem; margin: 0.5rem 0 0; }
 .record-note { padding: 0.75rem 1rem; border-left: 3px solid var(--color-outline); max-width: var(--max-prose); }
 .record-meta { font-size: 0.95rem; color: var(--color-text-muted); }
 .sources { padding-left: 1.25rem; max-width: var(--max-prose); }

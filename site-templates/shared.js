@@ -80,14 +80,19 @@ export function altNames(record) {
 
 const TITLE_ROLES = { recording: ["vocalist", "instrumentalist"], notation: ["notator"], manuscript_copy: ["scribe"] };
 
-// "Kadamba bane bansi bajila re, sung by First1 Last1", for renditions with no name of their own
-export function renditionTitle(r, get, lang = "en") {
-  const gita = displayName(get(r.gita), lang);
+// the people a rendition is known by: singers, else players; notators; scribes
+export function renditionPeople(r) {
   for (const role of TITLE_ROLES[r.kind]) {
-    const people = r.credits.filter((c) => c.role === role).map((c) => displayName(get(c.person), lang));
-    if (people.length) return t(`rendition.title.${role}`, { gita, names: people.join(", ") }, lang);
+    const ids = r.credits.filter((c) => c.role === role).map((c) => c.person);
+    if (ids.length) return ids;
   }
-  return t("rendition.title", { gita, kind: t(`rendition.kind.${r.kind}`, {}, lang) }, lang);
+  return [];
+}
+
+// "Kadamba bane bansi bajila re (Notation, First1 Last1, 1969)" for tabs, search and links
+export function renditionTitle(r, get, lang = "en") {
+  const details = [t(`rendition.kind.${r.kind}`, {}, lang), ...renditionPeople(r).map((id) => displayName(get(id), lang)), r.date].filter(Boolean);
+  return t("rendition.title", { gita: displayName(get(r.gita), lang), details: details.join(", ") }, lang);
 }
 
 export function link(ctx, id) {
