@@ -6,9 +6,9 @@ import { join, dirname } from "node:path";
 import { pathToFileURL } from "node:url";
 import { createHash } from "node:crypto";
 import * as config from "./lib/config.js";
-import { loadRecords, refs, kindOf, publicCopy } from "./lib/records.js";
+import { loadRecords, refs, kindOf, publicCopy, tombstones } from "./lib/records.js";
 import { toCsv, flatten } from "./csv.js";
-import { configure, t, displayName, altNames, listPage, homePage, renditionTitle } from "../site-templates/shared.js";
+import { configure, t, displayName, altNames, listPage, homePage, renditionTitle, pageShell, escapeHtml } from "../site-templates/shared.js";
 
 const { DATA_DIR, OUT_DIR, TEMPLATE_DIR, KINDS, LANGS } = config;
 const STATIC_DIR = join(TEMPLATE_DIR, "static");
@@ -87,6 +87,15 @@ for (const kind of pageKinds) {
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
   }
   write(`${kind}/index.html`, rebase(lists[kind](ctx)));
+}
+
+// a retired id keeps its address, so old links and citations say what happened
+for (const id of tombstones(DATA_DIR)) {
+  const kind = kindOf(id);
+  if (!templates[kind]) continue;
+  const title = t("withdrawn.title", {}, lang);
+  const body = `<div class="page__wrap">\n<h1 class="page__title">${escapeHtml(title)}</h1>\n<p>${escapeHtml(t("withdrawn.text", { id }, lang))}</p>\n</div>`;
+  write(`${kind}/${id}/index.html`, rebase(pageShell({ title, body, lang, path: `/${kind}/${id}/` })));
 }
 
 const homeFile = join(TEMPLATE_DIR, "home.js");

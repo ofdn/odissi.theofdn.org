@@ -200,12 +200,14 @@
   "source.type.video": "Video",
   "source.type.interview": "Interview",
   "source.type.unpublished": "Unpublished",
-  "source.type.other": "Other",
   "source.contributing_note": "This is a contributing source. Many records in the archive draw on it, and they name it without repeating its authors.",
   "source.cited_by": "Records that cite this source",
   "source.cite": "Cite this source",
   "source.description": "{title}, a source cited in the archive, with the records that draw on it.",
   "source.contributing": "Contributing sources",
   "source.other": "Other sources",
-  "source.bib_all": "Download every source as BibTeX (sources.bib)"
+  "source.bib_all": "Download every source as BibTeX (sources.bib)",
+  "source.type.talk": "Talk",
+  "withdrawn.title": "Withdrawn record",
+  "withdrawn.text": "The identifier {id} was used for a record that has been withdrawn. It will not be used again."
 }

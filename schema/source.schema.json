@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://odissi.theofdn.org/schema/source.schema.json",
   "title": "Source",
-  "description": "A book, article, website, recording or other work that records cite. name.en is its title. The site builds a BibTeX entry for every source.",
+  "description": "A published or recorded work that records cite: a book, chapter, journal article, thesis, website, talk, recording, video, interview, or an unpublished manuscript or draft. Conversations about the archive itself, such as GitHub issues, are not sources. name.en is its title. The site builds a BibTeX entry for every source.",
   "type": "object",
   "allOf": [
     {
@@ -23,11 +23,11 @@
         "article",
         "thesis",
         "website",
+        "talk",
         "recording",
         "video",
         "interview",
-        "unpublished",
-        "other"
+        "unpublished"
       ]
     },
     "contributing": {

@@ -50,6 +50,8 @@ The site builds a BibTeX entry for every source. All of them are in `sources.bib
 
 ## Add a new source
 
+A source is a work: a book, a chapter, a journal article, a thesis, a website, a talk, a recording, a video, an interview, or an unpublished manuscript or draft. A GitHub issue or a chat about the archive is not a source. If someone tells you a fact there, cite the work it comes from, or add it to their unpublished draft.
+
 Check the list of sources on the site first. If the source is already there, cite its id.
 
 1. Open `data/source/` and find the highest number. If the last file is `om-source-000004.json`, the new one is `om-source-000005.json`.
@@ -76,7 +78,7 @@ Check the list of sources on the site first. If the source is already there, cit
    ```
 
    - `name.en` is the title as printed. Add the Odia title in `name.or`.
-   - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `recording`, `video`, `interview`, `unpublished` or `other`.
+   - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `talk`, `recording`, `video`, `interview` or `unpublished`.
    - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"om-person-000008"`.
    - For a chapter or an article, put the book or journal title in `in`, and the pages in `pages`.
    - For a website, add `url`. Run `npm run archive` to add `archive_url`.
@@ -84,6 +86,10 @@ Check the list of sources on the site first. If the source is already there, cit
 4. Save, open a pull request and wait for the check to pass. Then cite the new id from your records.
 
 The source gets its own page, with a BibTeX entry and a list of every record that cites it.
+
+## Withdrawing a record
+
+Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to `data/tombstones.json`. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
 
 ## Working on your own computer
 
