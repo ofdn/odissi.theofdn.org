@@ -1,0 +1,20 @@
+{
+  "id": "oa-raga-000021",
+  "name": {
+    "en": "Gouri",
+    "or": "ଗୌରୀ",
+    "alternates": [
+      "Gauri"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/gouri-gauri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

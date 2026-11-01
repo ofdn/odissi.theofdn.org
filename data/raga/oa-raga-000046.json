@@ -1,0 +1,22 @@
+{
+  "id": "oa-raga-000046",
+  "name": {
+    "en": "Jhinjoti",
+    "or": "ଝିଞ୍ଜୋଟି",
+    "alternates": [
+      "Jhinjhoti",
+      "Jhinjota",
+      "Jhinjhota"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/jhinjoti-jhinjhoti-jhinjhota-jhinjota-jhinjhata/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

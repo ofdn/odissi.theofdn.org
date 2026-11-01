@@ -1,0 +1,20 @@
+{
+  "id": "oa-raga-000051",
+  "name": {
+    "en": "Gujjari",
+    "or": "ଗୁଜ୍ଜରୀ",
+    "alternates": [
+      "Gunjari"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/gujjari-gujari-gurjari-gurjjari-gunjari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

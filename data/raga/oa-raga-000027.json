@@ -1,0 +1,20 @@
+{
+  "id": "oa-raga-000027",
+  "name": {
+    "en": "Khambaja",
+    "or": "ଖମ୍ବାଜ",
+    "alternates": [
+      "Khamaja"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/khambaja-khamaaja-khamaja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
