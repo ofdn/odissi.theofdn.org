@@ -1,0 +1,17 @@
+{
+  "id": "oa-raga-000006",
+  "name": {
+    "en": "Chakrabaka",
+    "or": "ଚକ୍ରବାକ"
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/chakrabaka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

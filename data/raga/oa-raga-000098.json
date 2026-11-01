@@ -1,0 +1,20 @@
+{
+  "id": "oa-raga-000098",
+  "name": {
+    "en": "Bhupala",
+    "or": "ଭୂପାଳ",
+    "alternates": [
+      "Bhoopala"
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/bhupala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

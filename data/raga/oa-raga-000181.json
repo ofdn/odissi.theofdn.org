@@ -1,0 +1,17 @@
+{
+  "id": "oa-raga-000181",
+  "name": {
+    "en": "Dipaka",
+    "or": "ଦୀପକ"
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/raga/dipaka-deepaka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
