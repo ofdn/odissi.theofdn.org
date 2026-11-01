@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/rendition.schema.json",
+  "title": "Rendition",
+  "description": "One performance, notation or manuscript copy of a gīta.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "required": [
+    "gita",
+    "kind",
+    "credits"
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-rendition-[0-9]{6}$"
+    },
+    "gita": {
+      "$ref": "defs.schema.json#/$defs/ref_gita"
+    },
+    "kind": {
+      "enum": [
+        "recording",
+        "notation",
+        "manuscript_copy"
+      ]
+    },
+    "credits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "person",
+          "role"
+        ],
+        "properties": {
+          "person": {
+            "$ref": "defs.schema.json#/$defs/ref_person"
+          },
+          "role": {
+            "enum": [
+              "vocalist",
+              "instrumentalist",
+              "chorus",
+              "music_director",
+              "notator",
+              "scribe"
+            ]
+          },
+          "instrument": {
+            "type": "string"
+          }
+        }
+      },
+      "minItems": 1
+    },
+    "raga": {
+      "type": "array",
+      "items": {
+        "$ref": "defs.schema.json#/$defs/ref_raga"
+      }
+    },
+    "tala": {
+      "type": "array",
+      "items": {
+        "$ref": "defs.schema.json#/$defs/ref_tala"
+      }
+    },
+    "stanzas": {
+      "$ref": "defs.schema.json#/$defs/numbers",
+      "description": "Stanzas sung or written; 0 for the ghoṣā."
+    },
+    "date": {
+      "$ref": "defs.schema.json#/$defs/date"
+    },
+    "based_on": {
+      "$ref": "defs.schema.json#/$defs/ref_rendition"
+    },
+    "lineage": {
+      "description": "Guru whose way of singing this follows.",
+      "$ref": "defs.schema.json#/$defs/ref_person"
+    },
+    "held_on": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "carrier"
+        ],
+        "properties": {
+          "carrier": {
+            "$ref": "defs.schema.json#/$defs/ref_carrier"
+          },
+          "side": {
+            "type": "string"
+          },
+          "track": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "string"
+          },
+          "start": {
+            "type": "integer",
+            "minimum": 0
+          }
+        }
+      }
+    },
+    "pitch": {
+      "type": "string",
+      "description": "Tonic as heard, e.g. C#."
+    },
+    "duration": {
+      "type": "string",
+      "pattern": "^([0-9]+:)?[0-5]?[0-9]:[0-5][0-9]$"
+    }
+  },
+  "unevaluatedProperties": false
+}

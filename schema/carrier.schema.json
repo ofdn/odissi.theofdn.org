@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/carrier.schema.json",
+  "title": "Carrier",
+  "description": "Where renditions are held: a disc, a manuscript, a book, a tape or an online copy.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "required": [
+    "kind",
+    "rights"
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-carrier-[0-9]{6}$"
+    },
+    "kind": {
+      "enum": [
+        "shellac",
+        "vinyl",
+        "cassette",
+        "tape",
+        "cd",
+        "manuscript",
+        "book",
+        "online"
+      ]
+    },
+    "label": {
+      "type": "string",
+      "description": "Record company or publisher."
+    },
+    "catalogue_number": {
+      "type": "string"
+    },
+    "matrix": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "year": {
+      "$ref": "defs.schema.json#/$defs/year"
+    },
+    "speed": {
+      "enum": [
+        "78",
+        "45",
+        "33⅓"
+      ]
+    },
+    "material": {
+      "enum": [
+        "palm_leaf",
+        "paper"
+      ]
+    },
+    "folios": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "script": {
+      "type": "string"
+    },
+    "scribe": {
+      "$ref": "defs.schema.json#/$defs/ref_person"
+    },
+    "collection": {
+      "$ref": "defs.schema.json#/$defs/ref_collection"
+    },
+    "online": {
+      "type": "array",
+      "items": {
+        "$ref": "defs.schema.json#/$defs/online"
+      }
+    },
+    "audio": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "format": {
+          "type": "string"
+        },
+        "bitrate": {
+          "type": "string"
+        },
+        "sample_rate": {
+          "type": "string"
+        },
+        "digitised_by": {
+          "type": "string"
+        },
+        "digitised_on": {
+          "$ref": "defs.schema.json#/$defs/date"
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "public_domain",
+            "in_copyright",
+            "unknown"
+          ]
+        },
+        "until": {
+          "$ref": "defs.schema.json#/$defs/year"
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "unevaluatedProperties": false
+}
