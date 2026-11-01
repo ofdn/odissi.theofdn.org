@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://odissi.theofdn.org/schema/kabya.schema.json",
+  "title": "Kābya",
+  "description": "A long work made of many gītas, in chapters or parts, such as a campū.",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "defs.schema.json#/$defs/common"
+    }
+  ],
+  "required": [
+    "poet"
+  ],
+  "properties": {
+    "id": {
+      "pattern": "^om-kabya-[0-9]{6}$"
+    },
+    "poet": {
+      "$ref": "defs.schema.json#/$defs/ref_person"
+    },
+    "form": {
+      "enum": [
+        "campu",
+        "kabya",
+        "nataka",
+        "gita_collection",
+        "other"
+      ]
+    },
+    "period": {
+      "type": "string"
+    },
+    "parts": {
+      "description": "Number of chapters or parts (paṭaḷa, chanda).",
+      "type": "integer",
+      "minimum": 1
+    },
+    "description": {
+      "$ref": "defs.schema.json#/$defs/text"
+    }
+  },
+  "unevaluatedProperties": false
+}
