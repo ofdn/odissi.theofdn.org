@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000335",
+  "name": {
+    "en": "Ago sakhi ki karibi nisi ta na sare",
+    "or": "ଆଗୋ ସଖୀ କି କରିବି ନିଶି ତ ନ ସରେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-sakhi-ki-karibi-nisi-ta-na-sare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଗୋ ସଖୀ କି କରିବି ନିଶି ତ ନ ସରେ",
+          "ବନ୍ଧୁ ନଇଲେ ମୋ ପୁରେ ମୋ ପୁରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସାଜି ମୁଁ କବରୀ ଖଞ୍ଜି ମାଧବୀ ସଞ୍ଜରେ",
+          "ଚାହିଁ ବସିଥିଲି ପରା ମାଧବୀ କୁଞ୍ଜରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କଣ୍ଟ ଦେଇ ଖଣ୍ଟ ଶଠ ଦଗା ଦେଲେ ମୋରେ",
+          "ବାଇ କରି ରାଈ ରାଈ ମୁରଲୀର ସ୍ୱରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କର୍ପୂର ଚନ୍ଦନ ହାର ସୁବାସ ପନୀରେ",
+          "ଭସାଅ ସଜନୀ ନେଇ ଯମୁନାର ନୀରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏକାଳେ ମୁରଲୀ ଶୁଭେ ନିକୁଞ୍ଜ ଦୁଆରେ",
+          "କବିଚନ୍ଦ୍ର କହେ ଏ ତ ନୁହଇଁ ନୂଆରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-sakhi-ki-karibi-nisi-ta-na-sare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000541",
+  "name": {
+    "en": "Asa asa mora saraga tara lo",
+    "or": "ଆସ ଆସ ଆସ ମୋର ସରଗ ତରା ଲୋ"
+  },
+  "composer": "oa-person-000015",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asa-asa-mora-saraga-tara-lo-banikantha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆସ ଆସ ଆସ ମୋର ସରଗ ତରା ଲୋ",
+          "ଅନା ଅନା କାଳିଆର ରଥଯାତରା ଲୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପଡ଼ିଛି ଆଜି ବନ୍ଧା ଅଣ୍ଟାଦଉଡ଼ି ଛନ୍ଦା",
+          "ବାଈଶିପାହାଚେ ଲାଗେ ଭିଡ଼ାଓଟରା ଲୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଝୁଲିଝୁଲି ଆସୁଛି ଛେଚାକଚା ଖାଉଛି",
+          "କି ସୁନ୍ଦର ଦିଶେ ମଥା ଟାହିଆଝରା ଲୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଥ ଷୋଳଚକିଆ ନନ୍ଦିଘୋଷକୁ ଚାହାଁ",
+          "ପତିତ ଉଦ୍ଧାର ପାଇଁ ବିଜୟ ପରା ଲୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୁରୀ ଠାକୁର ରଜା ଆସନ୍ତି ବାଜେ ବାଜା",
+          "ସାରୁଛନ୍ତି ରଥ ପରେ ଛେରାପହଁରା ଲୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asa-asa-mora-saraga-tara-lo-banikantha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

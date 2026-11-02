@@ -1,0 +1,62 @@
+{
+  "id": "oa-gita-000445",
+  "name": {
+    "en": "Suna barana jati mati mohana",
+    "or": "ସୁନା ବରନା ଯତି ମତି ମୋହନା"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000074"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/suna-barana-jati-mati-mohana-nagadhwani-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସୁନା ବରନା ଯତି ମତି ମୋହନା",
+          "ସୁମନା ରୁଷନା ମାନ ମନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "(ଧନୀ) ବରଜ ସାରା ବାଜେ ନାଗରା",
+          "ଧୀରା ନାଗରୀ ହୀରା ମୋହନ ଶିରଝରା",
+          "ମାନେ ବସନା",
+          "(ପଡ଼ି)",
+          "ଗୋରୀ ତୋରେ ଝୁରି ମୋହନ ଶିରୀ ହାରି",
+          "ସୁମନ ବାସି ସରି ଗଲାଣି ଝାଉଁଳି",
+          "ନାହିଁ ନାହିଁ କରନା ନବୀନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅନାରେ ସହି ଚନ୍ଦ୍ରମା ମୁହୀଁ କରେ ମୁରଲୀ ନାହିଁ",
+          "ଗାଇ ତୋ ଗୁଣ ବାଇ ଛଇଳ କାହ୍ନା",
+          "(ପଡ଼ି)",
+          "ରାଧା ରୁଷିଛି ମାନେ ବସିଛି",
+          "ଭଗାରୀ କରେ ଛି ଛି",
+          "କବିଶଶୀ ଭଣୁଛି ଜନେ ହସାନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/suna-barana-jati-mati-mohana-nagadhwani-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

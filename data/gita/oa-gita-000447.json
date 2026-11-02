@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000447",
+  "name": {
+    "en": "Chhaila rusi basana chandranana",
+    "or": "ଛଇଳା ରୁଷି ବସନା ଚନ୍ଦ୍ରାନନା"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000125"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhaila-rusi-basana-chandranana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛଇଳା ରୁଷି ବସନା ଚନ୍ଦ୍ରାନନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମାନ ତେଜରେ ଆନ ମୋର ବାରେ ତୁ ଘେନ",
+          "ମାନ ବଚନ ଅବଧାନ କର ମୋ ଧନ ।",
+          "ସହୀ ମହୀକି ଚାହିଁ ନାହିଁ ନାହିଁ ରଟନା ରେ",
+          "ସୁମନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚାନ୍ଦ ସୁନ୍ଦର ମୁଖ ଫୁଲାଇ ଦେଉ ଦୁଃଖ",
+          "ଟେକ ଲପନ ଟେକ କିଣାଜନେ ନିରେଖ ।",
+          "(ପଡ଼ି— ତ୍ରିପଟା)",
+          "ମାର ମାରଣେ ମରିବାର ଯେବେ ଗୋ ସାର",
+          "ଧିକ ବାଳୁତ କାଳୁ ଅନୁସରିଥିବାର",
+          "କମ ନୟନୁ ନୀର ଧାର ଧାର ଝରାନା ରେ",
+          "ନବୀନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦୟାବତୀ ବୋଲାଇ ଡିଣ୍ଡିମ ବାଜୁଥାଇ",
+          "ଏ କି ଗୁମାନ ସହୀ ଦିନେ ତ ଦେଖା ନାହିଁ ।",
+          "(ପଡ଼ି— ତ୍ରିପଟା)",
+          "ଦାସ ନାଶରେ ଅପଯଶ ତୁ ନ ଅରଜ",
+          "ଧରୁଛି ପାଣି ଗୁଣମଣି ରୁଷା ବରଜ",
+          "କବିଶଶୀରେ ଅନା କାନ୍ତ ହେମବରନା ରେ",
+          "ଶୋଭନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhaila-rusi-basana-chandranana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

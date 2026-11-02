@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-000333",
+  "name": {
+    "en": "Sahi re chahan nabakisora susama",
+    "or": "ସହିରେ ଚାହାଁ ନବକିଶୋର ସୁଷମା",
+    "alternates": [
+      "Chahan Sahire"
+    ]
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000082"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-re-chahan-nabakisora-susama-gouda-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସହିରେ ଚାହାଁ",
+          "ନବକିଶୋର ସୁଷମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସରସେ ବସନ୍ତ ହସେ ସୁରସେ ଧରା ବିକଶେ",
+          "ନିଖିଳ ମାଧୁରୀ ଠୂଳ ଶରଦ ଚନ୍ଦ୍ରମଣ୍ଡଳ",
+          "ବିହରେ କି ଧରା ଧାମେ ଛାର କାମ ଗାରିମା",
+          "(ପଡ଼ି)",
+          "କୁନ୍ଦ ନିନ୍ଦେ ଚାରୁ ଦନ୍ତପନ୍ତି ଯାର",
+          "ମୀନକେତନ ଧନୁଭଙ୍ଗୀ ଭୂରୁ କି ଛାର",
+          "ଅଙ୍ଗ ମହକେ ପାରିଜାତ ସୁମନ ହାର",
+          "ସଙ୍ଗ ଲୋଡ଼ଇ ଯତି ମାନସ ସୁରବରରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରୁଚି ରୋଚନା ବିନ୍ଦୁ ରଚନା ଜିତ ଇନ୍ଦୁ",
+          "ଅବା କୁମୁଦବନ୍ଧୁ ଶୋଭା ନୀଳସିନ୍ଧୁରେ ସେ",
+          "(ପଡ଼ି)",
+          "ତିନିଭଙ୍ଗୀରେ ଉଭା ତିନି ଭୁବନ ଲୋଭା",
+          "ଶିଖୀଚୂଳିଆ ଗଭା ଦେଖି ସତେ ସେ ଶୋଭା",
+          "ମୂରୁଛି କେ ଅଛି ସତୀ ଯୁବତୀ ବରତି ସହି ରେ"
+        ]
+      }
+    ]
+  },
+  "note": {
+    "en": "Chahan Sahire"
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-re-chahan-nabakisora-susama-gouda-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

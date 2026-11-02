@@ -1,0 +1,57 @@
+{
+  "id": "oa-gita-000421",
+  "name": {
+    "en": "Bihare dharare basanta aja",
+    "or": "ବିହରେ ଧରାରେ ବସନ୍ତ ଆଜ"
+  },
+  "composer": "oa-person-000015",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bihare-dharare-basanta-aja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବିହରେ ଧରାରେ ବସନ୍ତ ଆଜ",
+          "ପ୍ରକୃତି ସୁନ୍ଦରୀ ନବବେଶେ ସାଜ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଇ ଯୂଇ ମଲ୍ଲୀ କୁଞ୍ଜ କାନନରେ",
+          "ସୁବାସ ପ୍ରକାଶି ଜବା ମନ ହରେ ।",
+          "(ପଡ଼ି)",
+          "କୋଇଲି ପଞ୍ଚମ ତାନରେ",
+          "ଆନରେ ଏ କି ମାନରେ",
+          "କୁମୁଦିନୀ ସଙ୍ଗେ ରଙ୍ଗରେ",
+          "ମଧୁରେ ମଧୁପ ମଧୁପାନ କରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଳୟ ମରୁତ ମହକ ଦେଲାତ",
+          "ରସାଇ ରସିକ ମହତ ନେଲାତ ।",
+          "(ପଡ଼ି)",
+          "କୁନ୍ଦଜରଜର ମନ୍ଦହାସିନୀ",
+          "ଅଙ୍ଗେ ବୋଳି ସୁଗନ୍ଧି ଚନ୍ଦନ",
+          "ଚୁମ୍ବି ଚନ୍ଦ୍ରସୁଭାନରେ",
+          "କବିଚନ୍ଦ୍ର ରସେ ଯାମିନୀ ନାଗରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bihare-dharare-basanta-aja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

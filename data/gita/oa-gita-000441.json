@@ -1,0 +1,48 @@
+{
+  "id": "oa-gita-000441",
+  "name": {
+    "en": "Garaje ghana ghora",
+    "or": "ଗରଜେ ଘନ ଘୋର"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000124"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/garaje-ghana-ghora-megha-raga/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଗରଜେ ଘନ ଘୋର ଗଗନ ଘନ ଛାଇ",
+          "ଦାମିନୀ ଚମକେ ନୟନ ନଚାଇ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଷା ବରଷେ ଝିଲ୍ଲୀ ଡାକେ",
+          "କମ୍ପେ ଛାତି ମୋର ସାଥି ତ ନାହିଁ ପାଶେ",
+          "ଝରେ ନୀର ଧାରା ନୟନ ଧାରେ",
+          "ଅନ୍ଧ କବିଶଶୀ ଏ ଘନ ଦିନ ଚାହିଁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/garaje-ghana-ghora-megha-raga/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "oa-gita-000434",
+  "name": {
+    "en": "Manda hasini re kunda pasanda dasana",
+    "or": "ମନ୍ଦହାସିନୀ ରେ କୁନ୍ଦ ପସନ୍ଦ ଦଶନା"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manda-hasini-re-kunda-pasanda-dasana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନ୍ଦହାସିନୀ ରେ କୁନ୍ଦ ପସନ୍ଦ ଦଶନା",
+          "ଅରବିନ୍ଦ ଲପନା ତୁ ରୁଷି ବସନା ନବୀନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନା ରେ ସଜନୀ ଅନା ମନ ମୋହନା ତୋ ବିନା",
+          "ମୋହନ ମୁରଲୀ ଘେନା ପାଶୋରି ଦେଲାଣି ସିନା",
+          "(ପଡ଼ି)",
+          "ଯମୁନା ତଟ ପଟ ନୀପ ବନ ନିକଟ",
+          "ନଟନ ତେଜି ନଟ ଧରା ଲୁଟେ ନିପଟ",
+          "ଝୁରି କିଶୋରୀ ଗୋରୀ ସେ ତ ଗଲାଣି ସରି",
+          "ବର ବରନା ମାନ କରନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୋ ଲାଗି ରେ ପୀତପଟ ଆଦିରିଛି ପୀତ ପଟ",
+          "ନ ମାନି ଯେତେ ଆକଟ ସବୁ କରି ପିଠି ପଟ",
+          "(ପଡ଼ି)",
+          "ମୁରଲୀ ଧରି କରେ ତୋ ନାମ ରଟେ ସେ ରେ",
+          "ଏ ବରଜ ବଜାରେ ଥାଉ ଗୋଈ ହଜାରେ",
+          "କବିଶଶୀ ପଚାରେ ଆନେ କି ଯାଏ ରସେ",
+          "କାଳିଆ ସୁନା କହ ନବୀନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manda-hasini-re-kunda-pasanda-dasana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
