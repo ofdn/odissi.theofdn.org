@@ -2,7 +2,10 @@
   "id": "oa-person-000029",
   "name": {
     "en": "Ramachandra Deba",
-    "or": "ରାମଚନ୍ଦ୍ର ଦେବ"
+    "or": "ରାମଚନ୍ଦ୍ର ଦେବ",
+    "alternates": [
+      "Ramachandra Deb"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

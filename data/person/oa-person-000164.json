@@ -2,7 +2,10 @@
   "id": "oa-person-000164",
   "name": {
     "en": "Chandrachudamani Jagaddeba Harichandana",
-    "or": "ଚନ୍ଦ୍ରଚୂଡ଼ାମଣି ଜଗଦ୍ଦେବ ହରିଚନ୍ଦନ"
+    "or": "ଚନ୍ଦ୍ରଚୂଡ଼ାମଣି ଜଗଦ୍ଦେବ ହରିଚନ୍ଦନ",
+    "alternates": [
+      "Chandrachudamani Jagaddeb Harichandan"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

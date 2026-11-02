@@ -2,7 +2,10 @@
   "id": "oa-person-000038",
   "name": {
     "en": "Dwija Padmanabha",
-    "or": "ଦ୍ୱିଜ ପଦ୍ମନାଭ"
+    "or": "ଦ୍ୱିଜ ପଦ୍ମନାଭ",
+    "alternates": [
+      "Dwija Padmanabh"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

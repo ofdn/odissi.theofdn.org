@@ -2,7 +2,10 @@
   "id": "oa-person-000080",
   "name": {
     "en": "Anangabhima Deba",
-    "or": "ଅନଙ୍ଗଭୀମ ଦେବ"
+    "or": "ଅନଙ୍ଗଭୀମ ଦେବ",
+    "alternates": [
+      "Anangabhim Deb"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

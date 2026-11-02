@@ -2,7 +2,10 @@
   "id": "oa-person-000077",
   "name": {
     "en": "Rajendra Deba",
-    "or": "ରାଜେନ୍ଦ୍ର ଦେବ"
+    "or": "ରାଜେନ୍ଦ୍ର ଦେବ",
+    "alternates": [
+      "Rajendra Deb"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

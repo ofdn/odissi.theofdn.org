@@ -2,7 +2,10 @@
   "id": "oa-person-000114",
   "name": {
     "en": "Krusna Dasa Badajena",
-    "or": "କୃଷ୍ଣଦାସ ବଡ଼ଜେନା"
+    "or": "କୃଷ୍ଣଦାସ ବଡ଼ଜେନା",
+    "alternates": [
+      "Krusna Das Badajena"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

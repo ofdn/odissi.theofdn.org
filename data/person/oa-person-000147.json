@@ -2,7 +2,10 @@
   "id": "oa-person-000147",
   "name": {
     "en": "Syamasundara Bhanja",
-    "or": "ଶ୍ୟାମସୁନ୍ଦର ଭଞ୍ଜ"
+    "or": "ଶ୍ୟାମସୁନ୍ଦର ଭଞ୍ଜ",
+    "alternates": [
+      "Syamasundar Bhanja"
+    ]
   },
   "roles": [
     "composer"
@@ -17,5 +20,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

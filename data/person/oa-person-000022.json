@@ -2,7 +2,10 @@
   "id": "oa-person-000022",
   "name": {
     "en": "Brajasundara Narendra",
-    "or": "ବ୍ରଜସୁନ୍ଦର ନରେନ୍ଦ୍ର"
+    "or": "ବ୍ରଜସୁନ୍ଦର ନରେନ୍ଦ୍ର",
+    "alternates": [
+      "Brajasundar Narendra"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

@@ -2,7 +2,10 @@
   "id": "oa-person-000155",
   "name": {
     "en": "Abhimanyu Samanta Singhara",
-    "or": "ଅଭିମନ୍ୟୁ ସାମନ୍ତସିଂହାର"
+    "or": "ଅଭିମନ୍ୟୁ ସାମନ୍ତସିଂହାର",
+    "alternates": [
+      "Abhimanyu Samanta Singhar"
+    ]
   },
   "roles": [
     "composer"
@@ -16,5 +19,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }
