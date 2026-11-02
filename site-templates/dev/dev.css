@@ -1,0 +1,110 @@
+/* Pattachitra trial, loaded on top of styles.css on /dev/ only. colours from a painted card frame (vermilion, leaf green, ochre, haldi yellow) */
+
+:root {
+  --pc-red: #d9352d;
+  --pc-green: #3a6842;
+  --pc-green-deep: #1e3a26;
+  --pc-ochre: #c9973f;
+  --pc-yellow: #fcd964;
+  --pc-grain: url(grain.svg);
+  --pc-trefoil: url(trefoil.svg);
+  --pc-rule: url(rule.svg);
+  --pc-line: url(line-v.svg);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --pc-red: #f57a63;
+    --pc-grain: url(grain-dark.svg);
+    --pc-trefoil: url(trefoil-dark.svg);
+    --pc-rule: url(rule-dark.svg);
+    --pc-line: url(line-v-dark.svg);
+  }
+}
+:root[data-theme="dark"] {
+  --pc-red: #f57a63;
+  --pc-grain: url(grain-dark.svg);
+  --pc-trefoil: url(trefoil-dark.svg);
+  --pc-rule: url(rule-dark.svg);
+  --pc-line: url(line-v-dark.svg);
+}
+
+/* paper grain, so the lists feel less like a spreadsheet */
+body { background-image: var(--pc-grain); }
+
+/* Header: painted red edge between an ochre and a black line */
+.site-header {
+  border-bottom: 0;
+  padding-bottom: calc(0.75rem + 12px);
+}
+.site-header::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 12px;
+  background: url(edge.svg) repeat-x left center / auto 12px;
+}
+.site-nav a[aria-current] { border-bottom-color: var(--pc-yellow); }
+.header-search:focus-within { border-color: var(--pc-yellow); }
+
+/* Footer: painted vine band, leaf green, vermilion at the very bottom */
+.site-footer {
+  position: relative;
+  padding-top: 26px;
+  background: var(--pc-green-deep);
+  color: #F3ECC9;
+  border-bottom: 6px solid #d9352d;
+}
+.site-footer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 26px;
+  background: url(band.svg) repeat-x left center / auto 26px;
+}
+.site-footer a { color: var(--pc-yellow); }
+
+/* Titles get the red brush line the painter draws under a heading */
+.page__title, .film__title {
+  padding-bottom: 0.6rem;
+  background: var(--pc-rule) no-repeat left bottom / min(100%, 22rem) 6px;
+}
+
+/* three dots before section headings, as either side of the painted title */
+.film__main h2, .page-end h2, .page__wrap > h2:not(.letter), .label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.film__main h2::before, .page-end h2::before, .page__wrap > h2:not(.letter)::before, .label::before {
+  content: "";
+  flex-shrink: 0;
+  width: 0.85em;
+  height: 0.78em;
+  background: var(--pc-trefoil) no-repeat center / contain;
+}
+
+/* A painted black and ochre line between Details and the text. one tile repeats, so it fits a long or a short page */
+@media (min-width: 900px) {
+  .film__body { grid-template-columns: 17rem 1fr; }
+  .film__wrap .page-end { grid-template-columns: 17rem 1fr; }
+  .film__body, .film__wrap .page-end:not(.page-end--solo) { position: relative; }
+  .film__body::before, .film__wrap .page-end:not(.page-end--solo)::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: calc(17rem + 2rem - 7px);
+    width: 14px;
+    background: var(--pc-line) center top / 14px auto;
+    background-repeat: no-repeat round;
+  }
+}
+@media (min-width: 900px) and (min-height: 700px) {
+  .film__facts { top: 9.5rem; }
+}
+
+ul.record-list li { border-bottom-color: color-mix(in srgb, var(--pc-ochre) 45%, transparent); }
