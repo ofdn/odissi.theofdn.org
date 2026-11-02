@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000543",
+  "name": {
+    "en": "Pancha bana bana banchana re",
+    "or": "ପଞ୍ଚବାଣ ବାଣ ବଞ୍ଚନାରେ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pancha-bana-bana-banchana-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଞ୍ଚବାଣ ବାଣ ବଞ୍ଚନାରେ",
+          "କିଞ୍ଚିତେ ଦାସକୁ ମୁଞ୍ଚନା ।",
+          "ପ୍ରେୟସୀରେ ଗଜରାଜ ବିନିନ୍ଦିତ ଗାମିନୀ",
+          "ଭାମିନୀ ଯାମିନୀଶ ବଦନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବାଞ୍ଛିତ ଦାନରେ ନିରତ ଲାଞ୍ଛିତ",
+          "ସୁର ତରୁବର ସୁରଭି ଦୁବ୍ରତ",
+          "କୁଞ୍ଜପୁଞ୍ଜ ନବକେଳି ରଞ୍ଚିତ",
+          "ମନ୍ଦରଊରଜା କୁନ୍ଦକଳିରଦନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପାମର କାମର ନାମେ ଦାସ ଥରେ",
+          "ବନ୍ଧୁକ ବାନ୍ଧବ ଅଧରାରେ ଥରେ",
+          "ମୁଞ୍ଚ ମୁଞ୍ଚ ଦରହାସୀ ନା ଥରେ",
+          "ସଞ୍ଚିତ କିଞ୍ଚିତ ଦୋଷକୁ ସୁଲୋଚନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pancha-bana-bana-banchana-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

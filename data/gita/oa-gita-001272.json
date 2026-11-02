@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001272",
+  "name": {
+    "en": "Brajaraja kumara aja nasibe bibeka",
+    "or": "ବ୍ରଜରାଜ କୁମର ଆଜ ନାଶିଲେ ବିବେକ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-kumara-aja-nasibe-bibeka-sankarabharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବ୍ରଜରାଜ କୁମର",
+          "ଆଜ ନାଶିଲେ ବିବେକ ମୋର ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଗୋ ପାଣି ମୋହର ଧଇଲେ",
+          "ବାଣୀରେ ମୋ ମନ ରଞ୍ଜାଇ ଦେଲେ ଗୋ",
+          "ବୀଣାବାଣୀ ଶୁଣାଇଲେ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଗୋ ନିର୍ଜନ ହୋଇଛି ବନ",
+          "କୁଞ୍ଜରେ ବିଜୟେ ରାଧାମୋହନ ଗୋ",
+          "ସଙ୍ଗେ ଛନ୍ତି ସଖୀଗଣ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଗୋ ବନ ପାଇଁ ଥିଲି ଯାଇ",
+          "ବନଜ ନେତ୍ରଙ୍କୁ ବନରେ ଦେଖିଣ",
+          "ବନରେ ପଶିଲି ଯାଇ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଗୋ ଧର ଧର ସେ ବୋଲଇ",
+          "ଧରାଧର ନାଥ ପାଶକୁ ଯାଇ ଗୋ",
+          "ଧରମ ସହିବ ନାହିଁ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-kumara-aja-nasibe-bibeka-sankarabharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

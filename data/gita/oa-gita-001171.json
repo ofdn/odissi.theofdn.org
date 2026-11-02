@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001171",
+  "name": {
+    "en": "Pathara hela he prabhu pathara teka",
+    "or": "ପଥର ହେଲ ହେ ପ୍ରଭୁ ପଥର ଟେକା"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pathara-hela-he-prabhu-pathara-teka-bhairabi-khemata/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଥର ହେଲ ହେ ପ୍ରଭୁ ପଥର ଟେକା",
+          "ପଥର ନୀଳଚକ୍ରରେ ଉଡ଼େ ପତାକା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପଥର ହୋଇ ଅହଲ୍ୟା ପତି ଶାପେ ପଡ଼ିଥିଲା",
+          "ପଥରେ ପୟର ଦେଇ କଲ ନାୟିକା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଥରେ ଭେଟିଲା ହନୁ ଦୂତ ହେଲା ସେହି ଦିନୁ",
+          "ପଥର ବାନ୍ଧିଣ ସିନ୍ଧୁ ଲାଙ୍ଘିଲ ଲଙ୍କା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଥରେ ଭେଟି ସୁଗ୍ରୀବ ଆଚରିଲା ମିତ୍ର ଭାବ",
+          "ପଥରେ ପଥର ଫିଙ୍ଗି ଭାଙ୍ଗିଲ ଲଙ୍କା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପଥରେ ଗଢ଼ା ଶରୀର ତୁମ୍ଭର ହେ ଚକ୍ରଧର",
+          "ଏ ଗରିବ ଡାକ କର୍ଣ୍ଣେ ନ ଶୁଣ କିମ୍ପା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pathara-hela-he-prabhu-pathara-teka-bhairabi-khemata/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

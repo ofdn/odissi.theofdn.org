@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-001105",
+  "name": {
+    "en": "Manini re mana teja eniki",
+    "or": "ମାନିନୀ ରେ ମାନ ତେଜ ଏଣିକି"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000074"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manini-re-mana-teja-eniki/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମାନିନୀ ରେ ମାନ ତେଜ ଏଣିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଜଳ ନୟନେ କଜ୍ଜ୍ୱଳ ଲଗାଇ",
+          "ସଜାଇ ଦେଲା କେ ଫୁଲ ବେଣୀ",
+          "(ପଡ଼ି)",
+          "ଅଭିସାରେ ସାଜ ସାଜି ଆଜି ଗୋରୀ",
+          "ନୂପୁର ବଜାଇ ଚାଲେ ଥିରିଥିରି",
+          "କଟୀରେ କିଙ୍କିଣୀ ବାଜେ କିଣିକିଣି",
+          "ଏଣୀନୟନା ସେ ମଧୁ ଛାଣିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଡାକେ ମୁରଲୀ ରାଧା ରାଧା ବୋଲି",
+          "ନୀଳ ନଭେ ଶଶୀ ଖେଳେ ଲୁଚକାଳି",
+          "ଯମୁନା ତଟିନୀ ବହଇ ଊଜାଣି",
+          "ସରାଗରେ ଘେନି ସଖୀ ଶ୍ରେଣୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manini-re-mana-teja-eniki/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

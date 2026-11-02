@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-000314",
+  "name": {
+    "en": "Bina karana re tu suna jita",
+    "or": "ବିନା କାରଣରେ ତୁ ସୁନାଜିତ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000060"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bina-karana-re-tu-suna-jita/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବିନା କାରଣରେ ତୁ ସୁନାଜିତ",
+          "ବରବରନା କେଣେ ହେଉ ବିମନା ରେ ।",
+          "ମନାସି କିସ ମନେ ଅନାଦର ବହିଛୁ",
+          "ଅନା ଶ୍ୟାମେ ହୋଇ ସୁମନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘେନାଇ କହିଲେ ନ ଅନାଉ ଭାଳି ଭାଳି",
+          "ସୁନାଦେହକୁ କରୁ ଚୂନା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମନା କର ନା ଧନ ମନାଇ କହୁଛି",
+          "ସେ ସିନା ଆମ ଜୀବନ କିନା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bina-karana-re-tu-suna-jita/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

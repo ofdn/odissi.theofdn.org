@@ -1,0 +1,50 @@
+{
+  "id": "oa-gita-001352",
+  "name": {
+    "en": "Ahe hara gouri kailasa giri bihari",
+    "or": "ଆହେ ହର ଗୌରୀ କୈଳାସ ଗିରି ବିହାରୀ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000138"
+  ],
+  "mula_tala": [
+    "oa-tala-000013"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-hara-gouri-kailasa-giri-bihari-malaba-kousika-matha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ହର ଗୌରୀ",
+          "କୈଳାସ ଗିରି ବିହାରୀ",
+          "ଜୁହାରୁଛି ଶ୍ରୀ ଚରଣେ",
+          "ଘେନ ବାରେ ମୋ ଗୁହାରି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୁହିଁ ଦୀନ ହୀନ ଜନ",
+          "ତବ କୃପା ଭିକାରୀ",
+          "ଜଣାଣ ଗାଉଛି ବାରେ",
+          "ତବ ନାମ ହକାରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-hara-gouri-kailasa-giri-bihari-malaba-kousika-matha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

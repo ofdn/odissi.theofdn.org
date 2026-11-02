@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001181",
+  "name": {
+    "en": "Rakha bajana rakha pakhauja",
+    "or": "ରଖ ବାଜଣା ରଖ ପଖଉଜ"
+  },
+  "composer": "oa-person-000014",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rakha-bajana-rakha-pakhauja-bani-odissi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରଖ ବାଜଣା ରଖ ପଖଉଜ ବାଣୀ",
+          "ମଖମଲ ବାଣୀ ବାଜେଣା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭଲ ଏ ନଉବତ କୁଞ୍ଜ ହୋଇଛି ମିତ",
+          "ନିଦ୍ରାଳୁ ହେଲେଣି ପାଟଣା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିକଟେ ରଟିବାର ପ୍ରକଟି ବାରମ୍ବାର",
+          "ଘଟା କି କରୁ ନାହିଁ ଜଣା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଜନୀ ହେଲା ଅର୍ଦ୍ଧ ଆହୁରି ଏ କି ସଧ",
+          "ବେତ୍ର ହାତେ ଛାମୁରେ ଜଣା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଧରି ଯୋଡ଼ ମସାଲ ବିଜେ କରାଇ ଚାଲ",
+          "ମୁଣୋହିଁ ମନ୍ଦିର ଅଙ୍ଗଣା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶୁଣି କିଶୋରୀଚନ୍ଦ୍ର ପାଇଁ ଅତି ଆନନ୍ଦ",
+          "ଉଭା ହେଲେ ପହଣ୍ଡ ମଣା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rakha-bajana-rakha-pakhauja-bani-odissi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

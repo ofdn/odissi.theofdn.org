@@ -1,0 +1,63 @@
+{
+  "id": "oa-gita-000972",
+  "name": {
+    "en": "Ehiki bidhira bichara",
+    "or": "ଏହି କି ବିଧିର ବିଚାର"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000140"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehiki-bidhira/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି କି ବିଧିର ବିଚାର",
+          "ଚାରୁଲତା କରେ ଛାରଖାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ନବ ମଲ୍ଲିକା କମଳ କଳିକା",
+          "ପରା ସେ ବାଳିକା ସୁସ୍ନେହ ପାଳିକା",
+          "ସଦା ବହେ ଲୁହଧାର ନାହିଁ ଉପଚାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସେ ନବକିଶୋରା ଲାବଣ୍ୟ ପସରା",
+          "ସତେ ଅପସରା ଧରା ମଣେ ସରା",
+          "ଖାଇଣ ପ୍ରେମ ଗଞ୍ଜାଇ ତେଜିଲା ବିଚାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯେ ଯାକୁ ଅନ୍ତରେ ଭାବେ ଏକାନ୍ତରେ",
+          "ପୀରତି ମନ୍ତରେ",
+          "ସେ ତାହାକୁ ମିଛେ କିମ୍ପା କରେ ପରିହାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehiki-bidhira/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
