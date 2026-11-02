@@ -14,7 +14,11 @@ const { DATA_DIR, OUT_DIR, TEMPLATE_DIR, KINDS, LANGS } = config;
 const STATIC_DIR = join(TEMPLATE_DIR, "static");
 
 // templates link from the site root; this moves those links under BASE_PATH
-const rebase = (html) => (config.BASE_PATH === "/" ? html : html.replace(/ (href|src|action|data-index)="\/(?!\/)/g, ` $1="${config.BASE_PATH}`));
+// and opens links to other sites in a new window
+function rebase(html) {
+  const out = config.BASE_PATH === "/" ? html : html.replace(/ (href|src|action|data-index)="\/(?!\/)/g, ` $1="${config.BASE_PATH}`);
+  return out.replace(/<a ([^>]*?)href="(https?:\/\/[^"]+)"/g, (m, attrs, u) => (u.startsWith(config.SITE_URL) ? m : `<a ${attrs}href="${u}" target="_blank" rel="noopener"`));
+}
 
 function write(relPath, content) {
   const full = join(OUT_DIR, relPath);
