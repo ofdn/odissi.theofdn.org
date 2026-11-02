@@ -136,7 +136,7 @@ if (existsSync(DEV_DIR)) {
     const credit = icon && existsSync(join(DEV_DIR, `${icon}-credit.html`)) ? rebase(readFileSync(join(DEV_DIR, `${icon}-credit.html`), "utf8").trim()) : "";
     const withIcon = icon && existsSync(join(DEV_DIR, `${icon}.png`))
       ? html
-          .replace('<header class="page__header">', `<header class="page__header page__header--icon">\n<img class="kind-icon" src="${dev}${icon}.png" alt="" width="160" height="160">`)
+          .replace('<header class="page__header">', `<header class="page__header page__header--icon">\n<img class="kind-icon" src="${dev}${icon}.png?v=${hash(readFileSync(join(DEV_DIR, `${icon}.png`)))}" alt="" width="160" height="160">`)
           .replace(/(<p class="page__count">.*?<\/p>)/, credit ? `$1\n<p class="kind-icon__credit">${credit}</p>` : "$1")
       : html;
     // page links move under /dev/, files (css, js, json, bib) stay where they are
