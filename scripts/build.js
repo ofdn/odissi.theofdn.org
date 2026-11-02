@@ -128,13 +128,16 @@ write("dumps/all.ndjson", [...records.values()].map((r) => JSON.stringify(r) + "
 const DEV_DIR = join(TEMPLATE_DIR, "dev");
 if (existsSync(DEV_DIR)) {
   const dev = config.BASE_PATH + "dev/";
-  for (const name of readdirSync(DEV_DIR)) write(`dev/${name}`, readFileSync(join(DEV_DIR, name)));
+  for (const name of readdirSync(DEV_DIR)) if (!name.endsWith("-credit.html")) write(`dev/${name}`, readFileSync(join(DEV_DIR, name)));
   const head = `<meta name="robots" content="noindex, nofollow">\n<link rel="stylesheet" href="${dev}dev.css?v=${hash(readFileSync(join(DEV_DIR, "dev.css")))}">\n</head>`;
   for (const [rel, html] of pages) {
     // a list page gets its kind's picture when dev/<kind>.png exists
     const icon = rel.match(/^(\w+)\/index\.html$/)?.[1];
+    const credit = icon && existsSync(join(DEV_DIR, `${icon}-credit.html`)) ? rebase(readFileSync(join(DEV_DIR, `${icon}-credit.html`), "utf8").trim()) : "";
     const withIcon = icon && existsSync(join(DEV_DIR, `${icon}.png`))
-      ? html.replace('<header class="page__header">', `<header class="page__header page__header--icon">\n<img class="kind-icon" src="${dev}${icon}.png" alt="" width="160" height="160">`)
+      ? html
+          .replace('<header class="page__header">', `<header class="page__header page__header--icon">\n<img class="kind-icon" src="${dev}${icon}.png" alt="" width="160" height="160">`)
+          .replace(/(<p class="page__count">.*?<\/p>)/, credit ? `$1\n<p class="kind-icon__credit">${credit}</p>` : "$1")
       : html;
     // page links move under /dev/, files (css, js, json, bib) stay where they are
     const out = withIcon
