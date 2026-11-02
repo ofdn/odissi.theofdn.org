@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000855",
+  "name": {
+    "en": "Syama he sata kaha",
+    "or": "ଶ୍ୟାମ ହେ ସତ କହ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-he-sata-kaha-jhinjhoti-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ହେ ସତ କହ",
+          "କିଏ ଶିଖାଇଲା ଏ ମୁରଲୀ ଧରା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାହା ଲାଗି ତୁମେ ଯାଅ ଯମୁନା",
+          "କାହା ଲାଗି ତୁମେ ଛଇଳ କାହ୍ନା",
+          "କାହା ଲାଗି ତୁମେ ବାଙ୍କଚୂଳ ପରେ",
+          "ରଙ୍ଗେ ଖଞ୍ଜିଅଛ ଶିଖଣ୍ଡଝରା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାହା ଲାଗି ତୁମେ ଯାଅ ଯମୁନା",
+          "କାହା ଲାଗି ତୁମେ ଛଇଳ କାହ୍ନା",
+          "କାହା ଲାଗି ତୁମେ ବାଙ୍କଚୂଳ ପରେ",
+          "ରଞ୍ଜି ଖଞ୍ଜିଅଛ ଶିଖଣ୍ଡଝରା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାଧା ବିନେ ଆଉ କାହାରି ନାମ",
+          "ମୁରଲୀରେ ଧରି ନ ଜାଣ ଶ୍ୟାମ",
+          "କଦମ୍ବର ମୂଳେ କାହା ପଥ ଚାହିଁ",
+          "ଝରାଅ କମଳନୟନୁ ଧାରା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପ୍ରେମର ଗୁରୁ ସେ ବରଜ ଗୋଇ",
+          "ଦଗା ଦେଲା ତାରେ କଲା କହ୍ନାଇ",
+          "କହେ କବିଶଶୀ କହ କଳାଶଶୀ",
+          "କୀରତି ପତାକା ଉଡ଼ାଇ ପରା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-he-sata-kaha-jhinjhoti-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

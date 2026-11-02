@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000802",
+  "name": {
+    "en": "Sajani re aau na ja paniki",
+    "or": "ସଜନୀରେ ଆଉ ନ ଯା ପାଣିକି"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-re-aau-na-ja-paniki-basanta-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀରେ ଆଉ ନ ଯା ପାଣିକି",
+          "ଦୂରୁ ଜୁହାର ସେ ଶଠ ଶେଖର",
+          "ନିପଟ କପଟ ବେଣୁପାଣିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିରୋଳା ଭେଟିଲେ ଚାହିଁ ରହେ ଖାଲି",
+          "ଆଖିରେ ତାର ଗୋ ମତି ଯାଏ ଭୁଲି",
+          "ଚାରି ଆଖି ଯେବେ ଯାଏ ମିଳି ସଖି",
+          "ଲାଜ ମହତ ସେ ନିଏ ଟାଣିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଞ୍ଜ ବେଳେ କୁଞ୍ଜ କାନନ ପାଶରେ",
+          "ଚାହିଁଥାଏ ସଖୀ ତାହାରି ଆଶାରେ",
+          "ଲୁଚି ଲୁଚି ପଛୁ ଛଇଳ ନାଗର",
+          "ଚମକେ ମୁଁ ସଖୀ ଟାଣେ କାନିକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଜଳ ଆଖିଟି କେତେ କଥା କହେ",
+          "ମନ ରାଗ ମୋର ମନେ ମନେ ରହେ",
+          "କଥା ନ କହି ମୋ ଗତି ନ ଥାଏ",
+          "କେତେ ଏଡ଼ିବି ସେ ଚାଟୁ ବାଣୀକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲିଭି ଲିଭି ଆସେ ଦିନର ଆଲୁଅ",
+          "ଝରି ଝରି ପଡ଼େ ଟୋପି ଟୋପି ଲୁହ",
+          "ଶରମେ ଶରମେ ଫେରେଁ ଲୋ ଘରକୁ",
+          "ସପନରେ ଦେଖେ ସେହି ଠାଣିକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-re-aau-na-ja-paniki-basanta-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

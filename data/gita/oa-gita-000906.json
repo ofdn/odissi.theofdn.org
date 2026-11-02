@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000906",
+  "name": {
+    "en": "Jani nathili sajani",
+    "or": "ଜାଣି ନଥିଲି ସଜନୀ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000164"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jani-nathili-sajani-sena-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜାଣି ନଥିଲି ସଜନୀ ଦରହାସ କିସ ବୋଲି",
+          "ଶିଖି ନଥିଲି ସଜନୀ ଅଳସୀ ମରାଳୀ ଚାଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଢଳା ଅନାଉଣି ସତେ ଜଣା ତ ନଥିଲା ମୋତେ",
+          "ରଦନେ ପଣନ୍ତ ଭିଡ଼ା ଶିଖିଲି ମୁଁ ପରା କାଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମନ କଥା କେବେ ସହି ଆଖିରେ ନଥିଲି କହି",
+          "କି କରିରେ ନ ପଢ଼ି ସେ ପାଠ ପାଟ ଚାଟ ହେଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦମଦମ ହେବା ଛାତି ଘୁମ ଭୁଲା ମଧୁରାତି",
+          "ଛାଇ ଦେଖି ବାଇ ହେବା ଆଗେ ତ ବାରି ନଥିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କବିଚନ୍ଦ୍ର କହେ ଧନ ଅତନୁରେ ଗୁରୁ ମାନ",
+          "ଆହୁରି ଯା ଅଛି ବାକି ବଢ଼ାଇ ଦେବ ସେ ବେଲି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jani-nathili-sajani-sena-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

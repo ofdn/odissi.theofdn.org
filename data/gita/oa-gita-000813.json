@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000813",
+  "name": {
+    "en": "Rahi syama bandhu asare",
+    "or": "ରହି ଶ୍ୟାମ ବନ୍ଧୁ ଆଶାରେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rahi-syama-bandhu-asare-mukhari-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରହି ଶ୍ୟାମ ବନ୍ଧୁ ଆଶାରେ ମୁଁ",
+          "ସହି ସହିଲି କି ଦଶାରେ ମୁଁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅସରା ହେଲା ଗୋ ନିଶି ବାସର",
+          "ଅସରା ନୟନ ଲୋତକ ଧାର",
+          "ପଶରା ନ କରି କଳଙ୍କ ପସରା",
+          "ଭରା ସହିଲି ମୁଁ ରସାରେ ଗୋ",
+          "(ପଡ଼ି)",
+          "କୁଞ୍ଜବନେ ସାଜି ସୁମନ ଶେଯରେ",
+          "ସଞ୍ଜ ବିତେ ନିତି ସତେ କି ଲାଜରେ",
+          "ଖଣ୍ଟ ଶଠ ସେ ତ ନିପଟ ଲମ୍ପଟ",
+          "ବାର ବାର ଠିକ ସରିଲି ଲୋକ ହସାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗରୁଆ ହେଲାଣି ବସନ ବେଶ",
+          "ମରୁଆ ଚନ୍ଦନ ସତେ ମୋ ବିଷ",
+          "ଧରୁ ତ ମୋ ସରି ଧୃତି କେ ଯୁବତୀ",
+          "ହେରି ଶଶୀ ଶିରୀ ନିଶାରେ ଗୋ",
+          "(ପଡ଼ି)",
+          "କାରଣ କି ଅଛି ଯଉବନେ ମୋର",
+          "ବାରଣ କରିବୁ ତୁ ଆସିଲେ ନାଗର",
+          "ଗୁନ୍ଥାଫୁଲ ହାର ବିଡ଼ିଆ କର୍ପୂର",
+          "ଯା ରେ ସଜନୀ ଯମୁନା ନୀରେ ଭସାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rahi-syama-bandhu-asare-mukhari-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

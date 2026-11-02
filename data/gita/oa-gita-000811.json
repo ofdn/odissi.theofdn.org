@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-000811",
+  "name": {
+    "en": "Chahin mu sasi rati",
+    "or": "ଚାହିଁ ମୁଁ ଶଶୀ ରାତି"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000081"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahin-mu-sasi-rati-bihagada-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାହିଁ ମୁଁ ଶଶୀ ରାତି ଗଲା ବିତି",
+          "ପଥର ସମ ଶ୍ୟାମ ଛାତିରେ ସାଥୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଜାଡ଼ି ଶେଯ ମୁଁ ଚନ୍ଦ୍ରମଲ୍ଲୀ ହାରେ",
+          "ତେଜିଲି ଦୀପ ମୁଁ କୁଞ୍ଜେ ଜାଗରେ",
+          "ସାଜିଲି ଅଙ୍ଗ ମାଜିଲି ବନ୍ଧୁ",
+          "ଆଶାରେ ମାତି ଆରେ ସାଥୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "(ପଡ଼ି)",
+          "ବାରବାର ବାରଣ କଲି ସହୀ",
+          "ସାର ସାର ମାରଣ ସହି ସେହି",
+          "ଜାର ସରି ସେ ଜୁହାର କଲି ତାର ରୀତିକି",
+          "ଚାହିଁ ଚାହିଁ କଣ୍ଟ ବଳେ ତ ଟାକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବାସି ହେଲା ତ ସତେ ଗୁନ୍ଥା ଫୁଲଝରା",
+          "ଗଣ୍ଡ ମଣ୍ଡିଲା ଅସରା ନୀରଧାରା",
+          "ଗଣ୍ଡ ମଣ୍ଡିଲା ପୋଡ଼ା ଆଖି ଧାରା",
+          "ପଲକ ପାଶୋରା ତ ତା ରଜନୀ ସାରା",
+          "ପଲକ ପାଶୋରା ସରେ ନିଶି ସାରା",
+          "ଛାଇକି ମଣେ ଧନ କାତି ଆରେ ସାଥୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahin-mu-sasi-rati-bihagada-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-000815",
+  "name": {
+    "en": "Radhe name sada murali",
+    "or": "ରାଧେ ନାମେ ସଦା ମୁରଲୀ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000120"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radhe-name-sada-murali-bangala-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାଧେ ନାମେ ସଦା ମୁରଲୀ ବାଜେ ରେ",
+          "ଶରମେ ଝୁରି ଛଇଳୀ ମରେ ଲାଜେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଝୁରେ ନୀର ଭରି କଜଳ ନୟନରେ ନିଶିଦିନ",
+          "ସରିଲାଣି ସୁନା ଶିରୀ ତାର ସରି ସେ ଯେ",
+          "(ପଡ଼ି)",
+          "ଚନ୍ଦନ ଚାନ୍ଦିନୀ ବିଷ ହେଲାଣି",
+          "ହାର ସାର ସେ ତ ତେଜି ଦେଲାଣି",
+          "ନଟ ଶଠ ଧିଟ ରାଟ ତୁମେ ସତେ ନନ୍ଦଚାଟ",
+          "ସଖି ସରିଗଲା ଏ ବରଜେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radhe-name-sada-murali-bangala-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

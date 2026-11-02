@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-000820",
+  "name": {
+    "en": "Sajani re ja ja tu syamare",
+    "or": "ସଜନୀରେ ଯା ଯା ତୁ ଶ୍ୟାମରେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000176"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-re-ja-ja-tu-syamare-naata-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀରେ ଯା ଯା ତୁ ଶ୍ୟାମରେ ସମୁଜା",
+          "ସାରିଦେଲେ ଲାଜେ ଯା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସାଜିଲି କୁଞ୍ଜ ମୁଁ ଶେଯ ବିଛାଇଲି",
+          "ଯାମିନୀ ଜାଗି ଉଜାଗରେ ଯାପିଲି",
+          "ଅଦୋଷେ ସଜନୀ ବାଜେ ବରଜେ ବାଜା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୟନ କଜ୍ଜ୍ୱଳ ଗଣ୍ଡ ଭରେ ସଖି",
+          "ନିଦ ଭୁଲି ଧାର ସାର ପୋଡ଼ା ଆଖି",
+          "କବିଚନ୍ଦ୍ର ବୋଲେ ପୀରତିର ଏ ସଜା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-re-ja-ja-tu-syamare-naata-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

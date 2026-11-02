@@ -1,0 +1,54 @@
+{
+  "id": "oa-gita-000819",
+  "name": {
+    "en": "Nahi ta saraga mane",
+    "or": "ନାହିଁ ତ ସରାଗ ମନେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000175"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nahi-ta-saraga-mane-andolika-hindola-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନାହିଁ ତ ସରାଗ ମନେ ମୋହନ ବିନେ",
+          "ରଜନୀ ଦିନ ବିତେ ପଲକ ନାହିଁ ରେ",
+          "ନୀର ନୟନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୁହୁ କୁହୁ ପିକ କୁଞ୍ଜଭରେ ଗୋ",
+          "ମଧୁ ପବନେ ବଉଳ ଝରେ ଗୋ",
+          "(ପଡ଼ି)",
+          "ଖଣ୍ଟ ନାଗର କଣ୍ଟରେ ଭୁଲି ରେ ସଜନୀ",
+          "ଜାଳି ଜାଗର ମୁଁ ଉଜାଗର ଯାପିଲି ଯା ଯାମିନୀ",
+          "କୁଞ୍ଜ ସାଜିଲି ଅଙ୍ଗ ମାଜିଲି",
+          "ସଙ୍ଗ ହେଜି ଅଭାଗିନୀ",
+          "କାହିଁ ସେ ରହିଲେ ସହି ନଇଲେ",
+          "କି ଦୁଃଖ ଦେଲେ ଏ ଜୀବନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nahi-ta-saraga-mane-andolika-hindola-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

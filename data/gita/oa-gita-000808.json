@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000808",
+  "name": {
+    "en": "Prana sajani kala hela ta madhu",
+    "or": "ପ୍ରାଣସଜନୀ କାଳ ହେଲା ତ ମଧୁ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000125"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-kala-hela-ta-madhu-desa-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣସଜନୀ କାଳ ହେଲା ତ ମଧୁ ରଜନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖ ଗଗନେ ଶଶୀ ଆସିଲା ପରକାଶି",
+          "ତନୁରେ ମଲ୍ଲୀ ହସି ମହକ ଦେଲା ଘଷି",
+          "ସହି ବିରହ ଦାଉ ସହୀ କାହିଁ ତ ଆଉ",
+          "ନାହିଁ ମହୀରେ କେହି କାମିନୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗୁନ୍ଥା ବଉଳ ମାଳା ଆସି ତ ବାସି ହେଲା",
+          "ଆସିବେ କେହି କଳା କଣ୍ଟ ତ ବଳିଗଲା",
+          "କେ ବା ନାଗରୀ କାହିଁ ରଖିଲା ରାଣ ଦେଇ",
+          "ମୁଁ ସିନା ଗୋପେ ହତଭାଗିନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବେଶ ବାସ ଭୂଷଣ ହେଲାଟି ଅକାରଣ",
+          "କରିଲେ ପରମାଣ ତନୁ ଛୁଇଁ ମୋହନ",
+          "ସରାଗ କରି କେତେ ଭଣିଲେ ଚାଟୁ ସତେ",
+          "କୁଞ୍ଜେ ଆସିଲି କୁଳ ନ ମାନି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶଶୀ ତ ଲୁଚି ନାହିଁ ଶୁଣ ଲୋ ଜେମାଦେଈ",
+          "ତୋ ବିନେ ଆନ କେହି ମୋହନ ମାନେ ନାହିଁ",
+          "ବଳିଗଲେ ଏ ନିଶି କହଇ କବିଶଶୀ",
+          "ହେବୁ ସିନା ତୁ ଅଭିମାନିନୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-kala-hela-ta-madhu-desa-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

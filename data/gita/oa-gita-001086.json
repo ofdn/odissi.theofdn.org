@@ -1,0 +1,53 @@
+{
+  "id": "oa-gita-001086",
+  "name": {
+    "en": "Nauria re karide pari",
+    "or": "ନାଉରିଆ ରେ କରିଦେ ପାରି"
+  },
+  "composer": "oa-person-000015",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nauria-re-karide-pari-palli-gita-folk-kali-charan-patnaik-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "( Palli Gita – folk / ପଲ୍ଲୀ ଗୀତ‌ )"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନାଉରିଆ ରେ କରିଦେ ପାରି",
+          "କାଳିଆ ବଉଦ ଆସେ ବିଜୁଳି ମାରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାତ ପାଉନାହିଁ ଆଉ ତହିଁରେ ପବନ ଦାଉ",
+          "ଭଣ୍ଡି ନ ଦିଅ ତୁ ଆଉ ଏତେବେଳେ ପର କରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପାରି ମୂଲ ଦେବା ପାଇଁ କଡ଼ାଏ କଉଡ଼ି ନାହିଁ",
+          "କବିଚନ୍ଦ୍ର କହେ ଯାଇ ଶୁଝିବି ତୋ ସେବା କରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nauria-re-karide-pari-palli-gita-folk-kali-charan-patnaik-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "oa-gita-000854",
+  "name": {
+    "en": "Ana re eni nayana",
+    "or": "ଅନା ରେ ଏଣୀନୟନା"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000125"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-re-eni-nayana-desa-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନା ରେ ଏଣୀନୟନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏକେ ଛଳଛଳ ଆଖି ତା ପରେ କଜଳ ମାଖି",
+          "ବିଶିଖ ବିଷାଇ ଭଗାରି ହସାଇ",
+          "ରୁଷି ବସନା ସହୀ ସୁନାବରନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୁଟିଳ ଭୁଜଙ୍ଗ ଭୂରୁ ଡରି ମରେଁ ହେରି ଦୂରୁ",
+          "କାମବାଣ ଖଞ୍ଜି କମାଣ ସରଜି",
+          "ମାରନା ଗୋରୀ କଞ୍ଜ ସରସ ବଦନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦଣ୍ଡରେ ସୁମନା ଖରେ ଭିଡ଼େ ତୋ ବାହୁ ପାଶରେ",
+          "ଆନ କରେ ମାରି ହସାନା ଭଗାରି",
+          "କର ତୁ କବିଚନ୍ଦ୍ର ମିନତି ଘେନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-re-eni-nayana-desa-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

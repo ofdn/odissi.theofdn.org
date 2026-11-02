@@ -1,0 +1,47 @@
+{
+  "id": "oa-gita-001386",
+  "name": {
+    "en": "Gangadhara hara he",
+    "or": "ଗଙ୍ଗାଧର ହର ହେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gangadhara-hara-he/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଗଙ୍ଗାଧର ହର ହେ ଚନ୍ଦ୍ରମଉଳି",
+          "ଭୂତପତି ଡମ୍ବରୁଧର କର । ପଦ ।",
+          "ଗଳ ପର ନାଗ ଫଣା, ଦିଗମ୍ବର",
+          "ସେବିତ ସୁରନର, ଶମ୍ଭୁ ଉମାବର, କାମ ବାମକର,",
+          "(ପଡ଼ି)",
+          "ବନ୍ଦେ ଜଗଜ୍ଜନ ସରସିଜ ଚରଣେ",
+          "ଗିରିଜାବରଦ ଶଙ୍କର ହେ",
+          "ଭୂତ ସଙ୍ଗ, କର ରଙ୍ଗ, ମନୋହର",
+          "ଡିମକ ଡିମକ ନାଦେ, ନଟନ ଚପଳ ଛନ୍ଦେ",
+          "ଜୟ ଜଗଦୀଶ୍ୱର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gangadhara-hara-he/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000890",
+  "name": {
+    "en": "Bandhure kahinki miche",
+    "or": "ବନ୍ଧୁରେ କାହିଁକି ମିଛେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000016"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhure-kahinki-miche-pilu-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବନ୍ଧୁରେ କାହିଁକି ମିଛେ ବିମନା ମୋହନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଝୁରି ସେ ତୋର ନାଆଁରେ କନକ ବରନାରେ",
+          "ଯମୁନା ତଟ ନୀପତରୁ ବନ ନିକଟ",
+          "ପଥରେ ଲୁଟେ ଧୂଳି ଶୟନେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁଚ୍ଛାକୁ ଏ ରୁଷାଣି ଉଚିତ ନୁହେଁ ଧନୀ",
+          "ଗୁମାନ କରି ରହି ପାରିବୁ କିରେ ଗୋରୀ",
+          "ସହି ମଦନାନଳ ଦହନେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମାନିବୁ କି ରେ ବାଧା ଡାକିଲେ ବେଣୁ ରାଧା",
+          "ଘର ପାଶୋରି ଘନ ତିମିର ତୁ ନ ବାରି",
+          "ଯିବୁ ଯମୁନା ତଟ ବହନେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କବିଚନ୍ଦ୍ର ବଦତି ଆରେ କୁନ୍ଦ ସୁଦତି",
+          "ମରମେ ତୋର ସତେ କାହିଁକି ଡାକ ତାର",
+          "ଭେଟୁ କି ନାହିଁ ନିଶି ସପନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhure-kahinki-miche-pilu-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

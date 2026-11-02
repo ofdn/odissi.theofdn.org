@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000894",
+  "name": {
+    "en": "Sarada chandini tale",
+    "or": "ଶରଦ ଚାନ୍ଦିନୀ ତଳେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarada-chandini-tale-basanta-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶରଦ ଚାନ୍ଦିନୀ ତଳେ କାମିନୀ ତ ଫୁଟିଲା",
+          "ଶରଦ ଚନ୍ଦ୍ରମା ମୁହିଁ ମାନ ତ ନ ତୁଟିଲା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜୀବଧନେ ଆନ ଦେଲି ଯିବ ଅବା ମାନ ବୋଲି",
+          "ରାଜୀବ ଶ୍ରୀମୁଖ ତୋଳି ରାଜି ତ ନ ଦିଶିଲା",
+          "(ପଡ଼ି)",
+          "କର ଧରି ବିନୋୟି କହିଲି ମୁହିଁ",
+          "କର କରୁଣା ମୋରେ ସୁଦୟା ବହି",
+          "କର ଭିଡ଼ାରେ ଦଣ୍ଡ ଦିଅରେ ସହି",
+          "ବରବରନା ଗୁରୁ ଗୁମାନେ ଦୂରେ ହଟିଲା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦାସ ନାଶନେ ଅପକୀରତି ବାନା",
+          "କାଶହାସ ସୁହାସୀ ଉଡ଼ିବ ସିନା",
+          "ଆସ ଆଶ ବିନାଶ ନୋହୁ ନବୀନା",
+          "ଦ୍ରବିଲା ନାହିଁ କବିଶଶୀ କରମ ଫାଟିଲା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarada-chandini-tale-basanta-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

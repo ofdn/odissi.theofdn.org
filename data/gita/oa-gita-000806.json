@@ -1,0 +1,65 @@
+{
+  "id": "oa-gita-000806",
+  "name": {
+    "en": "Sehi na suna barana",
+    "or": "ସେହି ନା ସୁନାବରନା"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sehi-na-suna-barana-bhairabi-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସେହି ନା ସୁନାବରନା",
+          "ଶୋଭନା କେତକୀବରନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନା ଚମ୍ପାଝରାକୁ ଯତି ମତିହରାକୁ",
+          "ଅଳସ ଏଣୀନୟନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସେ ହେମ ଗୋରୀ କି ଚତୁରୀ ଛଇଳୀ କି",
+          "ଶୁଭେ ନୂପୁର ବାଜଣା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "(ପଡ଼ି)",
+          "ଫୁଲ ଶତଦଳ ନିନ୍ଦି ମନୋହର",
+          "ଆନନୀ ଭୂରୁଭଙ୍ଗିନୀ",
+          "କୁଞ୍ଜ ବିନୋଦିନୀ କାମ ବିମୋହିନୀ",
+          "ସଙ୍ଗିନୀ ସେ ରସରଙ୍ଗିନୀ",
+          "ମୋହିନୀ ଅଭିମାନିନୀ",
+          "କବିଚନ୍ଦ୍ର କହେ ବ୍ରଜରାଜ ମତି ମୋହନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sehi-na-suna-barana-bhairabi-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

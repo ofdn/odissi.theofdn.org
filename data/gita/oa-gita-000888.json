@@ -1,0 +1,63 @@
+{
+  "id": "oa-gita-000888",
+  "name": {
+    "en": "Prana bandhabi janare",
+    "or": "ପ୍ରାଣ ବାନ୍ଧବୀ ଜାଣରେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000124"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-bandhabi-janare-mallara-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ବାନ୍ଧବୀ ଜାଣରେ",
+          "ତୋ ବିନେ ଧନ ଧରିବି କି କରି ଜୀବନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଡାକିଲା ଡାହୁକ ଭେକ ଅନା ଘନ ରଜନୀ",
+          "ଚଡ଼କ ବିଜୁଳି କୋଳେ ଖେଳିଲାନି ସଜନୀ",
+          "ମିନତି ଘେନ ତୁ ସଖୀ ମାନ ମୋ ଆନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୁଲକ ତନୁରେ ଲେଖି ଉଲ୍ଲସିଲା କଦମ୍ବ",
+          "ସତେ ରେ ନବ ନବୀନା ପରଖିଲା ତୋ ଦମ୍ଭ",
+          "ମାଳତୀ ହସିଲା ଚାହିଁ ତୋର ବିମନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବରହୀ ବିରହୀ ହୋଇ ପୁଚ୍ଛ ଟେକି ନାଚିଲା",
+          "ଘନର ଓଢ଼ଣୀ ତଳେ ଜହ୍ନ ଲାଜେ ଲୁଚିଲା",
+          "କବିଚନ୍ଦ୍ର କହେ ଧନ ନ ତୁଟିଲା ମାନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-bandhabi-janare-mallara-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

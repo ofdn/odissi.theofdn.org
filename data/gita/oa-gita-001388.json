@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-001388",
+  "name": {
+    "en": "Sajani ki kali mane ja basili",
+    "or": "ସଜନୀ କି କଲି, ମାନେ ଯା ବସିଲି"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000177"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-ki-kali-mane-ja-basili/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ସଜନୀ କି କଲି",
+          "ମାନେ ଯା ବସିଲି (ମୁଁ) ।ପଦ।",
+          "ମଉଳିଲା କଞ୍ଜ ସରି, ସରି ତ ଯାଉଛି ଶିରୀ",
+          "ମୋହନରେ ନାହିଁ ତ ନିତି ଭଙ୍ଗି ମୋହନ ଝଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାରୀମରା ସେ ମୁରଲୀ, ହାରିଗଲା ପରା ଗୋରୀ",
+          "ନାହିଁ ଶିଖୀଗଞ୍ଜନ, ବାଙ୍କ ଚୂଳ ବାମକୁ ଢଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅରଜିଲୁ ଅପଯଶ, ବରଜି ମୋହନ ଆଶ",
+          "ଭାଷେ କବିଚନ୍ଦ୍ର ତୋ ମାନ ସୀମା ଗଲା ତ ବଳି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-ki-kali-mane-ja-basili/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

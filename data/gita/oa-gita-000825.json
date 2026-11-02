@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000825",
+  "name": {
+    "en": "Chi chi mun ki hudili",
+    "or": "ଛି ଛି ମୁଁ କି ହୁଡ଼ିଲି"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000075"
+  ],
+  "mula_tala": [
+    "oa-tala-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chi-chi-mun-ki-hudili-chintabhairaba-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛି ଛି ମୁଁ କି ହୁଡ଼ିଲି",
+          "ମାନସେ ମାନସ ମଣି ପଙ୍କ ସରେ ବୁଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଜିଲା କାଚକଣି ମଣି ମରକତ ମଣି",
+          "ଯତନେ ସାଉଁଟି ଆଣି ଗଳାରେ ଯା ଭିଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗୋକ୍ଷୀରେ ଶାକର ଗୋଳି ସରାଗେ ବଜାଇ ତାଳି",
+          "ମଧୁର ହୋଇବ ଭାଳି ଲିମ୍ବ ମୂଳେ ଇଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବାରପୁରେ ଘର ଯାର ଛଳରେ ଭରମି ତାର",
+          "କରି କେତେ ଆପଣାର ରସେ ଯାହା ଜଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅବିବେକୀ କବିଶଶୀ ଶିରେ କର ଥାପି ବସି",
+          "ଏତେ କାଳେ ହୁଏ ଘୋଷି ମୋହ ମନୁ ଛାଡ଼ିଲି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chi-chi-mun-ki-hudili-chintabhairaba-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

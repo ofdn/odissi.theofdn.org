@@ -1,0 +1,57 @@
+{
+  "id": "oa-gita-000821",
+  "name": {
+    "en": "Murali baje re",
+    "or": "ମୁରଲୀ ବାଜେ ରେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000048"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/murali-baje-re-chhayanata-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୁରଲୀ ବାଜେ ରେ",
+          "ମାନେ ନାହିଁ ମନ ମରେ ଲାଜେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସାଜି ନାହିଁ ଫୁଲହାର ବଉଳ ଗୋ",
+          "ଘେନିଛି ଅଧା ପରା କଜ୍ଜ୍ୱଳ ମୁଁ ଯେ",
+          "ବେଣୁତାନ ସହି ବାଇ କଲା ତ ଗୋ",
+          "ସପନେ ନିତି ମିଶେ ସେ ଛବି ଶେଯେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାଇ ରାଇ ବୋଲି ଡାକେ ସେ ମୋତେ ଗୋ",
+          "ଘର ମୋର ପାଶୋରି କୁଳ ମାନ ତେଜେ",
+          "କବିଚନ୍ଦ୍ର କହେ ତେଜ ଏ ରୀତି ଗୋ",
+          "ଅପଯଶ ଡିଣ୍ଡିମ ବାଜେ ବରଜେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/murali-baje-re-chhayanata-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

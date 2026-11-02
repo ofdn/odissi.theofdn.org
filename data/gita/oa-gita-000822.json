@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000822",
+  "name": {
+    "en": "Ana lo mita kunje",
+    "or": "ଅନା ଲୋ ମିତ କୁଞ୍ଜେ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-lo-mita-kunje-jhinjhoti-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନା ଲୋ ମିତ କୁଞ୍ଜେ ମୁରଲୀପାଣି",
+          "କି ସୁନ୍ଦର ତିନିଭଙ୍ଗିଆ ଠାଣି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନବୀନ ଘନବରନ ମୋହନ",
+          "ମରତେ କେ ସତେ ଥାପିଲା ଆଣି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯମୁନା କୂଳେ ସେ ଯୁବତୀ ମତି",
+          "ସାରୁଛି ନୟନ କଟାରୀ ହାଣି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚରଣେ କନକ ନୁପୂର ସାଜେ",
+          "କିଣି କିଣି କିଣି ଶୁଭଇ ବାଣୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସରସ କେତକୀ ପାଖୁଡ଼ା ଗଭା",
+          "ସରଗ ସୁଷମା ଶୋଭାକୁ କିଣି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବିଚନ୍ଦ୍ର ଭାଷେ ଅନା ସଜନୀ",
+          "ସେ ପରା ବରଜ ପରଶମଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-lo-mita-kunje-jhinjhoti-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

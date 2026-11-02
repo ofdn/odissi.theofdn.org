@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000897",
+  "name": {
+    "en": "Sarasa sirimukhe birasa",
+    "or": "ସରସ ଶିରୀମୁଖେ ବିରସ"
+  },
+  "composer": "oa-person-000015",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarasa-sirimukhe-birasa-bhairabi-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସରସ ଶିରୀମୁଖେ ବିରସ କାହିଁକି",
+          "ପରାଗ ଝରିଲା ସରି କମଳ ଛଇକି ସଖୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କହରେ ନବ ଚତୁରୀ ଛଳ ମନୁ ପରିହରି",
+          "ଆନ ଫୁଲେ ଭୁଲି ଅଳି ଚୁମ୍ବିଲା ନାହିଁକି ସଖୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସରି ନାହିଁ ଶଶୀ ରାତି ମଳିନ ନ ଦିଶେ ବତୀ",
+          "ହରାଇ ବସିଛୁ ଧୃତି ହୋଇଲୁ ବାଇ କି ସଖୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପର ପରା ତୋତେ କରି ରହି କି ପାରିବ ହରି",
+          "ସେ ଯେ ନିତି ମରେ ଝୁରି ତୋ ପଦ ଛାଇକି ସଖୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କବିଶଶୀ କହେ ରାଇ ମୋହନ ତୋ ଲାଗି ବାଇ",
+          "ବରଜି ତୋ ସଙ୍ଗ କାହିଁ ପାରିବ ରହି କି ସଖୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarasa-sirimukhe-birasa-bhairabi-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
