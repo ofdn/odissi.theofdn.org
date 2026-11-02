@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000796",
+  "name": {
+    "en": "Mana baia raja",
+    "or": "ମନ ବାଇଆ ରଜା"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-baia-raja-kalyana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନ ବାଇଆ ରଜା",
+          "ବଣା ହୋଇ ତୁ ଅଣପଥରେ ନ ଯା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅକାରଣେ ନ ରସି ଅନିତ୍ୟ ଧନେ",
+          "ପକାଅ ଦିବ୍ୟଦୃଷ୍ଟି ଚକାନୟନେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରତନ ସିଂହାସନେ ଚତୁର୍ଦ୍ଧାମୂର୍ତ୍ତି",
+          "ଯତନ କେମନ୍ତେ ସେ ଶୋଭା ଆକୃତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତ୍ରିଧୂପ ପଞ୍ଚ ଅବକାଶ ଯା କରେ",
+          "ଦର୍ଶନ କରୁଥାଅ କୋରକ କରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜୟ ଜଗତନାଥ ବୋଲ ବଦନେ",
+          "କୀର୍ତ୍ତନ କରି ପ୍ରେମାନନ୍ଦ ବର୍ଦ୍ଧନେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଆମରଣ ତୋ ଗତି କମଳାସାଇଁ",
+          "ଭଜନୁ ଅପସରି ରହୁ କିମ୍ପାଇଁ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବୋଲଇ ବନମାଳୀ ଛାଡ଼ି ଅଳସ",
+          "ଅଭୟ ପାଦପଦ୍ମେ ଶରଣ ପଶ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-baia-raja-kalyana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

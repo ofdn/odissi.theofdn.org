@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000794",
+  "name": {
+    "en": "Bhaja re mana kama mohana",
+    "or": "ଭଜରେ ମନ କାମମୋହନ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000020"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhaja-re-mana-kama-mohana-sri-rupaka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଭଜରେ ମନ କାମମୋହନ",
+          "ଶ୍ୟାମସୁନ୍ଦର ନାମକୁ",
+          "ସଜବାଜ ହୋଇ ଲାଜ ଦୂରେ ଥୋଇ",
+          "ଚଳି ଯା ତୁ ବ୍ରଜଧାମକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରଜନୀ ଦିବସେ ଏକାନ୍ତେ ବସି",
+          "ମଜ କୃଷ୍ଣ କଥାମୃତରେ ରସି",
+          "ସଜ କଞ୍ଜ ନେତ୍ର ଦର୍ଶନେ ପବିତ୍ର",
+          "ହୁଅ ପ୍ରତିଯାମ ଯାମକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅଜ ଶିବ ଶେଷ ବନ୍ଦେ ଯେ ପାଦେ",
+          "ଗଜଧ୍ୱଜ ଆଦି ତ୍ରିଦଶ ବୃନ୍ଦେ",
+          "ନଜର କର ତୁ କଜ୍ଜ୍ୱଳ କାଳିଆ",
+          "ଉଜ୍ଜ୍ୱଳ ମୂରତି କାମକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଜଣା ଅଛି କି ଶ୍ରୀଗୁରୁ ବାଣୀ",
+          "ସଜଳ ନୟନେ ହୁଅ ତୁ ଗୁଣି",
+          "ସୁଜନମାନଙ୍କୁ ପୂଜ ଭକତିରେ",
+          "ବୁଝ ଧରମ ନିଷ୍କାମକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏ ଜନମ ବୃଥା ନ ଯାଉ ତୋର",
+          "ତେଜ ମୋହ ମାୟା ବିଷୟା ଘୋର",
+          "ହେଜ ବନମାଳୀ ବ୍ୟାଜରେ ନ ଭାଳି",
+          "ନ ଯା ତପନଜ ଗ୍ରାମକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhaja-re-mana-kama-mohana-sri-rupaka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

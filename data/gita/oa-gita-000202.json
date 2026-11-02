@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000202",
+  "name": {
+    "en": "Gopini madhye nache re",
+    "or": "ଗୋପିନୀ ମଧ୍ୟେ ନାଚେ ରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopini-madhye-nache-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଗୋପିନୀ ମଧ୍ୟେ ନାଚେ ରେ ଶ୍ରୀ ନନ୍ଦନନ୍ଦନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରଙ୍ଗଦେବୀ ଗୋରୀ ନବୀନ କିଶୋରୀ",
+          "ରାଗ କରେ ସାନିଧାପା ପାଧାପାମା ଗାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲଳିତା ବିଶାଖା ତୁଙ୍ଗଭଦ୍ରା ସୁଚିତ୍ରା",
+          "ବଜାଇ ମର୍ଦ୍ଦଳ ଧିତା ଧିତା ଗଦିଘନ ଧା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସର୍ବ ସଖୀ ମିଳି ଦ୍ୟନ୍ତି କର ତାଳି",
+          "ନାଚନ୍ତି ଶ୍ରୀ କୃଷ୍ଣ ଢଳି ଢଳି ଢଳିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କମଳୀ ଧବଳୀ ଦ୍ୟନ୍ତି ହୁଳହୁଳି",
+          "ବୋଲେ ବନମାଳୀ ଭାଳି ଭାଳି ଭାଳିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopini-madhye-nache-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

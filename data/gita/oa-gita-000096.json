@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000096",
+  "name": {
+    "en": "Syame tu nuha bimana",
+    "or": "ଶ୍ୟାମେ ତୁ ନୁହଁ ବିମନା"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000040"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syame-tu-nuha-bimana-syame-tu-nuhan-bimana-re-sumana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମେ ତୁ ନୁହଁ ବିମନାରେ ସୁମନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୁଞ୍ଚ ଏ ରୁଷାଣି ଆରେ ବୀଣାବାଣୀ",
+          "ଛାମୁରୁ ନ କର ମନାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହାତ ଓଠ ଧରି କହୁଛି ସୁନ୍ଦରୀ",
+          "ଅମୀୟ କଟାକ୍ଷେ ଅନାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁଚିତ୍ତେ ବିଚାର ସେ ତୋର ତୁ ତାର",
+          "ଜୀବନ ସଙ୍ଖାଳି ସିନାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କଲେ ହତାଦର ହେବେଟି କାହାର",
+          "ସେ ଘନ କାଳିଆ ସୁନାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ କହେ କାହା ଦେହ ସହେ",
+          "ଦେଖି ମୋହନ ଯାତନାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syame-tu-nuha-bimana-syame-tu-nuhan-bimana-re-sumana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

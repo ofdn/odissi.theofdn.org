@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000534",
+  "name": {
+    "en": "Kali mun ki laje budili",
+    "or": "କାଲି ମୁଁ କି ଲାଜେ ବୁଡ଼ିଲି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000076"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kali-mun-ki-laje-budili-kanadaa-ekatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣସଙ୍ଗିନୀରେ କାଲି ମୁଁ କି ଲାଜେ ବୁଡ଼ିଲି",
+          "ତୋତେ ନ ବିଚାରି ସଖୀ ମୁଁ ଅବିଚାରେ ପଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶ୍ୟାମ ହୋଇ ନାରୀବେଶ ମୋ ପୁରେ ହେଲେ ପ୍ରବେଶ",
+          "ବୋଇଲେ ଆସ ଗୋ ଆସ ଦେଇଯିବି ଲାକ୍ଷାରସ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସେ ତ ନାନା କଳାକ୍ଷମ ଦେଇ ଲାକ୍ଷା ଅନୁପମ",
+          "ପାଦତଳେ ତାଙ୍କ ନାମ ଲେଖିଲେ ଗୋ ଶ୍ୟାମ ଶ୍ୟାମ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତରକି ତାହାଙ୍କୁ ମିତ ଚଞ୍ଚଳ କରନ୍ତେ ଚିତ୍ତ",
+          "ପାଦ ଧରି ନନ୍ଦସୁତ ନ ଛାଡ଼ିଲେ କଦାଚିତ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ହେବାରୁ କୂଟ ପ୍ରଘଟ କାହିଁ ଗଲେ ପୀତପଟ",
+          "ବନମାଳୀ ସେ ଲମ୍ପଟ ପାଦପଦ୍ମେ ମଧୁଲିଟ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kali-mun-ki-laje-budili-kanadaa-ekatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

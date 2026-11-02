@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000520",
+  "name": {
+    "en": "Ahe jagabandhu tumbha binu muhi",
+    "or": "ଆହେ ଜଗବନ୍ଧୁ ତୁମ୍ଭ ବିନୁ ମୁହିଁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000104"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-jagabandhu-tumbha-binu-muhi-bangalasri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ଜଗବନ୍ଧୁ ତୁମ୍ଭ ବିନୁ ମୁହିଁ",
+          "ନ ଜାଣେ ଆନ ଦେବତା",
+          "ଆପଣ କରୁଣା ଊଣା କଲେ ଆଉ",
+          "ନାହିଁଟି କେହୁ ରଖନ୍ତା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସ୍ୱପନରେ ଦିନେ ଚାହିଁ ନାହିଁ ରହି",
+          "ତପନକୁ ଭଲ କରି",
+          "ଜପ ନ କରଇ ଶରଧାରେ ପଞ୍ଚ",
+          "ଲପନଙ୍କ ନାମ ଧରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସର୍ବତୋ ପ୍ରକାରେ ନ ପ୍ରବର୍ତ୍ତେ ଚିତ୍ତ",
+          "ପର୍ବତ ନନ୍ଦନା ଠାରେ",
+          "ଖର୍ବ ତନୁରେ ମୁଁ ନ କରଇ ସ୍ତୁତି",
+          "ପର୍ବ ତିଥି ମାନଙ୍କରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶ୍ରୁତିରେ ନ ଶୁଣେ ରତିଏ ବସି ମୁଁ",
+          "ସ୍ମୃତି ଯାହା ଛନ୍ତି ଲେଖି",
+          "ସ୍ଫୁର୍ତ୍ତି ନୁହଇ ଆନ ଦେବୀ ଦେବତା",
+          "ମୂର୍ତ୍ତି ତୁମ୍ଭର ନିରେଖି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମନ ବଚନ କର୍ତ୍ତବ୍ୟରେ ତୁମ୍ଭର",
+          "ଅନବରତରେ ମୁହିଁ",
+          "ଅବଧାନ ନ ହୋଇଲେ ମୁଁ ଭାସିଲି",
+          "ବନମାଳୀ ଏତେ କହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-jagabandhu-tumbha-binu-muhi-bangalasri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

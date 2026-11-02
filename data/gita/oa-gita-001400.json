@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-001400",
+  "name": {
+    "en": "Syama sundara srimukhaku anai",
+    "or": "ଶ୍ୟାମ ସୁନ୍ଦର ଶ୍ରୀମୁଖକୁ ଅନାଇଁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-srimukhaku-anai-sankarabharana-jati-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ସୁନ୍ଦର ଶ୍ରୀମୁଖକୁ ଅନାଇଁ",
+          "କୁଳ ଧରମ ହୋଇ ରହିଲା ନାହିଁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସ୍ତମ୍ଭନ ମୋହନ ବଶ୍ୟ ଉଚ୍ଚାଟ",
+          "ମୂରତି ନିଶ୍ଚେ ଅଟେ ଏ ନନ୍ଦଚାଟ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବୋଲୁଥାନ୍ତି ତାଙ୍କୁ ବଡ଼ ସୁନ୍ଦର",
+          "ଅଳପ ଚାହିଁଲେ ବୁଡ଼ଇ ଘର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କେ କହେ ସୁନ୍ଦର ରତିବରକୁ",
+          "ତା କଥା ନ ଆସେ ମୋ ନଜରକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଶ୍ୱିନୀକୁମାରକୁ ସୁକୁମାର",
+          "ଯେ ବୋଲନ୍ତି ତାଙ୍କ ବୁଦ୍ଧି ଗୁଆଁର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କେଉଁ ଅଙ୍ଗଦେଶ କାହାର ଶୋଭା",
+          "ମୋହନ ତରଙ୍ଗ ନୟନ ଲୋଭା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଏତେ ସୁନ୍ଦର ନ ଦେଖେ ସୃଷ୍ଟିରେ",
+          "ଯେ ଅଛନ୍ତି ଲେଖି ପଶୁ ଗୋଷ୍ଠୀରେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ବନମାଳୀ ଜନ୍ମ ହେଲା ବିଫଳ",
+          "ଦିନେ ନ ଚିନ୍ତିଲା ବ୍ରଜମଙ୍ଗଳ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-srimukhaku-anai-sankarabharana-jati-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000283",
+  "name": {
+    "en": "Chahindeli kinchitare bare",
+    "or": "ଚାହିଁଦେଲି କିଞ୍ଚିତରେ ବାରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahindeli-kinchitare-bare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାହିଁଦେଲି କିଞ୍ଚିତରେ ବାରେ",
+          "ସେ ଶ୍ୟାମନାଗରଙ୍କୁ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି ବୁଦ୍ଧି କରିବି କହରେ ସଙ୍ଗାତ",
+          "ନଣନ୍ଦ ଭର୍ତ୍ସନା କରଇ ଯେତେକ",
+          "ବିରହୀ ପରାୟେ ଦହୁଛି ମୋ ଚିତ୍ତ",
+          "ତା ନେତ୍ର କାଠି ଅଠାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବୁଡ଼ଗଲି ସଖୀ ଆନନ୍ଦ ସାଗରେ",
+          "ଅପବାଦକୁ ନ ରଖିଲି ମନରେ",
+          "ଗୁରୁ ଗୁରୁଜନ ଲାଜ ଦର କରି",
+          "ମଜ୍ଜିଲି ପ୍ରୀତି ଅଠାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନନ୍ଦନନ୍ଦନ ସଙ୍ଗେ ଯେଉଁ ପୀରତି",
+          "ଦେଖି ଶୁଣି ଦେହ ହୁଅଇ କରତି",
+          "ପାଉଅଛି ବ୍ରଜଜନେ ଅପଖ୍ୟାତି",
+          "ଲେଖାଇ ତମ୍ବାପଟାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ଶ୍ରୀଚରଣ ଦାସ ଏହି ରସ",
+          "ଯାହାର ସନ୍ତତ ବ୍ରଜରେ ନିବାସ",
+          "ଶ୍ରୀ କୃଷ୍ଣ ଚରଣେ ଯାର ନିତି ଆଶ",
+          "ସେ ଲୀନ ହୁଏ ସେଠାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahindeli-kinchitare-bare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

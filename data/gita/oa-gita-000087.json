@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000087",
+  "name": {
+    "en": "Kahinki noile mora kunjaku syama nagara",
+    "or": "କାହିଁକି ନୋଇଲେ ମୋର କୁଞ୍ଜକୁ ଶ୍ୟାମ ନାଗର"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000006"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-noile-mora-kahinki-noile-mora-chakrabaka-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ନୋଇଲେ ମୋର କୁଞ୍ଜକୁ ଶ୍ୟାମ ନାଗର",
+          "କି ମନ୍ତ୍ର କଲା ସେ କେଉଁ ଚତୁରୀ ରସିକାବର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଳି ରତ୍ନ ଦୀପାବଳୀ ଅତି ସୁଯତନ କରି",
+          "ମଣ୍ଡିଥିଲି କେଳିବାସ ସବୁ ହେଲା ନାରଖାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଜାଣି ମୁଁ ଅତି ହରଷେ ଟାଣି ଚନ୍ଦ୍ରାତପ ତୋଷେ",
+          "ବାଣୀକି ବିଶ୍ୱାସ କରି ହେଲି ସଖୀ ଏତେ ଦୂର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚୂଆ ଚନ୍ଦନକୁ ଗୋଳି ଗୁନ୍ଥିଲି ନିଆଳୀ ମାଳି",
+          "ଭାଙ୍ଗିଥିଲି ନାଗବଲ୍ଲୀ ବାସି କଲେ ବଂଶୀଧର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀହସ୍ତେ ମୁରଲୀ ଛୁଇଁ କହିଥିଲେ ଆନ ଦେଇ",
+          "କାହିଁଗଲା ସତେ ଆହା ସେ ଆଶା ଭରସା ମୋର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ ଦାସ ଭଣି କି ହେବ କଲେ ଭାଳେଣି",
+          "ଭୁଲାଇ ମଲ୍ଲ ଘରଣୀ ବନ୍ଦୀ କଲା ଏ ନିଶାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-noile-mora-kahinki-noile-mora-chakrabaka-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

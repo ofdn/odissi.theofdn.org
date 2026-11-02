@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000764",
+  "name": {
+    "en": "Syama priti paramada",
+    "or": "ଶ୍ୟାମ ପ୍ରୀତି ପରମାଦ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000064"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-priti-paramada-paraja-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ପ୍ରୀତି ପରମାଦ",
+          "ମଧୁ ତୁଲେ ହଳାହଳ ଭେଦ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁକୃତ ଦୁଷ୍କୃତ ବଳେ ପ୍ରାଣମିତ",
+          "ଲାଭ ସିନା ହୁଏ ଭବେ",
+          "ଆଜନମୁଁ ସୁଖ ଦୁଃଖ ଯେ ନ ଜାଣେ",
+          "ସେ କି ଅନୁଭବେ ଲବେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗରବ ଗୁମାନ ଯଉବନ ଧନ",
+          "ସବୁ ପାଦତଳେ ଦଳା",
+          "ବଳିପଡ଼ୁଥାଇ ବେଳୁ ବେଳ ଯେବେ",
+          "କୃଷ୍ଣଚନ୍ଦ୍ର ପ୍ରେମକଳା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଜନୀ ଦିବସେ ଏକାନ୍ତରେ ଘୋଷେ",
+          "ଅରଜିଥିବାର ପ୍ରୀତି",
+          "ଜମ୍ବୁନଦ ସୁନାଠାରୁ ସେ ଅଧିକ",
+          "ଜଳଜଳ ଦିଶେ ଅତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନାମ ଶ୍ରବଣାଦି ନବାନୁରାଗର",
+          "ଯେତେକ ଲକ୍ଷଣମାନ",
+          "ଗୋପନ ଅଛି କି ବୋଲେ ବନମାଳୀ",
+          "ଆଦ୍ୟ ଅକ୍ଷର ବିଧାନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-priti-paramada-paraja-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

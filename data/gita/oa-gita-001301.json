@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001301",
+  "name": {
+    "en": "Kisori mani ghena mo mana",
+    "or": "କିଶୋରୀ ମଣି ଘେନ ମୋ ମନା"
+  },
+  "composer": "oa-person-000026",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kisori-mani-ghena-mo-mana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କିଶୋରୀ ମଣି ଘେନ ମୋ ମନା ରେ",
+          "ଏକା ହୋଇ ନ ଯିବୁଟି ଯମୁନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁ ତ ନୂତନା ରେ ଗଜଗମନା",
+          "ସାରିଦେବ ସେ ତୋ ସର୍ବସ୍ୱ ସିନା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶ୍ୟାମସୁନ୍ଦର ନାମ ଅଟେ ଯା ନା",
+          "ବାମନେତ୍ରୀଙ୍କର ମୋହିନୀ ବାନା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କେତେ ଭଙ୍ଗୀ ଜାଣେ ନନ୍ଦର କାହ୍ନା",
+          "ଯାହାକୁ ଦେଖେ ତା ଠାରେ ତା କୁହ୍ନା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚନ୍ଦ୍ରା ପରି ପଡ଼ିଯିବୁଟି ଚିହ୍ନା",
+          "ଦାଣ୍ଡେ ଘାଟେ ବ୍ରଜ ବଜାରେ କିନା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ବନମାଳୀ ଆରେ ସୁମନା",
+          "ଜାଣିଛି ଆଗୁଁ ମୁଁ ତୋର ଭାବନା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kisori-mani-ghena-mo-mana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

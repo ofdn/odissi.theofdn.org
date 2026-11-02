@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000767",
+  "name": {
+    "en": "Syama dosa dekhi manare",
+    "or": "ଶ୍ୟାମ ଦୋଷ ଦେଖି ମନରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000104"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-dosa-dekhi-manare-bangalasri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ଦୋଷ ଦେଖି ମନରେ ସଖୀ ମୁଁ",
+          "ବିଚାର କରିଥାଇ",
+          "ଚାହିଁ ଦେଲେ ଅଣାୟତ୍ତ ହୁଏ ମନ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୂରୁ ନେତ୍ର ଭୂରୁ ଘୋଡ଼ାଇ ଗଲେ",
+          "ବଳେ ମୋ ଦୃଷ୍ଟି ପଡ଼େ ଯାଇଁ",
+          "ରୁନ୍ଧିଥାଇ କଣ୍ଠ ନ କହିବି କିଛି",
+          "କଥା ବଳେ ବାହାରଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାହୁଁ ମୋ ପାପ ବଦନେ ସ୍ମିତ ଜାତ",
+          "ହୁଅଇ ତେତିକି ବେଳେ",
+          "କରକଶ ଚିତ୍ତ କଲେ ଚାହିଁ ମିତ",
+          "ଦରବି ଯାଇ ମୁଁ ବଳେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଭିମାନ ଧରି ରହିଥିବି ସଦା",
+          "ଏ ବିଚାର ଥିଲେ ହେଲେ",
+          "କୋଳାଇ ନେବାକୁ ମନ ବଳେ କେଣେ",
+          "ଅକସ୍ମାତେ ଦେଖିଦେଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କି କହିବି ଦୁଷ୍ଟ ଚିତ୍ତ ମୋର ହେଲା",
+          "ବେଳକୁ ବେଳ ଚଞ୍ଚଳ",
+          "ବନମାଳୀ ଇଚ୍ଛା ବହିଥିବି ଏହି",
+          "ଜନ ପିନ୍ଧିବା ଅଞ୍ଚଳ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-dosa-dekhi-manare-bangalasri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

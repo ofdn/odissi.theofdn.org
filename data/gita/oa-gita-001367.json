@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-001367",
+  "name": {
+    "en": "Syama sundara sindhu manthi",
+    "or": "ଶ୍ୟାମସୁନ୍ଦର ସିନ୍ଧୁ ମନ୍ଥି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-sindhu-manthi-chandana-mukhari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମସୁନ୍ଦର ସିନ୍ଧୁ ମନ୍ଥି ପାଇଲ କି ସମ୍ଭାର",
+          "ନୋହିଲେ କୁବେର ବେଦବର ସୁନା",
+          "-ଶୀର ଦେଇପାରେ ଦୂତର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋ ମନେ ହେଉଛି ନରେନ୍ଦ୍ର ସର ଏ",
+          "ନୁହେଁ ହେବ କ୍ଷୀରସାଗର",
+          "ଚାପ ଛଳେ ବଳେ ପକାଇ ମନ୍ଦର",
+          "ମନ୍ଥିଲ କି ନନ୍ଦକିଶୋର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଣିବିମାନରେ ପତାକା ଉରଗ",
+          "ବାସୁଅଛି ଗନ୍ଧ ସିନ୍ଦୂର",
+          "ଦେବତାଙ୍କୁ ଘେନି ନୋହିଲେ କାହିଁକି",
+          "ପାଶେ ଖଟିଛନ୍ତି ଶଙ୍କର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତରଙ୍ଗ ପାଇ ତରାସ ରାହୁପରା",
+          "ଗୋଡ଼ାଇ ଗିଳେ ସୁଧାକର",
+          "ମୋହିନୀ ରୂପ ଆପଣେ ଧରିଛନ୍ତି",
+          "ଛାଡ଼ ନାହିଁ ଅଙ୍ଗ ଗଉର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କଉସ୍ତୁଭ ମଣି ରମଣୀମଣିକି",
+          "ଆପଣେ କଲ ଅଙ୍ଗୀକାର",
+          "ବନମାଳୀ ବୋଲେ ନୀଳ ପର୍ବତରେ",
+          "ହରି କରିବେ କି ବିହାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-sindhu-manthi-chandana-mukhari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

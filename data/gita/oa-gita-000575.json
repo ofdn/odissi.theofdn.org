@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000575",
+  "name": {
+    "en": "Chakadola chikkana kalia he",
+    "or": "ଚକାଡୋଳା ଚିକ୍କଣ କାଳିଆ ହେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000142"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chakadola-chikkana-kalia-he-banamali-khanda-bangalasri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚକାଡୋଳା ଚିକ୍କଣ କାଳିଆ ହେ",
+          "ବକାରି ମୋ କଥା ଶୁଣ",
+          "ଠକାଠକି ଖଣ୍ଟ ଚଳିବ ନାହିଁଟି",
+          "ପକାଇ କହୁଛି ରାଣ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଢକ୍କା ବାଜୁଅଛି ଚଉଦ ବ୍ରହ୍ମାଣ୍ଡେ",
+          "ତୁମ୍ଭର ଯେତେକ ଗୁଣ",
+          "ପକ୍କା ଜଣେ ବୋଲି ଆଗୁଁ ଶୁଣିଥିଲି",
+          "ଡକାଇତରେ ଆପଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କକା ରଥେ ବସି ପକାଇଲ ଧ୍ୱଂସି",
+          "ସ୍ୱମାତୁଳ କଂସରାଣ",
+          "ହକାରି ଥିଲା ସେ ମନେ କୂଟ ପାଞ୍ଚି",
+          "ଶୁଝିଦେଲ ପିତୃଋଣ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅକାମନା ଭକ୍ତି କରି ଗୋପ ଗୋଈ",
+          "ଚରଣେ ଗଲେ ଶରଣ",
+          "ବକା ଛଳେ କେ ବା ରସ ରହସ୍ୟରେ",
+          "କଲେ ନିତି ସୁମରଣ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅକାଳିଆ ଦାସ ବନମାଳୀ ପାଶ",
+          "ଛଡ଼ା ହେଲେ ଏକ କ୍ଷଣ",
+          "ତକାଇବି ନାହିଁ ନିଶ୍ଚେଁ ଗାଳି ଦେବି",
+          "ଯା ଇଚ୍ଛା ତାହା ବୋଲିଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chakadola-chikkana-kalia-he-banamali-khanda-bangalasri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

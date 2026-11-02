@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000772",
+  "name": {
+    "en": "Sakhi re tanku dekhili dole",
+    "or": "ସଖୀରେ ତାଙ୍କୁ ଦେଖିଲି ଡୋଳେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000134"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-tanku-dekhili-dole-todi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀରେ ତାଙ୍କୁ ଦେଖିଲି ଡୋଳେ",
+          "ବିଜେ କରିଥିଲେ କଦମ୍ବ ମୂଳେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ରୂପକୁ ଧାତା ଗଢ଼ିଲା ବେଳେ",
+          "କର କିପରି ରହିଲା ନିଶ୍ଚଳେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗୋରଚନା ଚିତା ଶୋହେ କପୋଳେ",
+          "ରାହୁ ବାନ୍ଧିଛି କି ଚନ୍ଦ୍ରମଣ୍ଡଳେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କର୍ଣ୍ଣରେ ମକର କୁଣ୍ଡଳ ଲୁଳେ",
+          "ନବଘନ କୋଳେ ଚପଳା ଖେଳେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ମନ ରହି ନିଶ୍ଚଳେ",
+          "ଦିନେ ନ ମଜ୍ଜିଲା ପାଦ କମଳେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-tanku-dekhili-dole-todi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

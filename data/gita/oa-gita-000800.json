@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000800",
+  "name": {
+    "en": "Jatane sri jagabandhu",
+    "or": "ଯତନେ ଶ୍ରୀ ଜଗବନ୍ଧୁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000104"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jatane-sri-jagabandhu-bangalasri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯତନେ ଶ୍ରୀ ଜଗବନ୍ଧୁ ନାମ",
+          "ଭଜରେ ପାଗଳ ମନ",
+          "ଯମଦଣ୍ଡରୁ ତୁ ମୁକୁଳି ଯିବୁଟି",
+          "ଅନ୍ତ କାଳେ ନୋହି ଛନ୍ନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯାବତ ଜୀବନ ପିଣ୍ଡେ ଥିବା ଯାକ",
+          "କରୁଥା ହରି କୀର୍ତ୍ତନ",
+          "ଯଦୁକୁଳ ଚନ୍ଦ୍ର ସାହା ହୋଇଥିବେ",
+          "ନ ହୋଇବୁ କଦର୍ଥନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯଶୋଦା ନନ୍ଦନ ଦେବାଦି ବନ୍ଦନ",
+          "ଦୟାଳୁ ଜଗନ୍ମୋହନ",
+          "ଯାମଳାଭଞ୍ଜନ ଭକତରଞ୍ଜନ",
+          "କରିବେ ଦୁଃଖ ମୋଚନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯେତେ ଯା ଅର୍ଜିଛୁ ଆଜନ୍ମ ପାତକ",
+          "ଜାଣି ନ ଜାଣି ରେ ମନ",
+          "ଭଜୁଥିଲେ ହରି ତୁଳା ଗରିପରି",
+          "ସକଳ ହେବ ଦହନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯୋଗାରୂଢ଼ ହରି ଯାହାଙ୍କ କିଙ୍କର",
+          "ସେ ପ୍ରଭୁ ଥିଲେ ପ୍ରସନ୍ନ",
+          "କି ଛାର କଷଣ ବାଧିବଟି ଆଉ",
+          "କହେ ବନମାଳୀ ଦୀନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jatane-sri-jagabandhu-bangalasri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

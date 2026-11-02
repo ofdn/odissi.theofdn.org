@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000785",
+  "name": {
+    "en": "Bhali bhali dina sariba nahi",
+    "or": "ଭାଳି ଭାଳି ଦିନ ସରିବ ନାହିଁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000134"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhali-bhali-dina-sariba-nahi-todi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଭାଳି ଭାଳି ଦିନ ସରିବ ନାହିଁ ଗୋ",
+          "କିଶୋରୀ ଶ୍ୟାମେ ହେଲୁ ଅସ୍ନେହୀ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଣୁ ମଣି ହୋଇ ନ ପାରୁ ଜାଣି",
+          "ଆଣୁ ନାହୁଁ ଚିତ୍ତେ ସଖୀଙ୍କ ବାଣୀ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହାତ ଓଠ ଧରି କହିଲି ଯେତେ",
+          "ତା ତ ନ ବୁଝିଲୁ କା ଦୋଷ କେତେ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗଣ୍ଡେ ମଣ୍ଡି ବାମ କରପଲ୍ଲବ",
+          "ଦଣ୍ଡେ ନ ହେଜିଲୁ ନିଜ ସୁଲଭ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ଏତେ ମାତର",
+          "ମନମୋହନଙ୍କୁ ନ କର ପର ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhali-bhali-dina-sariba-nahi-todi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

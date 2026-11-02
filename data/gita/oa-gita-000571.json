@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000571",
+  "name": {
+    "en": "Ki rasare rasika ratana rasaila re",
+    "or": "କି ରସରେ ରସିକା ରତନ ରସାଇଲା ରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000149"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-rasare-rasika-ratana-rasaila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି ରସରେ ରସିକା ରତନ ରସାଇଲା ରେ",
+          "ରସାଇଲା ମନ ତୋଷାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କର ଧରି ବସନ୍ତେ ଉରେ",
+          "ଏ କି କଥା ଭାଷି ମଧୁରେ ସେ କି ତରତରେ",
+          "ଖସି ବସୁଁ ତଳେ ଝୁଣ୍ଟିଆ ସେ କାଳେ",
+          "କାମ ନିଶାଣ କି ଘୋଷାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗଣ୍ଡେ ଚୁମ୍ବ ବିହିବା କାଳେ",
+          "ମୁଖ ଏଡ଼ି ନେଲା ସେ ବେଳେ କି ବିଡ଼ିବା ଛଳେ",
+          "ନୟନ ପ୍ରାନ୍ତରେ ଠାରି ଅଳପରେ",
+          "ନେତ୍ର ଡଗରା କି ପେଷାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଉଚ୍ଚ କୁଚେ ପଡ଼ନ୍ତେ ହାତ",
+          "ଗୋରୀ ହେଲା ଅଣଆୟତ୍ତ ସେ ଇଚ୍ଛି ସୁରତ",
+          "ଜବା ଅଧରରୁ ପୀୟୂଷ ବରଷି",
+          "ମୋ ହୃଦ ରାଜ୍ୟକୁ ଭସାଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବିପରୀତେ ମଜ୍ଜାଇ ମତି",
+          "ସୁଖେ ଦେଲା ପୁହାଇ ରାତି ରେ ନବ ଯୁବତୀ",
+          "ବନମାଳୀ ବୋଲେ ଯୁବା ଜନ କୁଳେ",
+          "ଇନ୍ଦ୍ରପଦେ ନେଇ ବସାଇଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-rasare-rasika-ratana-rasaila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000779",
+  "name": {
+    "en": "Prana sajani re tribhubana",
+    "or": "ପ୍ରାଣ ସଜନୀରେ ତ୍ରିଭୁବନ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-re-tribhubana-kamodi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ସଜନୀରେ ତ୍ରିଭୁବନ ମୋହଇ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଦନ ଗର୍ବଦଳା ଗଦ ଏ ନନ୍ଦବଳା",
+          "ବଦନ ଚନ୍ଦ୍ର କଳା ସଜନୀରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୋକଲାଜକୁ ମୋର ଶୋକ ନାହିଁ କିଶୋର",
+          "ଲୋକ ନ ମଣେ ସାର ସଜନୀରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଛତ୍ରୀବର୍ତ୍ତୀ ସୂନୁ ଯେ ମତି ନ କରିବ ଯେ",
+          "ସତୀ ସିନା ସେ ବ୍ରଜେ ସଜନୀରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୋହନ ରୂପ ଚିତ୍ତ ମୋହ କଲା ସଙ୍ଗାତ",
+          "ତା ହସ୍ତରେ ଆୟତ୍ତ ସଜନୀରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ କହଇ ଜନମେ ରାଗ ନାହିଁ",
+          "ଧନ ତାହାର ଏହି ସଜନୀରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-re-tribhubana-kamodi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

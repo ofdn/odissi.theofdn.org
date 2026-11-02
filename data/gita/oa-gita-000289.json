@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000289",
+  "name": {
+    "en": "Dekha go radha madhaba chali",
+    "or": "ଦେଖ ଗୋ ରାଧାମାଧବ ଚାଲି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000126"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-go-radha-madhaba-chali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ଗୋ ରାଧାମାଧବ ଚାଲି",
+          "ମଣିବିମାନ ଆସେ ଝୁଲି ଝୁଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବିବିଧ ବାଜଣା ବୀରକାହାଳୀ",
+          "ବିଜେ କଲେ ଗୋପଦାଣ୍ଡ ଉଚ୍ଛୁଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଙ୍ଗତେ ଅଛନ୍ତି ପଞ୍ଚସାଗର",
+          "ରାଧିକା ଦୂତିକା ମୁରଲୀଧର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନରେନ୍ଦ୍ର ସରକୁ କରିଣ ମନ",
+          "ଚାପ ଖେଳନ୍ତି ଜଗତମୋହନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ବନମାଳୀ ଶ୍ରୀପଦ ଧ୍ୟାୟି",
+          "ଚନ୍ଦନ କୁଣ୍ଡେ ପ୍ରବେଶିଲେ ଯାଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-go-radha-madhaba-chali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

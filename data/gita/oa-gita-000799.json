@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000799",
+  "name": {
+    "en": "Mo dhana re mana tu manaru",
+    "or": "ମୋ ଧନରେ ମାନ ତୁ ମନରୁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-dhana-re-mana-tu-manaru-jhinjhoti-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ଧନରେ ମାନ ତୁ ମନରୁ",
+          "ବରଜ ବରଜ ବରଜ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାହିଁକି ମଥା ପୋତି ବସିଛୁ କୁନ୍ଦଦନ୍ତୀ",
+          "ଧରା ଚିରୁ ତୁ କରଜ କରଜ କରଜ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦୁଃଖୀ ଜନର ପାଇଁ ଶୁଖିଯାଇଛି କାହିଁ",
+          "ତୋର ବଦନ ସରୋଜ ସରୋଜ ସରୋଜ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାମସିନ୍ଧୁକୁ ଏକା ତୁହି ନବ ନାବିକା",
+          "ପାରି କର ତୁ ଗରଜ ଗରଜ ଗରଜ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଉ ନ କର ଛନ୍ଦ ଭୁଜେ ବାନ୍ଧିଦେ ଦଣ୍ଡ",
+          "ଘେନ ଆଜ ମୋ ଅରଜ ଅରଜ ଅରଜ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବଦତି ବନମାଳୀ ନ ବସ ଆଉ ଭାଳି",
+          "କୁଞ୍ଜେ ନବୀନା କେଳି ସରଜ ସରଜ ସରଜ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-dhana-re-mana-tu-manaru-jhinjhoti-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

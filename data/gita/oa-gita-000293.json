@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000293",
+  "name": {
+    "en": "Marma dahuchi go",
+    "or": "ମର୍ମ ଦହୁଛି ଗୋ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000034"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/marma-dahuchi-go/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମର୍ମ ଦହୁଛି ଗୋ",
+          "କୃଷ୍ଣ ପ୍ରୀତି ଦାବାନଳ ହେଉଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନ୍ତର ହେବାରୁ ସେ ତ ନ ରହଇ ମୋ ସଚେତ",
+          "ଏ ଦଶା ଲଲାଟେ ବିହି ଲିହିଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବେଳହୁଁ ଯାଇଛି ହୁଡ଼ି ଆପଣା ଇଚ୍ଛାରେ ଲୋଡ଼ି",
+          "ଚିନ୍ତାପଙ୍କେ ଗଡ଼ି ସଢ଼ିଯାଉଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଝୁରି ଝୁରି ନିଶି ଦିନେ ଝରଇ ନୀର ନୟନେ",
+          "ନଦୀ ପରା ହୋଇ ବହିଯାଉଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶୁଣ ଲୋ ପରାଣସଖୀ ନ ପାରେ ଜୀବନ ରଖି",
+          "ସ୍ନେହ ଏତେ ସରି କଲା କହୁଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ ଦାସ ଭଣି ନ ଭାଳ କିଶୋରୀମଣି",
+          "ଶ୍ରୀ କୃଷ୍ଣଙ୍କୁ ଆଣିବି ମୁଁ ଯାଉଛି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/marma-dahuchi-go/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

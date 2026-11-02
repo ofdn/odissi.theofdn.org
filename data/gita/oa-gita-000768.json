@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000768",
+  "name": {
+    "en": "Syama riti janu nahi ki",
+    "or": "ଶ୍ୟାମ ରୀତି ଜାଣୁ ନାହିଁ କି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000078"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-riti-janu-nahi-ki-madhusri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ରୀତି ଜାଣୁ ନାହିଁ କି",
+          "ଏକା ନୀର ଘାଟେ ଗଲୁ କାହିଁକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ହଟିଆ ନବରଙ୍ଗିଆ",
+          "ଆଖିଠରା ଭୂରୁଭଙ୍ଗିଆ",
+          "ନିପଟ ଚିକ୍କଣ ଶ୍ୟାମଳ ଅଙ୍ଗିଆ",
+          "ଆଡ଼କୁ ଉଆଡ଼େ ଦେଲୁ ଚାହିଁକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତାର ଯେଉଁ ମୋହନ ବେଶ",
+          "ସତୀ ଦମ୍ଭ କରେ ନିଃଶେଷ",
+          "ସେ କୁଞ୍ଜଦେବତା ତୋ ହୃଦେ ଆବେଶ",
+          "ହୋଇ ପକାଇଛି ମଦନେ ଝାଙ୍କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତା ପାଲରୁ କେଉଁ ଚତୁରୀ",
+          "କି କରି ଆସିବ ଉତୁରି",
+          "ଫିଙ୍ଗଇ କୁହୁକ ଧୂଳିକି ମନ୍ତୁରି",
+          "ଦେଖନ୍ତେ ସୁନ୍ଦରୀ ଚନ୍ଦ୍ରମୁହୀଙ୍କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ବନମାଳୀ ନବୀନା",
+          "ବଳେ ଚିହ୍ନା ପଡ଼ିଲୁ ସିନା",
+          "ତୁ ତ କୁଳପାଳି ନ ପାରିଲୁ ଭାଳି",
+          "ଚାଳିଲୁ ପହଣ୍ଡ ଏକା ନଈକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-riti-janu-nahi-ki-madhusri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

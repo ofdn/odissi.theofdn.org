@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000310",
+  "name": {
+    "en": "Snehaku e kemanta disila re",
+    "or": "ସ୍ନେହକୁ ଏ କେମନ୍ତ ଦିଶିଲା ରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000094"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/snehaku-e-kemanta-disila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସ୍ନେହକୁ ଏ କେମନ୍ତ ଦିଶିଲା ରେ",
+          "ସେ ତୋତେ ଅନୁସରି ଭାସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁଶୀଳା ରେ ବିଚାର କାହା ଦୁଃଖ କାହାର",
+          "ଯାହାରେ ଯାହା ମନ ରସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସେବକ ଜନେ ମାନ କରିବାର ବିଧାନ",
+          "ଏ ତୋ ଅବଧାନକୁ ଆସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସରସୀରୁହ ମୁହୀଁ ଶରମ ଚିତ୍ତେ କେହି",
+          "ସ୍ତନ କଠିନ ଏବେ ମିଶିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ବଦତି ଶ୍ୟାମଳ ତନୁ ଚିନ୍ତି",
+          "ଘାରି ହେବାର ବେଳ ଆସିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/snehaku-e-kemanta-disila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

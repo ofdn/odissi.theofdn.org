@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000307",
+  "name": {
+    "en": "Sangini re jane kehi mo sange asa",
+    "or": "ସଙ୍ଗିନୀରେ ଜଣେ କେହି ମୋ ସଙ୍ଗେ ଆସ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000005"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-jane-kehi-mo-sange-asa-kaphi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଙ୍ଗିନୀରେ ଜଣେ କେହି ମୋ ସଙ୍ଗେ ଆସ ଆସ",
+          "କେଳିମନ୍ଦିରକୁ ଯିବି ନ ବଳେ ମନେ ସାହସ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋ ଲାଗି କୁଞ୍ଜବିହାରୀ ବସିଥିବେ ଅନୁସରି",
+          "ସବୁ ବାଧା ବିଘ୍ନ ଲଙ୍ଘି ଭେଟିବଇଁ ପାଶ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବାସକସଜ୍ଜା ସମ୍ଭାର ଯାବତ ତା ଉପଚାର",
+          "ଘେନାଇଁ ହୁଅ ବାହାର ହୋଇ ଗୋ ଉଲ୍ଲାସ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁବାସ ସୁମନମାଳା ମଣ୍ଡିବି ବନ୍ଧୁଙ୍କ ଗଳା",
+          "ଖଣ୍ଡିବି ଅନ୍ତରୁ ମୋର ଏ ବିଚ୍ଛେଦ ତ୍ରାସ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସେ ବୃନ୍ଦାବନ ମଦନ ଶୁଭେ କରି ଆଲିଙ୍ଗନ",
+          "ଭାଷିବେ ପ୍ରୀତି ବଚନ ବଳାଇ ଆଶ୍ୱାସ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ ଦାସ ଭଣେ ନବ ପରିଚାରୀ ପଣେ",
+          "ଅନୁଗମିବି ଗହଣେ ମିଳୁ ଅବକାଶ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-jane-kehi-mo-sange-asa-kaphi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

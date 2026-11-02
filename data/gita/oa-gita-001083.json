@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001083",
+  "name": {
+    "en": "Syama nagara mahata nibarai",
+    "or": "ଶ୍ୟାମ ନାଗର ମହତ ନିବାରଇ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-nagara-mahata-nibarai-bhairabi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ନାଗର ମହତ ନିବାରଇ ତ",
+          "କାମରେ କାମିନୀ କଲା ବାଇ ତ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲାଞ୍ଚ ଦେବି ଦେବତାରେ କେ ବୋଲିବ ସେବ ତାରେ",
+          "ରହି ନୋହୁଅଛି ରହି ଜାକି ତ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖି ଆଖି ରହେ ଲାଖି ରହେ ସଖୀ ଆହା ସେ ବିରହେ",
+          "ନାହିଁ ମୁହିଁ ଯେ ସୂତାରେ ଖସି ତ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏମନ୍ତ ସୁନ୍ଦର ବର ବରଜରେ ବେଦବଦର",
+          "ରଖିଥିଲା ସୁଖ ଦରଶାଇ ତ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀକି ପଚାର ଯେବେ ନିଗୂଢ଼ ବିଚାର",
+          "କଲା ସେହୁ ରମ୍ୟପୁର ସାହି ତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-nagara-mahata-nibarai-bhairabi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

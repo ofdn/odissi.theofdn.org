@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000782",
+  "name": {
+    "en": "Ballabhi labhichi aja bira besa",
+    "or": "ବଲ୍ଲଭୀ ଲଭିଛି ଆଜ ବୀରବେଶ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000049"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ballabhi-labhichi-aja-bira-besa-bibhasa-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବଲ୍ଲଭୀ ଲଭିଛି ଆଜ ବୀରବେଶ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କପାଳ ସାରଙ୍ଗ ତାର ଭୂରୁଗୁଣ ବେଶ ରେ",
+          "ନେତ୍ର ପଞ୍ଚଶର ସନ୍ଧି ଧୈର୍ଯ୍ୟ କରେ ନାଶ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶୋଭା ପାଉଅଛି ତାର ତୋରା ଚନ୍ଦ୍ରହାସ ରେ",
+          "ନିତମ୍ବ ଚଳଇ ପାଇ ନାହିଁ ରତି ରସ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁମନ ଗଭା ପାଗ ବହିଛି ଶିରଦେଶରେ",
+          "ଜାନୁ ଯୁଗ ନିବିଡ଼େ ବାନ୍ଧିଛି ଝୀନ ବାସରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଝୁଣ୍ଟିଆ ନାଗରା ବଜାଉଛି ଗତି ରସରେ",
+          "ଅଞ୍ଚଳ ଶେଷ ପତାକା ଉଡ଼େ ମହୀଦେଶରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମନସିଜ ମୋହବଶ ଫଳଦାନେ ତୋଷରେ",
+          "ମନକୁ ରସାଇ ବୋଲେ ବନମାଳୀ ଦାସରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ballabhi-labhichi-aja-bira-besa-bibhasa-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

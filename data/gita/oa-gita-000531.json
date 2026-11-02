@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000531",
+  "name": {
+    "en": "Kanhu he tumbhe bada daruna",
+    "or": "କାହ୍ନୁ ହେ ତୁମ୍ଭେ ବଡ଼ ଦାରୁଣ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kanhu-he-tumbhe-bada-daruna-basanta-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହ୍ନୁ ହେ ତୁମ୍ଭେ ବଡ଼ ଦାରୁଣ",
+          "ଜଣାଗଲା ତୁମ୍ଭ ବିବେକ ପଣ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭାବଗ୍ରାହୀ ନାଥ ଭରସା ପାଇ",
+          "ଭଜି ଭାସିଗଲା ମୋ ପ୍ରାଣସହୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୁରୁଷ ଭ୍ରମର ଏକଇ ଜାତି",
+          "କାର୍ଯ୍ୟ ଲଭିବା ଯାଏଁ ଭଣ୍ଡୁଥାନ୍ତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବଳି ପଡ଼ୁଅଛି ନବମ ଦଶା",
+          "ନ କର ନ କର ଭଗାରୀ ହସା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ କହେ ଦୂତୀ ବଚନେ",
+          "ବିଜେ କଲେ କୃଷ୍ଣ ରାଧା ସଦନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kanhu-he-tumbhe-bada-daruna-basanta-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

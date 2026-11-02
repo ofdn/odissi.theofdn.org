@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000774",
+  "name": {
+    "en": "Sajani ghena mo binatiki",
+    "or": "ସଜନୀ ଘେନ ମୋ ବିନତିକି ରେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000150"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-ghena-mo-binatiki-todiparaja-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀ ଘେନ ମୋ ବିନତିକି ରେ",
+          "ମୋହନେ କହିବୁ ମାତ୍ର ଏତିକି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶିକ୍ଷା ଦେଲା କେହୁ ଶିରୀପତିଙ୍କି",
+          "ଦୀକ୍ଷା କଲେ ସ୍ତିରୀମରା ରୀତିକି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶ୍ରଦ୍ଧା କରି ସେ ଲାବଣ୍ୟ ମୂର୍ତ୍ତିଙ୍କି",
+          "ରାଧା ପରା ହରାଇଛି ଜାତିକି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପରବତ ଧର ନୀଳ ହାତୀଙ୍କି",
+          "ସାର କରି ଲଭେ ଅପଖ୍ୟାତିକି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ବନମାଳୀ ସେ ଶ୍ରୀମତୀଙ୍କି",
+          "କୃଷ୍ଣ ବିନେ କାହିଁ ଅଛି ଗତି କି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-ghena-mo-binatiki-todiparaja-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

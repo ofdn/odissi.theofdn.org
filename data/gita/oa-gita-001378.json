@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-001378",
+  "name": {
+    "en": "Prana sangini go nahi ambha banamali",
+    "or": "ପ୍ରାଣ ସଙ୍ଗିନୀ ଗୋ ନାହିଁ ଆମ୍ଭ ବନମାଳୀ । ଘୋଷା । ଦେଖ ଏ କାଳିକା କାଳୀକୁଣ୍ଡଳୀ ଆସୁଛି ଖେଳି । ୧ । ଆସେ ବିଜୁଳି ରସନା ଚାଳିସେ ସିନା କାଳୀକି ଦଳି । ୨ । କାଳିନ୍ଦୀରେ କଲେ କେଳିସଙ୍ଗେ ଘେନି ବ୍ରଜବାଳୀ । ୩ । ଏହି ରସେ ଭାଳି ଭାଳିଗୀତେ କହେ ବନମାଳୀ । ୪ ।"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000197"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-go-nahi-ambha-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ସଙ୍ଗିନୀ ଗୋ ନାହିଁ ଆମ୍ଭ ବନମାଳୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖ ଏ କାଳିକା କାଳୀ",
+          "କୁଣ୍ଡଳୀ ଆସୁଛି ଖେଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସେ ବିଜୁଳି ରସନା ଚାଳି",
+          "ସେ ସିନା କାଳୀକି ଦଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାଳିନ୍ଦୀରେ କଲେ କେଳି",
+          "ସଙ୍ଗେ ଘେନି ବ୍ରଜବାଳୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏହି ରସେ ଭାଳି ଭାଳି",
+          "ଗୀତେ କହେ ବନମାଳୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-go-nahi-ambha-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

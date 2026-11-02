@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000526",
+  "name": {
+    "en": "Kala dhala sodare bala chitta",
+    "or": "କଳା ଧଳା ସୋଦରେ ବଳା ଚିତ୍ତ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000104"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kala-dhala-sodare-bala-chitta-bangalasri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କଳା ଧଳା ସୋଦରେ ବଳା ଚିତ୍ତ ମୋଦରେ",
+          "ପଳାଇବ ଦୂରିତ ନ ରହି ମହା ଖେଦରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦଳିତ ସୁଅଞ୍ଜନ ବଳି ତନୁ ରଞ୍ଜନ",
+          "ଲଳିତ ତମାଳ ଇନ୍ଦ୍ରମଣି ଦର୍ପଗଞ୍ଜନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗଙ୍ଗା ଜଳୁଁ ଧବଳ ଅଙ୍ଗାବଳୀ ଏ ବଳ",
+          "ରଙ୍ଗାଧର ଶୋଭା ଦେଖ ହେବ ଦୁଃଖ ଦୁର୍ବଳ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚାହଁ ଲୋକ ନିସ୍ତାରେ ମହାବାହୁ ବିସ୍ତାରେ",
+          "ଆହାଲାଦରେ ଏଟି ଚଉଦ ଲୋକ ସାସ୍ତାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ଭାଷିଲା ଜନମ ବିନାଶିଲା",
+          "ଘନଶ୍ୟାମ ରାମ ଠାରେ ମନ ନ ନିବେଶିଲା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kala-dhala-sodare-bala-chitta-bangalasri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000091",
+  "name": {
+    "en": "Kunje murali bajuchi",
+    "or": "କୁଞ୍ଜେ ମୁରଲୀ ବାଜୁଛି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000042"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kunje-murali-bajuchi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୁଞ୍ଜେ ମୁରଲୀ ବାଜୁଛି",
+          "ଗଲେ ହେବ ଅପବାଦ ନ ଗଲେ ମରୁଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶାଶୁ ନଣନ୍ଦ ମୋହର ଦେଖି ନ ପାରନ୍ତି",
+          "ଯମୁନାକୁ ନୀର ଆଣିବାକୁ ନ ଛାଡ଼ନ୍ତି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଦନ ବାଣରେ ତନୁ ଘାରି ହେଉଅଛି",
+          "କି କରିବି କାହିଁ ଯିବି ଅସ୍ଥିର ହେଉଛି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ମୋହନ ବେଣୁଧର ପ୍ରାଣର ସଙ୍ଖାଳି",
+          "ଗୋପାଙ୍ଗନାମାନେ ବେଢ଼ି ଦ୍ୟନ୍ତି ହୁଳହୁଳି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କୁଳଛଡ଼ା ଘରବୁଡ଼ା ନାଗର କହ୍ନାଇ",
+          "ବୋଲେ ବନମାଳୀ ମିଛ ନୁହେ ପ୍ରାଣସହି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kunje-murali-bajuchi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

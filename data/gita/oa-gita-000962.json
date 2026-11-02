@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000962",
+  "name": {
+    "en": "Bisa piyusa boli mun deli chakhi",
+    "or": "ବିଷ ପୀୟୂଷ ବୋଲି ମୁଁ ଦେଖି ଚାଖି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000145"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bisa-piyusa-boli-mun-deli-chakhi-soka-kamodi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବିଷ ପୀୟୂଷ ବୋଲି ମୁଁ ଦେଖି ଚାଖି",
+          "ଆଗୋ ପ୍ରିୟସଖୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦିନେ ହୋଇଥିଲି ଛିଡ଼ା ଛିଡ଼ା",
+          "ଆସି ମିଳିଗଲେ ଘରବୁଡ଼ା",
+          "ଭଲ କରି ଥରେ ଚାହିଁ ନ ପାରିଲି",
+          "ସେ ଦିନୁ ମୋ ମନ ଗଲା ଲାଖି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗୋଟିକ ଯାକ ଦକ୍ଷିଣ ଆଖି",
+          "ବିପକ୍ଷଙ୍କ ପରେ ଥିଲି ରଖି",
+          "ଲାଜ ଭୟରୁ ବାମ ନେତ୍ର ଅର୍ଦ୍ଧେକ",
+          "ତାଙ୍କ ଅଧରେ ମୁଁ ଥିଲି ରଖି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶେଷ ଅଞ୍ଚଳ ନୟନେ ଦେଇ",
+          "ନାଗରବରଙ୍କୁ ଦେଲି ଚାହିଁ",
+          "ତେତେବେଳେ ମନ ବିକଶି ଆସଇ",
+          "ନ ରସିବେ ମୋତେ ଆଉ କେହି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ନବପୋଷା",
+          "ଆସି ମୋ ହୃଦେ କଲେଣି ବସା",
+          "ଗୋଟି ଗୋଟିକ ଘୋଟିବ ଏହିକ୍ଷଣି",
+          "ମୂଳ ହେଲାଣି ଭଗାରିହସା ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bisa-piyusa-boli-mun-deli-chakhi-soka-kamodi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

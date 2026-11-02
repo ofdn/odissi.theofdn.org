@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000777",
+  "name": {
+    "en": "Nikunje murali bajuchi",
+    "or": "ନିକୁଞ୍ଜେ ମୁରଲୀ ବାଜୁଛି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nikunje-murali-bajuchi-kalyana-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନିକୁଞ୍ଜେ ମୁରଲୀ ବାଜୁଛି",
+          "ସଞ୍ଜ ସମୟରୁ ଶୁଭୁଅଛି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରଜନୀ ସଜନୀ ବଳି ପଡ଼ୁଅଛି",
+          "କର କର ଅଭିସାର",
+          "ହେଜ ଶ୍ୟାମ ବ୍ରଜ ଯୁବରାଜ ଆଜ",
+          "ରାଧେ ତୋ ନାମ ଜପୁଛି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବ୍ୟାଜ ମନେ ନାହିଁ ଦ୍ୱିଜରାଜ ମୁହୀଁ",
+          "କାର୍ଯ୍ୟ ନିକଟେ ରହିଛି",
+          "ହାଜର ମୁଁ ତୋର ସେବାରେ ନିକର",
+          "ବୋଲି ଏତେ ଜଣାଉଛି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଜକଞ୍ଜନେତ୍ରୀ ରାଜନନ୍ଦିନୀ ଗୋ",
+          "ସାଜ କଳା ବେଶ ବାଛି",
+          "ମଜ୍ଜ ବନ୍ଧୁ ପ୍ରେମେ କେଳି କୁଞ୍ଜଧାମେ",
+          "ଧନ ନ ବିଚାର କିଛି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଧ୍ୱଜ ବଜ୍ରାଙ୍କୁଶ ଆଦି ଅଷ୍ଟାଦଶ",
+          "ଚିହ୍ନ ଯେ ପଦେ ସାଜୁଛି",
+          "ସେ ପଦକୁ ଭାଳି ଭାଳି ବନମାଳୀ",
+          "ଯୁଗଳ ରସେ ମଜ୍ଜୁଛି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nikunje-murali-bajuchi-kalyana-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

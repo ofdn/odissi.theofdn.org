@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000515",
+  "name": {
+    "en": "Anjana ganjana chhabi",
+    "or": "ଅଞ୍ଜନ ଗଞ୍ଜନ ଛବି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000059"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/anjana-ganjana-chhabi-punnaga-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅଞ୍ଜନ ଗଞ୍ଜନ ଛବି ଶ୍ରୀ ଛାମୁକୁ ଥରେ",
+          "ଯାଆ ମୋ ସଜନୀ କୁଞ୍ଜ ବନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆସ ନିରାଶ ତୁ ନ କର",
+          "ବାସ ସୁମନ ପରିରେ ସରିଲା ହୃଦୟ ଗିର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତେଜ ଗୁମାନ ମନୁ ତୋର",
+          "ଧରୁଛି ତୋ କର ମୋତେ ମାର ତାପରୁ ଉଦ୍ଧାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଧରାରେ ତୋ ଯଶ ବିସ୍ତାର",
+          "ତା ଅଧରାମୃତ ପାନ ଦାନେ ବିଳମ୍ବ ନ କର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଘେନ ବାରେ ମିନତି ମୋର",
+          "ଜଣାଇ ମଣାଇ ଶ୍ୟାମେ କହ ଦୁଃଖ ସମାଚାର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବାଣୀ ଶୁଣି ଦୂତୀ ରାଧାର",
+          "ଚଳେ ବନମାଳୀ ଶ୍ୟାମ ଛାମୁକୁ ହୋଇ ସତ୍ୱର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/anjana-ganjana-chhabi-punnaga-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

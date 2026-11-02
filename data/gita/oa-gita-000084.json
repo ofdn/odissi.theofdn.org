@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000084",
+  "name": {
+    "en": "Ago sakhi ati bisama netra pirati",
+    "or": "ଆଗୋ ସଖୀ ଅତି ବିଷମ ନେତ୍ର ପୀରତି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000035"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-sakhi-ati-bisama-netra-pirati-banamali-sindhu-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଗୋ ସଖୀ ଅତି ବିଷମ ନେତ୍ର ପୀରତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପରସ୍ପରେ ପଡ଼ଇ       ସୁଧା ଆଣି ଇଡ଼ଇ",
+          "ସବୁ ବିଷୟା ହୁଏ ଆରତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପାଶୋରିଲେ ପାଶୋରି       ଶୋରିଷକେ ନ ପାଇ",
+          "ନ ଦେଖି ଛାତି ହୁଏ କରତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରେଣୁ ପଡ଼ିଲେ ଆଖି       ଚିତ୍ର କିଛି ନ ଦେଖି",
+          "ବନ୍ଧୁ ମୂରତି ହୁଏ ଭରତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଖିର ଆଖି କୀଟ       ଅଟଇ ଏ କି ଲାଟ",
+          "କାଟୁଛି ହୋଇ ନାହିଁ ବରତି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନୟନ ପରବଶ       ହେଳେ କରଇ ନାଶ",
+          "ସତ ଏ ବନମାଳୀ ଭାରତୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-sakhi-ati-bisama-netra-pirati-banamali-sindhu-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

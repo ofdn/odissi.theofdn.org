@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000776",
+  "name": {
+    "en": "Brajaraja suta phande padi mita",
+    "or": "ବ୍ରଜରାଜ ସୁତ ଫାନ୍ଦେ ପଡ଼ି ମିତ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000138"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-suta-phande-padi-mita-malaba-kousika-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବ୍ରଜରାଜ ସୁତ ଫାନ୍ଦେ ପଡ଼ି ମିତ",
+          "କେତେ କଥା ଦେହ ସହୁଛି",
+          "ହେଜ ମନେ ବ୍ୟାଜ କହୁ ନାହିଁ ଲାଜ",
+          "ପଙ୍କେ ମନ ବୁଡ଼ିଯାଉଛି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ ଗୋପରେ କେହି ଅଛି ଯୁବତୀ",
+          "ଶ୍ୟାମ ସଙ୍ଗ ରଙ୍ଗ ରସେ ନ ମାତି",
+          "ଫୁଲାଇଣ ଛାତି ସର୍ବେ ହେଲେ ସତୀ",
+          "ମୋ ନାମେ କଳଙ୍କ ରହୁଛି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କିଏ ଯାଉ ନାହିଁ ଅବା ଯମୁନା",
+          "ମୋହ ଯିବା ପାଇଁ ହୋଇଛି ମନା",
+          "ପାଟକ କୁଳ ଅଟକକୁ ନ ମାନି",
+          "ଏତେ ସରି ସିନା ହେଉଛି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆହୁରି କାତରେ ହୃଦୟ ଥରେ",
+          "ଡେରି ଶୁଣ ଏବେ ଶ୍ରୁତି ପଥରେ",
+          "କଦମ୍ବ ମୂଳେ କି ମଧୁର ସ୍ୱରେ",
+          "ବଂଶୀ ରାଧେ ରାଧେ ଗାଉଛି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦିଶିବ କି ସତେ ସୁଗତି ପଥ",
+          "ଦୋଷୀ ବୋଲି ନ ବୋଲିବ କୃତାନ୍ତ",
+          "ନିଶି ଦିନ ଭାଳି ଦୀନ ବନମାଳୀ",
+          "ଯୁଗଳ ପଦକୁ ଧ୍ୟାଉଛି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-suta-phande-padi-mita-malaba-kousika-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

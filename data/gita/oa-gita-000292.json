@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000292",
+  "name": {
+    "en": "Ehi kathare mo mana mahabahu",
+    "or": "ଏହି କଥାରେ ମୋ ମନ ମହାବାହୁ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000082"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-kathare-mo-mana-mahabahu-gouda-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି କଥାରେ ମୋ ମନ ମହାବାହୁ",
+          "ନିତି ଦେଖୁଥିବି ନୀଳାଦ୍ରି ମଣ୍ଡପେ",
+          "କଞ୍ଜସୁନ୍ଦର ବଦନ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଞ୍ଜଳିରେ ଜଳ ପିଇ ପିନ୍ଧୁଥିବି",
+          "ବକଳ କରି ବସନ",
+          "ଶଚୀପତି ପଦ ତୁଚ୍ଛ ମଣୁଥିବି",
+          "ଥିଲେ ତୁମ୍ଭ ସନ୍ନିଧାନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୋଭୀ ହୋଇଥିବି ଅର୍ଦ୍ଧଚନ୍ଦ୍ର ମୁଖ",
+          "ଚନ୍ଦନଲାଗି ବେଳକୁ",
+          "ଧୀରେ ଚାହୁଁଥିବି ବିପୁଳ ଭୁଜକୁ",
+          "ସୁଭଦ୍ରା କାମପାଳଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅବକାଶମାନଙ୍କରେ ମୋ ଲାଳସ",
+          "ହୋଇଥିବ ଅହର୍ନିଶ",
+          "ତେତେବେଳେ ଡୋଳେ ହେଳେ ନ ଦେଖିବି",
+          "ବ୍ରହ୍ମା ରୁଦ୍ର ଦିନଈଶ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତିନି ବଦନଚନ୍ଦ୍ରକୁ ଚାହିଁ ମୁହିଁ",
+          "ତାପତ୍ରୟକୁ ନାଶିବି",
+          "ବୋଲେ ବନମାଳୀ ଜନ୍ତୁପତି ଭୟ",
+          "ଲୋକକୁ ଚାହିଁ ହସିବି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-kathare-mo-mana-mahabahu-gouda-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

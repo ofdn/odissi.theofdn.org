@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000297",
+  "name": {
+    "en": "Tore sarana gali re murali",
+    "or": "ତୋରେ ଶରଣ ଗଲି ରେ ମୁରଲୀ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000092"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tore-sarana-gali-re-murali-banamali-mangala-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୁରଲୀ ତୋରେ ଶରଣ ଗଲି ରେ ମୁରଲୀ",
+          "ଦିନେ ନ ଡାକିବୁ ରାଧିକା ବୋଲି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ନନ୍ଦସୁତ ମୁଁ ରାଜକୁମାରୀ",
+          "ବଂଶୀ ଦେଲୁ ସିନା ପରତେ କରି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୁଚି ଲୁଚି ଯାଏ ସଖୀ ସଙ୍ଗତେ",
+          "କି ଘେନି ଚିହ୍ନିଲୁ ମୁରଲୀ ମୋତେ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜାତି ତୋର କଣ୍ଟାବାଉଁଶ ଖଣ୍ଡ",
+          "ଧ୍ୱନି ସଙ୍ଗେ ଥାଇ ପଞ୍ଚମ କାଣ୍ଡ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କୃଷ୍ଣ ହସ୍ତୁ ତୋତେ କେ ଦ୍ୟନ୍ତା ମୋତେ",
+          "ଭସାଇ ଦିଅନ୍ତି ଯମୁନା ସ୍ରୋତେ ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୁରଲୀ ରେ ତୋର ଏଡ଼େ ବଡ଼ାଇ",
+          "ପତିବ୍ରତା ଦମ୍ଭ ଦେଉ ଛଡ଼ାଇ ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ଯୋଡ଼ିଣ କର",
+          "ମୁରଲୀଟି ଦୂତୀ ସିନା ତୁମ୍ଭର ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tore-sarana-gali-re-murali-banamali-mangala-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

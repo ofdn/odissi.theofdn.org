@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000484",
+  "name": {
+    "en": "Dinu dinu nanda tanaya go",
+    "or": "ଦିନୁ ଦିନୁ ନନ୍ଦତନୟ ଗୋ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000076"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinu-dinu-nanda-tanaya-go/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦିନୁ ଦିନୁ ନନ୍ଦତନୟ ଗୋ",
+          "ନବ ନବ ପରା ମିତ",
+          "ନିତି ଦେଖୁଥିଲେ ପ୍ରୀତି ବଢ଼ୁଥାଇ",
+          "ତୃପତି ନୁହଇ ଚିତ୍ତ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହାସରେ ସଖି ଭାଷରେ ତାର",
+          "ପୀୟୂଷ ଯେ ଥାଇ ପୂରି",
+          "ଶ୍ରୁତିରେ ପଡ଼ି ଧୃତି ନାଶଇ",
+          "ବୃତ୍ତି ତେଜଇ ନାରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଖଞ୍ଜନ ମୀନ ଗଞ୍ଜନ ମୃଗ",
+          "କଞ୍ଜ ନୟନ ତାର",
+          "ଛାତିରେ ପଡ଼ି କାତି ମାରଇ",
+          "ଜାତି ମଦନ ଶର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଛାଡ଼ି ସବୁ ସଜାଡ଼ିଲା ତନୁ",
+          "କେତେ କାଳ ବସି ବିହି",
+          "କାମ ହୋଇଲେ ଝାମ ହୋଇବ",
+          "ଶ୍ୟାମ ମୂରତି ଚାହିଁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ମନ ମିଳିଗଲେ",
+          "ବିଶୋରି ନ ପାରେ ଆଖି",
+          "ଯେତେ ଚିତ୍ତେ ଭାବୁଥିଲେ ପୁଣି",
+          "କେତେ ନୂଆ ନୂଆ ଦିଶେ ସଖି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinu-dinu-nanda-tanaya-go/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

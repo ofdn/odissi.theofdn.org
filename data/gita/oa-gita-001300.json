@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-001300",
+  "name": {
+    "en": "Kahinki ede rusani kisori mani",
+    "or": "କାହିଁକି ଏଡ଼େ ରୁଷାଣି କିଶୋରୀ ମଣି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000043"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-ede-rusani-kisori-mani-basanta-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ଏଡ଼େ ରୁଷାଣି କିଶୋରୀ ମଣି",
+          "ନୟନୁ ଝରାଉ ପାଣି",
+          "ନୋହେଁ କି ସେ ତୋର ନୋହୁଁ କି ତୁ ତାର",
+          "ବୃଥା ସିନା ଏ ଭାଳେଣି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେଉଁ କଳା ଦ୍ରବ୍ୟେ ସ୍ନେହ ଅତି ଲୋଭେ",
+          "କରିଥାଉ ସୁଲକ୍ଷଣୀ",
+          "ଏ କି ବିପରୀତ କହ ପ୍ରାଣମିତ",
+          "ସେ କିମ୍ପା ଦୂର ହେଲାଣି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯାର ଦେଖା ଆଶେ ଯମୁନାର ପାଶେ",
+          "ଏଣେ ତେଣେ ତୋ ଚାହାଣୀ",
+          "ଏବେ ତାର ନାମ ଧଇଲେ ବିଷମ",
+          "କୋପ ପରକାଶୁ ଆଣି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯାର ପାଦ ଧୂଳି ଅଙ୍ଗେ ହେଉ ବୋଳି",
+          "ରସିକାବର ସିହାଣୀ",
+          "ଆଜି ପୁଣି ତାକୁ ପାଦେ ଠେଲିବାକୁ",
+          "ସତ ବଳିଲା କି ଘେନି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯାର ଅଙ୍ଗ ବାସ ନିତ୍ୟେ କରି ଆଶ",
+          "ତୋଷୁଥାଉ ରଜକିନୀ",
+          "ବୋଲେ ବନମାଳୀ ତା ଅଳ୍ପ ଦୋଷକୁ",
+          "ନ କହ ଏ ଚଳ ବାଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-ede-rusani-kisori-mani-basanta-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

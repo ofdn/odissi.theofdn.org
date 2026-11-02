@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000288",
+  "name": {
+    "en": "Dukha nasana he sukha na paili dine",
+    "or": "ଦୁଃଖନାଶନ ହେ ସୁଖ ନ ପାଇଲି ଦିନେ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dukha-nasana-he-sukha-na-paili-dine/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୁଃଖନାଶନ ହେ ସୁଖ ନ ପାଇଲି ଦିନେ",
+          "ବେଳୁଁ ବେଳ ଦୁଃଖ ପ୍ରବଳ ହେଉଛି",
+          "ବିଜୁଳି ଯେସନେ ଘନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନାଥର ନାଥ ନୀଳଗିରିନାଥ",
+          "ଜଗନ୍ନାଥ ଲକ୍ଷ୍ମୀସାଇଁ",
+          "ଅରକ୍ଷିତକୁ ତ ରଖି ଦେଉନାହଁ",
+          "ଭବଜଳରେ ଭସାଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆହେ ହରି ମୁହିଁ ସହି ତ ନ ପାରି",
+          "ଅନ୍ତର ବେଦନାମାନ",
+          "ଯେଣୁ କରି ତୁମ୍ଭେ ଦୟା ନ କଲ ହେ",
+          "ପ୍ରଭୁ ଆତଙ୍ଗନାଶନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏଡ଼େ ନିଷ୍ଠୁର ତ ହେଲ ମୋହ ଭଳି",
+          "ଦୁଃଖୀଜନ ହୀନ ଠାରେ",
+          "ଦୀନଜନମାନେ ଗୁହାରି କରନ୍ତି",
+          "ନ ଶୁଣ କି ତୁମ୍ଭେ ବାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୋଡ଼ୁ ମୋ ଅଦୃଷ୍ଟ ଅନ୍ନ ବସ୍ତ୍ର କଷ୍ଟ",
+          "ଏଡ଼େ ବଡ଼ ପ୍ରଭୁ ଥାଉଁ",
+          "ବନମାଳୀ ବୋଲେ ଚଞ୍ଚଳ ଚିତ୍ତ ମୋ",
+          "ପଦ୍ମପାଦେ ତୁମ୍ଭ ରହୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dukha-nasana-he-sukha-na-paili-dine/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

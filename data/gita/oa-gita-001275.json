@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001275",
+  "name": {
+    "en": "Mana teja sajani",
+    "or": "ମାନ ତେଜ ସଜନୀ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000041"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-teja-sajani-lalita-banamali-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମାନ ତେଜ ସଜନୀ",
+          "ସେ ମୋହନ ଲାଗି ମୁଁ କରୁଛି ଦଇନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋତେ ଛନ୍ତି ପଠାଇ ତୋତେ ସଙ୍ଗେ ନେବା ପାଇଁ",
+          "ବିଳମ୍ବ କରୁ କିମ୍ପାଇଁ ରାଜନନ୍ଦିନୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଡରି ମନମଥକୁ ନିଦ୍ରା ନ ଆସେ ନେତ୍ରକୁ",
+          "ଘୋଷନ୍ତି ତୋର ନାମକୁ ଗଜଗାମିନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେବାରେ ମନାଇଁ ହର ପାଇଣ ଥିଲୁ ଯେ ବର",
+          "ଏବେ ତାକୁ କରୁ ପର ରାସରଙ୍ଗିନୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଝଟକ କାଞ୍ଚନ ଗୋରୀ ହଟ କରୁ କି ବିଚାରି",
+          "ବାଟ ଚାହିଁଥିବା ହରି ଗଲା ରଜନୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବନମାଳୀ ଦାସ ଭଣି ଦୂତିକା ବଚନ ଶୁଣି",
+          "ମାନ ତେଜିଲେ ତକ୍ଷଣି କିଶୋରୀମଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-teja-sajani-lalita-banamali-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "oa-gita-000781",
+  "name": {
+    "en": "Priya chhada he moha asa",
+    "or": "ପ୍ରିୟ ଛାଡ଼ ହେ ମୋହ ଆଶା"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000089"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/priya-chhada-he-moha-asa-mohana-kedara-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରିୟ ଛାଡ଼ ହେ ମୋହ ଆଶା ଭରସା",
+          "ନ ରଖ ପରବଶ ମୁଁ କହି ଦେଲିଟି",
+          "ଗୋଚର କଲିଟି ହେ ତୃଷା",
+          "ଥାଇ ସୁଧା ଏଡ଼ିଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜଗିଛନ୍ତି ଅରି ଦିବସ ଶର୍ବରୀ",
+          "ଉଞ୍ଚାଇ ନୟନ ଭାଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଜାଣି ଖରଶ୍ୱାସ ସ୍ୱାମୀ ଅବିଶ୍ୱାସ",
+          "କରଇ କ୍ରୋଧେ ପାଶରୁ ଦିଏ ଠେଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମନକୁ ଆଘ୍ରାଣ କରୁଛନ୍ତି ଜାଣ",
+          "ସପତ୍ନୀ ସଳଖି ନ ପାରେ ଚାଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ୱଶୁରଙ୍କୁ ଧାତା ଇଙ୍ଗିତ ଦେବତା",
+          "ସ୍ୱରୂପ ଗଢ଼ିଛି ମୋତେ ଦେଲା ଭୁଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୋହ ଯାଆମାନେ ବୋଲନ୍ତି ନ ମାନେ",
+          "ତାଙ୍କର ଶତ୍ରୁ ଅଟେ ମୋହର ଚିଲ୍ଲୀଟି ହେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଆଉ ବୃଥା ଶ୍ରମ ନ ପାଅ ମରମ",
+          "କହି ରସିକ ଅନ୍ତର ହେଲିଟି ହେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ତୁନି କରି ବନମାଳୀ ବୋଲେ ଧନ",
+          "ବୈଦ୍ୟ ମୁଁ ଚତୁରା ଚିତୋଇବ ଗଲିଟି ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/priya-chhada-he-moha-asa-mohana-kedara-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

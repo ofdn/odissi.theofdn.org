@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000291",
+  "name": {
+    "en": "Bansi re tora ediki dau",
+    "or": "ବଂଶୀରେ ତୋର ଏଡ଼ିକି ଦାଉ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000009"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bansi-re-tora-ediki-dau/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବଂଶୀରେ ତୋର ଏଡ଼ିକି ଦାଉ",
+          "ଦମ୍ଭ ଧରି କେବା ସହିବ ଆଉ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶ୍ୟାମ କରେ ଅନୁବରତେ ଥାଉ",
+          "ଆମ୍ଭ ରାଧା ନାମୁଁ କି ସୁଖ ପାଉ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଞ୍ଚମ ତାନରେ କି ଗୀତ ଗାଉ",
+          "ଗୋପିନୀକୁଳେ କଳଙ୍କ ଲଗାଉ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋହନ ଅଧର ଅମୃତ ଖାଉ",
+          "ବ୍ରଜେ ଅକୀର୍ତ୍ତି ଘୋଷଣା ଦିଆଉ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ନ ବାଜ ଆଉ",
+          "ସବୁ ଯାଉ ପଛେ ମହତ ଥାଉ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bansi-re-tora-ediki-dau/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

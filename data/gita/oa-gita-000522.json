@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000522",
+  "name": {
+    "en": "Eniki au na pare sahi",
+    "or": "ଏଣିକି ଆଉ ନ ପାରେ ସହି"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000134"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/eniki-au-na-pare-sahi-todi-athatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏଣିକି ଆଉ ନ ପାରେ ସହି",
+          "ଦୁଃଖେ ପ୍ରିୟ ସହୀ ଲୋଟଇ ମହୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ ଜୀବନ ଧନ ଯେଉଁ ଜୀବନ",
+          "ଦୂରେ ରଖି କେହି ବଞ୍ଚିବ ଦିନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆହା ବୋଲିବାକୁ ନାହିଁ କେ ସାହା",
+          "ସଞ୍ଚିଥିବ କୁହା ଲୋତକ ବୁହା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଜନମ ସୁଖୀ ନବ ଛଇଳା",
+          "ମୋହ ଲାଗି କେତେ ଦୁଃଖ ସହିଲା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲାବଣ୍ୟ ପିତ୍ତୁଳା ପ୍ରେମ ସୁଆଗୀ",
+          "ମୋର ଲାଗି ସବୁ ସୁଖ ତିଆଗୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନାଚଇ ନୟନେ ଅନବରତେ",
+          "ତା ମୋହିନୀ ଛବି ଅତି ଆରତେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ରଖିଲାଣି ମନ ତାର ଧିଆନେ",
+          "ସହିଲାଣି ଦେହ କୁସୁମ ବାଣେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ବନମାଳୀ ବୋଲେ ନନ୍ଦନନ୍ଦନ",
+          "ଗୋପେ ଚଳ ରାଧା ହୃଦ ଚନ୍ଦନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/eniki-au-na-pare-sahi-todi-athatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

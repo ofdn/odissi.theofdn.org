@@ -1,0 +1,85 @@
+{
+  "id": "oa-gita-000303",
+  "name": {
+    "en": "Sakhi go mora kunjaku aja",
+    "or": "ସଖୀ ଗୋ ମୋର କୁଞ୍ଜକୁ ଆଜ"
+  },
+  "composer": "oa-person-000026",
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-go-mora-kunjaku-aja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀ ଗୋ ମୋର କୁଞ୍ଜକୁ ଆଜ",
+          "ଆସିବେ ପରା ସେ ନାଗରରାଜ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଜ ତ ଏ ମୋର କେଳିମନ୍ଦିର",
+          "ଦିଶୁଅଛି ସଖୀ କେଡ଼େ ସୁନ୍ଦର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭାଙ୍ଗି ରଖିଅଛି ବିଡ଼ିଆ ପାନ",
+          "ଭୁଞ୍ଜିବେ ବୋଲି ମୋ ଜୀବନଧନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋଳି ରଖିଛି ଏ ଚନ୍ଦନ ଚୂଆ",
+          "ଲାଗି ହେବେ ମୋ ଭାବ ବିନୋଦିଆ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗୁନ୍ଥି ରଖିଛି ଏ କୁସୁମ ମଲ୍ଲୀ",
+          "ମୋ ମନମୋହନ ପିନ୍ଧିବେ ବୋଲି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଆଜ ତ ଗୋଧନ ବାହୁଡ଼ା ବେଳେ",
+          "ମୋତେ ଅନାଇଁ ବିଜେ କରୁଥିଲେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଆଜ ତ ମୋହର କେଳିମାନସ",
+          "ଦେଖି କାନ୍ତ ହେବେ କେଡ଼େ ହରଷ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ତୋତେ କି ଦିଶୁଅଛି ସଖୀ କହ",
+          "ବୋଲେ ବନମାଳୀ ନାହିଁ ସନ୍ଦେହ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-go-mora-kunjaku-aja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

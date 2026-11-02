@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000085",
+  "name": {
+    "en": "Ede nirdaya kahinki sunabarana",
+    "or": "ଏଡ଼େ ନିର୍ଦ୍ଦୟା କାହିଁକି ସୁନାବରନା"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000005"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ede-nirdaya-kahinki-sunabarana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏଡ଼େ ନିର୍ଦ୍ଦୟା କାହିଁକି ସୁନାବରନା",
+          "ଆଉ ଜାଣି ଜାଣି ଛଳ କରନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖିଲା ବେଳରୁ ତୋ ଚନ୍ଦ୍ରବଦନ",
+          "ଘନ ଘନ ହୃଦ ଦହଇ ମଦନ",
+          "କଲାଣି ତୋ ରୂପ ନୟନେ ସଦନ",
+          "କଟାକ୍ଷ କଟାରୀ ବନ୍ଧୁ ଧରନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଖୀମେଳେ ଯେବେ ବସୁ ହସି ହସି",
+          "ମଣଇଁ ସତେକି ତାରା ମଧ୍ୟେ ଶଶୀ",
+          "ସେ ସୁଷମା ଭାଳି ନ ସରଇ ନିଶି",
+          "ସୁଧା ଅଧରରେ ବିଷ ଭରନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁଝୀନ ବସନେ ଫୁଟି ତୋ ଊରଜ",
+          "ଭାଙ୍ଗିଦିଏ ଯୁବାମଣ୍ଡଳୀର ତେଜ",
+          "ରସିକାରତନ ତୁ ନାଗରୀରାଜ",
+          "ଆଶା ରତନଟି ମୋର ହରନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବାନ୍ଧିଦେବି ଧନ ମନ ସୁଖେ ଜୂଡ଼ା",
+          "ଖଞ୍ଜି ଚଉପାଶେ କେତକୀ ପାଖୁଡ଼ା",
+          "ବନମାଳୀ ବୋଲେ ତୁମ୍ଭେ ଘରବୁଡ଼ା",
+          "ଲବେ କୃପା ବହ ପ୍ରାଣେ ମାରନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ede-nirdaya-kahinki-sunabarana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

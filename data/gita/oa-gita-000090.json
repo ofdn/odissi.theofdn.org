@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000090",
+  "name": {
+    "en": "Ki range chahinla chhaila",
+    "or": "କି ରଙ୍ଗେ ଚାହିଁଲା ଛଇଳ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-range-chahinla-chhaila-nabaghana-kalia-saberi-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି ରଙ୍ଗେ ଚାହିଁଲା ଲୋ ଛଇଳ",
+          "ନବଘନ କାଳିଆ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯାଇଥିଲି ନୀର ଆଣି ନୀପମୂଳେ ବେଣୁପାଣି",
+          "କି ମନ୍ତ୍ର କରି ମନ ମୋହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯାଇଥିଲି ଯମୁନାକୁ କଦମ୍ବ ମୂଳେ ତାହାକୁ",
+          "ଦେଖି ମୋ ଆଖି ଲାଖି ରହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯାଇଥିଲି ମୁହିଁ ଏକା ଯାହା କଲା ଗିରିଟେକା",
+          "ତାହା ତ ବଚନେ କହି ନୋହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କୋଟି କଳାକର ଶିରୀ କୋଟି ସ୍ମର ନୋହେ ସରି",
+          "କି ଯତ୍ନେ ବିହି ତାକୁ ଲିହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଭଲା ତା ନେତ୍ର କଟାରୀ ଶାଣଦିଆ ତରବାରୀ",
+          "ମରମେ ମୋର ଲାଖି ରହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ମୋର ପତିବ୍ରତ ଆଣି ଭାଙ୍ଗିଦେଲା ସେହି ପୁଣି",
+          "ଧଇର୍ଯ୍ୟବନ୍ଧ ମୋ ନ ରହିଲା ଲୋ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "କହଇ ଯା ବନମାଳୀ ଏ ରସରେ ଭାଳି ଭାଳି",
+          "ଆଉ ଯା ଥରେ ଭେଟ ନୋହିଲା ଲୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-range-chahinla-chhaila-nabaghana-kalia-saberi-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

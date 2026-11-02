@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000294",
+  "name": {
+    "en": "Mani bimane gobinda",
+    "or": "ମଣି ବିମାନେ ଗୋବିନ୍ଦ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mani-bimane-gobinda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମଣି ବିମାନେ ଗୋବିନ୍ଦ",
+          "ଚଉପାଶେ ଘେରିଛନ୍ତି ସହଚରୀବୃନ୍ଦ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିର୍ମଳ ଚନ୍ଦ୍ରବଦନ ଆହା କି ପସନ୍ଦ",
+          "ତେରଛ ଚାହାଣୀ ତୁଲେ ହାସ ମନ୍ଦ ମନ୍ଦ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଙ୍ଗରେ ପଞ୍ଚପାଣ୍ଡବେ ଲଭନ୍ତି ଆନନ୍ଦ",
+          "ପଟୁଆରୀ ନିଯୋଗେ ଗାଆନ୍ତି ଗୀତ ଛାନ୍ଦ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମନ୍ତ୍ରୀପଦେ ଲୋକନାଥ ଦେବ ସଦାନନ୍ଦ",
+          "କରନ୍ତି ସକଳ ନିର୍ଭା ସେ ସଭା ସମ୍ପଦ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବଡ଼ଦାଣ୍ଡ ଉଚ୍ଛୁଳଇ ଗହଗହ ନାଦ",
+          "ଶଙ୍ଖ ଭେରୀ ତୂରୀ ଘଣ୍ଟା କାହାଳୀ ଶବଦ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୋଲେ ବନମାଳୀ ଧ୍ୟାୟି ଚରଣାରବିନ୍ଦ",
+          "ଚାପକୁ ବିଜୟେ ଆହା ଗୋପୀହୃଦଚାନ୍ଦ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mani-bimane-gobinda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

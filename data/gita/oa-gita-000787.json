@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000787",
+  "name": {
+    "en": "Mohana kahile ki heba au",
+    "or": "ମୋହନ କହିଲେ କି ହେବ ଆଉ"
+  },
+  "composer": "oa-person-000026",
+  "mula_raga": [
+    "oa-raga-000142"
+  ],
+  "mula_tala": [
+    "oa-tala-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-kahile-ki-heba-au-khanda-bangalasri-banamali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋହନ କହିଲେ କି ହେବ ଆଉ",
+          "ଦିନକୁ ଦିନ ହେ ବଳି ପଡ଼ିଲାଣି",
+          "କିଶୋରୀ ବିରହ ଦାଉ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗଲେ ଯମୁନାକୁ ନୀର ଆଣିବାକୁ",
+          "ନୀର ଭରି ନେତ୍ର ଯୁଗେ",
+          "କଦମ୍ବ ମୂଳକୁ ଚାହିଁ ପୁଣି ତାକୁ",
+          "କି ପୁଚ୍ଛଇ ଅନୁରାଗେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବୃନ୍ଦାବନେ ବାଳୀ ଆଉ ଫୁଲ ତୋଳି",
+          "ଯାଉ ନାହିଁ ତୁମ୍ଭ ବିନା",
+          "ଗଣ୍ଡେ କର ଦେଇ ଚିନ୍ତାର୍ଥିନୀ ହୋଇ",
+          "ସଢ଼ୁଛି ନବ ନବୀନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କରମକୁ ନିନ୍ଦେ କେଶ ହିଁ ନ ବାନ୍ଧେ",
+          "ବେଶରେ ନାହିଁ ଆଦର",
+          "ଦରକଣ୍ଠୀ ଗୋରୀ ଦରମରା ପରି",
+          "ଢଳି ପଡ଼େ ମହୀ ପର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କି ଉନ୍ମାଦ ରୋଗ ଘୋଟିଛି ତାହାକୁ",
+          "କେହି ନ ପାରନ୍ତି ଚିହ୍ନି",
+          "ବୋଲେ ବନମାଳୀ ତୁମ୍ଭେ ସିନା ମୋର",
+          "ବୈଦ୍ୟରାଜ ଚୂଡ଼ାମଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mohana-kahile-ki-heba-au-khanda-bangalasri-banamali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
