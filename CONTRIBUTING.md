@@ -125,6 +125,18 @@ Install Node.js 20 or later. Run `npm install` once. Then:
 - `npm run build` writes the site to `dist/`.
 - `npm run archive` looks up Wayback Machine copies of cited pages. Add `-- --save` to archive pages that have no copy yet.
 
+## Trying out design changes
+
+Every page also has a copy under `/dev/`, such as `odissi.theofdn.org/dev/person/`, where you can try a new look without changing the main site. Nothing links to it. Search engines are asked to skip it.
+
+- Edit `site-templates/dev/dev.css`. It loads after the main stylesheet, on `/dev/` pages only.
+- Put pictures and patterns in `site-templates/dev/` and use them from `dev.css`.
+- To add a picture to a list page, name it after the kind, such as `raga.png`. Put its credit in `raga-credit.html`.
+- To check it on your computer, run `npm run build`. Then run `python3 -m http.server 8642` in `dist/` and open `localhost:8642/dev/`.
+- Changes merged to `main` appear on the live `/dev/` in about a minute.
+
+When a change is agreed, move it into `site-templates/static/styles.css`.
+
 ## Records imported from Odissi Music
 
 Most records come from Odissi Music. Their citations link the original pages but have no `archive_url` yet. Run `npm run archive` to look them all up. It checks about 1,900 pages, a few seconds apart, so it takes a few hours.
