@@ -228,7 +228,7 @@ export function filmLayout({ header = "", player = "", facts = "", main = "", en
 ${header}
 </header>
 ${player ? `<div class="film__player">\n${player}\n</div>\n` : ""}${body}
-${end ? `<div class="page-end${facts && !main.trim() ? " page-end--solo" : ""}">\n${end}\n</div>` : ""}
+${end ? `<div class="page-end${!facts || !main.trim() ? " page-end--solo" : ""}">\n${end}\n</div>` : ""}
 </div>`;
 }
 
