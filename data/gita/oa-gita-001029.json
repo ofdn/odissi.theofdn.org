@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-001029",
+  "name": {
+    "en": "Kadana deu tu kete",
+    "or": "କଦନ ଦେଉ ତୁ କେତେ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000020"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kadana-deu-tu-kete-sri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କଦନ ଦେଉ ତୁ କେତେ ମଦନ ମୋତେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଦନ ହେଲାନି ବନ ବଦନ ଦେଖୁଛୁ ମ୍ଳାନ",
+          "ରଦନ ଭିଡ଼ି ତୁ ବାଣ ଭେଦନ କରୁ ନିରତେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିଷମ ବିଶିଖ ବାର ବିଷମ ବିଶିଖବାର",
+          "ଅସମୟରେ ମୋହର ତ୍ରାସ ନ ଧର ତୁ ଚିତ୍ତେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୋହର ଅଟଇ ପର ଯେ ହର ତାକୁ ପ୍ରହାର",
+          "ମୋହର ଠାରେ ସତ୍ୱର ସଂହର କୋପ କିଞ୍ଚିତେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନିକର କହୁଛି ବାଣୀ ନିକର ମୋହର ଶୁଣି",
+          "ମକରଧ୍ୱଜ ତୁ ପୁଣି ନ କର କ୍ରୋଧ ସନ୍ତତେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସବିକଳେ ଏହିପରି ସନ୍ତାପ କହୁଁ କିଶୋରୀ",
+          "କବି ସୁଧାନିଧି ଭଣି କରି ସ୍ମରଣ ନିରତେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kadana-deu-tu-kete-sri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

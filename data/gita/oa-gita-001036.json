@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-001036",
+  "name": {
+    "en": "Sahi ke ki mohilaki",
+    "or": "ସହି କେ କି ମୋହିଲାକି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000103"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-ke-ki-mohilaki-regupta-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସହି କେ କି ମୋହିଲାକି ପ୍ରାଣନାଥଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋହିଲାକି କହିଲାକି",
+          "ରହିଲେକି କାହିଁକି କି ବିହି ସେକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାମନାରେ କା ମନାରେ",
+          "ବାମ ହେଲେ ଶ୍ୟାମ ଭଲେ ପ୍ରେମ କଲେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆନ ଦେଲେ ଆନ କଲେ",
+          "ଭିନ୍ନ ହେଲେ ସେ ନଇଲେ ଦିନ ନେଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରାଧାକୃଷ୍ଣ ରାଧାକୃଷ୍ଣ",
+          "ସୁଧ୍ୟାନରେ ସୁଧା ନରେ ବାଧା ହରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-ke-ki-mohilaki-regupta-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

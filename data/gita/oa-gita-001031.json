@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-001031",
+  "name": {
+    "en": "Sudhakara tu nirate",
+    "or": "ସୁଧାକର ତୁ ନିରତେ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000037"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sudhakara-tu-nirate-bilahari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଚନ୍ଦ୍ର ନିନ୍ଦା",
+          "ସୁଧାକର ତୁ ନିରତେ ବାଧା ଦେଉଅଛୁ କେତେ",
+          "ସାଧାରଣ ମାର୍ଗେ ରହି ଉଦ୍ଧାର କର ସନ୍ତତେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଉଦୟ ହେଲେ ତୋହର ମୋଦ ହୁଅଇ ଲୋକର",
+          "ହୃଦୟ ଭିତରେ ମୋର କଦନ ଦେଉ ମାତର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାମ ସଖା ତୁ ହେବାରେ ବାମ ହେଉ ବାରେ ବାରେ",
+          "ହିମଗୁଣ ଛାଡ଼ି ଏବେ ଝାମ ଦେଉ ନିରନ୍ତରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କବି ସୁଧାନିଧି ଭଣି କୃଷ୍ଣ ପାଦଯୁଗ ଗୁଣି",
+          "ଅବିଳମ୍ବେ ରାଧା ପାଣି ଆର୍ତ୍ତେ ଭୃଙ୍ଗେ କହି ବାଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sudhakara-tu-nirate-bilahari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001037",
+  "name": {
+    "en": "Eniki mun janili",
+    "or": "ଏଣିକି ମୁଁ ଜାଣିଲି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/eniki-mun-janili-mukhabari-mukhari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏଣିକି ମୁଁ ଜାଣିଲି ତାର ବିବେକ",
+          "ଏତିକି ବୋଲି ଚିହ୍ନିଲି",
+          "ଆଣି ନିକୁଞ୍ଜକୁ ଆସିବି ବୋଲି ସେ",
+          "ଏଣିକି ନ ଆସି ରହିଲେ କା ରସେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସତ ବୋଲି ହେଜି ତା ଭାଷା",
+          "ସହି ରହିଲି ଏ ଦୁଃଖକୁ ନିଶା",
+          "ହିତ ତେଜି କଲେ ଏ ଲୋକହସା",
+          "ହେଲି ଏତେ ସରି କରି ମୁଁ ଆଶା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଧୁ ନିଶି ଆସି ପାଉଛି",
+          "ବିଧୁ କିରଣ ଅଧିକେ ବାଧୁଛି",
+          "ମଧୁକର ରବ ଧୃତି ନେଉଛି",
+          "ମାନି ତା ଭାଷାକୁ ଯାହା ହେଉଛି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କବି ସୁଧାନିଧି ଏ ବାଣୀ",
+          "କହଇ ଶୁଣ ଗୋ ସୁବାଣୀ",
+          "ନ ବିଚାର ଚିତ୍ତେ ମୁରଲୀପାଣି",
+          "ନାଗର ଆସିବେ ସମୟ ଜାଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/eniki-mun-janili-mukhabari-mukhari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
