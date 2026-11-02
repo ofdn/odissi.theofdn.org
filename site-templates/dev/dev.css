@@ -109,7 +109,7 @@ body { background-image: var(--pc-grain); }
 
 ul.record-list li { border-bottom-color: color-mix(in srgb, var(--pc-ochre) 45%, transparent); }
 
-/* List pages with a picture: a cut-out from a wall painting, looking towards the title */
+/* List pages with a picture: a round detail from a wall painting, looking towards the title */
 .page__header--icon { display: grid; grid-template-columns: auto 1fr; column-gap: 1.25rem; align-items: center; }
 .page__header--icon .kind-icon { grid-row: span 3; width: clamp(5.5rem, 14vw, 9rem); height: auto; }
 .page__header--icon .page__count { grid-column: 2; }
