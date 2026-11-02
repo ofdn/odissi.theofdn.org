@@ -131,8 +131,13 @@ if (existsSync(DEV_DIR)) {
   for (const name of readdirSync(DEV_DIR)) write(`dev/${name}`, readFileSync(join(DEV_DIR, name)));
   const head = `<meta name="robots" content="noindex, nofollow">\n<link rel="stylesheet" href="${dev}dev.css?v=${hash(readFileSync(join(DEV_DIR, "dev.css")))}">\n</head>`;
   for (const [rel, html] of pages) {
+    // a list page gets its kind's picture when dev/<kind>.png exists
+    const icon = rel.match(/^(\w+)\/index\.html$/)?.[1];
+    const withIcon = icon && existsSync(join(DEV_DIR, `${icon}.png`))
+      ? html.replace('<header class="page__header">', `<header class="page__header page__header--icon">\n<img class="kind-icon" src="${dev}${icon}.png" alt="" width="160" height="160">`)
+      : html;
     // page links move under /dev/, files (css, js, json, bib) stay where they are
-    const out = html
+    const out = withIcon
       .replace(/ (href|action)="([^"]*)"/g, (m, attr, u) => (u.startsWith(config.BASE_PATH) && !/\.[a-z]+([?#]|$)/i.test(u) ? ` ${attr}="${dev}${u.slice(config.BASE_PATH.length)}"` : m))
       .replace(/ data-index="[^"]*"/, ` data-index="${dev}search.json"`)
       .replace("</head>", head);
