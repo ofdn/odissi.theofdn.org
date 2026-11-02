@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000043",
+  "name": {
+    "en": "Dekha sajani benupaninki go",
+    "or": "ଦେଖ ସଜନୀ ବେଣୁପାଣିଙ୍କି ଗୋ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000024"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sajani-benupaninki-go/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ସଜନୀ ବେଣୁପାଣିଙ୍କି ଗୋ",
+          "ନବୀନ ନଟବର ଠିଆ ଠାଣିକି ଗୋ",
+          "ନୀଳେନ୍ଦ୍ର ମଣି ଆଭା କୋଟି କନ୍ଦର୍ପ ପ୍ରଭା",
+          "ସେ ଚାରୁ ବଙ୍କିମା ଚାହାଣୀକି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶିଖୀ ଚନ୍ଦ୍ରିକା ଚୂଳେ ବେଢ଼ା କେତକୀ ଦଳେ",
+          "ଆହା କି ଶୋଭା ଚିନ୍ତାମଣିକି ଗୋ",
+          "ତା ଭାଲ ଗୋରଚନା ବୁଡ଼ାଏ ତ ଚେତନା",
+          "ରଖାଇ ନ ଦିଏ କା ଆଣିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାସା ପୁଟର ମଣି ଦୋହଲିବାର ଠାଣି",
+          "ମନ୍ଦ ହାସରେ ନିଏ କିଣିକି ଗୋ",
+          "ହେଲେ କୁଳବରତୀ ତା ଫାନ୍ଦରୁ ବରତି",
+          "ଯିବ କେ କହ ସଖି କେଣିକି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sajani-benupaninki-go/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

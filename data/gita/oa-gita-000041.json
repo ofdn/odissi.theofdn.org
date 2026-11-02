@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000041",
+  "name": {
+    "en": "Dekha dekha sakhi go dekha nirekhi",
+    "or": "ଦେଖ ଦେଖ ସଖୀ ଗୋ ଦେଖ ନିରେଖି"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-dekha-sakhi-go-dekha-nirekhi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ଦେଖ ସଖୀ ଗୋ ଦେଖ ନିରେଖି",
+          "ଢଳି ଢଳି କି ରଙ୍ଗରେ ଆସେ ବାଙ୍କ ଆଖି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆହା କି ମଧୁର ହାସ । ନବନଟବର ବେଶ ।",
+          "ଶିଖଣ୍ଡଚୂଳିଆ ଛଇ କେ ପାରିବ ଲେଖି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୋଟିଏ ମଦନ ଯାର । ଶୋଭାକୁ ନୋହିବେ ଗାର ।",
+          "ଚଉଦଭୁବନ ସାର ପ୍ରତିମା ଏ ଟିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଧେନୁ ପଛେ ବେଣୁ ବାଇ । ସଖାମଣ୍ଡଳୀରେ ଥାଇ ।",
+          "କି ଭଙ୍ଗୀରେ ସେ ନାଚଇ ପାଦେ ପାଦ ଯୋଖି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀଅଙ୍ଗରେ ଧୂଳି ପଡ଼ି । କେମନ୍ତେ ଯାଇଛି ଜଡ଼ି ।",
+          "ବନବେଶ ମନୋହର ମରମରେ ଯାଏ ଲାଖି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-dekha-sakhi-go-dekha-nirekhi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

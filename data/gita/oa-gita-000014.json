@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-000014",
+  "name": {
+    "en": "Ana sajani anare",
+    "or": "ଅନା ସଜନୀ ଅନାରେ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-sajani-anare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନା ସଜନୀ ଅନାରେ । ଗଗନେ ହସି ।",
+          "ଶରଦ ଶଶି ବିକାଶେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପାଞ୍ଚି କଳପେ ସତେ । ସିଞ୍ଚି ଅମୀୟ ଯେତେ ।",
+          "ବିଞ୍ଚି ସ୍ନେହ ମରୁତେ । ବାଞ୍ଛି ବିରଞ୍ଚି କେତେ ।",
+          "(ପଡ଼ି)",
+          "ସାର କରି ଗଢ଼ିଲା ଡଉଲ ରୂପ ତାର",
+          "ଗାର ଦେବାକୁ ନାହିଁ ତଉଲ ସରି ଯାର",
+          "ହାର ତାରକା ଟୀକା ପଦକ ପରକାର",
+          "କା’ର ନ ରସେ ଚିତ୍ତ ତାର କୁମାର କି ସେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-sajani-anare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

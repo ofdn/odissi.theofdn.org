@@ -1,0 +1,50 @@
+{
+  "id": "oa-gita-000097",
+  "name": {
+    "en": "Nabina nirada syama",
+    "or": "ନବୀନ ନୀରଦ ଶ୍ୟାମ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000041"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nabina-nirada-syama-nabinaku-sarila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବୀନ ନୀରଦ ଶ୍ୟାମ",
+          "ନବୀନାକୁ ସାରିଲାରେ",
+          "ସଂସାର ସାର ସୁଷମା",
+          "ଅବିରତ ଘାରିଲାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲାବଣ୍ୟନିଧିକି ଝୁରି",
+          "ସରିଲା ରାଈ କିଶୋରୀ",
+          "ଅଶନ ବସନ ବିଷ",
+          "ତୁଲ୍ୟ ମଣି ଝୁରିଲାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nabina-nirada-syama-nabinaku-sarila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

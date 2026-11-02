@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000223",
+  "name": {
+    "en": "Keli nipa mulaku tu ana",
+    "or": "କେଳି ନୀପମୂଳକୁ ତୁ ଅନା"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000070"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/keli-nipa-mulaku-tu-ana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେଳି ନୀପମୂଳକୁ ତୁ ଅନା",
+          "ରେ ସୁଲୋଚନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନବ ବାରିଧର ଜିଣି ଦିଶେ ତନୁ",
+          "କର୍ଣ୍ଣରେ କୁଣ୍ଡଳ ଗଞ୍ଜେ ନବ ଭାନୁ",
+          "ରୁଣ୍ଡ କରେ କାମ ଶକ୍ର କାଣ୍ଡ ଧନୁ",
+          "ତୀର ନେତ୍ର ତୀକ୍ଷ୍ଣ ମୁନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବକାଳି ପନ୍ତିକି କୁସୁମ ମାଳିକା",
+          "ଖେଳା କରେ ହୃଦେ ମଲ୍ଲିକା ମାଳିକା",
+          "ବିରହିଣୀ ଧନୀ କାମେ ବିହ୍ୱଳିକା",
+          "ବାଳା ଅବନୀମଣ୍ଡନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲପନ ଝଲକେ ମୃଗାଙ୍କ ମଣ୍ଡଳେ",
+          "କରି ଶୁଣ୍ଢ ବାରି ଦଣ୍ଡେ ଖେଳା କରେ",
+          "ମୁରଲୀ ତନ୍ତରେ ବାଦ୍ୟ ନୃତ୍ୟ କରେ",
+          "ଝଟକେ ମନ ମୋହନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/keli-nipa-mulaku-tu-ana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000206",
+  "name": {
+    "en": "Pankaja mukhi re",
+    "or": "ପଙ୍କଜ ମୁଖୀ ରେ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pankaja-mukhi-re-sankarabharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଙ୍କଜ ମୁଖୀ ରେ",
+          "ଅଙ୍କମଣ୍ଡନା ମୋର ରଙ୍କ ରତନହାର",
+          "ଟଙ୍କଧରାରି ଆତଙ୍କରୁ ରଖ ମୋରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମହୀକି କାହିଁ ଚାହିଁ ରହି ଅଛୁରେ ସହି",
+          "ବହିଯାଉଛି ନୀର ଧାରକୁ ଧାର ହୋଇ",
+          "(ପଡ଼ି)",
+          "ଗଣ୍ଡେ ମଣ୍ଡି ପାଣି ପଣ୍ଡିତା ଶିରୋମଣି",
+          "ଚାଣ୍ଡରେ କାହୁଁ ଏ ଦୁର୍ଦ୍ଦଣ୍ଡ ବିହିଲୁ ଆଣି",
+          "ତାଣ୍ଡବପ୍ରିୟ ପର କାଣ୍ଡରେ ଶର ଟାଣି",
+          "ଖଣ୍ଡ ଖଣ୍ଡ ପିଣ୍ଡ ଦଣ୍ଡେ କରିବାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେଶ ବାସରେ ତୋର ଲେଶେ ନାହିଁ ଆଦର",
+          "କେଶ ମୁକୁଳା ଶେଷମୋହିନୀ ରେ ମୋହର",
+          "(ପଡ଼ି)",
+          "ଦାସ ଦୋଷକୁ ଏ ପ୍ରାସ ଅସୁନ୍ଦର",
+          "କାଶହାସିନୀରେ ରୋଷକୁ ପରିହର",
+          "ନାଶ କଲେ ଯଶ ଲେଶ ଅଛିକି ତୋର",
+          "ଆସ ଆସ ରାସରଙ୍ଗିନୀ ପାଶେ ମୋର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pankaja-mukhi-re-sankarabharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

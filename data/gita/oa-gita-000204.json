@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000204",
+  "name": {
+    "en": "Rasa rangini nirasa na kara",
+    "or": "ରାସରଙ୍ଗିନୀ ନିରାଶ ନ କର"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasa-rangini-nirasa-na-kara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାସରଙ୍ଗିନୀ ନିରାଶ ନ କର",
+          "ଦାସ ମୁଁ ତୋହର ।",
+          "କାଶହାସୀରେ ନାଶି ଦୋଷକୁ",
+          "ଭାଷ ସୁମଧୁର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାଞ୍ଚନଗୋରୀ ସଞ୍ଚିତ ଜନେ",
+          "ମୁଞ୍ଚିତ ନ କର",
+          "ଉଁଚ୍ଛିତକେଶୀ ବଞ୍ଚିତ ଆଶା",
+          "ନାହିଁ ତ ମୋହର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବାରଣଗତି ମାର ମାରଣୁ",
+          "ବାରେ ତୁ ଉଦ୍ଧର",
+          "ଶରଣ ଜନେ ଦାରୁଣ ଭୀତି",
+          "ଆଉ ତୁ ନ କର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମନ୍ଦରସ୍ତନା ଛନ୍ଦ ନ କର",
+          "ବନ୍ଦନ ମୋହର",
+          "ସୁଦରଶନେ ଆଦର କରି",
+          "ଦିଅ ତୁ ଅଧର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasa-rangini-nirasa-na-kara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

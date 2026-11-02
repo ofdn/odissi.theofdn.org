@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000150",
+  "name": {
+    "en": "Pirati lagai syama",
+    "or": "ପୀରତି ଲଗାଇ ଶ୍ୟାମ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000069"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pirati-lagai-syama/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପୀରତି ଲଗାଇ ଶ୍ୟାମ ଦୂରଦେଶ ତୁ ନ ଯା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁ ଗଲେ ମଧୁଭୁବନ । କି ଘେନି ବଞ୍ଚିବୁ ଦିନ ।",
+          "ହେବ ଦଶଦିଗ ଶୂନ୍ୟ ମୁଖ ଦର୍ଶନ ବିନାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏତେ ସ୍ନେହ ଦୂର କରି । ଯିବ ଯେବେ ମଧୁପୁରୀ ।",
+          "ହାରିବୁ ପରାଣ ସର୍ବେ ଯାଇ ଯମୁନାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନୋହିଲେ ଗରଳ ବିଷ । ଖାଇ ପ୍ରାଣେ ଯିବୁ ନାଶ ।",
+          "କି ଲାଭ ପରାଣେ ଥାଇ ଆଉ ଜୀବଦ୍ଦଶାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pirati-lagai-syama/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

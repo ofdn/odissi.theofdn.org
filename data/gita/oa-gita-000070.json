@@ -1,0 +1,52 @@
+{
+  "id": "oa-gita-000070",
+  "name": {
+    "en": "Gati mora nanda nandana",
+    "or": "ଗତି ମୋର ନନ୍ଦନନ୍ଦନ"
+  },
+  "composer": "oa-person-000014",
+  "mula_raga": [
+    "oa-raga-000032"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gati-mora-nandanandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଗତି ମୋର ନନ୍ଦନନ୍ଦନ",
+          "ଗଲେ ଯାଉ ପଛେ ସଖୀ",
+          "ତାର ଲାଗି ଏ ଜୀବନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହେଲେ ହେଉ ଅପବାଦ । ତହିଁକି ନାହିଁ ମୋ ଖେଦ ।",
+          "ସେହି ସିନା ମୋ ସନମାନ ।",
+          "(ପଡ଼ି‌)",
+          "ଯାଉ ଗୋ ମାନ ମହତ । ନ ତେଜିବି ନନ୍ଦସୁତ ।",
+          "କଳାକାହ୍ନୁ ମୋର ଗଣ୍ଠିଧନ ତ ।",
+          "ସେ ତ ମୋର ଗଳାହାର । ନଟବର ସୁନ୍ଦର ।",
+          "ମୂରୁଛି ନ ପାରିବି ଗୋ ହୃଦଚନ୍ଦନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gati-mora-nandanandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
