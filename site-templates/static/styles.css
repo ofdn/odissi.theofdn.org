@@ -284,12 +284,15 @@ h2 { font-size: 1.4rem; font-weight: 600; margin: 2.5rem 0 1rem; }
 
 /* Film layout: player full width, details aside on the left on wide screens */
 .film__player { max-width: 46rem; margin-bottom: 3rem; }
+.film__solo { max-width: 17rem; }
 .film__body { display: grid; grid-template-columns: 1fr; gap: 3rem; }
 @media (min-width: 900px) {
   .film__body { grid-template-columns: minmax(14rem, 17rem) 1fr; gap: 4rem; }
   .film__facts { align-self: start; }
   .film__wrap .page-end { display: grid; grid-template-columns: minmax(14rem, 17rem) 1fr; column-gap: 4rem; }
   .film__wrap .page-end > * { grid-column: 2; max-width: 46rem; }
+  .film__wrap .page-end--solo { display: block; }
+  .film__wrap .page-end--solo > * { max-width: 46rem; }
 }
 @media (min-width: 900px) and (min-height: 700px) {
   .film__facts { position: sticky; top: 8rem; }

@@ -220,16 +220,15 @@ ${pageScript}
 
 // Film page layout from theofdn.org: details on the left, text on the right.
 export function filmLayout({ header = "", player = "", facts = "", main = "", end = "" }) {
-  // with no text, sources and citation sit beside the details instead of below them
-  const bare = facts && !main.trim();
-  if (bare) [main, end] = [end, ""];
-  const text = `<div class="film__main${bare ? "" : " prose"}">\n${main}\n</div>`;
+  const text = `<div class="film__main prose">\n${main}\n</div>`;
+  // with no text, sources and citation go straight under the details
+  const body = !facts ? text : main.trim() ? `<div class="film__body">\n${facts}\n${text}\n</div>` : `<div class="film__solo">\n${facts}\n</div>`;
   return `<div class="film__wrap">
 <header class="film__header">
 ${header}
 </header>
-${player ? `<div class="film__player">\n${player}\n</div>\n` : ""}${facts ? `<div class="film__body">\n${facts}\n${text}\n</div>` : text}
-${end ? `<div class="page-end">\n${end}\n</div>` : ""}
+${player ? `<div class="film__player">\n${player}\n</div>\n` : ""}${body}
+${end ? `<div class="page-end${facts && !main.trim() ? " page-end--solo" : ""}">\n${end}\n</div>` : ""}
 </div>`;
 }
 
