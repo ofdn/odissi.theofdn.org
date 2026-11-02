@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-001189",
+  "name": {
+    "en": "Kehi sariki prabhu pane niladri kesariki",
+    "or": "କେହି ସରିକି ପ୍ରଭୁପଣେ ନୀଳାଦ୍ରି କେଶରୀକି"
+  },
+  "composer": "oa-person-000002",
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kehi-sariki-prabhu-pane-niladri-kesariki-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେହି ସରିକି ପ୍ରଭୁପଣେ ନୀଳାଦ୍ରି କେଶରୀକି",
+          "ଯାଠାରେ ପୂରିଛି ଦୁଃଖୀ ଜନ ଦୟା",
+          "ନଖଠାରୁ ଶିଖା ସରିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି କହିବା ଆଉ ତାଙ୍କ ଶ୍ରୀଚରଣ",
+          "ଅନୁସରଣ ଚାତୁରୀକି",
+          "ବଜାଉଛନ୍ତି ବିଭୀଷଣ ଆଗରେ",
+          "ଜଗତ ବିଜୟ ତୂରୀକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସାନକୁ ବଡ଼ କରିବାରେ ଉଡ଼ାଉ",
+          "ଅଛନ୍ତି ଧ୍ୱଜ ମଞ୍ଜରୀକି",
+          "ଦେଖ ନାଗ ନର ଗନ୍ଧର୍ବ କିନ୍ନର",
+          "ଉପରେ ଧ୍ରୁବ ନଗରୀକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କି କହିବି ତାଙ୍କ ପୀରତି କରିବା",
+          "କୀରତି ଚନ୍ଦ୍ର ମାଧୁରୀକି",
+          "ରଙ୍କ ବିପ୍ର ପାଦ ଧୁଆଇ ଯା ଦେଲେ",
+          "ରମା କରେ ରତ୍ନଝରୀକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କ୍ଷମାସାଗର ହେ ତାହାଙ୍କୁ ଭଜିଲେ",
+          "କାଳ କିଙ୍କରକୁ ଡରିକି",
+          "ବୋଲେ କବିସୂର୍ଯ୍ୟ ଆନ ଉପାୟକୁ",
+          "ପେଲି ଦିଅ ଗିରିଦରୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kehi-sariki-prabhu-pane-niladri-kesariki-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

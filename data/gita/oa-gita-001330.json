@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-001330",
+  "name": {
+    "en": "Ana ana sunayana kinchita",
+    "or": "ଅନା ଅନା ସୁନୟନା କିଞ୍ଚିତ କୃପାରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000154"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-ana-sunayana-kinchita-dhannasika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନା ଅନା ସୁନୟନା କିଞ୍ଚିତ କୃପାରେ",
+          "ତୋଷ ମୋତେ ଅନୁକମ୍ପା ହାତୀ ଶିରୁପାରେ",
+          "ନ ସହି ମୋ ଭଗାରୀଏ ସଢ଼ନ୍ତୁ ତ୍ରପାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭାସିଲିଟି ଡାକିକଟି ସ୍ମର ଅକୂପାରେ",
+          "ତରୁଣୀ ତରଣୀ ହୋଇ ଲଗାଅ ତୁ ପାରେ ।",
+          "(ପଡ଼ି)",
+          "କେତେ କେତେ ଜନ୍ମୁ ଧନ ତୋ ଜଳ ଜପାରେ",
+          "ଲେଖିଛି ଅଳତା ଚିତ୍ର ତୋ ଜଳଜ ପାରେ",
+          "ନ ଫିଙ୍ଗି ଦୃଷ୍ଟି ତୋ ବିନା ଆନ ସୁରୂପାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-ana-sunayana-kinchita-dhannasika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

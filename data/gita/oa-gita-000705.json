@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-000705",
+  "name": {
+    "en": "Sunagori tu eka sina",
+    "or": "ସୁନାଗୋରୀ ତୁ ଏକା ସିନା"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000081"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunagori-tu-eka-sina-bihagada-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସୁନାଗୋରୀ ତୁ ଏକା ସିନା",
+          "ସୁନାଗରୀ ଶିର ଫୁଲ ବାସନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ ଜଗତୀ ଭିତରେ କେହି",
+          "ଗଜଗତି ତୋ ସମ ନାହିଁ",
+          "ରାଜା ନାରୀମଣ୍ଡଳେ ତୁହି",
+          "ସୁନ୍ଦର କୁନ୍ଦ ରଦନ ହସନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଦ ନଖ କୋଣ କଣକୁ",
+          "ରସବତୀ ମଣିପଣକୁ",
+          "ସାଧାରଣେତର ଗୁଣକୁ",
+          "ବରନି ପାରିବେ ନାହିଁ ଉଶନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗିରିବର ଶିଖରେ ତପ",
+          "କରିଥିଲି କେତେ କଳପ",
+          "ବାଳାବର ମୋତେ ଅଳପ",
+          "ସୁଲଭ ହୋଇଛି ତୋ ଉପାସନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୟୋଧରେ ହାର ନଚାଇ",
+          "ମୋ ସୁକୃତ ଫଳ ପଚାଇ",
+          "ମାରାଶୁଗ ଡର ଘୁଞ୍ଚାଇ",
+          "ବଜାଇ ଦେବୁ କି ଥରେ ରସନା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବାଲୁକେଶ ନୃପତିମଣି",
+          "ଭଣେ ଶ୍ୟାମ ଭାରତୀ ଶୁଣି",
+          "ଲାଜେ ହସି ବର ତରୁଣୀ",
+          "ହେଲେ ମୁଖ ବିନିହିତ ବସନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunagori-tu-eka-sina-bihagada-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

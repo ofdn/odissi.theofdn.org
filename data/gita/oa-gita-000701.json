@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000701",
+  "name": {
+    "en": "Ehi sehi ki mo sahi",
+    "or": "ଏହି ସେହି କି ମୋ ସହି"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000081"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-sehi-ki-mo-sahi-bihagada-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି ସେହି କି ମୋ ସହି",
+          "ସତ କହଟି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କହିବାକୁ ଜିହ୍ୱାଞ୍ଚଳ କରୁ କରୁ ତ ଚଞ୍ଚଳ",
+          "ସ୍ମରସର୍ପ କଲାନି ରସନା ଲହଲହଟି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅନନୁତୁଳ ଏ ଦ୍ୟୁତି ଅନାଇ ସେ କେଉଁ ସତୀ",
+          "ଠଉରିବ ନଉକରୀ କରିବାରେ ନ ହଟି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏହା କରି କି ଗୋ ଯଶ କୁସୁମମାନଙ୍କ ବାସ",
+          "ବାସବ ନିବାସ ଯାଏ ଯାଉଥାଏ ଚହଟି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏଠାରେ ନିଶ୍ଚେଁ ସଞ୍ଚିତ ହୋଇଛି ରେ ପ୍ରାଣମିତ",
+          "ଅଲୀକଲୀନ ସେ ଅବିଗ୍ରହ ରବିଗ୍ରହଟି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବିରବି ରାୟଗୁରୁ କହୁଥାନ୍ତି ରେ ରମ୍ଭୋରୁ",
+          "ଏହାଙ୍କ ଭଜନୁ ଆନ ନାହିଁ ସୁଖାବହଟି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-sehi-ki-mo-sahi-bihagada-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

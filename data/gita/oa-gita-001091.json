@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-001091",
+  "name": {
+    "en": "Nua nata patali mukuta he",
+    "or": "ନୂଆ ନଟ ପଟଳୀ ମୁକୁଟ ହେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000118"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "Ṅa Patala",
+      "or": "ଙ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nua-nata-patali-mukuta-he-champu-kabisurjya-kumbha-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ନୀଳୋତ୍ପଳ ବାସି ହେଲା ପରି ଦିଶି",
+          "ଯାଉଛି ଦୂରୁ ଶ୍ରୀଅଙ୍ଗ",
+          "ନାସା ନୀଳ ତିଳ ଫୁଲରୁ ଅନିଳ",
+          "ପ୍ରସରୁଛି ବେଗ ବେଗ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୀପ ଉପବନ ନିକଟ ପବନ",
+          "ସ୍ପରଶରୁ ଯେବେ ଡର",
+          "ନଦୀକୂଳସ୍ଥଳ ଏ ବଡ଼ ଶୀତଳ",
+          "ନୁହନ୍ତାଟିକି ବିହାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନିଦ ନାହିଁ କି ନୟନେ ନିଶି ଦିନ",
+          "ଆହା ମରଇ ମୋ ଧନ",
+          "ନବନୀତ ତହୁଁ ମୃଦୁ ଦେହେ କାହୁଁ",
+          "ସମ୍ଭବିଲା ଏ କଦନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନବ ହେମଦ୍ୟୁତି ଅମରୀଏ ନିତି",
+          "ନିଅନ୍ତି ଫୁଲ ଏ ବନୁ",
+          "ନେତ୍ର ପଥେ ପଡ଼ିଗଲେ କି ସେ ଛାଡ଼ି",
+          "ଯାଉ ନାହିଁ ଜ୍ୱର ମନୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନ ବିହର ଗୋପ ସଙ୍ଖାଳି ଏ ପାପ",
+          "ଗହନରେ କିଛି ଦିନ",
+          "ନରେଶ ମଣ୍ଡନ ଶ୍ରୀ ହରିଚନ୍ଦନ",
+          "ଜଗଦ୍ଦେବ ସ୍ତବ ଘେନ"
+        ]
+      }
+    ]
+  },
+  "note": {
+    "en": "Also sung in Kumbha Kamodiକୁମ୍ଭକାମୋଦୀ ରାଗରେ ମଧ୍ୟ ବୋଲାଯାଏ"
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nua-nata-patali-mukuta-he-champu-kabisurjya-kumbha-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

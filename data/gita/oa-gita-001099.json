@@ -1,0 +1,92 @@
+{
+  "id": "oa-gita-001099",
+  "name": {
+    "en": "Priya sahi paramada bada tuhi go",
+    "or": "ପ୍ରିୟ ସହି ପରମାଦ ବଡ଼ ତୁହି ଗୋ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "Pa Patala",
+      "or": "ପ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/priya-sahi-paramada-bada-tuhi-go-pa-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରିୟ ସହି ପରମାଦ ବଡ଼ ତୁହି ଗୋ",
+          "ପାରୁ କେତେ ଛନ୍ଦେ ମୋହି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପରମ ପଦରେ ଦେଇ ଜାଣୁ ତୁ ରସାଇ",
+          "ପୁଣି ତହୁଁ ଜାଣୁ ତଳାତଳକୁ ଖସାଇ",
+          "ପାଶୋରାଇ ମନୁ ନାନା କଦନ ଲସାଇ",
+          "ପୀଡ଼ୁ ଅଶ୍ରୁ ବରଷାଇ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପ୍ରପଞ୍ଚ ଯାକରେ ଜଣା ନ ଥାଇ ସଂଶୟ",
+          "ପସନ୍ଦ ନୁହଇଁ ପର ପୁରୁଷରେ ସ୍ନେହ",
+          "ପର ବଶ ହେବ ଯେବେ ପ୍ରାଣ ତୁଲେ ଦେହ",
+          "ପ୍ରାଣୀ କି କରିବ କହ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପରବ ଚନ୍ଦ୍ର ଚିପୁଡ଼ି ପିଇବା ପୀୟୂଷ",
+          "ପରିଣତି ସମୟେ ସେ ହେବ ଯେବେ ବିଷ",
+          "ପ୍ରପନ୍ନ ହେବା ଗଙ୍ଗାରେ ଜନ୍ମିଲେ କିଳ୍ୱିଷ",
+          "ପ୍ରୟୋଗ କରିବା କିସ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପିଆଇ ଦୁହିଙ୍କି ଥରେ ଦୁହିଙ୍କ ଅଧର",
+          "ପଛେ କହ ଆଚରଣ ପୂତନା ବଧର",
+          "ପୀତପଟ ନଟ ନାଁ ମୋ ଆଗରେ ନ ଧର",
+          "ପାଳିଏ ମାତ୍ର ଉଦ୍ଧର ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପୁରନ୍ଦର ମଣି ଶ୍ୟାମେ ଅଛି ମୋ ତରସ",
+          "ପର ପରିବାଦ ମୁଣ୍ଡେ ଟାକର ବରଷ",
+          "ପୃଥ୍ୱୀ ଚକ୍ରବାଳ ପରିବୃଢ଼ ବାଲୁକେଶ",
+          "ପ୍ରସରାଇଲେ ଏ ରସ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/priya-sahi-paramada-bada-tuhi-go-pa-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-000637",
+  "name": {
+    "en": "Tamala nila tanu",
+    "or": "ତମାଳ ନୀଳ ତନୁ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000002"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tamala-nila-tanu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତମାଳ ନୀଳ ତନୁ",
+          "ତାପ ନ ଯାଏ ମୋ ସଖୀ ମନୁଁ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତରଣୀଜା ତଟ ବନୁ ତୁମ୍ଭଙ୍କୁ ଶ୍ରୀହରି",
+          "ଖୋଜି ଖୋଜି ହରିଣାକ୍ଷୀ ଫେରିଯିବା ଦିନୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତରଳରେ ନୟନୁ ତେଜୁଅଛି ନିରନ୍ତରେ",
+          "ନୀରଧାର ବରଷିଲା ପରି ଘନୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୀକ୍ଷଣ ବାଣ ଅତନୁ ତାମରସ ମୁଖୀ",
+          "ମରମକୁ ଯୋଖି ବିନ୍ଧେ ଫୁଲଧନୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତାପ ଦିଏ ହିମଭାନୁ ତନୁରେ ଫୋଟକା",
+          "ହେଉଅଛି ଏକା ଘନସାର ବିଲେପନୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତୁମ୍ଭ ଅବଲୋକନୁ ଭାଷେ ଜଗଦ୍ଦେବ ତାର",
+          "ପ୍ରାଣ ଯିବ ଶ୍ରୀଅଙ୍ଗଟି ହେଲା ତନୂ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tamala-nila-tanu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-001003",
+  "name": {
+    "en": "Dakila kokila lila",
+    "or": "ଡାକିଲା କୋକିଳା ଲୀଳା"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000163"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dakila-kokila-lila-ratnakara-champu-kanadagouda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଡାକିଲା କୋକିଳା ଲୀଳା ସୂନ ଉପବନରେ",
+          "ଡମରୁ ରୁଚିର ମଧ୍ୟା ଖେଳିଲା ମୋ ମନରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଡାଳଲୋଳ କିଶଳୟ କରେ କରି ଅଭିନୟ",
+          "ନାଚିଲା ବଲ୍ଲରୀଚୟ ଚନ୍ଦନ ପବନରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଡଗରା ବୁଲୁଛି ସ୍ମର ବିଷାଇ ବିଷମ ଶର",
+          "ଧରିଛି ପରାଗଗର ଘୁଁ ବାକ ଜୀବନରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଡାଳିମ୍ବ ବୀଜ ରଦନା ଏ ଦିନେ ହୋଇ ବିମନା",
+          "କଲା ତ ଉତ୍ସବ ମନା ଲତିକା ଭବନରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଡମ୍ଭଚକିତ କୁରଙ୍ଗ ନୟନାର ନିକି ଭୃଙ୍ଗ",
+          "ଉନ୍ମାଦ ରବ ତରଙ୍ଗ ପଡ଼ୁନାହିଁ କାନରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଡରୁ ନାହିଁ କି ସେ ଭୀରୁ ସ୍ମରକର କରତରୁ",
+          "କବିରବି ରାୟଗୁରୁ ରଚିଲେ କବନରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dakila-kokila-lila-ratnakara-champu-kanadagouda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

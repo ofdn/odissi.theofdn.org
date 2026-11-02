@@ -1,0 +1,85 @@
+{
+  "id": "oa-gita-001103",
+  "name": {
+    "en": "Satapada nila kesa ago chahan chahan",
+    "or": "ଷଟପଦ ନୀଳକେଶା ଆଗୋ ଚାହଁ ଚାହଁ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "Ṣa Patala",
+      "or": "ଷ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/satapada-nila-kesa-ago-chahan-chahan-sankarabharana-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଷଟପଦ ନୀଳକେଶା ଆଗୋ ଚାହଁ ଚାହଁ",
+          "ସର୍ବଂସହାରେ ଖେଳୁଛି ନବ ବାରିବାହ",
+          "ସମୀପରେ ତାର ରହି",
+          "ସରଜୁଛନ୍ତି ନର୍ତ୍ତନ ଅନେକ ବରହୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଜ ହୋଇ ସ୍ମର ସରଦାର ଅବା ଆସେ",
+          "ସ୍ୱକୀୟ ଫଉଜ ଘେରିଅଛି ଚଉପାଶେ",
+          "ସାରିଦେବି ପରା ଆଜ",
+          "ସରୋଜ ସୁନ୍ଦର ନେତ୍ରା ଜନ ମନ ଲାଜ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁରେଶ୍ୱର ରତନ କି ହେବାରୁ ଜଙ୍ଗମ",
+          "ସବୁ ମଣିମାନଙ୍କୁ ମିଳିଲା ସେହି କ୍ରମ",
+          "ସ୍ବର୍ଣ୍ଣ ବର୍ଣ୍ଣାଏ ଏଣିକି",
+          "ସମ୍ପାଦିବେ ମୂର୍ତ୍ତିମନ୍ତ ରତନ ଶ୍ରେଣୀକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଞ୍ଚରଣଶୀଳ ନବ ତମାଳ ଭୂରୁହ",
+          "ସଙ୍ଗେ ଘେନି ଆସୁଅଛି ସଖା ଶାଖିବ୍ୟୂହ",
+          "ଶୁକ ଶାରୀ ପରଭୃତ",
+          "ଶାଖା ମାନଙ୍କରେ କରୁ ଅଛନ୍ତି ସଙ୍ଗୀତ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସୁରଧୁନୀ ତୀରେ କରିଥିବା ଯେବେ ତପ",
+          "ସଙ୍ଖାଳି କରି ଏ ତାପିଞ୍ଛର ଅନାତପ",
+          "ସୁଖେ ବଞ୍ଚିବା ବସନ୍ତେ",
+          "ସାମନ୍ତ ସୁଧାଂଶୁ ଜଗଦ୍ଦେବ ବୋଲେ ଗୀତେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/satapada-nila-kesa-ago-chahan-chahan-sankarabharana-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

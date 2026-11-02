@@ -1,0 +1,94 @@
+{
+  "id": "oa-gita-001304",
+  "name": {
+    "en": "Jani nahin ki mun syama sneha",
+    "or": "ଜାଣିନାହିଁ କି ମୁଁ ଶ୍ୟାମ ସ୍ନେହ ଗୋ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000091"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jani-nahin-ki-mun-syama-sneha-kolahala-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜାଣିନାହିଁ କି ମୁଁ ଶ୍ୟାମ ସ୍ନେହ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଉ କି ଜଣାଥିଲେ କହ ଶୁଣିବି ଭଲେ",
+          "ତା ଚରିତ ମୋ ଆଗେ ନ କହ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏଥର ମିଶି ସହୀ ନ ଥର ସହି ସହି",
+          "ପଥର କରିଛି ମୁଁ ଏ ଦେହ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୃଦୁ ଗିରେ ମଣାଇଁ ବଳିଆଇ ଜଣାଇଁ",
+          "କ୍ରୋଧାନଳେ ମୋ ହୃଦ ନ ଦହ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରଚୁଥିଲେ ତା ପ୍ରୀତି ସେ ସୁଖ ସେ ବିପତ୍ତି",
+          "ତୁହି ଭୋଗ କର ତୁହି ସହ ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କେତେ ଯତନ କରି କଦନ ନଦୀ ତରି",
+          "ଅଛି ମୁଁ ବରଜି ମହାମୋହ ଗୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଅଛି କି ତାହା ଦତ୍ତ ନଖକ୍ଷତ ରହିତ",
+          "ଏ ନଗରେ ନାଗରୀ ନିବହ ଗୋ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "କଳା କିଶୋର ପ୍ରେମ ହିମାନିଠାରୁ ହିମ",
+          "ପ୍ରଳୟାନଳରୁ ଡହଡହ ଗୋ"
+        ]
+      },
+      {
+        "n": 8,
+        "lines": [
+          "ଅଷ୍ଟଦୁର୍ଗେଶ ଭାଷେ ଶୁଣି ଲଳିତା ହସେ",
+          "କହିଲେ ମୋ ସଖୀ ଦୁଃଖୀ ନୁହ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jani-nahin-ki-mun-syama-sneha-kolahala-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

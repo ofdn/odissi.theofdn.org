@@ -1,0 +1,85 @@
+{
+  "id": "oa-gita-000995",
+  "name": {
+    "en": "Bandhu mo kahun kisa sunila re",
+    "or": "ବନ୍ଧୁ ମୋ କାହୁଁ କିସ ଶୁଣିଲା ରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhu-mo-kahun-kisa-sunila-re-ratnakara-champu-kabisurjya-kalyana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବନ୍ଧୁ ମୋ କାହୁଁ କିସ ଶୁଣିଲା ରେ",
+          "ବିଷ ତୁଲ୍ୟ ତ ମୋତେ ମଣିଲା ରେ",
+          "ବଚନ ନ କହିଲା ବିନୟ ନ ସହିଲା",
+          "କି ହେଲା ମହିଳାବର ରୁଷି ରହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବସନ୍ତକାଳ ବିଚ୍ଛେଦରେ ଏ କାଳ",
+          "ବହଇ ମଳୟାନିଳ ବିଯୋଗୀ ପ୍ରଳୟାନଳ",
+          "ବିପକ୍ଷ ସଙ୍ଗରେ ତ ଗଣିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବାଳାବର ସେ ବେଳେ ମୋରେ ନ ରୁଷେ",
+          "ବିବେକ ନ କରି ଲେଶେ ବିଳସିବାର ହରଷେ",
+          "ବରଜି ଏ ଦୁର୍ଯୋଗ କିଣିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିଡ଼ିଆ ବିଡ଼ି ବଢ଼ାଇଲି ସଜାଡ଼ି",
+          "ବାତ୍ସଲ୍ୟ ପୀୟୂଷ ଇଡ଼ି ବସିଲା ଶ୍ରୀମୁଖ ମୋଡ଼ି",
+          "ବକ୍ରନାଳକଞ୍ଜକୁ ଜିଣିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବିକଳ ହୋଇ ବହୁ ଅଶ୍ରୁ ବୁହାଇ",
+          "ବଦନବିଧୁ ନୁଆଇଁ ବରତୁଳ ସ୍ତନେ ଥୋଇ",
+          "ବରୁଣାଦ୍ରି ଚନ୍ଦ୍ରକୁ ଟାଣିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବିଅର୍ଥେ ଦିନ ବଞ୍ଚାଉଛି ମୋ ଧନ",
+          "ବିଷମ ଏ ଯଉବନ ବିଜୁଳିଠାରୁ ଜବନ",
+          "ବଳଦେବ କବୀନ ଭଣିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhu-mo-kahun-kisa-sunila-re-ratnakara-champu-kabisurjya-kalyana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

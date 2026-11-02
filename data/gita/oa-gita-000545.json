@@ -1,0 +1,82 @@
+{
+  "id": "oa-gita-000545",
+  "name": {
+    "en": "Ghana kesa re ghena ete gira",
+    "or": "ଘନକେଶା ରେ ଘେନ ଏତେ ଗିର"
+  },
+  "composer": "oa-person-000002",
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ghana-kesa-re-ghena-ete-gira-ratnakara-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଘନକେଶା ରେ",
+          "ଘେନ ଏତେ ଗିର ମୋର ସୁସାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘସ୍ରନାଥକନ୍ୟାକୂଳବସା ରେ",
+          "ଘୋଣାଗ୍ରେ କିଶୋର ଶ୍ଵାସ ପ୍ରସାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଘୋରତର କାମକାତିଭୂଷାରେ",
+          "ଘାଣ୍ଟି ହେଉଅଛି ଦିବାନିଶାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଘଟସ୍ତନା ତୁ ଏ କଷ୍ଟଦଶାରେ",
+          "ଘନାଶ୍ଳେଷେ ରଖି ଯଶ ସଂସାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଘାରି ହେଉଅଛି ଏ ଦୁର୍ଦ୍ଦଶାରେ",
+          "ଘୋରି ହୋଇ ଯାଉଛି ସେ ରସାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଘୋଟି କାମତମ ପ୍ରତିଦିଶାରେ",
+          "ଘୁମାଉଅଛିଟି ରସାଳସା ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଘଡ଼ିଏ ଶ୍ରୀଯୁଗଳ ପ୍ରଶଂସାରେ",
+          "ଘଟାଇଲେ କବିରବି ଭାଷାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ghana-kesa-re-ghena-ete-gira-ratnakara-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

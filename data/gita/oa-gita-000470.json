@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000470",
+  "name": {
+    "en": "Are rabana bare suna mo gira",
+    "or": "ଆରେ ରାବଣ ବାରେ ଶୁଣ ମୋ ଗିର"
+  },
+  "composer": "oa-person-000002",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/are-rabana-bare-suna-mo-gira/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ପ୍ରଭୁ ପରମେଶ୍ୱର କୋଟି ବ୍ରହ୍ମାଣ୍ଡ ଈଶ୍ୱର",
+          "ସୂର୍ଯ୍ୟବଂଶେ ଅବତାର ଶ୍ୟାମସୁନ୍ଦର",
+          "ଶ୍ରୀ ରାମ ନାମ ତାଙ୍କର ସର୍ବ ଗୁଣେ ଶୋଭାକର",
+          "ଦୁଷ୍ଟଙ୍କ ଦର୍ପ ବିନାଶି ଊଶ୍ୱାସିବେ ମହୀ ଭାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପିତା ସତ୍ୟ ପ୍ରତିପାଳି ବନେ ହେଲେ ତପଚାରୀ",
+          "ଘେନି ଜନକ ଦୁଲ୍ଲାଳୀ ଭାଇ ସଙ୍ଗର",
+          "ଏବେ ତୁ ତାହାଙ୍କ ନାରୀ ଆଣିଅଛୁ ଚୋରି କରି",
+          "ବିଜେ କଲେ ଚାପଧାରୀ ଘେନିଣ ସୈନ୍ୟ ସଙ୍ଗର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏବେ ବୁଦ୍ଧି ଥିଲେ ଜାଣି ଦେଇ ଶ୍ରୀ ରାମ ଘରଣୀ",
+          "ଶରଣ ପଶି ତୁ ପୁଣି ହୁଅ ଚାକର",
+          "କବିସୂର୍ଯ୍ୟ ଗୀତେ ଭଣି ନୋହିଲେ କୋଦଣ୍ଡପାଣି",
+          "ସବଂଶ ତୋହର ହାଣି ପଠାଇବେ ଯମପୁର"
+        ]
+      }
+    ]
+  },
+  "note": {
+    "en": "(Suchitra Prabandha)"
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/are-rabana-bare-suna-mo-gira/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

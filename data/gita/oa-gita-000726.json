@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000726",
+  "name": {
+    "en": "Se mohana sneha re sahachari",
+    "or": "ସେ ମୋହନ ସ୍ନେହରେ ସହଚରୀ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000047"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-mohana-sneha-re-sahachari-malaba-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସେ ମୋହନ ସ୍ନେହରେ",
+          "ସହଚରୀ କି ପଦାର୍ଥ କହରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନୋହେ ଅଭୟ ନ ରଖଇ ଦକ",
+          "ଅମଳ ନୋହେ ଅତି ଉନ୍ମାଦକ",
+          "ହୋଇ ହୃଦୟ ଅଦୃଶ୍ୟ ପଦକ",
+          "ହଜାଇ ଦିଅଇ ବିବେକଯାକ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୋହେ ଘୂକନେତ୍ର ଗୋଳ କଜ୍ଜ୍ୱଳ",
+          "ଦୃଶ୍ୟ କରାଏ ଗାଢ଼ତମ ସ୍ଥଳ",
+          "ଲଙ୍ଘାଏ ଦୁର୍ଗ ନୋହେ ଜଙ୍ଘାବଳ",
+          "ବୁଡ଼ାଇ ଦିଅଇ ନୁହଇ ଜଳ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନୁହଇ ପରାଣ ନୁହଇ ଛାଡ଼ି",
+          "ଅଟକଇ ପଦ ନୁହଇ ବେଡ଼ି",
+          "ବୃଷ୍ଟି ବାରଣ ଛତ୍ରକୁ ନ ଲୋଡ଼ି",
+          "ନ ମାନେ ନଭମାସନିଶା ଝଡ଼ି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନୋହେ ସଙ୍କଳପ ମାନସେ ରହେ",
+          "ହେଳା ନୋହେ ଯତ୍ନ ନ ରଖେ ଦେହେ",
+          "ଅନ୍ନ ନୋହି ଶୀର୍ଣ୍ଣ କରେ ବିରହେ",
+          "ସନ୍ଦେହେ ଶ୍ରୀ ମୁକୁନ୍ଦଦେବ କହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-mohana-sneha-re-sahachari-malaba-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

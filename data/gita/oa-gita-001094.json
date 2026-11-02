@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-001094",
+  "name": {
+    "en": "Atasi kusuma sama syama he",
+    "or": "ଅତସୀ କୁସୁମ ସମ ଶ୍ୟାମ ହେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "Ṇa Patala",
+      "or": "ଣ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/atasi-kusuma-sama-syama-he-na-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅତସୀ କୁସୁମ ସମ ଶ୍ୟାମ ହେ ମୁଁ ଗଲିଟି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଳି ତୁମ୍ଭର ନିବିଡ଼ ଅସହିଷ୍ଣୁ ସେ ଯେ ବଡ଼",
+          "ଅବଶ୍ୟ ତ ଛାମୁରେ ମୁଁ ନିବେଦନ କଲିଟି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅଧ ଅଧରରେ ସ୍ମିତ ଉଲ୍ଲସି ହେଲେ ଲଜ୍ଜିତ",
+          "ଊହିବି ଏହିଟି ବୋଲି କୃପାକଳ୍ପ ବଲ୍ଲୀଟି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆରକତ କଲେ ମୁଖ ଅଖଣ୍ଡ ସୁଧା ମୟୂଖ",
+          "ଆବୁର ସରିବ ମୋର ଜୀଇଲେ ହେଁ ମଲିଟି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଦୃଷ୍ଟ ବଳୁଁ କିଶୋରୀ ଅଙ୍ଗୀକାର କଲେ ସରି",
+          "ଅଭାବେ ଉଚ୍ଛନ୍ନ ହେବ ଏ ବଲ୍ଲବ ପଲ୍ଲୀଟି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଉଗ୍ର ନିର୍ଦ୍ଦେଶ ନୃପର ଉପବନ ଗୋପପୁର",
+          "ଆଶ୍ରୟ ନୋହିବ ଗୋବର୍ଦ୍ଧନ ଗିରିଦରୀଟି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଅଷ୍ଟଦୁର୍ଗ ନାଥ ଭାଷେ ଆହା ଧ୍ୟାନେ କି ଶୋଭା ସେ",
+          "ଅଖିଳ ଜନନୀ ନାସା ମୃଗମଦ କଲିଟି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/atasi-kusuma-sama-syama-he-na-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

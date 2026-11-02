@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000455",
+  "name": {
+    "en": "Thika tha bartula chandranana",
+    "or": "ଠିକ ଠ ବର୍ତ୍ତୁଳ ଚନ୍ଦ୍ରାନନା ତୋ ଚିତ୍ତରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000096"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "Ṭha Patala",
+      "or": "ଠ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thika-tha-bartula-chandranana-tha-champu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଠିକ ଠ ବର୍ତ୍ତୁଳ ଚନ୍ଦ୍ରାନନା ତୋ ଚିତ୍ତରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଠକ ରୀତି ନ ଆଚରି ମୋ କଦନକୁ ବିଚାରି",
+          "ଅକପଟ ତ୍ରାଣବିଧି ଉଚିତରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଠଣା ଠୁଙ୍କି ତାପ ତ୍ରାସ ମୁଣ୍ଡେ ମନମଥ ପାଶ",
+          "ବନ୍ଧନ କର ତୁ ପରା ମୋଚିତରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଠଉରାଇ ଅବସର କଲେ ତୁ ପ୍ରସଙ୍ଗ ମୋର",
+          "ଯିବ ରାଜୀବନେତ୍ରାକୁ ରୁଚିତରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଠୋ କରି ଛିଣ୍ଡାଇ ଦେ ନା ପ୍ରିୟସଖୀ ମୋ ବେଦନା",
+          "ନ ଲାଗଇ ନିକି ତତେ କିଞ୍ଚିତରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଠାରିଦେଲେ ନେତ୍ରାଞ୍ଚଳେ ବିଜନ ସ୍ଥଳେ ସେ ବଳେ",
+          "ବିରାଜିବ କ୍ଷଣରୁଚି ଉଚିତରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଠାକୁର ଠାକୁରାଣୀଙ୍କ ପଦାମ୍ବୁଜ ଧ୍ୟାନରଙ୍କ",
+          "ନୃପ ଜଗଦ୍ଦେବ କରେ ରଚିତରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thika-tha-bartula-chandranana-tha-champu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

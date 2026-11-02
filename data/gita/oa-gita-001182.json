@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001182",
+  "name": {
+    "en": "Kahinki re mane nahin ki re",
+    "or": "କାହିଁକି ରେ ମନେ ନାହିଁ କିରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000135"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-re-mane-nahin-ki-re-kabisurjya-nalinigouda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ରେ ମନେ ନାହିଁ କିରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଣି କରୁଣା ତୋର ହେଲି ବିନୟଭର",
+          "ପେଷିଲି ଶିଶୁଚାର ନ ଲେଖିଲୁ ଉତ୍ତର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହୁଡ଼ିଗଲୁ ଛପଟ କ୍ଷମା କର ନିପଟ",
+          "ଯେ ହେବ ଲାଗି ପଟ ତାରେ ଏଡ଼େ କପଟ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋ ଗୁଣ ଚିହ୍ନାଇଲୁ ସଖୀଙ୍କି ଘେନାଇଲୁ",
+          "ସବୁ ତ ବନାଇଲୁ ହସି ନ ଅନାଇଲୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏବେ ମୋ ଅଙ୍କେ ରାଜହଂସ ଗତି ବିରାଜ",
+          "ସ୍ୱଜନେ ଗଣି ଆଜ ତେଜ ଏଠାରେ ଲାଜ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଜାଣି ମୋ ବିସମକୁ ମୋ ନଖ ବିକ୍ରମକୁ",
+          "କାମଖଣ୍ଡା ଝଟକୁ ଥିଲା ପରି ଚମକୁ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ସୁଖ ମନୋରଥରେ ଗଲି ପ୍ରେମ ପଥରେ",
+          "ଅଷ୍ଟଦୁର୍ଗ ନାଥରେ ଦୃଷ୍ଟି ନ ଦେଲୁ ଥରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-re-mane-nahin-ki-re-kabisurjya-nalinigouda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000722",
+  "name": {
+    "en": "Ghena ghena mana ghana sama",
+    "or": "ଘେନ ଘେନ ମନ ଘନସମ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ghena-ghena-mana-ghana-sama-dhanasri-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଘେନ ଘେନ ମନ ଘନସମ ଶ୍ୟାମଳିଆକୁ",
+          "ପିଲାଟି ଦିନୁ ପୂତନା ପ୍ରାଣ କବଳିଆକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଙ୍କୁ ଗୋପୀଙ୍କର ମକର କୁଣ୍ଡଳିଆକୁ",
+          "ଅଖଣ୍ଡ ଚନ୍ଦ୍ର ସୁନ୍ଦର ମୁଖ ମଣ୍ଡଳିଆକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଦ ଗଜଗମନକୁ କଦମ୍ବ ମୂଳିଆକୁ",
+          "ମଖ ଶାଳା ଭିଖାରୀକୁ ଶିଖଣ୍ଡ ଚୂଳିଆକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସମୁଦ୍ରକୁ କରୁଣାର ଯମୁନା କୂଳିଆକୁ",
+          "ଗୀତ ନଟ ଲମ୍ପଟକୁ ପୀତ ଦୂକୁଳିଆକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବଲ୍ଲବେନ୍ଦ୍ର ନନ୍ଦନକୁ ପଲ୍ଲବ ମାଳିଆକୁ",
+          "ଭଜେ କବିରବି ତାହାଙ୍କ ପା’ତଳିଆକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ghena-ghena-mana-ghana-sama-dhanasri-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

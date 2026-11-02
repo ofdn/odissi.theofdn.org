@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000635",
+  "name": {
+    "en": "Nahi na kara niraja mukhi re",
+    "or": "ନାହିଁ ନ କର ନୀରଜମୁଖୀ ରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000016"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nahi-na-kara-niraja-mukhi-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନାହିଁ ନ କର ନୀରଜମୁଖୀ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନ ପାରି ମୁଁ ପାଶୋରି ନିରତେ ସେ କିଶୋରୀ",
+          "ମୂରତି ନେତ୍ରେ ଅଛି ରଖି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନବ ନାଗରୀ ମୋର ନୋହିଲେ ହୃଦେ ହାର",
+          "ଦେବି ମୁଁ ଜୀବନ ଉପେକ୍ଷି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନିର୍ଦ୍ଦୟ ପାପ ସ୍ମର ସନ୍ଧି ବିନ୍ଧଇ ଶର",
+          "ନିରତେ ମରମକୁ ଯୋଖି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନବୀନା ରେ ବିନୟ କରି ଏବେ ହୃଦୟ",
+          "ଆଣିଦିଅ ତୋ ପ୍ରିୟ ସଖି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନାହିଁ ତ ମୋର ଆନ ନାଗରୀ ରସେ ମନ",
+          "ଏଥକୁ ଜଗଦ୍ଦେବ ସାକ୍ଷୀ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nahi-na-kara-niraja-mukhi-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

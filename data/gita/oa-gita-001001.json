@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-001001",
+  "name": {
+    "en": "Thare ekantare sina",
+    "or": "ଥରେ ଏକାନ୍ତରେ ସିନା"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thare-ekantare-re-sina-dhanasri-kabisurjya-ratnakara-champu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଥରେ ଏକାନ୍ତରେ ସିନା କହିଥିଲି ସହୀକି",
+          "ସ୍ଥାପିତ ନ କରି ଦୁର୍ଜ୍ଜନଙ୍କ ଆଗେ କହି କି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଥିଲାଠାରେ ବିଶ୍ୱାସ କପଟ ପାରେ ରହିକି",
+          "ଥୋଇବା ହୃଦୟେ ଖ୍ୟାତି ପୂର୍ଣ୍ଣକରେ ମହୀକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ଥାବର ଜଙ୍ଗମେ ଶ୍ୟାମ କାହା ହୃଦେ ନାହିଁ କି",
+          "ଥିଲା ମୋ ଲଲାଟ ପଟେ ଏ ଅଯଶ କାହିଁକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଥାପିପଣ ଥିବାର ସଜ୍ଜନ ଗୁଣ ଏହି କି",
+          "ସ୍ଥାୟୀ କଲି ବିଷାର୍ଜନ କ୍ଷୀର ଦେଇ ଅହିକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସ୍ଥିର ପୀରତି ବଲ୍ଲୀକି ଦମ୍ଭାନଳେ ଦହିକି",
+          "ସ୍ଥଳ ଆଳୀମାନଙ୍କର ଏ ଦ୍ୱେଷକୁ ମୁହିଁ କି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସ୍ଥିରାଚକ୍ରେ ଜଣେ ବୋଲି ଜାଣଇ ସୁମୁହୀଁକି",
+          "ଥରୁଥାଏଁଟି ମୁଁ କବିରବି ସାକ୍ଷୀ ତହିଁକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thare-ekantare-re-sina-dhanasri-kabisurjya-ratnakara-champu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

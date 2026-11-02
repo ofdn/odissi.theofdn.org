@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000717",
+  "name": {
+    "en": "Bandhu rusila andhudara pari",
+    "or": "ବନ୍ଧୁ ରୁଷିଲା ଅନ୍ଧୂଦର ପରି"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000169"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhu-rusila-andhudara-pari-karunasri-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବନ୍ଧୁ ରୁଷିଲା ଅନ୍ଧୂଦର ପରି ସବୁ ଦିଶିଲା",
+          "ରାମା ରୁଷିଲା କାମାନଳମୟ ସବୁ ଦିଶିଲା",
+          "ବାଳା ରୁଷିଲା ହାଳାହଳ ଜ୍ୱାଳାମୟ ଦିଶିଲା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି କଲା ଆହା ସୁଶ୍ରୋଣି ମୋ ପରମ ସୁଖଶ୍ରେଣୀ",
+          "ସ୍ୱର୍ଗ ବଡ଼ଭୀ ନିଃଶ୍ରେଣୀ ଖସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅନଙ୍ଗ ବାଣ ବରଷା ସଙ୍ଗେ ତ କୁରଙ୍ଗଦୃଶା",
+          "ସରୋଷ ଅପାଙ୍ଗଭୂଷା ମିଶିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତାର ନିଗ୍ରହୁ ମୁଁ ପରିବାରକୁ ଡରି ଜୁହାରି",
+          "-ବାର ନୀରସ ଭଗାରି ହସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦେଖି ନ ଥାଇ ଏ ଭୂତି ଶିଖାଇ ଦୁର୍ନୀତି ନିତି",
+          "କେଉଁ ପିଶୁନ ମୋ ଧୃତି କଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସନ୍ତାପ ସିନ୍ଧୁକୁ ନବବିଳାସିନୀ ସିନା ପ୍ଳବ",
+          "ଶ୍ରୀ ବାଲୁକେଶ୍ୱର ଦେବ ଭାଷିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bandhu-rusila-andhudara-pari-karunasri-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

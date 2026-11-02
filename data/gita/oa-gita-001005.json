@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001005",
+  "name": {
+    "en": "Aja thare hebu mo pari",
+    "or": "ଆଜ ଥରେ ହେବୁ ମୋ ପରି"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000163"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-thare-hebu-mo-pari-re-bara-nagari-kabisurjya-kandagouda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବର ନାଗରୀ ଆଜ ଥରେ ହେବୁ ମୋ ପରି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୀପ ଥିଲେ କି ପରୁଆ ରେ ପ୍ରାଣବନ୍ଧୁଆ",
+          "ଘେନ ତୁ ମୁଁ ତୋର କି ପରୁଆ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିବସନ ବେଶୁଁ କି ଲାଜ ରେ ରସିକା ରାଜ",
+          "ଦିବସ କାଳ ତ ନୁହେଁ ଆଜ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଟୁ କଳାପ କିଙ୍କିଣୀ ରେ ତରୁଣୀମଣି",
+          "କେ ଆସି ପାରେ କି ତାହା ଶୁଣି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୁଜିଥିବି ମୁଁ ମୋ ଆଖି ରେ ବଣା ମୃଗାକ୍ଷୀ",
+          "ଚାହିଁଲେ ମୋ ଅଙ୍ଗେ ଯିବୁ ଲାଖି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦେଖାଇବି ଦରପଣ ରେ ତୁ ରଣରଣ",
+          "ରଣେ କର ବାହାଦୁରପଣ ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଶ୍ୟାମ ଗିରେ ବାଳା ରସେ କ୍ରୀଡ଼ା ବିଳାସେ",
+          "ବସୁଦୁର୍ଗ ପୁରନ୍ଦର ଭାଷା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-thare-hebu-mo-pari-re-bara-nagari-kabisurjya-kandagouda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

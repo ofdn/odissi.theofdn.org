@@ -1,0 +1,85 @@
+{
+  "id": "oa-gita-000994",
+  "name": {
+    "en": "Pheri ja gale go",
+    "or": "ଫେରି ଯା ଗଲେ ଗୋ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000103"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pheri-ja-gale-go-kabisurjya-regupta-ratnakara-champu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଫେରି ଯା ଗଲେ ଗୋ",
+          "ସଖି ଫାଟିଲା ମୋ କରମ ଜାଣିଲି ଭଲେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଫୁଟିଲା ଫୁଲବାସେ ପୂରନ୍ତା କ୍ଷିତି",
+          "ଫତୁରୀ ଶୁଣି କିମ୍ପା କଲି ଏ ରୀତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଫରୁଆ ଗର୍ଭୁଁ ଫେଇ ନିର୍ଦ୍ଦୋଷ ମଣି",
+          "ଫିଙ୍ଗି ଯା ଦେଲି ରୋଷେ ସଦୋଷ ମଣି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଫୁଲିଗଲି ମୁଁ ଚାଟୁ ଶୁଣି ମଦରେ",
+          "ଫୁଲ ଲଲାମ ମର୍ଦ୍ଦିଦେଲି ପାଦରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଫୁଲ ପଙ୍କଜ ମୃଦୁ ସୁନ୍ଦର ପାଦ",
+          "ଫାଟୁ ଯେ ଥିବ ଲଭି ସଞ୍ଚାର ଖେଦ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଫନ୍ଦା ଧବ ଯେ ଫିଙ୍ଗିଦେଲି ପାଣିକି",
+          "ଫୁରୁଣା ହେବି କାହା ଘେନି ଏଣିକି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଫେଇ ଦିଅନ୍ତୁ କଣ୍ଠୁ ଏ ମଣିହାର",
+          "ଫନ୍ଦାଇ ପାରିବ କି କବିମିହିର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pheri-ja-gale-go-kabisurjya-regupta-ratnakara-champu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

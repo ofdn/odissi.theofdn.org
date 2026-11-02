@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000719",
+  "name": {
+    "en": "Pachara ke anichi gajagatiki",
+    "or": "ପଚାର କେ ଆଣିଛି ଗଜଗତିକି"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pachara-ke-anichi-gajagatiki-kedara-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଚାର କେ ଆଣିଛି ଗଜଗତିକି",
+          "ସେ ମୋ ଏ ଜଗତୀକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି ସୁନ୍ଦର ଦରହାସିତ",
+          "ଶୀତକରକର ଲଳିତ",
+          "ଦଶନବସନ ନବ ଜବାସୂନ",
+          "ଉପରେ କେ ରଖି ଦେଲା ମୋତିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆହା ତାହା ଚାହାଣୀ ଠାଣି",
+          "ବଣାମୃଗ ନ ପାରେ ଆଣି",
+          "ମଳିନ ନୋହିବା ନଳିନ ଯୁଗଳେ",
+          "ଅଳି କରୁଥିଲା ଚଳି ରତିକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସ୍ଫୁଟ ତିଳକୁସୁମ ନାସା",
+          "ପୁଟ ଫୁଲା ସରସ ଭାଷା",
+          "ଆଳୀକି ଆଳାପି ଚାଳି ଦେଉଥିଲା",
+          "ପ୍ରତି ପଦରେ କେଳତିପତିକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହେମରମ୍ଭା ତରୁ ଊରୁକୁ",
+          "ପ୍ରେମରଙ୍କ ନଟ ଭୂରୁକୁ",
+          "ରୁଚକ ରୁଚିର କୁଚକଳଶକୁ",
+          "ଚାହିଁ ହଜାଇବେ ଯତି ମତିକି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଇଷ୍ଟରମା ସଖୀଙ୍କି ରସେ",
+          "ଅଷ୍ଟଦୁର୍ଗ ମହେନ୍ଦ୍ର ଭାଷେ",
+          "ମୋଦେ କୋଳେ ବସି ପଦେ କହୁ ହସି",
+          "ମୋ ସବତଟି ସେ ରସବତୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pachara-ke-anichi-gajagatiki-kedara-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

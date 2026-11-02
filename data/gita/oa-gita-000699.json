@@ -1,0 +1,87 @@
+{
+  "id": "oa-gita-000699",
+  "name": {
+    "en": "Khacha bachana ku sata",
+    "or": "ଖଚ ବଚନକୁ ସତ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000009"
+  ],
+  "mula_tala": [
+    "oa-tala-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/khacha-bachana-ku-sata-kedara-sarimana-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଖଚ ବଚନକୁ ସତ ମଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଦରଶେ ଥିବା ବାଙ୍କ ଗଙ୍ଗା ଜଳେ ଅଛି ପଙ୍କ",
+          "ରବି ବିମ୍ବରେ କଳଙ୍କ ଭଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭୃତ୍ୟର ବିଶ୍ୱାସ ଦେଖି କରିଥାଇ ଯେବେ ସୁଖୀ",
+          "କାଳେ ତା ଚିତ୍ତରେ ରଖି ଟାଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଦନ ଅମଳ ବଶେ କ୍ଷତ ଯେବେ ଦନ୍ତବାସେ",
+          "ଦିଶଇ ଏ ଦୋଷ ଦୋଷେ ଗଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯେବେ ପ୍ରଭୁପଣ କରି ପାରିବୁ ହିରଣ୍ୟଗୋରୀ",
+          "ଜିଣିଯିବି କରେ ଧରି ଫଣୀକି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଲଭିବାରୁ ମୁଁ ପଣ୍ଡିତାବର ତୋ ପରିଚାରିତା",
+          "ଲକ୍ଷ୍ୟ ନ କରେଁଟି ଚିନ୍ତାମଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଏଣିକି ତୋ ଅନୁଗ୍ରହ ନୋହିଲେ ମୋ ରିପୁବ୍ୟୂହ",
+          "କହିବ ମୋ ପାଇଁ ଦେହପଣିକି ରେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଅଗଣିତ ଆନ ମନ ଅନାଅ ବରଜି ମାନ",
+          "ରାୟଗୁରୁ କବିଦିନମଣିକି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/khacha-bachana-ku-sata-kedara-sarimana-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

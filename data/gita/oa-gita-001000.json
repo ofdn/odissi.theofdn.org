@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-001000",
+  "name": {
+    "en": "Jadumani jibe puni jamini",
+    "or": "ଯଦୁମଣି ଯିବେ ପୁଣି ଯାମିନୀ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000031"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jadumani-jibe-puni-jamini-baradi-kabisurjya-ratnakara-champu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯଦୁମଣି ଯିବେ ପୁଣି ଯାମିନୀ ନ ସରେ",
+          "ଆଉ ନାହିଁ ନାଡ଼ି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯନ୍ତର କି ଜାଣୁ ଯେବେ ଯେମନ୍ତେ ହୋଇଲେ ଜବେ",
+          "ଯାତ୍ରା ଅନୁକୂଳ ମୂଳ ଦେ ଉପାଡ଼ି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯୁଗ୍ମ ନୋହିଥିଲେ କ୍ଷଣେ ଯୁଗୁଁ ମୁଁ ଅଧିକ ମଣେ",
+          "ଯୁବଚନ୍ଦ୍ର ତ ଆମ୍ଭର ଲାଗିଶାଢ଼ୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯମରୁ ଦାରୁଣ ମାର ଯୁବନ ଶର ପ୍ରହାର",
+          "ଯାତନାକୁ କେ ଆମ୍ଭର ଦେବ ଆଡ଼ି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯୁବତୀ ନେତ୍ର ଅଞ୍ଜନ ଯାମଳତରୁ ଭଞ୍ଜନ",
+          "ଯେବେ ଯିବେ ନୋହିବେଟି କେ ଅଗାଡ଼ି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯତ୍ନେ କବିରବି ବୋଲେ ଯୋଗ ଥିଲା ଏ କି ଭାଲେ",
+          "ଯାବନ୍ତ ତେଜିବା ତହିଁ କର ତାଡ଼ି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jadumani-jibe-puni-jamini-baradi-kabisurjya-ratnakara-champu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

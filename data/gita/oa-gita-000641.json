@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000641",
+  "name": {
+    "en": "Mo dhana ta rusila",
+    "or": "ମୋ ଧନ ତ ରୁଷିଲା"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000044"
+  ],
+  "mula_tala": [
+    "oa-tala-000017"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-dhana-ta-rusila-kalingagouda-nihsari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ଧନ ତ ରୁଷିଲା ପରି ଦିଶିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରମ ଅବଳ ହେବାରୁ କେବଳରେ",
+          "ପୀୟୂଷ ରସରେ ବିଷ ମିଶିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭ୍ରମେ ମୋ ମାନସ ଛୁଇଁଥିଲେ ଦୋଷରେ",
+          "ପ୍ରଭୁ ତ ସେ କାହିଁକି ନ କଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅନ୍ୟ ପ୍ରୀତି ବିନା ନ ଜାଣେ ନବୀନାରେ",
+          "ତା ମନେ ଗୁମାନକୁ କେ ପେଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରସମୟ ବିନା ମୋ ସହୀଟି ସିନା ରେ",
+          "ତାକୁ ରୋଷ ନଜରେ କେ ତୋଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୁଁ ଯେବେଟି ଦୋଷୀ ମତେ ତ ନ ଭାଷିଲା ରେ",
+          "ନଖ କୁନ୍ତେ ବସୁଧାକୁ ଭୁଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଅଷ୍ଟଦୁର୍ଗ ପତି ଚିତ୍ତେ ଚିନ୍ତି ନିତି ରେ",
+          "ହସି ଅନାଇଁବି କେହି ସୁଶୀଳା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-dhana-ta-rusila-kalingagouda-nihsari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

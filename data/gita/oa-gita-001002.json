@@ -1,0 +1,82 @@
+{
+  "id": "oa-gita-001002",
+  "name": {
+    "en": "Tamala tale na chale",
+    "or": "ତମାଳ ତଳେ ନ ଚାଲେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000100"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000004"
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tamala-tale-na-chale-re-kalahansa-kedara-ratnakara-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତମାଳ ତଳେ ନ ଚାଲେ ରେ ମୋ ଅଭିନ୍ନା",
+          "କେତେ ଦୂର ଯାଏ କାହିଁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତିଳକୁ ତାଳକ ତୁଲ୍ୟ କଲେ ଲୋକ",
+          "ତଥ୍ୟ ମଣୁଥାଏ ତାହିଁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତରକିବା କଥା ତ୍ରିକାଳ ସର୍ବଥା",
+          "ତତ୍ତ୍ୱ ତୁ ଘେନିବୁ ନାହିଁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୁ ତ ସୁବିବେକୀ ତୁଳ ମୁଁ କେବେ କି",
+          "ତହିଁ ଥିବି ଅବଗାହୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତପନେ ଶୀତମାଅଙ୍କ ଦିଅନ୍ତି ମା",
+          "ତୁଚ୍ଛା ଲୋକ ନାମେ ବାହି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତୁଟାଏ କି ଜାତି ତୁଣ୍ଡର ପୀରତି",
+          "ତାମସା ଟାପରା ଟାହି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ତତ୍ତ୍ୱ ଜାଣେ କବିତରଣି ତା ଭାବି",
+          "ତଲାସ ଯେ ଯାକୁ ନାହିଁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tamala-tale-na-chale-re-kalahansa-kedara-ratnakara-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

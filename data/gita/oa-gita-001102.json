@@ -1,0 +1,93 @@
+{
+  "id": "oa-gita-001102",
+  "name": {
+    "en": "Lila nidhi he laje mun galiti sadhi",
+    "or": "ଲୀଳାନିଧି ହେ ଲାଜେ ମୁଁ ଗଲିଟି ସଢ଼ି"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000125"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000001",
+    "section": {
+      "en": "La Patala",
+      "or": "ଲ ପଟଳ"
+    }
+  },
+  "song_type": "champu",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/lila-nidhi-he-laje-mun-galiti-sadhi-la-champu-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଲୀଳାନିଧି ହେ ଲାଜେ ମୁଁ ଗଲିଟି ସଢ଼ି",
+          "ଲୁଚାଇଛ କାହିଁ ଶ୍ୟାମ ହେ",
+          "ଦିଅ ମୋ ଲାଗି ଶାଢୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲଭି ତୁମ୍ଭଙ୍କୁ ପ୍ରାଣବନ୍ଧୁ କରି",
+          "ଲୋକହସାରେ ଯେବେ ଯିବି ସରି",
+          "ଲସିବି ଯେବେ ପାଇ ନିନ୍ଦା ଦାଉ",
+          "ଲାଗିଲି ଆପଣଙ୍କୁ କେହି ଆଉ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲକ୍ଷ ଲକ୍ଷ ରାଣ ଅଛିଟି ମୋର",
+          "ଲଲାମ ଆଦି ଭୂଷା ସଜ କର",
+          "ଲିଭିଥିବ ଭୂରୁ ମଧ୍ୟ ତିଳକ",
+          "ଲେଖିଦିଅ ବେଗେ ନ ଦେଖୁ ଲୋକ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲୋଭୀ ଶ୍ରୀଭୁଜବନ୍ଧ ଶିଥିଳାଅ",
+          "ଲତା ଗହଳେ ଗହନେ ପଳାଅ",
+          "ଲାଗିଛି ଲାକ୍ଷା ମୁକୁଟ ଶିଖଣ୍ଡେ",
+          "ଲାଜ କଥା ଲୋକେ ଦେଖିଲେ ଦାଣ୍ଡେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲଗାଇଛ ହଟ ଯେଉଁ ରସରେ",
+          "ଲୁଟିବ ସିନା କଲି ପ୍ରଦୋଷରେ",
+          "ଲଙ୍ଘି ଆଶ୍ରିତେ ଥିବା କୃପାସିନ୍ଧୁ",
+          "ଲାଞ୍ଚୁଆଟି କେଡ଼େ ହେଲ ହେ ବନ୍ଧୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଲଲିତା ନୋହେଟି ଯେ ଡାକୁଅଛି",
+          "ଲକ୍ଷ ଦୁଷ୍ଟେ ରଖିଅଛି ମୁଁ ବାଛି",
+          "ଲଘୁ କରିଦେବ ଦେଖିବା କ୍ଷଣେ",
+          "ଲେଖାଧିପ ଅଷ୍ଟଦୁର୍ଗର ଭଣେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/lila-nidhi-he-laje-mun-galiti-sadhi-la-champu-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

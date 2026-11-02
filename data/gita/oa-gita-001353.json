@@ -1,0 +1,44 @@
+{
+  "id": "oa-gita-001353",
+  "name": {
+    "en": "Rajibastaka",
+    "or": "ରାଜୀବାଷ୍ଟକ"
+  },
+  "composer": "oa-person-000002",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rajibastaka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବାଜୀବାପ୍ୟପଥେନ ଧାବସି କଥଂ କାଜୀବନାବସ୍ଥିତିଃ",
+          "ରାଜୀବପ୍ରିୟନନ୍ଦନାନୁଗଭୟଂ ମାଜାଗଣଃ କିଂ ବୃଥା",
+          "ରାଜିଷ୍ୱେବସତାଂନଚାଦରଭରଃ ତ୍ୱାଜୀବ ବିଦ୍ୱେଷଣଂ",
+          "ବାଜୀଭୂତ ବିହଙ୍ଗରାଜି ଭବରେ ରାଜୀବନେତ୍ରେ ମନଃ ।"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମା ଜୀର୍ଣ୍ଣତ୍ୱମୁପାଗତା ହି ଗଣିକାରାଜୀମନଃପ୍ରୀଣନା",
+          "-ଦାଜୀବାବଧି ଚିନ୍ତୟାମି ଚରିତଂ ନାଜୀତରତ୍ ସାଧୁଭିଃ ।",
+          "ଆଜୀବଃ ପରପୀଡ଼ନଂ ମମ ହବିର୍ଯାଜୀନବାବୈ ଯତୋ",
+          "ବାଜୀଭୂତ ବିହଙ୍ଗରାଜି ଭବ ରେ ରାଜୀବନେତ୍ରେ ମନଃ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rajibastaka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

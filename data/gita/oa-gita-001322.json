@@ -1,0 +1,56 @@
+{
+  "id": "oa-gita-001322",
+  "name": {
+    "en": "Charanayudha brunda ratila re",
+    "or": "ଚରଣାୟୁଧବୃନ୍ଦ ରଟିଲା"
+  },
+  "composer": "oa-person-000002",
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/charanayudha-brunda-ratila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚରଣାୟୁଧବୃନ୍ଦ ରଟିଲା ଆରେ ବନ୍ଧୁ",
+          "ଅରବିନ୍ଦ ହିଁ ଏବେ ଫୁଟିଲା ରେ",
+          "କର କରୁଣା ବୋଲି ଯେତେ ଚାଟୁ ରଚିଲି",
+          "ଗୁମାନ ଗଣ୍ଠିଟି ନ ଫିଟିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଖଚବଚ ମୁଦ୍ଗର ପ୍ରହାରି କେଟି ମୋର",
+          "ମୋଦ ପୀୟୂଷ ଘଟି ପିଟିଲା ରେ",
+          "ପିଶାଚ ସ୍ମର ଆସି ଦେବାରୁ ମୋତେ ଗ୍ରାସି",
+          "ନିଶା ଚରମ ଦଶା ଘଟିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କିଶୋରୀଙ୍କର ମନମୀନକୁ ଏ ବଚନ",
+          "ମିଷ ବଡ଼ିଶ ଲାଠି ଛାଟିଲା ରେ",
+          "କବିମିହିର ମତିମିଳିନ୍ଦ ସେ ଦମ୍ପତି",
+          "ପଦାବ୍ଜ ମକରନ୍ଦ ଚାଟିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/charanayudha-brunda-ratila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
