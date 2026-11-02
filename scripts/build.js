@@ -26,6 +26,13 @@ function write(relPath, content) {
   writeFileSync(full, content);
 }
 
+// pages also go to /dev/ for trying out design changes
+const pages = [];
+function page(relPath, html) {
+  write(relPath, html);
+  pages.push([relPath, html]);
+}
+
 function hash(content) {
   return createHash("md5").update(content).digest("hex").slice(0, 8);
 }
@@ -87,10 +94,10 @@ const ctx = {
 const search = [];
 for (const kind of pageKinds) {
   for (const record of byKind[kind]) {
-    write(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
+    page(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
   }
-  write(`${kind}/index.html`, rebase(lists[kind](ctx)));
+  page(`${kind}/index.html`, rebase(lists[kind](ctx)));
 }
 
 // a retired id keeps its address, so old links and citations say what happened
@@ -99,12 +106,12 @@ for (const id of tombstones(DATA_DIR)) {
   if (!templates[kind]) continue;
   const title = t("withdrawn.title", {}, lang);
   const body = `<div class="page__wrap">\n<h1 class="page__title">${escapeHtml(title)}</h1>\n<p>${escapeHtml(t("withdrawn.text", { id }, lang))}</p>\n</div>`;
-  write(`${kind}/${id}/index.html`, rebase(pageShell({ title, body, lang, path: `/${kind}/${id}/` })));
+  page(`${kind}/${id}/index.html`, rebase(pageShell({ title, body, lang, path: `/${kind}/${id}/` })));
 }
 
 const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
-write("index.html", rebase(renderHome(ctx)));
+page("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
 if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
@@ -116,5 +123,22 @@ for (const kind of KINDS) {
   write(`dumps/${kind}.csv`, toCsv(rows, columns.length ? columns : ["id"]));
 }
 write("dumps/all.ndjson", [...records.values()].map((r) => JSON.stringify(r) + "\n").join(""));
+
+// /dev/ is not linked from the site and asks search engines to stay away
+const DEV_DIR = join(TEMPLATE_DIR, "dev");
+if (existsSync(DEV_DIR)) {
+  const dev = config.BASE_PATH + "dev/";
+  for (const name of readdirSync(DEV_DIR)) write(`dev/${name}`, readFileSync(join(DEV_DIR, name)));
+  const head = `<meta name="robots" content="noindex, nofollow">\n<link rel="stylesheet" href="${dev}dev.css?v=${hash(readFileSync(join(DEV_DIR, "dev.css")))}">\n</head>`;
+  for (const [rel, html] of pages) {
+    // page links move under /dev/, files (css, js, json, bib) stay where they are
+    const out = html
+      .replace(/ (href|action)="([^"]*)"/g, (m, attr, u) => (u.startsWith(config.BASE_PATH) && !/\.[a-z]+([?#]|$)/i.test(u) ? ` ${attr}="${dev}${u.slice(config.BASE_PATH.length)}"` : m))
+      .replace(/ data-index="[^"]*"/, ` data-index="${dev}search.json"`)
+      .replace("</head>", head);
+    write(`dev/${rel}`, out);
+  }
+  write("dev/search.json", JSON.stringify(search.map((s) => ({ ...s, url: dev + s.url.slice(config.BASE_PATH.length) }))));
+}
 
 console.log(`Built ${records.size} record(s); pages for ${pageKinds.join(", ") || "no kinds yet"}.`);
