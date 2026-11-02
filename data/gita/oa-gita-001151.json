@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-001151",
+  "name": {
+    "en": "Syama srianga thani go sajani",
+    "or": "ଶ୍ୟାମ ଶ୍ରୀଅଙ୍ଗ ଠାଣି ଗୋ ସଜନୀ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-srianga-thani-go-sajani-kalyana-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚନ୍ଦ୍ରାବଳୀର ଖେଦୋକ୍ତି",
+          "ଶ୍ୟାମ ଶ୍ରୀଅଙ୍ଗ ଠାଣି ଗୋ ସଜନୀ",
+          "ବସି ଗଢ଼ିଥିଲା କେଉଁ ବିନ୍ଧାଣୀ ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେତେ ନୀଳଚକ୍ର ସାରକୁ ଆଣି",
+          "ଏକ କରି ତନୁ ଅଛି ନିର୍ମାଣି ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚୂଳ ତଳକୁ ଲମ୍ବିଅଛି ବେଣୀ",
+          "କିବା ଖେଳା କରେ କାଳୀୟ ଫଣୀ ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭାଲେ ଗୋରଚନା ରଚନା ଗୁଣି",
+          "ମଧୁର ହାସକୁ ବାଙ୍କ ଚାହାଣୀ ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୀତବାସ ବିଦ୍ୟୁ ଝଟକ ଜିଣି",
+          "ଉରେ ବନମାଳ କଣ୍ଠରେ ମଣି ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କଟୀରେ ଶୋଭିତ କ୍ଷୁଦ୍ର କିଙ୍କିଣୀ",
+          "ପୟରେ ନୁପୂର ବଳା ବାଜେଣୀ ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଦେଖି କାହା ଦମ୍ଭ ରହିବ ପୁଣି",
+          "ସୁରତ ଇଚ୍ଛିବେ ସୁର ତରୁଣୀ ଗୋ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଗୌର ଦ୍ୱିଜ କହେ ଶୁଣ ମୋ ବାଣୀ",
+          "ଦଇବ ଦେଲାଣି ତୁମ୍ଭଙ୍କୁ ଆଣି ଗୋ ସଜନୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-srianga-thani-go-sajani-kalyana-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

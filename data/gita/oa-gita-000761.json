@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000761",
+  "name": {
+    "en": "Syama tribhangi chhai lo",
+    "or": "ଶ୍ୟାମ ତ୍ରିଭଙ୍ଗୀ ଛଇ ଲୋ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000094"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-tribhangi-chhai-lo-khanda-kamodi-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ତ୍ରିଭଙ୍ଗୀ ଛଇ ଲୋ ସଜନୀ",
+          "ବାମନୟନୀଙ୍କି କରଇ ବାଇ ଲୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଳା ଭାଲେ ଦଳାକସ୍ତୁରୀ ଚିତା",
+          "ବଳାନୁଜଙ୍କୁ ସେ କେଡ଼େ ଶୋଭିତା ଲୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶିଖୀପୁଚ୍ଛ ଗୁଚ୍ଛ ସେ ବାଙ୍କ ଚୂଳେ",
+          "ଖଞ୍ଜିଛି କେ ରଙ୍ଗେ ମାଳବକୁଳେ ଲୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କର୍ଣ୍ଣେ ଗନ୍ଧଫଳି କଳୀର ପ୍ରଭା",
+          "ଦେଖି ନ ଭୁଲିବ କେଉଁ ବଲ୍ଲଭା ଲୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହଳିପ୍ରିୟମାଳୀ ଜାନୁକୁ ବଳି",
+          "ଦୋଳି କେଳି କରେ ଅନା କି ଭଳି ଲୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କରେ ଧରେ ଯେଉଁ ମୋହନ ବଂଶୀ",
+          "କେ ବର୍ତ୍ତିବ ଦେଲେ ଅଧରେ ଦଂଶି ଲୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "କୁହୁକ ହୁନ୍ଦର ଭେଳିକିଲଗା",
+          "କଳିନ୍ଦଜା କୂଳ ସରଣୀ ଜଗା ଲୋ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଭୂଦେବ ଗଉରଚରଣ ଭାଷି",
+          "ଯେ ହେଉ ସେ ହେଉ ହେବି ତା ଦାସୀ ଲୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-tribhangi-chhai-lo-khanda-kamodi-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

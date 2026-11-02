@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000758",
+  "name": {
+    "en": "Dekhiba para asa go mitani",
+    "or": "ଦେଖିବ ପରା ଆସ ଗୋ ମିତଣୀ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000173"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekhiba-para-asa-go-mitani-kumbha-kedara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖିବ ପରା ଆସ ଗୋ ମିତଣୀ",
+          "ମଦନ ମୋହନ ଲାବଣ୍ୟ ଠାଣି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନୁପମ ଚାରୁ ମୁରଲୀପାଣି",
+          "ବନୁ ଆସୁଛନ୍ତି ଗୋଧନ ଆଣି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କି ମଞ୍ଜୁଳ ତାଙ୍କ ବାଙ୍କ ଚାହାଣୀ",
+          "ବିଲୋକି ପଥର ହୋଇବ ପାଣି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଖେମଟା ନାଟକୁ ଢମାଳି ବାଣୀ",
+          "ଭଲା ମାନୁଥାଇ ପଥରୁହାଣି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହାସ ଚନ୍ଦ୍ରହାସ କରି ଉଚାଣି",
+          "ସତୀ ଦମ୍ଭତରୁ ପକାନ୍ତି ହାଣି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଗୋକୁଳେ ଗୋକୁଳେ କାହାର ଆଣି",
+          "ଛଡ଼ାଇ ନ ଦେବେ କହ ସିହାଣୀ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "କେତେ ଶ୍ରମେ କେତେ ସୁରସ ଛାଣି",
+          "କେଉଁ ବିହି ଥିଲା କାହୁଁ ନିର୍ମାଣି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଗୌର ଦ୍ୱିଜ ବୋଲେ ନାହଁ କି ଜାଣି",
+          "ସେ ନାଗରମଣି ବିଶ୍ୱବିନ୍ଧାଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekhiba-para-asa-go-mitani-kumbha-kedara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

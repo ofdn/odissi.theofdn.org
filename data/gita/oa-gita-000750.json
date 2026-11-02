@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000750",
+  "name": {
+    "en": "Ajanama sukhi pankaja mukhi",
+    "or": "ଆଜନମ ସୁଖୀ ପଙ୍କଜ ମୁଖୀ ରେ"
+  },
+  "composer": "oa-person-000110",
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ajanama-sukhi-pankaja-mukhi-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଜନମ ସୁଖୀ ପଙ୍କଜ ମୁଖୀ ରେ",
+          "ଶିଖୀଚୂଳେ ଆଖି ଲାଖିଲା କି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚମକି ଉଠୁଛୁ ରହି ଥକି ଥକି",
+          "ଶୁଖି ଶୁଖି ତନୁ ଯାଉଛି କାହିଁକି",
+          "ଦୁଃଖୀଧନ ଫେଡ଼ି କହିବୁ ନାହିଁ କି",
+          "ଥରାଇ ଲାଗିଛୁ ତୋ ଛାତିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୁକି ଲୁକି ଚାଳି ଆକ୍ଷି ଦେଖିଲୁ କି",
+          "ଫୁଙ୍କିବା ମୁରଲୀ ଶୁଣା ଶିଖିଲୁ କି",
+          "ମୁଁ କି ବିପରୀତ ଦେଖୁଛି ରେ ସଖୀ",
+          "ଝୁଙ୍କି ହେଉ କିମ୍ପା ଏପରି କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାଳିଆ ନାଗର ଅଧରାମୃତ କି",
+          "ଢୋକିଦେଲୁ ତୁ କି ହୋଇ କଉତୁକୀ",
+          "ପ୍ରେମ ହଳାହଳ ଶିଖିଶିଖା ଟେକି",
+          "ବୁକୁ ସ୍ଥଳୀ ଜାଳି ଦେଉଛି କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜଡ଼ିବୁଟି ଯନ୍ତ୍ରମନ୍ତ୍ର ତ ଏଥିକି",
+          "ନାହିଁ କିଛି ଆଉ ଖୋଜିଲେ ପୋଥିକି",
+          "ଗୌର ଦ୍ୱିଜ ଭାଷେ ନାଗର ସାଥିକି",
+          "ଅଉଷଧି ଜାଣେ ମୁଁ ଏତିକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ajanama-sukhi-pankaja-mukhi-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

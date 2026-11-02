@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000755",
+  "name": {
+    "en": "Syama na ja na ja bana re",
+    "or": "ଶ୍ୟାମ ନ ଯା ନ ଯା ବନରେ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000124"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-na-ja-na-ja-bana-re-mallara-gauracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ନ ଯା ନ ଯା ବନରେ",
+          "ଶ୍ୟାମ ନ ଯା ବନ",
+          "ବାବୁ ତୁ ମୋ ଜୀବନ ଧନ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆରେ ବାପ ବନମାଳୀ",
+          "ତୁ ମୋ ନୟନ ପିତ୍ତୁଳୀ",
+          "ତୋ ବିହୁନେ ଏ ଭୁବନ ଶୂନ୍ୟ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦଣ୍ଡେ ନ ଦେଖିଲେ ତୋତେ",
+          "କୋଟି ଯୁଗ ହୁଏ ମୋତେ",
+          "ମୁହିଁ ରଙ୍କ ତୁ ମୋ ରତନ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଡରୁ ଅନ୍ଧାର ଘରକୁ",
+          "ମାଆ ମାଆ ବୋଲି ଡାକୁ",
+          "ଭୟେ ହେଉ ତୁ ଛନ୍ନ ଛନ୍ନ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କାଲି ତୋତେ କୋଳେ ଘେନି",
+          "ଶୋଇଥିଲି ମୁଁ ରଜନୀ",
+          "ଦେଖିଲି ମୁଁ ପାପ ସପନ ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦଣ୍ଡେ ହୋଇଲେ ଉଛୁର",
+          "ଭୋକେ ହେଉ ଥରହର",
+          "ବନେ କରିବୁ କି ଭୋଜନ ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଦ୍ୱିଜ ଗୌର କହେ ଦୁଃଖୀ",
+          "ଯେବେ ଯିବୁ ବତ୍ସା ରଖି",
+          "ତୋ ସଙ୍ଗେ ମୁଁ ଯିବି କାନନ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-na-ja-na-ja-bana-re-mallara-gauracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

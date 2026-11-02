@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001154",
+  "name": {
+    "en": "Raha keniki jauacha go",
+    "or": "ରହ କେଣିକି ଯାଉଅଛ ଗୋ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000179"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/raha-keniki-jauacha-go-kousika-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରହ କେଣିକି ଯାଉଅଛ ଗୋ",
+          "ଏ କଥା ଅତିହିଁ ସନ୍ଦେହ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ ଯେ ଅନ୍ଧାର ନିଶି ତୁମ୍ଭେ ନବ ବୟସୀ",
+          "ମାନେ ତ ହୋଇଛ ସମୂହ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଗୋ ରମଣୀମଣି କହ ସ୍ୱରୂପ ବାଣୀ",
+          "ମନରେ ବିହ୍ୱଳିତ ନୁହ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦଇବ ପ୍ରତିକୂଳ ଆଜ ହେଲ ବାତୁଳ",
+          "ଏଣୁ ସମସ୍ତେ ହେଲ ମୋହ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏ ତ ଅତି ଅନୀତି ତୁମ୍ଭେ ଗଲେ ଏ ରାତି",
+          "ଜାତିରେ ହେବଟି ଦୁଃସହ ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ଦ୍ୱିଜ ଗଉର କି ଦୋଷ ଗୋପୀଙ୍କର",
+          "ମୁରଲୀ କଲାଣି ବିରହ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/raha-keniki-jauacha-go-kousika-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

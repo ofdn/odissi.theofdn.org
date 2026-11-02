@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-001150",
+  "name": {
+    "en": "Ki kali aja ki huda hudiliti",
+    "or": "କି କଲି ଆଜ କି ହୁଡ଼ା ହୁଡ଼ିଲିଟି"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000145"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kali-aja-ki-huda-hudiliti-soka-kamodi-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚନ୍ଦ୍ରାବଳୀ ଉକ୍ତି",
+          "କି କଲି ଆଜ କି ହୁଡ଼ା ହୁଡ଼ିଲିଟି",
+          "ଜାଣିଯା ଜହର ଖାଇ ଲୋଡ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାହାକୁ କହିବି କି ଏ ମୋର ଅର୍ଜିଲା ଦୋଷ",
+          "ଧୀବର ବଚନ ଜାଲେ ପଡ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିକା ନ ଗଲେ ଏ ଦଧି ନ ଥିଲା ମୋର କି ନିଧି",
+          "ସନ୍ତାପ ସରିତେ ପଡ଼ି ସଢ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କଲି କି ମନ୍ଦ କରମ ହେଲି ମୁଁ ଅତି ଭରମ",
+          "କୈବର୍ତ୍ତ କୂଟ କୁଣ୍ଡରେ ପଡ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶମନ ଭଗିନୀ ସେହି ତାହାକୁ ନ ଡରି ମୁହିଁ",
+          "କାଳ ସଙ୍ଗେ ବାଳ ଧରି ଲଢ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କୁଳ ମହତ ଛାଡ଼ିଲି ଐଶ୍ୱର୍ଯ୍ୟ ମୁଁ ତ ଏଡ଼ିଲି",
+          "ନିଜାଙ୍ଗୁଳିରେ ନୟନ ତାଡ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଏ ଜୀବନ ଯିବା ପାଇଁ ଶୋଚନା ମୋହର ନାହିଁ",
+          "ସଖୀମାନଙ୍କ ସଙ୍ଗ ଯା ଛାଡ଼ିଲିଟି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଗୌର ଦ୍ୱିଜ ବୋଲେ ହରି ଏଥିରୁ ନ କଲେ ପାରି",
+          "ନିଶ୍ଚୟ ନଦୀ ମଧ୍ୟରେ ବୁଡ଼ିଲିଟି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kali-aja-ki-huda-hudiliti-soka-kamodi-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

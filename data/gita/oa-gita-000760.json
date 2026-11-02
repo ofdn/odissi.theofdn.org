@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000760",
+  "name": {
+    "en": "Aja dekhili banamaliki go",
+    "or": "ଆଜ ଦେଖିଲି ବନମାଳୀକି ଗୋ"
+  },
+  "composer": "oa-person-000110",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-dekhili-banamaliki-go-kamodi-gouracharana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଜ ଦେଖିଲି ବନମାଳୀକି ଗୋ",
+          "ଏ ପରା ଦଳିଥିଲେ କାଳୀକି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବ୍ରଜବାଳକ ସଙ୍ଗେ ବନୁ ଆସନ୍ତି ରଙ୍ଗେ",
+          "ବଜାଇ ବେଣୁ ଶିଙ୍ଘା କାହାଳୀକି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବନ କୁସୁମେ ବେଶ କି ଶୋଭା ପୀତବାସ",
+          "କର୍ଣ୍ଣେ କୁଣ୍ଡଳ କରତାଳିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବାମେ ବାନ୍ଧିଛି ଜୂଡ଼ା ଶିଖୀ ଶିଖଣ୍ଡ ବେଢ଼ା",
+          "ଖୋସିଣ ରଙ୍ଗ ଜାମୁଡାଳିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଙ୍ଗେ ଗୋରଜ ଧୂଳି ଆସନ୍ତି ଢଳି ଢଳି",
+          "ଡାକନ୍ତି ଧବଳୀ ଶ୍ୟାମଳୀକି ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କ୍ଷୀର ଲବଣୀ ସର ଭୁଞ୍ଜାଇ କଲି ସ୍ଥିର",
+          "ମୋହନ ସେବେ ପାଦତଳିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "( ଗୌରଚରଣ ନିଜ ପ୍ରିୟ ଶିଷ୍ୟ ମୋହନ ଦାସ ଅଧିକାରୀଙ୍କ ନାମରେ ଭଣିତା କରିଅଛନ୍ତି )"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-dekhili-banamaliki-go-kamodi-gouracharana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
