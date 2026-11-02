@@ -156,7 +156,7 @@ function searchForm(lang) {
 }
 
 function siteNav(path, lang) {
-  const items = site.pageKinds.filter((k) => NAV_KINDS.includes(k)).map((k) => {
+  const items = NAV_KINDS.filter((k) => site.pageKinds.includes(k)).map((k) => {
     const href = `/${k}/`;
     const current = path === href ? ' aria-current="page"' : path.startsWith(href) ? ' aria-current="true"' : "";
     return `<li><a href="${href}"${current}>${escapeHtml(t(`kind.${k}.plural`, {}, lang))}</a></li>`;
