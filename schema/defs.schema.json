@@ -59,6 +59,10 @@
           "type": "string",
           "minLength": 1
         },
+        "title": {
+          "description": "A historical title (upadhi) such as Kabisurjya or Gajapati. Marked where it is in the name, shown before the name where it is not.",
+          "$ref": "#/$defs/text"
+        },
         "alternates": {
           "type": "array",
           "items": {

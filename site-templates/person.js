@@ -1,4 +1,4 @@
-import { escapeHtml, t, localized, displayName } from "./shared.js";
+import { escapeHtml, t, localized, titledName } from "./shared.js";
 import { recordPage, links, section, linkList, renditionList, sortByName } from "./music.js";
 
 // gurus are stored on the sisya; sisyas are found by lookng the other way
@@ -12,7 +12,7 @@ function parampara(ctx, record) {
     : "";
   return section(t("person.parampara", {}, lang), `<div class="parampara">
 ${col(t("person.gurus", {}, lang), gurus)}
-<div class="parampara__self"><p>${escapeHtml(displayName(record, lang))}</p></div>
+<div class="parampara__self"><p>${titledName(record.name, lang)}</p></div>
 ${col(t("person.sisyas", {}, lang), sisyas)}
 </div>`, "parampara");
 }

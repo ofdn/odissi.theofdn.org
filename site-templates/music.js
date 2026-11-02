@@ -1,5 +1,5 @@
 // Parts shared by the record pages: header, sources, verse, renditions.
-import { escapeHtml, t, localized, pick, displayName, link, pageShell, filmLayout, factsAside, arkPermalink, citationBlock, citationMeta } from "./shared.js";
+import { escapeHtml, t, localized, pick, displayName, titledName, sortName, link, pageShell, filmLayout, factsAside, arkPermalink, citationBlock, citationMeta } from "./shared.js";
 import { SITE_URL } from "../scripts/lib/config.js";
 
 export function links(ctx, ids = []) {
@@ -11,7 +11,7 @@ export function numbers(list = []) {
 }
 
 export function sortByName(records, lang) {
-  return [...records].sort((a, b) => displayName(a, lang).localeCompare(displayName(b, lang)));
+  return [...records].sort((a, b) => sortName(a, lang).localeCompare(sortName(b, lang)));
 }
 
 export function linkList(ctx, records) {
@@ -125,10 +125,10 @@ export function recordPage(ctx, record, { facts = [], main = "", player = "", ci
   const kind = record.id.split("-")[1];
   const title = displayName(record, lang);
   const heading = pick(name, lang)?.text ?? title;
-  const odia = name?.or && lang !== "or" ? `<p class="film__lede" lang="or">${escapeHtml(name.or)}</p>` : "";
+  const odia = name?.or && lang !== "or" ? `<p class="film__lede" lang="or">${titledName(name, "or")}</p>` : "";
   const sub = subtitle ?? localized(record.subtitle, lang);
   const header = `<p class="kind-label">${crumb ? `${crumb} <span aria-hidden="true">›</span> ` : ""}<a href="/${kind}/">${escapeHtml(t(`kind.${kind}`, {}, lang))}</a>${kicker ? ` <span aria-hidden="true">›</span> ${kicker}` : ""}</p>
-<h1 class="film__title">${escapeHtml(heading)}</h1>
+<h1 class="film__title">${titledName(name, lang) || escapeHtml(heading)}</h1>
 ${odia}
 ${sub ? `<p class="film__subtitle">${sub}</p>` : ""}`;
   const cite = citation ?? recordCitation(ctx, record);

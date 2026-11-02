@@ -352,6 +352,10 @@ ul.record-list a { color: var(--color-text); font-weight: 600; text-decoration: 
 ul.record-list a:hover { color: var(--color-link-hover); text-decoration: underline; }
 ul.record-list .count { font-size: 0.9rem; color: var(--color-text-muted); }
 
+/* Titles in names: smaller, and a weight apart from the name */
+.name-title { font-size: max(0.8em, 12px); font-weight: 400; }
+.film__facts dd .name-title, .film__lede .name-title { font-weight: 600; }
+
 /* A to Z on long lists */
 .letters ul { display: flex; flex-wrap: wrap; gap: 0.25rem; list-style: none; margin: 0 0 1.5rem; padding: 0; max-width: var(--max-prose); }
 .letters a, .letters span { display: inline-flex; align-items: center; justify-content: center; min-width: 2rem; min-height: 2rem; font-family: var(--font-heading); font-weight: 600; }

@@ -95,10 +95,29 @@ export function renditionTitle(r, get, lang = "en") {
   return t("rendition.title", { gita: displayName(get(r.gita), lang), details: details.join(", ") }, lang);
 }
 
+// the name with its title (Kabisurjya, Gajapati) in a span of its own
+export function titledName(name, lang = "en") {
+  const p = pick(name, lang);
+  if (!p) return "";
+  const title = name.title?.[p.lang];
+  let html = escapeHtml(p.text);
+  const span = title ? `<span class="name-title">${escapeHtml(title)}</span>` : "";
+  // a title not written in the name, like Kabi Kalahansa, goes before it
+  if (title) html = p.text.includes(title) ? html.replace(escapeHtml(title), span) : `${span} ${html}`;
+  return p.lang === lang ? html : `<span lang="${p.lang}">${html}</span>`;
+}
+
+// lists sort by the name without its title, Baladeba Ratha under B
+export function sortName(record, lang = "en") {
+  const p = pick(nameValue(record), lang);
+  const title = record.name?.title?.[p.lang];
+  return (title && p.text.replace(title, "").trim()) || p.text;
+}
+
 export function link(ctx, id) {
   const record = ctx.get(id);
   if (!record) return escapeHtml(id);
-  const name = localized(nameValue(record), ctx.lang);
+  const name = titledName(nameValue(record), ctx.lang);
   const url = ctx.url(id);
   return url ? `<a href="${escapeHtml(url)}">${name}</a>` : name;
 }
@@ -346,13 +365,13 @@ export function citationBlock(c, lang = "en", { heading = t("cite.heading", {}, 
 export function listPage(ctx, kind) {
   const lang = ctx.lang;
   const plural = t(`kind.${kind}.plural`, {}, lang);
-  const records = [...ctx.byKind[kind]].sort((a, b) => displayName(a, lang).localeCompare(displayName(b, lang)));
+  const records = [...ctx.byKind[kind]].sort((a, b) => sortName(a, lang).localeCompare(sortName(b, lang)));
   const items = (rs) => `<ul class="record-list">\n${rs.map((r) => `<li>${link(ctx, r.id)}</li>`).join("\n")}\n</ul>`;
   let list = records.length ? items(records) : `<p>${escapeHtml(t("list.empty", {}, lang))}</p>`;
   // long lists get an A to Z row; Āḍatāḷi files under A
   if (records.length > 30) {
     const initial = (r) => {
-      const c = displayName(r, lang).normalize("NFD")[0].toUpperCase();
+      const c = sortName(r, lang).normalize("NFD")[0].toUpperCase();
       return c >= "A" && c <= "Z" ? c : "#";
     };
     const groups = new Map();
