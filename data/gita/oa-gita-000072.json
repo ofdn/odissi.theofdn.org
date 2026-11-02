@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000072",
+  "name": {
+    "en": "Mo name bansi na bajare",
+    "or": "ମୋ ନାମେ ବଂଶୀ ନ ବାଜରେ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000033"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-name-bansi-na-bajare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ନାମେ ବଂଶୀ ନ ବାଜରେ",
+          "ଆଉ ମୋ ନାମରେ ବଂଶୀ ନ ବାଜରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶୁଣି ତୋର ସ୍ୱନ ହେଲି ମୁଁ ଉଚ୍ଛନ୍ନ",
+          "ସଢ଼ିଲିଣି ଲୋକଲାଜରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏ ଗୋପନଗରେ ଢମାଳି ଢଗରେ",
+          "କେ କେତେ ଗଞ୍ଜନ୍ତି ବ୍ୟାଜରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୁଁ ବୋଲି କୁଳଟା କେତେ ହୁରି ହଟା",
+          "ବସିଛି ଗୋପ ସମାଜରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବେଣୁଧର ଭଣି ଠାକୁରାଣୀ ବାଣୀ",
+          "ଦଇନି କରୁଛି ଆଜରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-name-bansi-na-bajare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

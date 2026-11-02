@@ -1,0 +1,58 @@
+{
+  "id": "oa-gita-000608",
+  "name": {
+    "en": "Mo ranka ratana asa asa",
+    "or": "ମୋ ରଙ୍କରତନ ଆସ ଆସ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-ranka-ratana-asa-asa-jhinjhoti-benudhara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ରଙ୍କରତନ ଆସ ଆସ",
+          "ଅଙ୍କେ ବସ ପଙ୍କଜାକ୍ଷି ତେଜ ମାନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମହୀକି ଲପନ ପୋତି ନ ବସ ବାରଣଗତି",
+          "ବନଜ ନୟନୁ ନୀର ମୁଞ୍ଚ ମୋ ପରାଣଧନ",
+          "(ପଡ଼ି)",
+          "ଧରୁଛି ତୋର ପାଣିକି ଶୁଣା ବିପଞ୍ଚୀ ବାଣୀକି",
+          "ଚାନ୍ଦବଦନ ଠାଣିକି ଟେକି ତୁ ନ କର କ୍ଷିନ୍ନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଲ୍ଲୀହାସୀ ଗଲି ଭାସି ମାନେ ରସିବାରୁ ରୁଷି",
+          "ମରମ ଦେଶେ ଆକର୍ଷି ବିନ୍ଧୁଛି ମୀନକେତନ",
+          "(ପଡ଼ି)",
+          "ସମରପୁର ନିବାସୀ ବେଣୁଧର ଗୀତେ ଭାଷି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-ranka-ratana-asa-asa-jhinjhoti-benudhara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

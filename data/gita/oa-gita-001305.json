@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-001305",
+  "name": {
+    "en": "Prana sangini re kaha keun buddhi karibi",
+    "or": "ପ୍ରାଣ ସଙ୍ଗିନୀରେ କହ କେଉଁ ବୁଦ୍ଧି କରିବି"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000007"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-re-kaha-keun-buddhi-karibi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ସଙ୍ଗିନୀରେ କହ କେଉଁ ବୁଦ୍ଧି କରିବି",
+          "ଶ୍ୟାମବନ୍ଧୁ ଲାଗି ସଖୀରେ ଝୁରି ଝୁରି ମରିବି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେଣିକି ଚାହିଁଲେ ସହୀ ଦିଶିଲେ ନନ୍ଦ କହ୍ନାଇ",
+          "ଏଥି ପାଇଁ କେତେ ମୁହିଁ କାହା କର ଧରିବି",
+          "(ପଡ଼ି)",
+          "ଯିବାକୁ ପରା ଯମୁନା ଜାତି ପାଟକରେ ମନା",
+          "କେତେ ସହିଲେ ଯାତନା ଏ ଲାଗି ମୁଁ ସରିବି",
+          "ବୋଲେ ଦୀନ ବେଣୁଧର ଶ୍ୟାମ ପ୍ରୀତିକି ଜୁହାର",
+          "ଏଣିକି ଗୋଳି ଜହର ମୁଖେ ସିନା ଧରିବି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-re-kaha-keun-buddhi-karibi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

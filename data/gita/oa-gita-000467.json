@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000467",
+  "name": {
+    "en": "Moha naa re bajana tu",
+    "or": "ମୋହ ନାରେ ବାଜନା ତୁ"
+  },
+  "composer": "oa-person-000027",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/moha-naa-re-bajana-tu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋହ ନାରେ ବାଜନା ତୁ ଏଣିକି ରେ ବାଂଶରୀ",
+          "ଘେନ ମୋର ବିନୟ ବାଣୀକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବିଷମ ନଣନ୍ଦ ମୋର । ଶାଶୁ ଗଞ୍ଜଣା ଅପାର ।",
+          "ଏଥିରେ ମୁଁ ଯିବି କହ କେଣିକି ରେ ବାଂଶରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କରତାଳି ମାରି ସିନା । ହସିବେ ବ୍ରଜ ଅଙ୍ଗନା ।",
+          "ତାହା ପରି ମୋତେ ଅଛୁ ମଣି କି ରେ ବାଂଶରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କେତେ ଯୁବତୀଏ ଗୋପେ । ନାହାନ୍ତି ଅବା ସୁରୂପେ ।",
+          "ଏକା ମୋତେ ବାଦ ସାଧୁ ଜାଣିକି ରେ ବାଂଶରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଜୁଁ ତୋତେ ବାରମ୍ବାର । କରୁଛି କୋଟି ଜୁହାର ।",
+          "ଦୀନ ହୀନ ବେଣୁଧର ଭଣିକି ରେ ବାଂଶରୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/moha-naa-re-bajana-tu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

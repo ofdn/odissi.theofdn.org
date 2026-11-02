@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000653",
+  "name": {
+    "en": "Se kalia jaha kala kali",
+    "or": "ସେ କାଳିଆ ଯାହା କଲା କାଲି"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000126"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-kalia-jaha-kala-kali-ananda-kamodi-benudhara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସେ କାଳିଆ ଯାହା କଲା କାଲି ଗୋ ସଖୀ",
+          "ଅଖଞ୍ଜେ ତା ଆଗେ ପଡ଼ିଗଲି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋ ତୁଲେ ନ ଥିଲେ କେହି ଯାଉଁ ଯମୁନା ଗାଧୋଇ",
+          "ନୀପ ତରୁ ମୂଳେ ଚାହିଁ ଦେଲି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କି ମୋହିନୀ ଜାଣେ ସେହି ପାହୁଣ୍ଡେ ନ ଯାଇ ନାହିଁ",
+          "ଥକା ହୋଇ ମୁଁ ତ ରହିଗଲି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତହୁଁ ସେ ମୋ ପାଶେ ଆସି କହିଲେ ଯାହା ଆଶ୍ୱାସି",
+          "ବଖାଣି ବସିଲେ ଲାଜେ ମଲି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବେଣୁଧର ବୋଲେ ଶୁଣି ମୁଁ ତା ଜାଣି ପାରିଲିଣି",
+          "କିସ ଲୁଚାଉଛି ରସବଲ୍ଲୀ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-kalia-jaha-kala-kali-ananda-kamodi-benudhara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

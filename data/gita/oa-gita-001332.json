@@ -1,0 +1,48 @@
+{
+  "id": "oa-gita-001332",
+  "name": {
+    "en": "Sajani go manu jiba ki sate",
+    "or": "ସଜନୀ ଗୋ ମନୁ ଯିବ କି ସତେ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000091"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-go-manu-jiba-ki-sate-kolahala-jhula/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀ ଗୋ ମନୁ ଯିବ କି ସତେ",
+          "ଯାହା ଦେଖିଥିଲୁ କାଲି ଯମୁନା ପଥେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଛୁଆ ମୂରତି ସେ ନୂଆ ମଦନ",
+          "କୁମାର ପୁନିଅଁ କାଳିଆ ଜହ୍ନ",
+          "ବାଙ୍କ ଚାହାଣୀରେ ଥରେ ସେ ଅନାଇଁ",
+          "କିଙ୍କରୀ କରି ତ ରଖିବ ସତେ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-go-manu-jiba-ki-sate-kolahala-jhula/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "oa-gita-000606",
+  "name": {
+    "en": "Thaka chintamani ki",
+    "or": "ଠକ ଚିନ୍ତାମଣିକି"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000137"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thaka-chintamani-ki-raga-nagaballi-jati-benudhara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଠକ ଚିନ୍ତାମଣିକି",
+          "ଠୂଳେ ମୁଁ ବିଶ୍ୱାସ ନ ଯିବି ଏଣିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଠାଣି ତ୍ରଭଙ୍ଗିଆ ମୁରଲୀ ପାଣି",
+          "ଠାବ କଲେ ଚିନ୍ତା ନିକୁଞ୍ଜ ପୁଣି",
+          "ଠାକୁର ଶ୍ରେଷ୍ଠ ମଣି କରି ଶରଧା",
+          "ଠଣ ପାଦେ ପ୍ରାଣ ଦେଲି ମୁଁ ବିକି ।",
+          "(ପଡ଼ି)",
+          "ଠିକେ ହେଲି ତାଙ୍କ କିଣା ସେବକୀ",
+          "ଠକିଦେବେ ବୋଲି ଜଣାଥିଲା କି",
+          "ଠାପୁଆ ଶ୍ୟାମକୁ ଦୂରୁ ମୋ ଜୁହାର",
+          "ଠାରି ଅଙ୍ଗୁଳିକି ବେଣୁଧର ଭଣିକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/thaka-chintamani-ki-raga-nagaballi-jati-benudhara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

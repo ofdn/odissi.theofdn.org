@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001445",
+  "name": {
+    "en": "Sangini re mora manda kapala",
+    "or": "ସଙ୍ଗିନୀ ରେ ମୋର ମନ୍ଦକପାଳ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000055"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-mora-manda-kapala/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଙ୍ଗିନୀ ରେ ମୋର ମନ୍ଦକପାଳ",
+          "ମୋହନ ବଂଶୀ ମୋତେ ହୋଇଲା କାଳ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲୋକ ହସାରେ",
+          "କି ନାନା ସାରେ",
+          "କି କରିବି ବୁଦ୍ଧି ୟେ ସଖି ତୁ ଭାଳ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶାଶୁ ନଣନ୍ଦ",
+          "ଲଗାନ୍ତି ଦ୍ୱନ୍ଦ",
+          "କି ନ କଲେ ମତେ ସେ ଯଶୋଦାବାଳ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗଲେ ଯମୁନା",
+          "ସେ ନନ୍ଦକାହ୍ନା",
+          "ମିଛରେ ଘାଟ ମାଗି କରେ କଟାଳ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନୁହଇଁ କାରି",
+          "ସେ ତ ତୁମ୍ଭରି",
+          "କହଇ ବେଣୁଧର ସେ ପ୍ରୀତି ପାଳ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-mora-manda-kapala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

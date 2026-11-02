@@ -1,0 +1,79 @@
+{
+  "id": "oa-gita-000078",
+  "name": {
+    "en": "Na ja jamuna lo sahi",
+    "or": "ନ ଯା ଯମୁନା ଲୋ ସହି"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-ja-jamuna-lo-sahi-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ ଯା ଯମୁନା ଲୋ ସହି ନ ଯା ଯମୁନା",
+          "ବାଟ ଜଗିବସିଛି ସେ ଛଇଳ କାହ୍ନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁ ତାକୁ ଦେଖିଲା କ୍ଷଣି",
+          "ହୋଇଯିବୁ ପାଗଳିନୀ",
+          "ଗରବ ଗୁମାନ ଦମ୍ଭ ହୋଇବ ଚୂନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏ ବରଜେ କେତେ ବାଳୀ",
+          "ନାହାନ୍ତିଟିରେ ସଙ୍ଖାଳି",
+          "ତୋହ ଠାରେ ସିନା ନିତି ତାହାରି କୁହ୍ନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବାଉଁଶର ବଂଶୀ ଖଣ୍ଡ",
+          "ଫୁଙ୍କି ଦିଅଇ ଯା ଦଣ୍ଡ",
+          "ଆଜନମ ସୁଖୀ ଧନୀ ତା ଜାଣିଛୁ ନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତୋ ନାମଗୋଟି ଜୀବିକା",
+          "କରି ବୁଲେ ଗିରିଟେକା",
+          "ଯେତେ ମନା କଲେ ହେଲେ ନ କରେ ଘେନା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୋଲେ ବେଣୁଧର ମିତ",
+          "ଯାହା କହିଲ ଗୋ ସତ",
+          "କି ନ କରନ୍ତି ସେ ଘନ କାଳିଆ ସୁନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-ja-jamuna-lo-sahi-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

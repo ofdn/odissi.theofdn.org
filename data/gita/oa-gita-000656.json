@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000656",
+  "name": {
+    "en": "Kalia kalia boli e jibana jau go",
+    "or": "କାଳିଆ କାଳିଆ ବୋଲି ଏ ଜୀବନ ଯାଉ ଗୋ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000134"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kalia-kalia-boli-e-jibana-jau-go-todi-benudhara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାଳିଆ କାଳିଆ ବୋଲି ଏ ଜୀବନ ଯାଉ ଗୋ",
+          "ଭାଳି ବସିଲା କେ ମୋତେ ନ ଦିଶେ ଆଉ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଳି ସେ ମୋର ସଙ୍ଖାଳି ଚିତ୍ତଚୋରା ବନମାଳୀ",
+          "ଟାଳି ଅଭିମାନ ରାଧା ତା ଗୁଣ ଗାଉ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଢାଳି ନେତ୍ରୁ ଅଶ୍ରୁବାରି ଧ୍ୟାନ କରି ବଂଶୀଧାରୀ",
+          "ପାଳିଥିବି ଦୃଢ଼ ବ୍ରତ କୀରତି ଥାଉ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାଳି ଲାଗୁ ପଛେ କୁଳେ ନ ରଖନ୍ତୁ ଏ ଗୋକୁଳେ",
+          "ଝାଳି ଛନ୍ଦା ପଦେ ମନ ପ୍ରାଣ ବିକାଉ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତାଳି ମାରି ଅସହଣୀ ହସିଲେ ହସନ୍ତୁ ପୁଣି",
+          "ଥାଳି ସେ ମୁଁ ଯୋଗିନୀର କେ ନ ଖସାଉ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଚାଳିବା ଭୂରୁ ତା ଚାହିଁ ବାଳୀଶ ହେବାର ରାଇ",
+          "ମାଳି କରି ବେଣୁଧର କୃଷ୍ଣ ଭଜାଉ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kalia-kalia-boli-e-jibana-jau-go-todi-benudhara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

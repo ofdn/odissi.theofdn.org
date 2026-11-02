@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000649",
+  "name": {
+    "en": "Ki mohana muratiti se",
+    "or": "କି ମୋହନ ମୂରତିଟି ସେ"
+  },
+  "composer": "oa-person-000027",
+  "mula_raga": [
+    "oa-raga-000105"
+  ],
+  "mula_tala": [
+    "oa-tala-000015"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-mohana-muratiti-se-pattamanjari-benudhara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି ମୋହନ ମୂରତିଟି ସେ ନନ୍ଦର ବଳା ଗୋ",
+          "ନାରୀଭୁଲା ମନ୍ତରକୁ କିଏ ଦେଲା ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମନ୍ଦ ମନ୍ଦ ହାସ ତାର ନାସାପୁଡ଼ା ଫୁଲା ଗୋ",
+          "ଭୂରୁ ଚଳାଇବା ଭଙ୍ଗୀ ନେତ୍ର ଡୋଳା ଖେଳା ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ମିତାଧରେ ମୁରଲୀଟି ସାଜିଅଛି ଭଲା ଗୋ",
+          "ନବଘନ ଜିଣି କାନ୍ତି ସୁଚିକ୍କଣ କଳା ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବୋଲେ ବେଣୁଧର ସେହି ଲାବଣ୍ୟ ପିତ୍ତୁଳା ଗୋ",
+          "ବ୍ରଜବଧୁ ଚିତ୍ତ ସୁଖ ସାଗରକୁ ଭେଳା ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-mohana-muratiti-se-pattamanjari-benudhara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
