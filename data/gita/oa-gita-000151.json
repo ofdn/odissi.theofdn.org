@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000151",
+  "name": {
+    "en": "Prananatha bije bela balila re",
+    "or": "ପ୍ରାଣନାଥ ବିଜେ ବେଳ ବଳିଲା ରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000070"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prananatha-bije-bela-balila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣନାଥ ବିଜେ ବେଳ ବଳିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଖି ହେଲା କି ପାପ ଦେଖ ଏ ଚନ୍ଦ୍ରାତପ",
+          "ବନ୍ଧା କୁସୁମ ଥୋପ ଆସି ଲୁଳିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁଟିଲାନି ମୋ ହୃଦପୁଟେ ଥିଲା ପ୍ରମାଦ",
+          "ମଥା ପରୁ କୁମୁଦବନ୍ଧୁ ଟଳିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଲା ଆହା କି ଫଳ ଭଲା ତ ମୋ କପାଳ",
+          "ଲଗାଇଲେ ରସାଳ ନିମ ଫଳିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମଣ୍ଡାଇଲି ନିବାସ କିମ୍ପା ହେଲି ଏ ବେଶ",
+          "ଆନେ ତେବେ ଜୀବେଶ ମନ ବଳିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଛୋଟରାୟ ନୃପତି ବିଜେ କଲେ ଏ ରାତି",
+          "ଜାଣ ସବୁ ସମ୍ପତ୍ତି ମୋତେ ମିଳିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prananatha-bije-bela-balila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

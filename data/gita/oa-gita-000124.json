@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-000124",
+  "name": {
+    "en": "Kara khyama re rati pratima tu",
+    "or": "କର କ୍ଷମା ରେ ରତି ପ୍ରତିମା ତୁ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kara-khyama-re-rati-pratima-tu-kara-kshyama-re-saberi-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କର କ୍ଷମା ରେ ରତି ପ୍ରତିମା ତୁ",
+          "ଜଣା ନ ଥିଲା ମାଜଣା ହେବେ ବୋଲି ଜେମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେଉଁ ପ୍ରତିହାରିଣୀ କି ଦାସୀ",
+          "କହିଥାନ୍ତା ଯେବେ ଧାଇଁ ଆସି",
+          "ତା ନ ମାନି ପଶିଥିଲେ ଝାସି",
+          "ମାନ ଉଚିତ ମୋ ଠାରେ ତନୁମଧ୍ୟମା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବାର ପାରି ନାହିଁ ରେ ସୁକେଶୀ",
+          "ବାରି ମଧ୍ୟେ ତୁ ଥିଲୁ ବିଳସି",
+          "ଚାରିପାଶେ ଘେରିଥିଲେ ଦାସୀ",
+          "ଭାରି ନିତମ୍ବ ସ୍ତନ ଜଘନ ସୁଷମାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭିଡ଼ି ରଦନେ ବସନାଞ୍ଚଳ",
+          "ତଡ଼ିଲ୍ଲତାରୁ ହୋଇ ଚଞ୍ଚଳ",
+          "ବଳାଶିଞ୍ଜିତ କରି ପ୍ରବଳ",
+          "ପଳାଇ ଯା ମଣ୍ଡିଦେଲୁ ମଣ୍ଡପ ସୀମାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦାଉ ପାଇ ମୁଁ ହେଜିଲି ଏବେ",
+          "ଆଉ ଏପରି କରିବି ଯେବେ",
+          "ସାରିଦେବୁ ମୋତେ ପରାଭବେ",
+          "ବାରିଜାକ୍ଷୀ ପୀନସ୍ତନେ ଆଜକ ଜମା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶୁଣି ଶ୍ରୀକୃଷ୍ଣ ବିନୟ ବାଣୀ",
+          "ହରଷରେ ସେ ରମଣୀମଣି",
+          "ନିଧୂବନ ରଚିଲେ ସେକ୍ଷଣି",
+          "ବୋଲେ ବସୁଦୁର୍ଗ ବସୁନ୍ଧରା ସୁତ୍ରାମା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kara-khyama-re-rati-pratima-tu-kara-kshyama-re-saberi-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000130",
+  "name": {
+    "en": "Kalindi kulaku mora sankhali",
+    "or": "କାଳିନ୍ଦୀ କୂଳକୁ ମୋର ସଙ୍ଖାଳି ନ ଯା ରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kalindi-kulaku-mora-sankhali-na-jaa-re-kalyana-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାଳିନ୍ଦୀ କୂଳକୁ ମୋର ସଙ୍ଖାଳି ନ ଯା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯା ଶିରେ ଚନ୍ଦ୍ରିକା ଚୂଳ ରଙ୍ଗ ସ୍ଥଳ ନୀପମୂଳ",
+          "ତା ନୟନ ଅଞ୍ଚଳଟି ଜ୍ଞାନହଜା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନବ ଯୁବତୀଙ୍କ ଜାତି ନେବ ବୋଲି କେତେ ଜାତି",
+          "ସୁଆଗ ଜାଣଇ ସେ ନାଟୁଆ ରଜା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜାମ୍ବୁନଦ ଘଟେ ବାରି ଆଣନ୍ତୁ ତୋ ପରିଚାରୀ",
+          "କୂପ ଉପକଣ୍ଠେ ଶ୍ରୀଅଙ୍ଗକୁ ମଜ୍ଜା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏହି ପୁରେ ତୋ କାମନା ଭରତି ହୋଇବ ସିନା",
+          "ଶ୍ୟାମ ଅଙ୍ଗସଙ୍ଗ ଡର ଥିଲେ ମଜ୍ଜାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତା ବେଣୁ ନିଃସ୍ୱନ ଦୂରୁ ଜନମାଉଛି ଦେହରୁ",
+          "ନୀପ ଫୁଲ ପରିରେ ପୁଲକ ଗଜା ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ନ ଛପାଅ ମନ ଥିଲେ ବନ୍ଦି କବିରବି ବୋଲେ",
+          "ସୁଖେ ବ୍ରଜ ମଣ୍ଡଳେ ଡିଣ୍ଡିମ ବଜା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kalindi-kulaku-mora-sankhali-na-jaa-re-kalyana-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

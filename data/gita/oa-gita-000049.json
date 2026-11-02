@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000049",
+  "name": {
+    "en": "Bhajare manasa gopalatam",
+    "or": "ଭଜରେ ମାନସ ଗୋପଲଟଂ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhajare-manasa-gopalatam-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଭଜରେ ମାନସ ଗୋପଲଟଂ",
+          "କଟିତଟେ ଶୋଭିତ ପୀତପଟଂ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାଳୀୟ ମର୍ଦ୍ଦନ କଂସ ନିସୂଦନ",
+          "ଗୋକୁଳ ରକ୍ଷଣ ନାମ ରଟଂ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଙ୍ଗଳ ମଞ୍ଜୁଳ କେଳି କଳାମୂଳ",
+          "ଲୀଳା ପୂରିତ ସର୍ବ ଘଟଂ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନିତ୍ୟ ନିରଞ୍ଜନ ସତ୍ୟ ସନାତନ",
+          "ଗୋପିନୀ ରଞ୍ଜନ ବଂଶୀବଟଂ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବିଶ୍ୱ ବିମୋହନ ବେଣୁ ବିନୋଦନ",
+          "ଶାଶ୍ୱତ ସୁଚରିତ କର୍ଣ୍ଣପୁଟଂ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପାବନ ପୂରଣ ବ୍ରହ୍ମ ପରାୟଣ",
+          "ପ୍ରେମ ସୁଧାମୟ ରାସ ନଟଂ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhajare-manasa-gopalatam-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

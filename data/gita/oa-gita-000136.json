@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-000136",
+  "name": {
+    "en": "Chandana basi kundabara hasi re",
+    "or": "ଚନ୍ଦନବାସି କୁନ୍ଦବରହାସୀ ରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000050"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandana-basi-kundabara-hasi-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚନ୍ଦନବାସି କୁନ୍ଦବରହାସୀ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରୁଣାମୟ ବରୁଣାଳୟହୃଦୟା ଘନକେଶୀ ରେ",
+          "ପରାପତ ତୁ ତେ ହେଲୁ ପରା ନିରତେ",
+          "ହରାଙ୍ଘ୍ରି ଭଜନରୁ କାଶୀ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶରଣାଙ୍କିତ ଅରୁଣାମ୍ବୁଜଚରଣା ମୃଦୁଭାଷୀ ରେ",
+          "ଧରାତରୁଣୀଶିରଝରାରତନ ମତେ",
+          "କରା ଆଜ ତୋ ନିଜ ଦାସୀ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଦନେଷୂଜକଦନେ ନିରତ ସଖି ଗଲି ଭାସି ରେ",
+          "ତରୀ ପରି ଅଙ୍କରେ କରି ନିବିଡ଼ତରେ",
+          "ପରିରମ୍ଭରେ ରଖ ଆସି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲଳନାବର ତୁଳନା ପରିକଳନା ଗୁଣରାଶି ରେ",
+          "ଅନା ଅନା ଚପଳା ନୟନାନ୍ତରେ ତୁ ରେ",
+          "ମଦନାହବକୁ ଫରମାସି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କରି ବନ୍ଦନ ହରିଚନ୍ଦନ କହେ କୁଞ୍ଜବିଳାସୀ ରେ",
+          "ରୁଷା ବରଜି ମୃଗଦୃଶା ପଡ଼ିଲେ",
+          "ମୃଦୁ ମସାରନିଭ ଭୁଜପାଶିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandana-basi-kundabara-hasi-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

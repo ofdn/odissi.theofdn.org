@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000168",
+  "name": {
+    "en": "Syama sama kamaniya",
+    "or": "ଶ୍ୟାମ ସମ କମନୀୟ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sama-kamaniya-nahi-aau/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ସମ କମନୀୟ ନାହିଁ ଆଉ",
+          "ତା ବାହୁଭିଡ଼ାରେ ମୋର ଦିନ ଯାଉ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି ସୁନ୍ଦର ପୀତପଟ । ତ୍ରିଭଙ୍ଗ ମୁରଲୀନଟ ।",
+          "ତା ଶିର ମୁକୁଟ ଦିଶେ ଦାଉଦାଉ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଳି ମଙ୍ଗଳାଙ୍କୁ ଜଣା । ଥିଲେ ନ ଥିଲେ କରୁଣା ।",
+          "ନୟନସମ୍ପତ୍ତି ମୋର ଜୀଇଥାଉ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଡ଼ିଗଲେ ତା ନଜରେ । ମଦନ ମାଦକ ଶରେ ।",
+          "ନାରୀ ହୃଦୟରୁ ଖସିପଡ଼େ ହାଉ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନିନ୍ଦିଲେ ନିନ୍ଦନ୍ତୁ ଜନେ । ତା ପଛେ ମୁଁ ବନେ ବନେ ।",
+          "ଶିରେ ଘେନି ବୁଲୁଥିବି ତା କଠାଉ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବିରବି ଭାଷେ ରସେ । ମନମଥ ରତିତ୍ରାସେ ।",
+          "ତା ପ୍ରେମସାଗରେ ଚିତ୍ତ ବୁଡ଼ିଯାଉ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sama-kamaniya-nahi-aau/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

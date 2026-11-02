@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000122",
+  "name": {
+    "en": "Aja e ki rusa re",
+    "or": "ଆଜ ଏ କି ରୁଷାରେ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000057"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-e-ki-rusa-re-harinidrusa-kusuma-kedara-kabisurjya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଜ ଏ କି ରୁଷା ରେ",
+          "ପାଳିଲି ନାହିଁକି ତୋର ହୁକୁମ ସୁସାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହେଲୁ ଯେ ଗଣ୍ଡମଣ୍ଡିତ କର ସାରସାରେ",
+          "ତୋ ବିନା ଅଛି କେ ମୋର ଭରସା ରସାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚିନ୍ତାମଣି ପରା ତୁ ମୋ ଚିତ୍ତ ଘରଷାରେ",
+          "ତିନ୍ତାଅନା କୁଚକୁମ୍ଭ ଅଶ୍ରୁବରଷାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସହି ସରିଲିଟି ହରଅହିତ ତୃଷାରେ",
+          "ବନ୍ଦ ପଡ଼ୁ ସ୍ମିତ ମକରନ୍ଦ ପରଷାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗୁଣାମ୍ବୁଧି ଥରେ ସ୍ମର ସମରେ ରସାରେ",
+          "ଭଣାଯାଉ ତୋର ଗଣା ନ ଯା ନିରାଶାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଜଗଦ୍ଦେବ ବୋଲେ ଶ୍ୟାମ ବିନୟ ତୃଷାରେ",
+          "ଶଙ୍କିଲା ଦେବୀଙ୍କ ମାନ ପଙ୍କଜ ଦଶାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-e-ki-rusa-re-harinidrusa-kusuma-kedara-kabisurjya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

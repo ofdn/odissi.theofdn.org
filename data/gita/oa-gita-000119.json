@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000119",
+  "name": {
+    "en": "Arajibi pache jana apakhyatiki go",
+    "or": "ଅରଜିବି ପଛେ ଜନ ଅପଖ୍ୟାତିକି ଗୋ"
+  },
+  "composer": "oa-person-000002",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/arajibi-pache-jana-apakhyatiki-go/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅରଜିବି ପଛେ ଜନ ଅପଖ୍ୟାତିକି ଗୋ",
+          "ବରଜିବି କେହି ଘନଶ୍ୟାମ ପ୍ରୀତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତେଜି ଜାଈଦଳ ଶେଯ । ଘନସାର ମଳୟଜ ।",
+          "କରିବ କେ ରାଜୀବଦଳକୁ ଗତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତା ସୁନ୍ଦର ମନ୍ଦହାସ । ରୁଚିର ଭୂରୁ ବିଳାସ ।",
+          "ଛାଡ଼ି ଆଡ଼ିବ କେ ଫୁଲବାଣେ ଛାତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଦକୁ ପୁରନ୍ଦରର । କରିଦେବି କରି ଛାର ।",
+          "ନିତି ନିତି ତା ସୁରତେ ସତେ ମାତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତେଜିଣ କୋଣ ଚାହାଣୀ । ପୀୟୂଷ ମଧୁର ବାଣୀ ।",
+          "ସହିବ କେ କାମରାଜ ଝଳି କାତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କରି ଗାଢ଼େ ପରିରମ୍ଭ । ତା ଅଧର ପକ୍ୱବିମ୍ବ ।",
+          "ପିଉଥିବି ପାହିଯିବା ଯାଏ ରାତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବୋଲେ ବସୁଦୁର୍ଗପତି । ଧ୍ୟାନ କରି ତା ମୂରତି ।",
+          "ନାମ ଭଜନରେ ବ୍ରତୀ ହେବି ଯତିକି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/arajibi-pache-jana-apakhyatiki-go/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
