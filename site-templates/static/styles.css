@@ -6,8 +6,8 @@
   --color-bg-card: #FFFFFF;
   --color-text: #1A1714;
   --color-text-muted: #4A403A;
-  --color-link: #2a5bc0;
-  --color-link-hover: #1f3f80;
+  --color-link: #9c472f;
+  --color-link-hover: #7a3624;
   --color-outline: #7e7576;
   --color-rule: #D8D0C4;
   --color-accent: #febb54;
@@ -32,8 +32,8 @@
     --color-bg-card: #26292a;
     --color-text: #f0f1f2;
     --color-text-muted: #c9c5c6;
-    --color-link: #9cbcff;
-    --color-link-hover: #c6d8ff;
+    --color-link: #f0a084;
+    --color-link-hover: #f7c3ae;
     --color-outline: #8f8788;
     --color-rule: #4a4344;
   }
@@ -44,8 +44,8 @@
   --color-bg-card: #26292a;
   --color-text: #f0f1f2;
   --color-text-muted: #c9c5c6;
-  --color-link: #9cbcff;
-  --color-link-hover: #c6d8ff;
+  --color-link: #f0a084;
+  --color-link-hover: #f7c3ae;
   --color-outline: #8f8788;
   --color-rule: #4a4344;
 }
@@ -263,7 +263,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 .site-footer__inner p { margin: 0; max-width: var(--max-prose); }
 .site-footer__logo { display: block; height: 24px; width: auto; }
-.site-footer a { color: #9cbcff; }
+.site-footer a { color: #f0a084; }
 .site-footer a:hover { color: #FFFFFF; }
 .site-footer a:focus-visible { outline-color: #FFFFFF; }
 
