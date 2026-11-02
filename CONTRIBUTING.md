@@ -87,6 +87,31 @@ Check the list of sources on the site first. If the source is already there, cit
 
 The source gets its own page, with a BibTeX entry and a list of every record that cites it.
 
+## Writing an archival note
+
+An archival note is a formal note on a record, such as a doubt about who a poet was. It shows under its own heading, below the record's details. Add it to any record as `archival_note`:
+
+```json
+"archival_note": {
+  "en": "First paragraph [@oa-source-000002, 12-14].\n\nSecond paragraph.",
+  "by": ["oa-person-000012"]
+}
+```
+
+- Leave a blank line (`\n\n`) between paragraphs.
+- Citations come from the sources already in the archive. Each source page shows a citation code, such as `[@oa-source-000002]`, with a copy button.
+- Copy the code and paste it into your text where the reference belongs.
+- Add pages after a comma: `[@oa-source-000002, 12-14]`.
+- This is the citation form that Zotero and Pandoc users already know.
+- Only sources can be cited. If the source is not in the archive yet, add it first (see "Add a new source").
+- `by` names the people who wrote the note. Use `or` for an Odia version.
+
+The page numbers each citation and lists the sources under the text. The check stops a citation that is not a source.
+
+## Merging two records
+
+When two records turn out to be the same person or work, keep one. Move any names, sources and links from the other record into it. Then delete the other file. Ids are not final until the archive has ARKs, so no page is kept at the old address.
+
 ## Withdrawing a record
 
 Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to the list in `data/tombstones.json`. Create that file if it is not there yet. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
