@@ -8,7 +8,9 @@
       "or": "କବିରାଜ"
     },
     "alternates": [
-      "Kabiraj Jayadeb"
+      "Kabiraj Jayadeb",
+      "Jayadeba",
+      "Jayadeb"
     ]
   },
   "roles": [
@@ -18,6 +20,10 @@
     {
       "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/poets/kaviraja-jayadeva-kabiraja-jayadeba-gitagobinda-gitagovinda/"
+    },
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/poets/jayadeba/"
     }
   ],
   "record_status": "active",
