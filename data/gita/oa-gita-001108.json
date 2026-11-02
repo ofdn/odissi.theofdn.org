@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-001108",
+  "name": {
+    "en": "Sangini swami gale bidesa",
+    "or": "ସଙ୍ଗିନୀ ସ୍ୱାମୀ ଗଲେ ବିଦେଶ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000184"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-swami-gale-bidesa-bhanja-chinta-mukhari-prositabhartruka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରୋଷିତଭର୍ତ୍ତୃକା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଙ୍ଗିନୀ ସ୍ୱାମୀ ଗଲେ ବିଦେଶ",
+          "ସରିଲାଣି ମୋର ନବ ବୟସ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଙ୍ଖୁଳି କି ଖଳ ଧାରା ଏ କାଳେ",
+          "ଦେଲା ଏକାକୀ କ୍ଳେଶ",
+          "ସଦନ ବନ ଚନ୍ଦନ ଘନସାର",
+          "ତ ଦିଶେ ଅଗ୍ନି ସଦୃଶ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଫଲ ମାଧବୀ ମଲ୍ଲୀ କୋକିଳେ",
+          "ପୁଣି କଲେ ନିର୍ଘୋଷ",
+          "ସୁଦର୍ପ ହୋଇ କନ୍ଦର୍ପ ନିଶ ଧରଇ",
+          "ମାରି ନେବ କି ଯଶ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଙ୍କଟ ଏଣୁ ପ୍ରକଟ ବଳିଗଲାଣି",
+          "ପରା କଣ୍ଟ ଦିବସ",
+          "ସରସ ଚିତ୍ତେ ମୋର ରସ ନ ପଡ଼ିଲା",
+          "କି ପୂରୁଛି ବରଷ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସନ୍ଦେଶ ନେଇ ସେ ଦେଶେ ଯାଇ କେ",
+          "ପୁଣି ଆଣି ଦିଅନ୍ତା ଈଶ",
+          "ରଚେ ବୀରବର ଏ ଗୀତେ ପ୍ରୋଷିତ",
+          "ଭର୍ତ୍ତୃକାର ବିରସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-swami-gale-bidesa-bhanja-chinta-mukhari-prositabhartruka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

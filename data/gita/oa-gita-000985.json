@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000985",
+  "name": {
+    "en": "Kie pakaila kama nate",
+    "or": "କିଏ ପକାଇଲା କାମ ନଟେ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000120"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kie-pakaila-kama-nate-bangala-upendra-bhanja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କିଏ ପକାଇଲା କାମ ନଟେ ଗୋ କି କପଟେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋହନ ଚାତୁରୀ କତୁରୀ ମୁହିଁ ଡରି",
+          "ସଖୀ ସଙ୍ଗେ ବାହାର ନୁହଇ",
+          "କାହୁଁ କାହ୍ନୁ କେତେ କପଟ ଜାଣଇ",
+          "ମିଳେ ମୋ ସ୍ନାନ ଜଳଘାଟେ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଖଣ୍ଡ ଦୂରେ ଯାଇ ଜଳରେ ପଡ଼ଇ",
+          "ବୁଡ଼ିଲି ବୋଲି ବୋଲୁଥାଇ",
+          "ହୃଦୟ ନ ସହି ଆହା ମୁଁ ମରଇ",
+          "ଛଡ଼ା କୁସୁମ ଲମ୍ପଟେ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖିଲେ ମୋହର ଚରଣ ଧୂଳିକି",
+          "ବୋଳି ଦେଉଥାଇ ହୃଦୟ ସ୍ଥଳୀକି",
+          "ଭାଳି ବସିଥାଇ କାଇଞ୍ଚମାଳୀକି",
+          "ଲେଖିଥିଲା ମୋ ଲଲାଟେ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସ୍ତିରୀ ଛାରଠାରେ ଏଡ଼ିକି କପଟ",
+          "ଏକାନ୍ତରେ ନିଶ୍ଚେ କରାଇବି ଭେଟ",
+          "ବୋଲେ ଉପଇନ୍ଦ୍ର ମୁରଲୀର ନଟ",
+          "ଶୁଣିଲି କର୍ଣ୍ଣପୁଟେ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kie-pakaila-kama-nate-bangala-upendra-bhanja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

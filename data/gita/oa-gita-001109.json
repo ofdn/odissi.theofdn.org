@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001109",
+  "name": {
+    "en": "Sangata swami mo bidesa jibara",
+    "or": "ସଙ୍ଗାତ ସ୍ୱାମୀ ମୋ ବିଦେଶ ଯିବାର"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000158"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangata-swami-mo-bidesa-jibara-bhanja-ghantaraba-prosita-patrika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରୋଷିତ ପତ୍ରିକା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଙ୍ଗାତ ସ୍ୱାମୀ ମୋ ବିଦେଶ ଯିବାର",
+          "ସ୍ୱଉପାୟେ ବିଘ୍ନ କଲି ଅତିବିଜ୍ଞ ପୁଂସବର ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁମଙ୍ଗଳ କୁମ୍ଭେ ସଖୀ ସହକାରୀ ଶାଖା ଦେଖି",
+          "ଷଟପଦ ମାଳାଏ ଲେଖି ସଜଳ କଲି ଯେ ଆଖି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସତଣ୍ଡୁଳ କରେ ଯାଇଁ ସୂତକ ଶୁଭେ ଦେଖାଇ",
+          "ସ୍ୱେଦ ଅଙ୍ଗ ତାତି ପାଇ ସେହି ଗଲା ଅନ୍ୟ ହୋଇ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶାଢ଼ୀ ଶେଷୁଁ ନବ ଗଣି ସେ ଦଶି ଛିଣ୍ଡାଇ ପୁଣି",
+          "ସମର୍ପି ଦଶନେ ପାଣି ସ୍ମିତେ ଚାହିଁଲେ ସେକ୍ଷଣି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସମ୍ଭୂତ କଲି କି ପ୍ରୀତି ଶ୍ୱାସକୁ ତେଜି ଝଟତି",
+          "ସେ ଭାବ ତାଙ୍କ ପ୍ରତୀତି ସୁମରନ୍ତେ ରତିପତି ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ସହନ୍ତି କେହି ଅନ୍ତର ସରନ୍ତା ଗରବ ମୋର",
+          "ସର୍ଜେ ରୀତି ବୀରବର ସ୍ପଷ୍ଟ ପ୍ରୋଷିତ୍ପତ୍ରିକାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangata-swami-mo-bidesa-jibara-bhanja-ghantaraba-prosita-patrika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "oa-gita-001439",
+  "name": {
+    "en": "Chandramukhi ki range",
+    "or": "ଚନ୍ଦ୍ରମୁଖୀ କି ରଙ୍ଗେ"
+  },
+  "composer": "oa-person-000023",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandramukhi-ki-range/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "(ଘୁଡ଼ୁକି ଚୌପଦୀ)"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚନ୍ଦ୍ରମୁଖୀ କି ରଙ୍ଗେ ଉଭା ହୋଇଥିଲା ରେ",
+          "ସାରଙ୍ଗନୟନୀ ସାରଙ୍ଗଗମନୀ",
+          "ଶାରୀ ଗୋଟିଏ ପଢ଼ାଉଥିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏକ ଗୋଟି କୁସୁମହାର, ସେ ଫୁଲର ହାର",
+          "ଧରିଥିଲା ନାଗରୀବର, ସେ ଚାରିଅକ୍ଷର",
+          "ମୁଁ ବୋଇଲି ତାକୁ ବେନି ଭାଗ କର",
+          "ପ୍ରାନ୍ତ ଭାଗ ପାଇଁ ରସି ମଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋରେ ନୁହଁ ନିଷ୍ଠୁରମତି, ଗୋ ନିଷ୍ଠୁରମତି",
+          "ଅନୁସରି ରହିବି କତି, ରେ ତୋ ପାଶେ ନୀତି",
+          "ହରିଣନୟନୀ ହେଳା କଲେ ପୁଣି",
+          "ଆଦ୍ୟଭାଗ ଦିଅ ମୋର ଗଳାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandramukhi-ki-range/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

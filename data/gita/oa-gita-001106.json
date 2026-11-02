@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001106",
+  "name": {
+    "en": "Rama range mote thare",
+    "or": "ରାମା ରଙ୍ଗେ ମୋତେ ଥରେ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000005"
+  ],
+  "mula_tala": [
+    "oa-tala-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rama-range-mote-thare-rasapanchaka-kaphi-bhanja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବାନୁରାଗ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରାମା ରଙ୍ଗେ ମୋତେ ଥରେ ଥରେ ଅନାଉରେ",
+          "ରହି ମୁଁ ଚାହିଁଲେ ତ ନ ଅନାଉରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରତି ପ୍ରାଣପତି ବାଣ ମୋର ଈକ୍ଷଣ ତୀକ୍ଷଣ",
+          "ଏଥୁଁ କେ ବଡ଼ ବୋଲି କି ଘେନାଉରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାଜୀବ ମୃଗ ଖଞ୍ଜନ କବି କରନ୍ତି ସମାନ",
+          "ତାକୁ କି ଜଗତଯାକେ ଚିହ୍ନାଉରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରଞ୍ଜନ ନୟନା ଠାର ଗୁପତ ତହିଁ କୁଠାର",
+          "ଯୁବା ଦମ୍ଭ ତରୁ କିବା ଛିନ୍ନାଉରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ରସାଳସା ରୁରୁଦୃଶା ନାହିଁ ନାହିଁ ମୋ ଭରସା",
+          "ବୋଲିବାକୁ ମୋର ସ୍ନେହ ଜନ୍ମାଉରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ରସେ ଭାଷେ ବୀରବର ବାଳା କଲା ସୀଉକାର",
+          "ହସି ଯେ ନାଗର ମନ ମନାଉରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rama-range-mote-thare-rasapanchaka-kaphi-bhanja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

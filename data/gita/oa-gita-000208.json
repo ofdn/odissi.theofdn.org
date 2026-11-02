@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000208",
+  "name": {
+    "en": "Ana re mina nayana pheri",
+    "or": "ଅନାରେ ମୀନନୟନା ଫେରି"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000005"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-re-minanayana-pheri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନାରେ ମୀନନୟନା ଫେରି",
+          "ସୁନାଗରୀମଣି ସୁନା ଚମ୍ପାଗୋରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହସିବାରୁ ସୁଧା ଖସିବା ଉରେ",
+          "ବାସ ଅଞ୍ଚଳ ଢାଙ୍କିଛୁ ମୁଖରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଉଡ଼ିଯିବା ପାଇଁ ନେତ୍ର ଖଞ୍ଜନ",
+          "ଅଠା କରି ଲଗାଇଛୁ ଅଞ୍ଜନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କଟାକ୍ଷ ଚାଳି କାଣ୍ଡ ମୋତେ ମାରି",
+          "କି ଦେବୁଟି ବେଗେ ବାହାର କରି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୋହ ଠାରେ ଅନୁରାଗ ବହିଲୁ",
+          "ହେମ ଚୁମକ ମଣି ଲଗାଇଲୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୋଲେ ଯୁବରାଜ ନବକିଶୋରୀ",
+          "ତୋ ଦୟା ନୋହିଲେ ଗଲିଟି ସରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-re-minanayana-pheri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
