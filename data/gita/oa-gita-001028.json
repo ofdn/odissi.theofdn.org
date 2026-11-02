@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-001028",
+  "name": {
+    "en": "Ki karibi kaha go sajani",
+    "or": "କରିବି କହ ଗୋ ସଜନୀ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000031"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-karibi-kaha-go-sajani-baradi-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି କରିବି କହ ଗୋ ସଜନୀ ଏବେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କି କରିବି କହ ଏବେ ନ କଲେ କରୁଣା ଯେବେ",
+          "ଅଟକେ ରହିଲେ କି ଗୋ ସେ କେଉଁ ରମଣୀ ଭାବେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସକଳ ବିଷୟ ତେଜି ଅକପଟେ ଥିଲି ଭଜି",
+          "ମୁଁ କରି ନାହିଁ ତ ଦୋଷ ନିକର କହୁଛି ଆଜ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କଳପ ସୁକୃତ ପଦତଳରେ ରହିବ ଆସି",
+          "ଜଳପିଲେ ପଦେ ସେହି ତଳପ ଉପରେ ବସି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମଦନ ଶରରେ କେତେ କଦନ ମତେ ସେ ଦେଲେ",
+          "ସଦନେ କାଅହର ରହି ବଦନ ନ ଦେଖାଇଲେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବି ସୁଧାନିଧି ଭଣି ଏ ବିରସ ବାଣୀ ଶୁଣି",
+          "ଅବିଳମ୍ବେ ଦୂତୀ ବୋଲେ ଯିବି ମୁଁ ତାହାଙ୍କୁ ଆଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-karibi-kaha-go-sajani-baradi-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

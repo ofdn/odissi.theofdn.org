@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-001013",
+  "name": {
+    "en": "Sayane swapane disuchi sehi",
+    "or": "ଶୟନେ ସ୍ୱପନେ ଦିଶୁଛି ସେହି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sayane-swapane-disuchi-sehi-suratha-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶୟନେ ସ୍ୱପନେ ଦିଶୁଛି ସେହି",
+          "ସତେ କି ରୂପ ଦେଖିଲି ସହି ଯମୁନା କୂଳକୁ ଯାଇ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅକଥିତ ତା ଚରିତ ଅଲଙ୍ଘ୍ୟ ପତିବରତ",
+          "କରିପାରଇ ସେ ହତ ନେତ୍ରାନ୍ତ ନଚାଇ",
+          "ଆହୁରି ଅନ୍ୟାୟ ରୀତି କରଇ ସେ ନିତି ନିତି",
+          "ମନ ଧନ ଯତନରେ ଥିଲେହେଁ ଲୁଚାଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚାହିଁଲେ ଆନ ନ ଦିଶେ ଦିଶେ ତା ବହନ ଦିଶେ",
+          "ନୟନ ବୁଜିଲେ ଅନ୍ତରେ ପ୍ରକାଶୁଛି",
+          "କା ଆଗେ କହିବି ମିତ କେ ଏହା କରିବ ସତ",
+          "ବାହାରେ ଭିଡ଼ିବାକୁ ସେ ବାହାରେ ଆସୁଛି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯିବି ମୁହିଁ ଯେଣେ ଯେଣେ ଦିଶୁଛି ସେ ତେଣେ ତେଣେ",
+          "ଆଗେ ଆଗେ ରହି ରହି ପଥ ଓଗାଳୁଛି",
+          "କି ଗୋ ମା ଏ କି ବଷମ କରିବା ଗୋ କି କରମ",
+          "ତା ଆଚରଣେ ଚରଣ ପଦେ ନ ଚଳୁଛି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯେତେକେ ହେଲେ ନିବର୍ତ୍ତି ରହିବି ବୋଇଲେ ଦୂତୀ",
+          "ପୁନରପି ଦେଖିବାକୁ ନେତ୍ର ତ ଝୁରୁଛି",
+          "ରାଧା ଦୂତୀ ହେବା ବାଣୀ ଶୁଣି ରଘୁନାଥ ଭଣି",
+          "ରାଧିକେ ଏଥୁ ଅଧିକେ ତତେ ସେ ଝୁରୁଛି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sayane-swapane-disuchi-sehi-suratha-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

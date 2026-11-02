@@ -1,0 +1,91 @@
+{
+  "id": "oa-gita-001012",
+  "name": {
+    "en": "Durare raha he jara",
+    "or": "ଦୂରରେ ରହ ହେ ଜାର"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000063"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/durare-raha-he-jara-kisora-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଦୂରରେ ରହ ହେ ଜାର କିଶୋର",
+          "ନ ଛୁଅଁ ଶ୍ରୀଅଙ୍ଗ ରାଜସୁତାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ମର ତରଙ୍ଗିଣୀ ଭାବରେ ମଜ୍ଜି",
+          "ମୋ ମନ କଳ୍ମଷ ଦେବି ମୁଁ ତେଜି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯାଅ ହେ ଚନ୍ଦ୍ରାବଳୀ କେଳିକୁରଙ୍ଗ",
+          "ତୁମ୍ଭକୁ ମିଳିବ କି ଶ୍ରୀ ରାଧା ସଙ୍ଗ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରାଧା ଶ୍ରୀମୁଖ ସୁଧାନିଧି ଲୋଭରେ",
+          "କୁରଙ୍ଗ ହୋଇଛି ମୁଁ ଜାଣ ଭାବରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପରବଧୂକୁ ଏବେ ଛୁଇଁବ ଯେବେ",
+          "ରାଜା କରରେ ଦଣ୍ଡ ଲଭିବ ତେବେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବାହୁପାଶରେ ବାନ୍ଧି ନଖ ରଦ ଘାତେ",
+          "ଦଣ୍ଡ ଦେବାକୁ ଥିଲେ ଦଣ୍ଡ ଦିଆ ତ ମୋତେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଏପରି କଉତୁକେ କେଳିକି ବିହି",
+          "ଅଶୋକ କୁଞ୍ଜରେ ସଙ୍କେତ ଦେଇ"
+        ]
+      },
+      {
+        "n": 8,
+        "lines": [
+          "ଯେ ଯାହା ମନ୍ଦିରେ ପ୍ରବେଶ ହେଲେ",
+          "ଏ ଭାବ ଚିନ୍ତି ଦ୍ୱିଜ ରଘୁନାଥ ବୋଲେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/durare-raha-he-jara-kisora-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

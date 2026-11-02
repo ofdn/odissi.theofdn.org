@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000366",
+  "name": {
+    "en": "Na ja jamuna rajiba kanja nayana",
+    "or": "ନ ଯା ଯମୁନା ରାଜୀବ କଞ୍ଜନୟନା"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-ja-jamuna-rajiba-kanja-nayana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାଜୀବ କଞ୍ଜନୟନା",
+          "ନ ଯା ଯମୁନାରେ ନ ଯା ଯମୁନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୃଷ୍ଣ କଳା ଭ୍ରମର କୁଞ୍ଜକୁଟୀ ଭିତର",
+          "ଝାମ୍ପି ନେବଟି ନ ଯା ଯମୁନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କହିବା ସଖୀ ବାଣୀ ଅହିତ ପରା ମଣି",
+          "ରସିକାଶ୍ରେଣୀ ନ ଯା ଯମୁନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ଧୂର୍ତ୍ତ ପୀତପଟ ଜାଣଇ କେତେ କୂଟ",
+          "ଜଗିଛି ଘାଟ ନ ଯା ଯମୁନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହଇ ରଘୁନାଥ ଯେ ତୋର ମନୋରଥ",
+          "ସାର୍ଥ ହେବଟି ନ ଯା ଯମୁନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-ja-jamuna-rajiba-kanja-nayana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001027",
+  "name": {
+    "en": "Kahinki e kunja banaku",
+    "or": "କାହିଁକି ଏ କୁଞ୍ଜ ବନକୁ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000017"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-e-kunja-banaku-ahari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "କାହିଁକି ଏ କୁଞ୍ଜ ବନକୁ ଆସିଲି",
+          "ସଙ୍ଗିନୀରେ ସହିଲି ଏ ଦୁଃଖ ଭାସିଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁଧାକର ଆସି ଉଦୟ ହୋଇଲା",
+          "ଉଦ୍ଧାର ହୋଇବା ପଥ ନ ଦିଶିଲା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ଯେହୁ ସଙ୍କେତ ଦେଇ ନ ଆସିଲେ",
+          "ମୋ ଯଉବନକୁ ଅକାରଣ କଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଦନରେ ସୁଖେ କାଳ ବଞ୍ଚୁଥିଲି",
+          "ମଦନ କରରେ ଏବେ ମୁଁ ପଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବି ସୁଧାନିଧି ରଘୁନାଥ ବୋଲେ",
+          "ଏ ବିଚ୍ଛେଦ ଯିବ ମୋହନ ଆସିଲେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-e-kunja-banaku-ahari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

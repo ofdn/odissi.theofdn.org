@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001011",
+  "name": {
+    "en": "Madhu samaya prabesa",
+    "or": "ମଧୁ ସମୟ ପ୍ରବେଶ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/madhu-samaya-prabesa-kalyana-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ମଧୁ ସମୟ ପ୍ରବେଶ ମନୋହର ବନ ଦେଶ",
+          "ମଧୁର ମଧୁ ଲୋଭରେ ମଧୁପେ ହୋଇଲେ ବଶ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କିଶଳୟ ବିଟପିରେ କି ନ କରେ ବିଟପିରେ",
+          "ଅଶନ କରି ବକୁଳ ଅଥିର କୋକିଳ କରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିରହୀ ବିରହିଣୀରେ ବିକଳ ଅଧିକତରେ",
+          "ସ୍ମର ମାରଇ ଶରରେ ସ୍ମରଣ ନ ରଖେ ଧୀରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କୁସୁମ ବାସ ସମୀର ଘେନି ବହେ ଧୀର ଧୀର",
+          "କି ସୁଖ ଜାତ ନ କରେ କାନ୍ତ ସହିତା କାନ୍ତାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବି ସୁଧାନିଧି ଭଣି କମନୀୟ ଶ୍ୟାମ ଗୁଣି",
+          "ଅବିଳମ୍ବେ ପରବାସୁ ଆସିଲେ ରସିକଶ୍ରେଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/madhu-samaya-prabesa-kalyana-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

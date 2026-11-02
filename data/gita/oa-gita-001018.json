@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001018",
+  "name": {
+    "en": "Kete kahithile ma",
+    "or": "କେତେ କହିଥିଲେ ମା"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kete-kahithile-ma-ete-sari-mukhari-mukhabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "କେତେ କହିଥିଲେ ମା ଏତେ ସରି କରିଦେଲେ ମା",
+          "ସତେ ସେ ଆସିବେ ବୋଲି ଚିତ୍ତେ ତୋଷ ହୋଇଥିଲି",
+          "ହିତେ ତାଙ୍କୁ ଗଣିଥିଲି ପ୍ରତେ କରି ମୁଁ ଭାଷିଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦୂରେକଲେ ମା ସେ ରସିକ ପାଶୋରିଲେ ମା",
+          "ବାରୁଁ ବାର ଫୁଲଶର ଶର କରଇ ପ୍ରହାର",
+          "ଭାର ଦେଲାନି ସୁଚିର ମୋର କି ଗତି ଏଥର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଶା ଚାହିଁ ମା ନିଶାଯାକ ଥିଲା ରହି ମା",
+          "କଷା ନ କରି ନୟନ ଆଶା କରି ହେଲି ହୀନ",
+          "ହସାଇ ବଇରୀ ଜନ ଭସାଇଲେ ଶ୍ୟାମଘନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସବିକଳରେ ଭାବି ରାଧା କହୁଁ ଦୂତୀରେ",
+          "କବିଚନ୍ଦ୍ର ରଘୁନାଥ ଅବିଳମ୍ବେ କହେ ସତ",
+          "ସେ ବିଜୟ କରିବେ ତ ଏ ବିଚ୍ଛେଦ ଯିବେ ମିତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kete-kahithile-ma-ete-sari-mukhari-mukhabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

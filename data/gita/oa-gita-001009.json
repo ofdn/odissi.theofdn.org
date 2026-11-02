@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-001009",
+  "name": {
+    "en": "Bande bandeham",
+    "or": "ବନ୍ଦେ ବନ୍ଦେଽହଂ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000047"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bande-bandeham-malaba-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବନ୍ଦେ ବନ୍ଦେଽହଂ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବନ୍ଦେ ଶ୍ରୀଗୁରୁ ବନଜ ଚରଣକୁ",
+          "ଗୁରୁଙ୍କୁ ବୈଷ୍ଣବ ବୃନ୍ଦଙ୍କୁ",
+          "ରୂପ ସହିତ ସନାତନ ଚରଣ",
+          "ଭଟ୍ଟ ରଘୁନାଥ ଜୀବଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିରନ୍ତରେ ଗୋପାଳ ଭଟ୍ଟ",
+          "ଶ୍ରୀପଦକୁ ରଘୁନାଥ ଦାସଙ୍କୁ",
+          "ଅଦ୍ୱୈତ ନିତ୍ୟାନନ୍ଦଗଣ",
+          "ଶ୍ରୀକୃଷ୍ଣ ଚୈତନ୍ୟ ଦେବଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବନ୍ଦେ ଶ୍ରୀ ରାଧାକୃଷ୍ଣ ପଦଯୁଗ",
+          "ଲଳିତା ସହ ବିଶାଖାଙ୍କୁ",
+          "ତୁଙ୍ଗବିଦ୍ୟା ସହିତ ସଖୀବୃନ୍ଦାଦି",
+          "ବୃନ୍ଦାରଣ୍ୟକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯୁଗଳ କଣ୍ଡଳକୁ ଯମୁନା ପୁଳିନକୁ",
+          "ରାସସ୍ଥଳୀ ନୀପମୂଳକୁ",
+          "ଧ୍ୟାୟେ ରଘୁନାଥ ବଂଶୀବଟ",
+          "ଗୋପାଳ ଗୁରୁଙ୍କ ନିବାସକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bande-bandeham-malaba-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

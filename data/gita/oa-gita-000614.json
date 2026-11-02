@@ -1,0 +1,91 @@
+{
+  "id": "oa-gita-000614",
+  "name": {
+    "en": "Aau bata ogali",
+    "or": "ଆଉ ବାଟ ଓଗାଳି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000063"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-bata-ogali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଉ ବାଟ ଓଗାଳି",
+          "ହଟ ନ କର ବନମାଳୀ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହେଲା ଉଚ୍ଛୁର ଯିବି ଏଥର",
+          "ପୂଜିବି ମୁଁ କରମାଳି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏ ଟାପରାକୁ ସହି ଯିବାକୁ",
+          "ମୁଁ ନୁହଁଇ ଚନ୍ଦ୍ରାବଳୀ ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଦ୍ମାଦି ସହି ଦେଖି ନ ସହି",
+          "ଦେବେ ସିନା କରତାଳି ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏପରି ଗେଲେ ଅଟକ କଲେ",
+          "ରହିବେ କି ସଙ୍ଗ ଅଳି ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିଶା ମୁଖରେ ନ ଗଲେ ପୁରେ",
+          "ଶାଶୁ ହେବେ ସିନା ଚଳି ହେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଭଙ୍ଗୀ ତୁମ୍ଭର ଦେଖିଲେ ମୋର",
+          "ପଦ ହେଉ ନାହିଁ ଚାଳି ହେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "କହେ ରଘୁନାଥ କବି ନିଶାନାଥ",
+          "ଧ୍ୟାଇ ରାଧା କୃଷ୍ଣ କେଳି ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-bata-ogali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

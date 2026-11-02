@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000613",
+  "name": {
+    "en": "Matile hari radha sange",
+    "or": "ମାତିଲେ ହରି ରାଧା ସଙ୍ଗେ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000158"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/matile-hari-radha-sange-ghantaraba-raghunatha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମାତିଲେ ହରି ରାଧା ସଙ୍ଗେ",
+          "ମୋଦରେ ହୋରିରେ ରଙ୍ଗରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚୂଆ ଚନ୍ଦନ ଅତର ଗୁଲାଲକୁ",
+          "ଜୋରରେ ବୋଳି ବୋଳି ଅଙ୍ଗରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୁଞ୍ଜେ କୁଞ୍ଜେ ସୁରସରେ ବିହରିଲେ",
+          "ରଞ୍ଜନେ ମଦନ ତରଙ୍ଗରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନାଗରୀ କିଶୋରୀଙ୍କି ବାମ ଭାଗେ ରଖି",
+          "ନାଚିଲେ ମଧୁର ତ୍ରିଭଙ୍ଗୀରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦୁହେଁ ଦୁହିଁଙ୍କି ମାନସ ତୋଷିଲେ",
+          "ମୋହନ ଲଳିତ ଭ୍ରୂଭଙ୍ଗୀରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ରଘୁନାଥ କବି ନିଶାନାଥ",
+          "କୃଷ୍ଣ ଚରିତ ସୁପ୍ରସଙ୍ଗରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/matile-hari-radha-sange-ghantaraba-raghunatha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001021",
+  "name": {
+    "en": "Ehi pari se kale rajani",
+    "or": "ଏହିପରି ସେ କଲେ ରଜନୀ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000047"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-pari-se-kale-rajani-malaba-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଏହିପରି ସେ କଲେ ରଜନୀ",
+          "ଏହା ସହିବି କି ମୁଁ ପ୍ରାଣସଜନୀ",
+          "କହିଥିଲି ସେ ଯେତେ ରହିଲା ନାହିଁ ସତେ",
+          "ବିହି କାହିଁ ରତିରସ ମୋହିଲେ ନାହିଁ ମୋତେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖି ମଦନ ଏହି ରତିକି",
+          "ଶର ଯୋଖି ନିରତେ ମୋର ଛାତିକି",
+          "ଲେଖି ଲେଖି ବିନ୍ଧିବ ରଖି ସେ ତ ନ ଦେବ",
+          "ଅଖିଳ ସୁଖକୁ ଉପେକ୍ଷିବା ମତି ହେବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜଗାଇ ମୋତେ ସଙ୍କେତରେ",
+          "ଏବେ ଦଗା ଦେଲେ ମାତି ସେ ଇତରେ",
+          "ଅଗାରୁ ଅଣାଇ ଲଗାଇ ସ୍ନେହ ସହୀ",
+          "ଲଗାଲଗି କଥାରେ ଭଗାରି ହସାଇ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କବିଚନ୍ଦ୍ର ରଘୁନାଥ ଏ ବାଣୀ",
+          "କହେ ଏ ବିରସ ରୀତିକି ଶୁଣି",
+          "ଅବିଳମ୍ବରେ ଏବେ ସେ ବିଜୟ କରିବେ",
+          "ନବୀନା ତୋ ସଙ୍ଗେ ସେ ବିଶେଷେ ରଖିବେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-pari-se-kale-rajani-malaba-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
