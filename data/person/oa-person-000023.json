@@ -3,6 +3,10 @@
   "name": {
     "en": "Upendra Bhanja",
     "or": "ଉପେନ୍ଦ୍ର ଭଞ୍ଜ",
+    "title": {
+      "en": "Kabi Samrata",
+      "or": "କବି ସମ୍ରାଟ"
+    },
     "alternates": [
       "Kabi Samrata Upendra Bhanja Birabara"
     ]
@@ -19,5 +23,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

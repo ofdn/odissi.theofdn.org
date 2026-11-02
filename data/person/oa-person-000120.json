@@ -2,7 +2,11 @@
   "id": "oa-person-000120",
   "name": {
     "en": "Harikrusna Raja",
-    "or": "ହରିକୃଷ୍ଣ ରାଜ"
+    "or": "ହରିକୃଷ୍ଣ ରାଜ",
+    "title": {
+      "en": "Raja",
+      "or": "ରାଜ"
+    }
   },
   "roles": [
     "composer"
@@ -16,5 +20,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

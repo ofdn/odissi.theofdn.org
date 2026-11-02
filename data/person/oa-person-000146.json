@@ -3,6 +3,10 @@
   "name": {
     "en": "Bahadur Prataparudra Singhdeo",
     "or": "ବାହାଦୁର ପ୍ରତାପରୁଦ୍ର ସିଂହଦେଓ",
+    "title": {
+      "en": "Bahadur",
+      "or": "ବାହାଦୁର"
+    },
     "alternates": [
       "Raja Bahadur Prataparudra Singhdeo"
     ]
@@ -21,5 +25,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

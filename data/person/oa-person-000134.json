@@ -2,7 +2,11 @@
   "id": "oa-person-000134",
   "name": {
     "en": "Dwija Bhobani",
-    "or": "ଦ୍ୱିଜ ଭୋବନୀ"
+    "or": "ଦ୍ୱିଜ ଭୋବନୀ",
+    "title": {
+      "en": "Dwija",
+      "or": "ଦ୍ୱିଜ"
+    }
   },
   "roles": [
     "composer"
@@ -16,5 +20,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }

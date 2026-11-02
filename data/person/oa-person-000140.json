@@ -3,6 +3,10 @@
   "name": {
     "en": "Gourachandra Gajapati",
     "or": "ଗୌରଚନ୍ଦ୍ର ଗଜପତି",
+    "title": {
+      "en": "Gajapati",
+      "or": "ଗଜପତି"
+    },
     "alternates": [
       "Gajapati Gourachandra Narayana Deba, Paralakhemundi"
     ]
@@ -19,5 +23,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-02"
 }
