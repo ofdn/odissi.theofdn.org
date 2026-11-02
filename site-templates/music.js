@@ -106,11 +106,38 @@ export function recordCitation(ctx, record, extra = {}) {
   };
 }
 
+const CITE = /\[@(oa-source-\d{6})(?:,\s*([^\]]+))?\]/g;
+
+// paragraphs with numbered citations, then the list they point to
+export function archivalNote(ctx, record) {
+  const lang = ctx.lang;
+  const p = pick(record.archival_note && { en: record.archival_note.en, or: record.archival_note.or }, lang);
+  if (!p) return "";
+  const cited = [];
+  const paras = p.text.split(/\n\s*\n/).map((para) => {
+    let html = "";
+    let last = 0;
+    for (const m of para.matchAll(CITE)) {
+      cited.push({ source: m[1], pages: m[2]?.trim() });
+      const n = cited.length;
+      html += `${escapeHtml(para.slice(last, m.index).trimEnd())}<sup><a href="#cn-${n}" id="cr-${n}">${n}</a></sup>`;
+      last = m.index + m[0].length;
+    }
+    return `<p>${html}${escapeHtml(para.slice(last)).trim()}</p>`;
+  });
+  const by = record.archival_note.by?.length ? `<p class="archival-note__by">${escapeHtml(t("archival_note.by", {}, lang))} ${people(ctx, record.archival_note.by)}</p>` : "";
+  const back = escapeHtml(t("archival_note.back", {}, lang));
+  const refs = cited.length ? `<ol class="archival-note__refs">\n${cited.map((c, i) => `<li id="cn-${i + 1}">${citation(ctx, c)} <a href="#cr-${i + 1}" aria-label="${back}">↑</a></li>`).join("\n")}\n</ol>` : "";
+  const text = `<div class="prose"${p.lang !== lang ? ` lang="${p.lang}"` : ""}>\n${paras.join("\n")}\n</div>`;
+  return section(t("archival_note.heading", {}, lang), `${text}\n${by}\n${refs}`, "archival-note");
+}
+
 function recordEnd(ctx, record, citation, citeAs, sources) {
   const lang = ctx.lang;
   const kind = record.id.split("-")[1];
   const note = pick(record.note, lang) ? `<p class="record-note">${localized(record.note, lang)}</p>` : "";
   return `${note}
+${archivalNote(ctx, record)}
 ${sourcesList(ctx, sources)}
 ${citationBlock(citation, lang, citeAs)}
 ${arkPermalink(record.id, lang)}

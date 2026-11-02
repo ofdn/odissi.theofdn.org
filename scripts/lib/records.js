@@ -42,6 +42,8 @@ function pointerPart(key) {
 export function* refs(value, path = "") {
   if (typeof value === "string") {
     if (ID_PATTERN.test(value)) yield { id: value, path };
+    // [@oa-source-000001] citations in an archival note
+    else for (const m of value.matchAll(/\[@([a-z]+-[a-z]+-\d{6})/g)) yield { id: m[1], path, cited: true };
   } else if (value && typeof value === "object") {
     for (const [key, v] of Object.entries(value)) {
       if (path === "" && key === "id") continue;

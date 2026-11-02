@@ -1,4 +1,4 @@
-import { escapeHtml, t, displayName, pageShell, countLabel, texEscape } from "./shared.js";
+import { escapeHtml, t, displayName, pageShell, countLabel, texEscape, COPY_ICON } from "./shared.js";
 import { recordPage, section, linkList, people, sortByName } from "./music.js";
 import { KINDS } from "../scripts/lib/config.js";
 
@@ -67,8 +67,10 @@ export default function source(record, ctx) {
     const list = citing.filter((r) => r.id.split("-")[1] === kind);
     return list.length ? `<h3>${escapeHtml(t(`kind.${kind}.plural`, {}, lang))}</h3>\n${linkList(ctx, list)}` : "";
   }).filter(Boolean);
+  const code = `[@${record.id}]`;
   const main = [
     record.contributing ? `<p>${escapeHtml(t("source.contributing_note", {}, lang))}</p>` : "",
+    `<p class="cite-code">${escapeHtml(t("source.cite_code", {}, lang))} <code>${code}</code> <button type="button" class="copy-id copy-icon-btn" data-copy="${code}" aria-label="${escapeHtml(t("source.cite_code_copy", {}, lang))}">${COPY_ICON}</button></p>`,
     section(t("source.cited_by", {}, lang), groups.join("\n"), "cited-by"),
   ].join("\n");
   return recordPage(ctx, record, {

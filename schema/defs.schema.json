@@ -215,6 +215,29 @@
         "note": {
           "$ref": "#/$defs/text"
         },
+        "archival_note": {
+          "description": "An archival note: a formal note on the record, shown under its own heading. Paragraphs are split by a blank line. Cite a source as [@oa-source-000001], with pages as [@oa-source-000001, 12-14]. by lists the people who wrote it.",
+          "type": "object",
+          "additionalProperties": false,
+          "minProperties": 1,
+          "properties": {
+            "en": {
+              "type": "string",
+              "minLength": 1
+            },
+            "or": {
+              "type": "string",
+              "minLength": 1
+            },
+            "by": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^oa-person-\\d{6}$"
+              }
+            }
+          }
+        },
         "sources": {
           "$ref": "#/$defs/sources"
         },

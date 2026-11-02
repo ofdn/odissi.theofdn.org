@@ -61,6 +61,7 @@ for (const { kind, file, record, error } of entries) {
     const target = kindOf(ref.id);
     if (!KINDS.includes(target)) errors.push(`${where}#${ref.path}: "${ref.id}" names an unknown kind "${target}"`);
     else if (!ids.has(ref.id)) errors.push(`${where}#${ref.path}: no ${target} record "${ref.id}"`);
+    else if (ref.cited && target !== "source") errors.push(`${where}#${ref.path}: [@${ref.id}] is not a source; cite a source id from its page`);
   }
 }
 
