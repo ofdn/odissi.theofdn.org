@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000186",
+  "name": {
+    "en": "Aja dekhili re nabina bayasi bala",
+    "or": "ଆଜ ଦେଖିଲିରେ ନବୀନବୟସୀ ବାଳା"
+  },
+  "composer": "oa-person-000023",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-dekhili-re-nabina-bayasi-bala/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଜ ଦେଖିଲିରେ । ନବୀନବୟସୀ ବାଳା ।",
+          "ପାଇଥାନ୍ତି ଯେବେ ଚନ୍ଦ୍ରବଦନୀକି",
+          "କରିଥାନ୍ତି ଗଳାମାଳା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୂରୁ ଦେଖି ମୋତେ କୁରଙ୍ଗୀନୟନା",
+          "ତରତର ହୋଇଗଲା",
+          "କାଖେ କୁମ୍ଭ ଘେନି ଲେଉଟି ଚାହାଁନ୍ତେ",
+          "ମଦନଶର ଦହିଲା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁନ୍ଦର କନ୍ଦର୍ପ ଦର୍ପଣ ପରାୟେ",
+          "ଝଟକୁଥିଲା ତା ମୁଖ",
+          "ଚାହିଁଲା ମାତ୍ରକେ କ୍ଷୟ ଗଲା ମୋର",
+          "ଅଙ୍ଗରୁ ଅନଙ୍ଗ ଦୁଃଖ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୋଟି କୋଟି ଶିବ ସେବା କରିଥିବ",
+          "ଯେ ଥିବ ଗଙ୍ଗାରେ ଧ୍ୟାୟି",
+          "କହେ ଉପଇନ୍ଦ୍ର କବିକୁଳଚନ୍ଦ୍ର",
+          "ତା ସଙ୍ଗ ଲଭିବ ସେହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aja-dekhili-re-nabina-bayasi-bala/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

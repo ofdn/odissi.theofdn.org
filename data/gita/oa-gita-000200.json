@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000200",
+  "name": {
+    "en": "Asi ghana kala hoila re",
+    "or": "ଆସି ଘନ କାଳ ହୋଇଲା ରେ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asi-ghana-kala-hoila-re-bhanja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆସି ଘନ କାଳ ହୋଇଲା ରେ",
+          "ଘନକେଶୀ ସଙ୍ଗ ନୋହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରହୀ ଏକାଳେ ବିରହୀ ହୋଇ",
+          "ବିଦେଶେ ରହିଲେ ମୋ ପ୍ରାଣସହି",
+          "ପର ପରା କରି ତା ମୁଖ ଚାହିଁ",
+          "ଭାଙ୍ଗି ବାଣୀ ତନୁ ଦହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସିଲା ବେଳକୁ ରମଣୀମଣି",
+          "ଧରି ନ ଛାଡ଼ିଲା ମୋ ବେନି ପାଣି",
+          "ଦିନ ସରିବ କି ତା ଗୁଣ ଗୁଣି",
+          "ଝୁରି ଝୁରି ନିଶି ପାହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚଉଷଠି ବନ୍ଧ ଜାଣେ ରମଣୀ",
+          "ଚତୁର୍ମାସ୍ୟା ଦେଖି ସରିଯିବଣି",
+          "ଆଳୀ ହୃଦୟରେ ଆଉଜିବଣି",
+          "ମାର ଶରେ ତନୁ ଦହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦାରୁଣ ପଣେ ଅଇଲି ପାଶୋରି",
+          "କାରୁଣ୍ୟ କଲେ କି ପାଇବି ଗୋରୀ",
+          "ଭଣେ ଉପଇନ୍ଦ୍ର ଭଞ୍ଜ ବିଚାରି",
+          "ବଇରାଗୀ ହେବି ବୋଇଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asi-ghana-kala-hoila-re-bhanja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

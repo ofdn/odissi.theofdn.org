@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000185",
+  "name": {
+    "en": "Sarosa heli sakhi mun hudili",
+    "or": "ସରୋଷ ହେଲି ସଖୀ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarosa-heli-sakhi-mu-hudili-bhanja-mukhari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କଳହାନ୍ତରିତା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସରୋଷ ହେଲି ସଖୀ ମୁଁ ହୁଡ଼ିଲି",
+          "ସଭରମ ହୋଇ କାନ୍ତେ କି କରମ କଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସାରହାର ସେ ତାହାର କଣ୍ଠରୁ କରି ବାହାର",
+          "ଗଳାରେ ଦେଉ ମୋହର କର ଫିଙ୍ଗିଦେଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସ୍ମରଶର ତେତେବେଳେ ସ୍ତନ ବିନ୍ଧିଲା ମୋ କୋଳେ",
+          "ଧରୁ ପଛେ କରି ତଳେ ଖସି ଯେ ବସିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସନ୍ତାପରୁ କି କାରଣ ବୋଲି ଧରି ମୋ ଚରଣ",
+          "ମାଗୁଥିଲେ ସେ ଶରଣ ଦେଲି କମ୍ପା ପେଲି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସେ ନିରାଶ ମୋର ଚାହିଁ ଯାଇ ନିଃଶ୍ୱାସ ପକାଇ",
+          "ଦ୍ୱାରେ ଦଣ୍ଡେ ଥିଲେ ରହି ତେବେ ନ ଚାହିଁଲି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ସୁରସେ ଉପେନ୍ଦ୍ର କହି କଳହାନ୍ତରିତା ଏହି",
+          "ବୋଲେ ବନ୍ଧୁକୁ ତୁ ସହି ନ ବୋଧିଲେ ମଲି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarosa-heli-sakhi-mu-hudili-bhanja-mukhari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

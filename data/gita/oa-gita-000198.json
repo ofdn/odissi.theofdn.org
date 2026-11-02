@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000198",
+  "name": {
+    "en": "Srimati sripati brundabane keli rachile",
+    "or": "ଶ୍ରୀମତୀ ଶ୍ରୀପତି ବୃନ୍ଦାବନେ କେଳି ରଚିଲେ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000055"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/srimati-sripati-brundabane-keli-rachile/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ରୀମତୀ ଶ୍ରୀପତି ବୃନ୍ଦାବନେ କେଳି ରଚିଲେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବୃନ୍ଦାବନ ଶୋଭାତରୁ ତରୁ ତଳେ କଳ୍ପତରୁ",
+          "ତରୁଣୀ ରତନତରୁ ତରଳାକ୍ଷୀ ମାତିଲେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସାରଙ୍ଗରଦ ପଲଙ୍କେ ସାରଙ୍ଗ ପଙ୍କିଳ ପଙ୍କେ",
+          "ସାରଙ୍ଗମୁଖୀ ସାରଙ୍ଗ ସାରଙ୍ଗରେ ମାତିଲେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କମଳ ଦେଶେ କମଳ କମଳେ କମଳ ମାଳ",
+          "କମଳମୁଖୀ କମଳ କମଳରେ ମାତିଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହରି ପରେ କରୀ ଘେନି ହରଷେ ମୃଗଲୋଚନୀ",
+          "ହରିରିପୁ ରିପୁହର ହର ସେବା ବାଞ୍ଛିଲେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଅଶେଷ ରସରେ ରସି ରସାଇ ରସିକ ରସି",
+          "ହରଷରେ ରସି ରସେ ଉପଇନ୍ଦ୍ର ଭାଷିଲେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/srimati-sripati-brundabane-keli-rachile/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

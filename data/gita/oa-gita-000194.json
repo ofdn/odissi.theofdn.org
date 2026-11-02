@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000194",
+  "name": {
+    "en": "Duti kahibu go chitta choranku eteka",
+    "or": "ଦୂତୀ କହିବୁ ଗୋ ଚିତ୍ତଚୋରାଙ୍କୁ ଏତେକ"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000068"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-kahibu-go-chitta-choranku-eteka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୂତୀ କହିବୁ ଗୋ",
+          "ଚିତ୍ତଚୋରାଙ୍କୁ ଏତେକ",
+          "ଗତ ସ୍ନେହ ହରି ଗଲେ ଦୂର କରି",
+          "ଚିତ୍ତ ହୁଏ ଦକଦକ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମନ୍ଦର ବେନି ମୋ ଉରରେ ଥିବାରୁ",
+          "ପନ୍ଦର ପଡ଼ିଲା ଶିରେ",
+          "ମଗା ପ୍ରୀତି ଦଗା ଜାଣି ମୁଁ ନଥିଲି",
+          "ଏକ ଦେଲେ ମୋ ମୁଖରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଛବିଶ ପଦରେ କେଉଁ କାର୍ଯ୍ୟ ଅବା",
+          "ଦୁଇ ଯେବେ ହେଲା ଦୂର",
+          "ଅନ୍ତର ଆଠ ପରାୟେ ଏଣିକି ମୁଁ",
+          "ତିନି କରାଅ ସତ୍ୱର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଧବ ସେବା ଦିନୁଁ ନବଯୌବନକୁ",
+          "ତାଙ୍କୁ ଭୋଗ କରାଇଲି",
+          "ଦୁଇ ପତି ଅରି ଆୟତ୍ତରେ ମୁଁ ଯେ",
+          "କେଡ଼େ ଦଶାକୁ ଲଭିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପଚାରିବୁ ଦୂତୀ ମୁଁ ପରା ତାଙ୍କର",
+          "ଏବେ କାହାର ହୋଇବି",
+          "ରସିକ ହୋଇଲେ ଏ ଭାବ ଜାଣିବେ",
+          "ଉପଇନ୍ଦ୍ର ଭଞ୍ଜ ଭାବି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-kahibu-go-chitta-choranku-eteka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

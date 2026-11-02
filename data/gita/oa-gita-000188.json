@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000188",
+  "name": {
+    "en": "E ghora barasa kale priya rasa",
+    "or": "ଏ ଘୋର ବରଷା କାଳେ ପ୍ରିୟା ରସା"
+  },
+  "composer": "oa-person-000023",
+  "mula_raga": [
+    "oa-raga-000004"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ghora-barasa-kale-priya-rasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ ଘୋର ବରଷା କାଳେ ପ୍ରିୟା ରସା",
+          "ରସ ଆଦରରେ ବସିଥିବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବନପତି ପତି ପତି ପରେ ଦୃଷ୍ଟି",
+          "ଦେଇଣ ସନ୍ତାପ କରୁଥିବ",
+          "ଗିରୀଶ ମଣି ସେ ଭାରା ନିବାରିଣୀ",
+          "ନେତ୍ର ଅମ୍ବୁଜରେ ମଣ୍ଡୁଥିବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁନାଶୀର ଧନୁ ଟଙ୍କାର ଶବଦେ",
+          "ଅବଳା ଚମକି ପଡ଼ୁଥିବ",
+          "ରବିସୁତ ପରେ ଇନ୍ଦ୍ର ବାହନକୁ",
+          "ଦେଇଣ ନିରୋଧ କରୁଥିବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିଷ୍ଣୁ ବାହନଙ୍କ ଅରି ଧରା ପରେ",
+          "ବସି ମୋ ସଙ୍ଗତେ କହୁଥିବ",
+          "ଘରର ଘରଣୀ ବାହନ ରିପୁ ଦନ୍ତ",
+          "ପଲଙ୍କ ତେଜ୍ୟା ସେ କରୁଥିବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଘୋର ବନେ ଦେଖି ବସେ ଚନ୍ଦ୍ରମୁଖୀ",
+          "ଚଉଦିଗକୁ ନିରେଖୁଥିବ",
+          "ଉପଇନ୍ଦ୍ର ଭଣି ସେ ମନମୋହିନୀ",
+          "ପିଣ୍ଡରେ କି ପ୍ରାଣ ରଖିଥିବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ghora-barasa-kale-priya-rasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
