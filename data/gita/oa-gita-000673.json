@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000673",
+  "name": {
+    "en": "Dara hasini re",
+    "or": "ଦର ହାସିନୀ ରେ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000145"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dara-hasini-re-soka-kamodi-birabikrama/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦର ହାସିନୀ ରେ ସେହି ଦରଶନ ସାର",
+          "ପର ହୋଇ ମୋର ଜଗି ନିରନ୍ତର",
+          "କି କରିବ ମାର ଛାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦ୍ୱିରଦଗମନା କରି ଆଶ୍ୱାସନା",
+          "କହିବା ମଧୁର ଗିର",
+          "ମୁଖ ମୋଡ଼ିବାର ମନ୍ଦେ ହସିବାର",
+          "ମୋ ନୟନେ କଲା ଘର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାସିକା ଫୁଲାଇ ତେରଛେ ଅନାଇଁ",
+          "ଫିଙ୍ଗିବା କଟାକ୍ଷ ଶର",
+          "ଛି ମା ବୋଲି ଧୀରେ ବୁଜି ନେତ୍ର କରେ",
+          "ଆଡ଼ରୁଷା ରୁଷିବାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୁରୁଜନ ସଙ୍ଗେ ଥିଲେ ହେଳେ ରଙ୍ଗେ",
+          "ମୋ ଆଡ଼କୁ ଚାହିଁବାର",
+          "ତରତରେ ଲୁଚିବାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୀରବିକ୍ରମର ଏ ବିନୟ ଗିର",
+          "ବିବାସ ଶୋଭା ତୋହର",
+          "ଦେଖିବାକୁ ମନ ବଳିଅଛି ଧନ",
+          "ଅଙ୍ଗୀକାର ବାରେ କର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dara-hasini-re-soka-kamodi-birabikrama/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

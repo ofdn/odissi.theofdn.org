@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000667",
+  "name": {
+    "en": "Kulatapabada mora lalatare",
+    "or": "କୁଳଟାପବାଦ ମୋର ଲଲାଟରେ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000163"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kulatapabada-mora-lalatare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୁଳଟାପବାଦ ମୋର ଲଲାଟରେ କାହିଁକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସପସରା ହୋଇ କରି ଭୋଜରାଜାର ନଗରୀ",
+          "ଯାଉ ନାହିଁ କେଉଁ ନାରୀ ବିକିବାକୁ ଦହିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୋଟି କଳାନିଧି ଓଜ ଦଳା ବ୍ରଜ ଯୁବରାଜ",
+          "ବଦନ ରମା ସଦନ ନ ଚାହୁଁଛି କେହିକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବରଜର ସୀମନ୍ତିନୀ ବାରିଜ ବନ୍ଧୁ ନନ୍ଦିନୀ",
+          "ଅମ୍ଭ ଆନୟନେ କୁମ୍ଭ ନ ଯାଏ କେ ବୋହିକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସୁମନସ ଆହରଣ କୃତେ କାହାର ଚରଣ",
+          "କରୁ ନାହିଁ ଆଲିଙ୍ଗନ କୁଞ୍ଜବନ ମହୀକି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଖେଦ ବଶରେ କିଶୋରୀ ଭରି ନୟନରେ ବାରି",
+          "ଭାଲ ଦେଶେ କର ମାରି କହୁଛନ୍ତି ସହୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kulatapabada-mora-lalatare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

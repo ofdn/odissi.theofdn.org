@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000695",
+  "name": {
+    "en": "Jhuru thibani moha bina je",
+    "or": "ଝୁରୁଥିବନି ମୋହ ବିନା ଯେ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000171"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jhuru-thibani-moha-bina-je-suratha-mallara-ekatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଝୁରୁଥିବନି ମୋହ ବିନା ଯେ",
+          "ଦୁର୍ଦ୍ଦିନ ଦିନେ ସଜନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏକେ ଘନ କାଳ ଖତମାଳ ମାଳ",
+          "ନୀଳ ନଭ ମଣ୍ଡଳକୁ ଘୋଟି",
+          "ବରଷୁଛି ଅବିରଳେ ମୂଷଳ ଧାର ପ୍ରବଳେ",
+          "ବନଜାକ୍ଷୀ ଦେଖି ଦୁଃଖୀ ହେବନିରେ ହେବନି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦମ୍ଭୋଳି ଗର୍ଜ୍ଜନ ଦରଦୂର ସ୍ୱନ",
+          "ବିରହୀ ଜନର ଦମ୍ଭହରା",
+          "ଝଟକ ହାଟକଦେହା ସହି କି ପାରିବ ଏହା",
+          "କି ଦଣ୍ଡ ଲଭିଲୁ ଧନ ମୋ ଘେନିରେ ମୋ ଘେନି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯୂଈ ଜାଈ ମଲ୍ଲୀ ପରେ ଅଳି କେଳି",
+          "ନୟନ ସଖାଳି ମୋ ଚାହିଁଲେ",
+          "ପାପ କାମ ବାଜିରାଜି ବିନ୍ଧି ମରମକୁ ଖୋଜି",
+          "ଆଜନ୍ମସୁଖୀକି ଧାଡ଼ି ଦେବନିରେ ଦେବନି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଧରାଲୋକ ପରା ହୋଇ ବନ୍ଧୁ ଧରା ଶେଯେ",
+          "ଶୋଇଥିବ ମୁଖ ମୋଡ଼ି",
+          "ଶୁଣି ଡାହୁକ ଡାକକୁ ଦାଉ ଦାଉ ହେବ ବୁକୁ",
+          "ଝଞ୍ଜାବାତେ ତନୁ ଥରିଯିବନିରେ ଯିବନି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jhuru-thibani-moha-bina-je-suratha-mallara-ekatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

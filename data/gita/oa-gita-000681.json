@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000681",
+  "name": {
+    "en": "Prana sajani re e ninda kahaku",
+    "or": "ପ୍ରାଣ ସଜନୀରେ ଏ ନିନ୍ଦା କାହାକୁ ହେବ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000145"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-re-e-ninda-kahaku-soka-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ସଜନୀରେ ଏ ନିନ୍ଦା କାହାକୁ ହେବ",
+          "ଶାଣଦିଆ ସ୍ମର ବାଣ ବାଜି ମୋର",
+          "ପ୍ରାଣ ଯେବେ ଉଡ଼ିଯିବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତାମରସ ମୁଖୀ ତୋ ପଦ ଲାଞ୍ଛିତ",
+          "ପଦକକୁ ହୃଦେ ଧରି",
+          "ପାମର କାମର ହୁକୁମକୁ ଯେବେ",
+          "ନିରତେ ରହିଲି ଡରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୁରନ୍ଦର ପୁରୀ କଳ୍ପଲତା ଶିରୀ",
+          "ସଞ୍ଜାତ ପ୍ରେମ କନ୍ଦଳୀ",
+          "ତୋ କରୁଣା ଜଳ ବିନା କାମାନଳ",
+          "ଝାସେ ଯେବେ ଯିବି ଜଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶରଣବତ୍ସଳା ସରସ ହୃଦୟା",
+          "ବୋଲାଉ ସୁରସ ଦାନେ",
+          "ଅରୁଣାଧରି ତୋ ଚରଣ କିଙ୍କରେ",
+          "କରୁଣା ନୋହିଲେ ଧାନେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚିର ତୃଷିତକୁ ହୀରକ ଦଶନୀ",
+          "ତୋଷ ଥରେ ସୁଧା ପାନେ",
+          "ବୀରବିକ୍ରମର ଏ ବିନୟ ଗିର",
+          "ନ ଶୁଣିଲେ ବାରେ କାନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sajani-re-e-ninda-kahaku-soka-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000680",
+  "name": {
+    "en": "Chhi ma na kaha aau",
+    "or": "ଛି ମା ନ କହ ଆଉ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000155"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhi-ma-na-kaha-aau-bibhasa-gujjari-jhula/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛି ମା ନ କହ ଆଉ",
+          "ତା କଥା ଶୁଣି ହୃଦେ ଉଠଇ ଦାଉ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହେଲି ମୁଁ ହଟହଟା କରି ଯା ସଙ୍ଗ",
+          "ପୁଣି ଥରକୁ ଥର ସେହି ପ୍ରସଙ୍ଗ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଙ୍କେତ ସ୍ଥାନେ ମୋତେ ନେଇ ହକାରି",
+          "ମାତିଲା ଯାଇ ଆନ ନାରୀକି ଧରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନିପଟ କପଟିଆ ଶଠ ସ୍ୱଭାବ",
+          "ସେ କି ଜାଣିବ ସଖୀ ପୀରତି ଭାବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ବୀରବିକ୍ରମର ଧୀର ବଚନେ",
+          "ତାକୁ ତ ମିଳି ପାରେ ତୋ ପରି ପଣେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhi-ma-na-kaha-aau-bibhasa-gujjari-jhula/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000674",
+  "name": {
+    "en": "Bhangima panaku dhani",
+    "or": "ଭଙ୍ଗିମା ପଣକୁ ଧନୀ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhangima-panaku-dhani-khambaja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଭଙ୍ଗିମା ପଣକୁ ଧନୀ ସମ ନାହିଁ କେହି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୁଃଖ ହୋଇଥିଲେ ଚିତ୍ତେ ମୋତେ ଦେଖିଲେ ତୁରିତେ",
+          "ଦରହାସ ଦରଶାଇ ପାଶେ ବାସେ ସହି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ନେହରେ ଯାଚିଲେ ପାନ ନୁଆଏଁ ଚନ୍ଦ୍ରଲପନ",
+          "ଆନ ଦେଲେ ବୋଲୁଥାଇ ବିଧି ନୁହେଁ ଏହି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅତର ଚୂଆ ଚନ୍ଦନ ଅଙ୍ଗେ କରନ୍ତେ ଲେପନ",
+          "ଶ୍ରୀକରରେ କର ପେଲି କରେ ନାହିଁ ନାହିଁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗୁନ୍ଥିଣ କୁସୁମ ହାର ଲମ୍ବାଇଲେ ଗଳେ ତାର",
+          "ଏ କି କର ବୋଲି ମନା କରେ ସୁନାଦେହୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୀରବିକ୍ରମ ବଦତି ପାଶୋରି ନୁହେଁ ତା ରୀତି",
+          "ଭାବି ଭାବି ହୃଦ ଏବେ ହେଉଅଛି ଦହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bhangima-panaku-dhani-khambaja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

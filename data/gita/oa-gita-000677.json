@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-000677",
+  "name": {
+    "en": "Ki kahibi kaha sahi",
+    "or": "କି କହିବି କହ ସହି"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kahibi-kaha-sahi-suratha-birabikrama/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି କହିବି କହ ସହି",
+          "ବିହି କି ଲିହି ରଖିଛି ଭାଲେରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରି ତ ନାହିଁ ମୁଁ ଦୋଷ",
+          "କାହିଁକି ମା ଏତେ ରୋଷ",
+          "ବହି ମୋରେ ପ୍ରାଣ ଈଶ",
+          "କାମ ସରିତରେ ଭସାଇଲେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୂଆ ନୂଆ ପ୍ରୀତି କାଳେ",
+          "କି ଅବା ନ କହି ଥିଲେ",
+          "ଏବେ କାହା ସଙ୍ଗେ ଭୁଲେ",
+          "ପୂର୍ବ ଭାବକୁ ସେ ପାଶୋରିଲେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିବେକୀବର ବୋଲାଇ",
+          "ବିଚାରି ପାରିଲେ ନାହିଁ",
+          "ମୋତେ ମାର ମୁଖେ ଦେଇ",
+          "ଅପଯଶ ଧ୍ୱଜା ଟେକାଇଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭାବି ଦେଲେ ତାଙ୍କ ରୀତି",
+          "ଚମକି ପଡ଼ଇ ଛାତି",
+          "ଜାଣି ନ ଥିଲି ଏ ରୀତି",
+          "ବିଷ ଖାଇବାକୁ ମନ ବଳେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଚିତ୍ତ ହେଉ ଅଛି ଯାହା",
+          "କା ଆଗେ କହିବି ତାହା",
+          "କହିଲେ କେ ହେବ ସାହା",
+          "ଶ୍ରୀ ବୀରବିକ୍ରମ ଦେବ ବୋଲେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kahibi-kaha-sahi-suratha-birabikrama/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

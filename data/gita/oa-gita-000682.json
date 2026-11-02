@@ -1,0 +1,79 @@
+{
+  "id": "oa-gita-000682",
+  "name": {
+    "en": "Na kara epari aau",
+    "or": "ନ କର ଏପରି ଆଉ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000041"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-kara-epari-aau-lalita-ekatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ କର ଏପରି ଆଉ ରେ ନବୀନା",
+          "କେତେ ସହିବି ମଦନ ଦାଉ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନୂଆ ନୂଆ ଭଙ୍ଗୀ କଳପନା କରୁ ଥାଉ",
+          "ଦିନେ ହସୁଥିଲେ ଦିନେ ରୁଷୁଥାଉ",
+          "ଏ ଭାବ ଶିଖିଲୁ କାହୁଁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୋଳେ ବସାଇଲେ ତଳେ ଖସି ବସୁ ଆଉ",
+          "ପରମ ମୁଖର ମାର ହାତେ ମୋର",
+          "ଦମ୍ଭ ପୁଣି କଷୁଥାଉ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କର ଯୋଡ଼ି ଜଣାଇଲେ କରକୁ ଛଡ଼ାଉ",
+          "ହେଲା କି କରୁଣା ବୋଇଲେ ତ ଏ କି",
+          "ହେବା କଥା ବୋଲି କହୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯେବେ ଦାସ ଦୋଷୀ ହେଲା କିମ୍ପା ଦଣ୍ଡୁ ନାହୁଁ",
+          "ବୋଇଲେ ଏତିକି ତାତି ଗଲା ପରି",
+          "ପ୍ରୀତି କଳିବାକୁ ଯାଉ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନାସିକା ଫୁଲାଇ ନ ଚାହିଁଲା ପରି ଚାହୁଁ",
+          "ଶ୍ରୀ ବୀରବିକ୍ରମ ବୋଲେ ମୁଁ ଦେଖିଲେ",
+          "କିମ୍ପା ମୋତେ ନ ଅନାଉ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-kara-epari-aau-lalita-ekatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

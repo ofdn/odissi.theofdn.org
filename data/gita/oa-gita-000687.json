@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000687",
+  "name": {
+    "en": "Jana’a duti priyare",
+    "or": "ଜଣାଅ ଦୂତୀ ପ୍ରିୟାରେ"
+  },
+  "composer": "oa-person-000121",
+  "mula_raga": [
+    "oa-raga-000141"
+  ],
+  "mula_tala": [
+    "oa-tala-000015"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janaa-duti-priyare-bhairaba-birabikrama/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜଣାଅ ଦୂତୀ ପ୍ରିୟାରେ ବାରେ ମୋ ବିନତି",
+          "ତାହା ଲାଗି ମୋର ଅଶନ ବସନ",
+          "ହୋଇଗଲାଣି ବିରତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବୀଣାବାଣୀ ଶୁଣି ମୁକ୍ତି କରିବଇଁ ଶ୍ରୁତି",
+          "ଅଳତା ରଞ୍ଜନେ ଲଳିତା ଚରଣେ",
+          "ବଳାଇବି ସଦା ମତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁରତେ ପ୍ରୟାସ ହେଲେ ଶୁଆଇବି ଛାତି",
+          "ବିପରୀତ ରତି ଆରମ୍ଭ କାଳରେ",
+          "ନେଉଥିବି ତା ସମ୍ମତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବେଶ ସାଜିବା ସମୟେ ଗଜରାଜ ଗତି",
+          "ବିଲୋଳ ଲୋଳ ଲୋଚନୀ ପିକଦାନୀ ଧରି",
+          "ଉଭା ହେଉଥିବି କତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନ ହୁଅ କାତର ବୀରବିକ୍ରମ ଭାରତୀ",
+          "ଶୁଣି ବଂଶୀଧର ହୋଇଣ ଅଧୀର",
+          "ବୋଲନ୍ତି ନାହିଁ ମୋ ଗତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janaa-duti-priyare-bhairaba-birabikrama/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
