@@ -8,6 +8,7 @@ function escapeHtml(value) {
 }
 
 // Kāmodī, Kamodi and kaamodi all fold to "kamodi". v and b count as one letter, so do sh and s, ch and c
+// doubled letters count once, a final y is i (Mohanty, Mohanti), and Pattanayaka, Patnaik, Pattnaik and the rest are one surname
 function fold(s) {
   return s
     .normalize("NFD")
@@ -19,6 +20,9 @@ function fold(s) {
     .replace(/aa+/g, "a")
     .replace(/ee+/g, "i")
     .replace(/oo+/g, "u")
+    .replace(/([b-df-hj-np-tw-z])\1+/g, "$1")
+    .replace(/y\b/g, "i")
+    .replace(/\bpata?na(?:i|ya)ka?\b/g, "patnaik")
     .replace(/[^\p{L}\p{M}\p{N}]+/gu, " ")
     .trim();
 }
