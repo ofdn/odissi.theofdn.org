@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000409",
+  "name": {
+    "en": "Se nabina jubabara",
+    "or": "ସେ ନବୀନ ଯୁବାବର"
+  },
+  "composer": "oa-person-000037",
+  "mula_raga": [
+    "oa-raga-000076"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-nabina-jubabara-mo-nayane-nachila-kanada-ramakrusna-kabichandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସେ ନବୀନ ଯୁବାବର ମୋ ନୟନେ ନାଚିଲା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ସ୍ନେହକୁ ଭାବି ଭାବି ପୁଲକ ଅଶ୍ରୁରେ ଦ୍ରବି",
+          "ମନ ତାକୁ ଧନ ପରି ନିତି ହୃଦେ ସଞ୍ଚିଲା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେ ଜାଣଇ କାହା ଚିତ୍ତ କେ କରିଛି କାହା ହିତ",
+          "ଯାହାକୁ କହିଲି ସେ ତ ମୋ ପ୍ରାଣ ପାଞ୍ଚିଲା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପ୍ରୀତି ମାଦକରେ ବୁଡ଼ି ଗଲେ କେ ପାରିବ ଛାଡ଼ି",
+          "କେ ଶୁଣିଛି ପ୍ରୀତି ତେଜି କେ ମହୀରେ ବଞ୍ଚିଲା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦିଅନ୍ତି ଅବା ମୂରୁଛି ସେ ତ ପାଶକୁ ଧରିଛି",
+          "ଜୀବ ଗଲେ ଯିବ ସେ ମୋ ମନରୁ ନ ଘୁଞ୍ଚିଲା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ରାମକୃଷ୍ଣ କବିଶଶୀ ଭାଷେ ଶ୍ରୀ କିଶୋରୀ ଭାଷି",
+          "ଜାଣିଲି ମୋ ଦୁଃଖ ଲତା ଫଳ ଫଳି ପାଚିଲା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/se-nabina-jubabara-mo-nayane-nachila-kanada-ramakrusna-kabichandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

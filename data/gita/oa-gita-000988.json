@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000988",
+  "name": {
+    "en": "Ki kahibi mitani gali niraku",
+    "or": "କି କହିବି ମିତଣୀ ମୁଁ ଗଲି ନୀରକୁ"
+  },
+  "composer": "oa-person-000037",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kahibi-mitani-gali-niraku-ramakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି କହିବି ମିତଣୀ ମୁଁ ଗଲି ନୀରକୁ",
+          "ବାଟରେ ଭେଟିଲି ଶ୍ୟାମ ଚିତ୍ତଚୋରଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦିନେ ମୁଁ ଗଲି ଯମୁନା ଭେଟିଲି କାଳିଆ ସୁନା",
+          "କି କଲେ ବଂଶୀବଦନା ଲାଜ ଦୂରକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମାଈଁ ମାଈଁ ଡାକୁଥିଲା ପଣତ ଧରି ଟାଣିଲା",
+          "କରଜ ବଢ଼ାଇ ଦେଲା ମୋର ଉରକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯଶୋଦା ନନ୍ଦ ଦୁଲାଳ ମୋ ସଙ୍ଗେ କଲେ ଜଞ୍ଜାଳ",
+          "ବହୁତ ଲଗାଇ ଗୋଳ ନେଲେ କୋଳକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କେତେ ଜାଣେ ନଟକୂଟ ସେ ନନ୍ଦରାଜାର ଚାଟ",
+          "ନ ସ୍ଫୁରିଲା ବୁଦ୍ଧି ବାଟ ହେଲି ସ୍ଥିରକୁ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ରାମକୃଷ୍ଣ ଭାଷେ ଗୀତେ ଶ୍ରୀ କୃଷ୍ଣ ଚରଣାଗ୍ରତେ",
+          "ମିଛ କହୁଥିଲେ କେତେ ନଟୁ ଚୋରକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kahibi-mitani-gali-niraku-ramakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
