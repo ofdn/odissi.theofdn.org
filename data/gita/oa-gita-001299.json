@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-001299",
+  "name": {
+    "en": "Dekha prana mitani rasa rasailani",
+    "or": "ଦେଖ ପ୍ରାଣ ମିତଣୀ ରସା ରସାଇଲାଣି"
+  },
+  "composer": "oa-person-000013",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-prana-mitani-rasa-rasailani-anandabhairabi/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖ ପ୍ରାଣ ମିତଣୀ ରସା ରସାଇଲାଣି",
+          "ମଧୁରେ ମଧୁ ବସନ୍ତ",
+          "ବିତରି ମକରନ୍ଦ ବହଇ ମନ୍ଦ ମନ୍ଦ",
+          "ସୁଗନ୍ଧ ଗନ୍ଧବହେ ମନେ ବହି ଆନନ୍ଦ",
+          "(ପଡ଼ି)",
+          "ତମାଳ ବନେ ପିକ ଗାଉଛି ମାଙ୍ଗଳିକ",
+          "ନଳିନୀ ପାଶେ ଅଳି କରେ ଅଳି ରସିକ",
+          "ସାରସ ସୁରସରେ ହେବାକୁ ଅଭିଷେକ",
+          "କରନ୍ତି ସୁରସିକେ ମାନସେ ମାନସିକ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଋତୁରାଜ ବିରାଜି ଦିଗବଧୂକୁ ଆଜି",
+          "ସୁବେଶେ ସାଜିଦେଲାଣି",
+          "ମଳୟ ବହିଲାଣି କାନେ ତ କହିଲାଣି",
+          "ଉଠ ସଜନୀ ଦୁଃଖ ରଜନୀ ପାହିଲାଣି",
+          "(ପଡ଼ି)",
+          "ପୁଲକେ ପୂରେ ତନୁ ସର ପବରେ ମନୁ",
+          "ଭାସି ଆସଇ ବଂଶୀ ନିଃସ୍ୱନ ଦୂର ବନୁ",
+          "ଝରେ ସୁଧା ନିର୍ଝର ନୀଳ ନିର୍ମଳ ତନୁ",
+          "ମାରେ କି ବାଣ ରାମା ବାରଣେ ଫୁଲଧନୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-prana-mitani-rasa-rasailani-anandabhairabi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

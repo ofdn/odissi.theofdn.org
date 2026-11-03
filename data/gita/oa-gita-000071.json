@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-000071",
+  "name": {
+    "en": "Kumara kahara",
+    "or": "କୁମର କାହାର"
+  },
+  "composer": "oa-person-000013",
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kumara-kahara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୁମର କାହାର",
+          "ଆଜ ଗୋଷ୍ଠକୁ ବାହାର ମା",
+          "ସୁତ ଏ ଯାହାର ଧନ୍ୟ ଭାଗ୍ୟକୁ ତାହାର ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମସ୍ତକେ ମୟୂର ଚୂଳ",
+          "କଟିରେ ପୀତ ଦୂକୁଳ",
+          "ମଜ୍ଜାଏ କାମିନୀ ବୃନ୍ଦ ଅପାଙ୍ଗ ଯାହାର ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଜାଇ ମୋହନ ବେଣୁ",
+          "କାନନେ ଚରାଏ ଧେନୁ",
+          "କାମ୍ୟ ତା ଚରଣରେଣୁ କନ୍ଦର୍ପ ବାମାର ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଂସାର ସୁଷମା ଆଣି",
+          "ପୀରତି ରସେ ରସାଣି",
+          "ଥିଲା କେ ତ୍ରିଭଙ୍ଗଠାଣି ନିର୍ମ୍ମାଣି ଏହାର ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗୋପରେ ଏହି କୁମର",
+          "ସର୍ବ ଶୁଭେ କରୁ ଘର",
+          "ବରଷୁ ଶିରେ ତା ବର ପାର୍ବତୀନାହାର ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kumara-kahara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

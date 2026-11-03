@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-000460",
+  "name": {
+    "en": "Jaa re jaa sakhi brajaraja nagare tu ja",
+    "or": "ଯା ରେ ଯା ସଖୀ ବ୍ରଜରାଜ ନଗରେ ତୁ ଯା"
+  },
+  "composer": "oa-person-000013",
+  "mula_raga": [
+    "oa-raga-000003"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaa-re-jaa-sakhi-brajaraja-nagare-debagandhari-ekatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯା ରେ ଯା ସଖୀ",
+          "ବ୍ରଜରାଜ ନଗରେ ତୁ ଯା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସରସ ତେଜି ମନୁ ବେଗେ ତୁ ବର ତନୁ",
+          "ସଯତନେ ରତନେ ସଜା",
+          "(ପଡ଼ି)",
+          "ମିଳି ବ୍ରଜ ବଜାରେ ସଖୀ ମନ ମଜ୍ଜାରେ",
+          "ଶ୍ୟାମ ପ୍ରୀତି ଡିଣ୍ଡିମ ବଜା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୋତେ କରିଛି ଆଶ ସୁନ୍ଦର ପୀତବାସ",
+          "ମୀନନେତ୍ରୀ ପୀନ ଉରଜା",
+          "(ପଡ଼ି)",
+          "କୁନ୍ଦରଦନା ଗୋରୀ ସୁନ୍ଦର ଗିରିଧାରୀ",
+          "ପ୍ରେମ ରସେ ବିବେକ ହଜା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତା ନାମ ଗାଉ ଗାଉ ଦିନ ଯାଉ ତୁ ଆଉ",
+          "ଘର ସଂସାରେ ଫେରି ନ ଯା",
+          "(ପଡ଼ି)",
+          "ନନ୍ଦନନ୍ଦନ ଘନଶ୍ୟାମ ସୁରସେ ଘନ",
+          "-ଜଘନା ମାନସ ମଜ୍ଜା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaa-re-jaa-sakhi-brajaraja-nagare-debagandhari-ekatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

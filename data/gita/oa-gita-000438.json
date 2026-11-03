@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000438",
+  "name": {
+    "en": "Kana tu deritha bansi tanaku",
+    "or": "କାନ ତୁ ଡେରିଥା ବଂଶୀ ତାନକୁ"
+  },
+  "composer": "oa-person-000013",
+  "mula_raga": [
+    "oa-raga-000036"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kana-tu-deritha-bansi-tanaku/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାନ ତୁ ଡେରିଥା ବଂଶୀ ତାନକୁ ମାନ ତୁ",
+          "ବରଜ ବରଜ ବାଳା ମାନକୁ ଗୋ ରାଧେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାନନେ ଚରାଏ ଧେନୁ । ବଜାଏ ମୋହନ ବେଣୁ ।",
+          "ମଜ୍ଜାଏ ହଜାଏ ଧୃତି ଜ୍ଞାନକୁ ଗୋ ରାଧେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗଗନ ପବନ ମନ । ଦରୀ ଗିରି ଗୋବର୍ଦ୍ଧନ ।",
+          "ନିରତେ ଝୁରେ ମୁରଲୀ ଗାନକୁ ଗୋ ରାଧେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଦନ ମାଦକେ ଘାରି । ସଂସାର ମମତା ମାରି ।",
+          "ଦୋଷ ଦେଉ ଅଭିମାନେ ଆନକୁ ଗୋ ରାଧେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୋହନ ମୋହିନୀ ରାଧେ । କ୍ଷମ ଶ୍ୟାମ ଅପରାଧେ ।",
+          "କହୁଛି ମୁଁ ଦେଇ ତୋରେ ରାଣକୁ ଗୋ ରାଧେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kana-tu-deritha-bansi-tanaku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

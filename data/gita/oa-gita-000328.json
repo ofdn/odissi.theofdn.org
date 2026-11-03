@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000328",
+  "name": {
+    "en": "Chhadide re kanha",
+    "or": "ଛାଡ଼ିଦେ ରେ କାହ୍ନା"
+  },
+  "composer": "oa-person-000013",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhadide-re-kanha-saberi-ekatali-lokanatha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛାଡ଼ିଦେ ରେ କାହ୍ନା ଯିବି ମୁଁ ଯମୁନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ କି ବିବେକ ଇତର ଲୋକ",
+          "ମୋ ସଙ୍ଗେ ବାଦ କରୁ ସମ୍ବାଦ",
+          "(ପଡ଼ି)",
+          "ଗୋପଭୂପ ତୋ ବାପ ଜପ ତପ ଅମାପ",
+          "ସେ ବାପ ପୁଅ ତୁ ଅଟୁ ନିଷ୍ପାପ ସ୍ୱରୂପ",
+          "ଏ କି ନିକି ଉପଦ୍ରବ ପର ରମଣୀ ମେଳାପ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୋ ଅଙ୍ଗ ଶୁଚି ଯାଅ ତୁ ଘୁଞ୍ଚି",
+          "ଛୁଅଁନା ମୋରେ ରହ ତୁ ଦୂରେ",
+          "(ପଡ଼ି)",
+          "ହରବର କରନା କୁହୁଡ଼ି ପହଁରନା",
+          "ଛାର ରମଣୀକି ତୋତେ ମରମରେ ବରନା",
+          "ସାରଙ୍ଗଧର ଅଧର ମୋର କର ଧରି କହନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶ୍ରୀମତୀ ରାଧା ତୋ ପାଦେ ପୂଜା",
+          "କଂସଟି ରାଜା ମୋ ପାଶୁ ଯା ଯା",
+          "(ପଡ଼ି)",
+          "ତୋତେ ମୋତେ ଧରିବେ ଧରି ନେଇ ସାରିବେ",
+          "ସାରିବେ ମହତ ମୋର ବନ୍ଦୀ କରିବେ ଅକ୍ରୂର",
+          "ଧରମ କରମ ଲାଜ ବୁଡ଼ିଯିବ କି ଏଥର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhadide-re-kanha-saberi-ekatali-lokanatha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
