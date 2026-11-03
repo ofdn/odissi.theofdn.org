@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-000916",
+  "name": {
+    "en": "Ehi ki mo kantha tata ratana",
+    "or": "ଏହି କି ମୋ କଣ୍ଠତଟ ରତନ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000005"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-ki-mo-kantha-tata-ratana-jhinjhoti-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି କି ମୋ କଣ୍ଠତଟ ରତନହାରା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନୂତନ ମତ୍ତକାଶିନୀ ସମାଜ",
+          "ମସ୍ତକ ଚମ୍ପକଝରା ରେ",
+          "ତ୍ରିଲୋକ ସାର ଶୋଭା ସମ୍ଭାର",
+          "କେଳିକାରା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସଇ ମନ୍ଦ ଗତି କରି ଆଳି",
+          "କରେ ଦେଇ କର ଭରା ରେ",
+          "ପଙ୍କଜ ପାଦ ହଂସକ ନାଦ",
+          "ଜ୍ଞାନହରା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁନ୍ଦ ସୁନ୍ଦରତର ଦରହାସ",
+          "ଅପୂର୍ବ ପୀୟୂଷ ଧାରା ରେ",
+          "ମିଶାଇ ଯୋଷା ହୀରା ବରଷା",
+          "କରେ ଧରାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଙ୍ଗ ସମ୍ଭୂତ ପରିମଳ କରେ",
+          "ଭୃଙ୍ଗକୁ ସମ୍ଭ୍ରମେ ତ୍ୱରାରେ",
+          "କି ଭଙ୍ଗିମାରେ ଶୁଭାଙ୍ଗୀ ମାରେ",
+          "ନେତ୍ର ଛୁରା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଏକାଳେ ପାଶ ସଜନୀକି ରାଧା",
+          "ଭାଷ ପ୍ରକାଶିଲେ ଧୀରାରେ",
+          "କିଶୋରଚନ୍ଦ୍ର ଭାଷେ ରାଜେନ୍ଦ୍ର",
+          "ନୃପ ହୀରା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-ki-mo-kantha-tata-ratana-jhinjhoti-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

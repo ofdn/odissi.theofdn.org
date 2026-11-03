@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-000914",
+  "name": {
+    "en": "Naba chhaila mandana mohana",
+    "or": "ନବ ଛଇଳ ମଣ୍ଡନ ମୋହନ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000005"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-chhaila-mandana-mohana-suratha-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବ ଛଇଳ ମଣ୍ଡନ ମୋହନ",
+          "ଖେଳାଅ ଏ ଦିଗେ ଚଞ୍ଚଳ ନେତ୍ର ଖଞ୍ଜନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋହିତ କରେ ଶ୍ରୁତି ବେନି ସରଭସ ଗତି",
+          "ବଶୁଁ ଯୁବତୀ ପଦ ମଞ୍ଜୁ ମଞ୍ଜୀର ସ୍ୱନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୀଳ ଉତ୍ପଳ ବୃଷ୍ଟି ସଦୃଶ ବିଲୋଳ ଦୃଷ୍ଟି",
+          "ସହସ୍ର ଏକାବେଳକରେ ହୁଏ ପତନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଥରକେ ବିମୋହନ ଶର କୋଟିକି ପ୍ରସୂନ",
+          "ଧନୁରେ ସନ୍ଧି ମଦନ କରୁଛି କି ମୋଚନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏଣେ ମଣିମହିଳା ମଣ୍ଡି କେତେ ସୁକୋମଳା",
+          "ରାଧାଙ୍କୁ ଘେନି ସଙ୍ଗେ କରନ୍ତି ବିଲୋକନ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନୀଳ ଶାଢ଼ୀକି ଲାଗି ହୋଇଛି ଯେ କନକାଙ୍ଗୀ",
+          "ବୃଷଭାନୁ ନନ୍ଦନା ଅଟେ ସେହି ଘେନ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ରାଧାଙ୍କୁ ସଖୀ ବୋଲେ ହରଷ ଭରେ ସେକାଳେ",
+          "ଭଣେ କିଶୋରଚନ୍ଦ୍ର ରାଜ ବଳଭେଦନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-chhaila-mandana-mohana-suratha-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

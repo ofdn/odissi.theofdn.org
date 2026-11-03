@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001291",
+  "name": {
+    "en": "Kaha kaha go malati",
+    "or": "କହ କହ ଗୋ ମାଳତୀ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000187"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-kaha-go-malati-pranta-baradi-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କହ କହ ଗୋ ମାଳତୀ କୁନ୍ଦ ମନ୍ଦାର ସେବତୀ",
+          "କଲେ କି ଏ ପଥେ ବିଜେ ନବୀନ ଘନ ମୂରତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କହ ଗୋ ହରିଣୀମାନେ ବିଲୋକି ଥିଲେ ନୟନେ",
+          "ଯାହା ହୃଦେ ବନମାଳ ଲୁଳେ ସେ ଗଲେ କି ଏଣେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖିଥିଲେ କହ ଚମ୍ପା ବଲ୍ଲରୀ ଗୋ ଅନୁକମ୍ପା",
+          "କରି ଯାହା ବଂଶୀ ସ୍ୱନ ଯୁବତୀ ଧଇର୍ଯ୍ୟକମ୍ପା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମସ୍ତକେ ଚନ୍ଦ୍ରକ ଚୂଳ କଟିରେ ପୀତ ଦୂକୁଳ",
+          "ଯାହାର ତାଙ୍କୁ ବିଲୋକିଅଛୁ କି କହ ତମାଳ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏପରି ଖୋଜି ସେ ସ୍ଥଳେ ନ ପାଇ ରାଧା ଭାଷିଲେ",
+          "ରାଜେନ୍ଦ୍ର ସ୍ମରେ ସତତ ନମି କୃଷ୍ଣ ପଦତଳେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-kaha-go-malati-pranta-baradi-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

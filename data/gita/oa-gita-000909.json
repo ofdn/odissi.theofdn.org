@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000909",
+  "name": {
+    "en": "Mora marana sreya go",
+    "or": "ମୋର ମରଣ ଶ୍ରେୟ ଗୋ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000158"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mora-marana-sreya-go-ghantaraba-kisorachandra-rajendradeba/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋର ମରଣ ଶ୍ରେୟ ଗୋ",
+          "ଜୀବନୁ ସଖି ପୁରୁଷ ତ୍ରୟେ",
+          "ବଳିଅଛି ମୋ ହୃଦୟ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏଥୁ ଏକ ଜଣକର କୃଷ୍ଣ ବୋଲି ଦ୍ୱିଅକ୍ଷର",
+          "ପଡ଼ି ଶ୍ରବଣ ବିବର ଧୃତି କରିଦିଏ କ୍ଷୟ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୁଣି ଆଉ ଜଣକର ବଂଶୀନାଦ ସୁମଧୁର",
+          "ଉନ୍ମାଦକୁ ବାରମ୍ବାର ବାଢ଼ୁଅଛି ଏ ସମୟ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅନ୍ୟ ଜଣରେ ସଖୀ ଘନଛବି ଚିତ୍ର ଦେଖି",
+          "ମନ ସମସ୍ତ ଉପେକ୍ଷି ହେଉଅଛି ଲୟ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କୁଳବତୀଙ୍କର ଏହି ନିନ୍ଦିତ କଳଙ୍କ ସହି",
+          "ବଞ୍ଚିବି କି ଆଉ ମୁହିଁ ଦିଶୁ ତ ନାହିଁ ଉପାୟ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mora-marana-sreya-go-ghantaraba-kisorachandra-rajendradeba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000907",
+  "name": {
+    "en": "Krusna bolibara jeun",
+    "or": "କୃଷ୍ଣ ବୋଲିବାର ଯେଉଁ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000164"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/krusna-bolibara-jeun-sena-kisorachandra-rajendradeba/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୃଷ୍ଣ ବୋଲିବାର ଯେଉଁ ଦ୍ୱିଅକ୍ଷର",
+          "ଆହା କି ସୁମଧୁର",
+          "ନ ଜାଣେ କି ସାର ପୀୟୂଷଧାରାର",
+          "ଯୋଗରୁ ଉତ୍ପତ୍ତି ହୋଇଅଛି ତାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁଣ୍ଡରେ ଯେବେ ସେ ବିଳସଇ",
+          "କୋଟି ତୁଣ୍ଡ ହେବାକୁ ମନ ବଳଇ",
+          "କର୍ଣ୍ଣରେ ପଡ଼ିଲେ ଲକ୍ଷ ଲକ୍ଷ କର୍ଣ୍ଣ",
+          "ହେବା ବାଞ୍ଛା ହେଉଥାଏ ବାରମ୍ବାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚିତ୍ତପ୍ରାଙ୍ଗଣ ମଧ୍ୟରେ ଯେବେ",
+          "ନିର୍ମଳ ଭାବେ ସେ ବିହରେ",
+          "ସକଳ ଇନ୍ଦ୍ରିୟ ବ୍ୟାପାରକୁ ଜାତ",
+          "କରି ଜନମାଏ ଅତି ମୋଦଭର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/krusna-bolibara-jeun-sena-kisorachandra-rajendradeba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

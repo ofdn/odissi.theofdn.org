@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000923",
+  "name": {
+    "en": "Sajani chahan aha",
+    "or": "ସଜନୀ ଚାହାଁ ଆହା"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000005"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-chahan-aha-suratha-basanta-rahasa-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହା କି ଶୋଭନ ସଜନୀ ଚାହାଁ",
+          "ନାରୀଗଣ ସଙ୍ଗେ ରଙ୍ଗେ ନୃତ୍ୟ କରନ୍ତି ନନ୍ଦନନ୍ଦନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରେ ଧରି ବୀଣା କେ ରସ ପ୍ରବୀଣା",
+          "ବଜାଇ କରେ ଗାନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେ ପ୍ରେମେ ବିହ୍ୱଳ ହୋଇ ମରଦଳ",
+          "ଟିପଇ ଘନଘନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲାଜ ଲାଜ ହୋଇ କୃଷ୍ଣଙ୍କୁ କେ ସହି",
+          "ଦିଏ ଧୀରେ ଚୁମ୍ବନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚନ୍ଦ୍ରାବଳୀ ମୋଦେ ମିଶି କୃଷ୍ଣ ହୃଦେ",
+          "କରଇ ଆଲିଙ୍ଗନ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦେଖି ରାଧା ରୋଷେ ଭାଷନ୍ତି ବିରସେ",
+          "ରାଜେନ୍ଦ୍ର ଧ୍ୟାଏ କୃଷ୍ଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-chahan-aha-suratha-basanta-rahasa-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

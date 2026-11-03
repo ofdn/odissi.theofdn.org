@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000394",
+  "name": {
+    "en": "Prana sangini re netrananda pasara",
+    "or": "ପ୍ରାଣସଙ୍ଗିନୀ ରେ ନେତ୍ରାନନ୍ଦ ପସରା"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-re-netrananda-pasara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣ ସଙ୍ଗିନୀରେ ନେତ୍ରାନନ୍ଦ ପସରା",
+          "ଏହି କୁଞ୍ଜେ ଥିବେ ପରା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରାଣରୁ ସନ୍ତୋଷ ଦୁରୂଁ",
+          "ନ କର ଆରେ ରମ୍ଭୋରୁ",
+          "ପ୍ରସରୁଛି ଏ ଦିଗରୁ ସୌରଭ ଧାରା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାକର ତାରକା କାନ୍ତି",
+          "ନିକରରେ ସୁଦନ୍ତୀ",
+          "ଝଟତି କେଳି ବସତି ନ କରେ ତୋରା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପରିହାସ ଭାବି ଚିତ୍ତେ",
+          "ଲତାଜାଲେ ଏକାନ୍ତେ",
+          "ଲୁଚି ରହିଥିବେ ଶଠ ଶିଖଣ୍ଡୀ ଝରା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀ କିଶୋରଚନ୍ଦ୍ର",
+          "ଦେବ ରାଜଇନ୍ଦ୍ର",
+          "ଖୋଜିଲେ ତ ଏହି କୁଞ୍ଜେ ପଡ଼ିବେ ଧରା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/prana-sangini-re-netrananda-pasara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

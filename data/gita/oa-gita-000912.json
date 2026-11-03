@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000912",
+  "name": {
+    "en": "Sajani mo age aau",
+    "or": "ସଜନୀ ମୋ ଆଗେ ଆଉ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000005"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-mo-age-aau-kalyana-basanta-rahasa-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀ ମୋ ଆଗେ ଆଉ ଏ ଭାଷ ନ ଭାଷ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଥରେ ହେଲେ ସେହି ଧୂର୍ତ୍ତ ନାଗର ସନ୍ଦେଶ",
+          "ଜଣାଇବାକୁ ତ ନାହିଁ କାହାର ସାହସ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାଧାର ହୃଦୟେ କ୍ରୋଧ ପ୍ରଚଣ୍ଡ ହୁତାଶ",
+          "ଶ୍ୟାମ ନାମ ଶ୍ରବଣରେ ଜଳଇ ବିଶେଷ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଛାଡ଼ିଲାଣି ସବୁ ରୂପେ ଜୀବନର ଆଶ",
+          "କେବଳ ଆମ୍ଭର ଯତ୍ନ ବିଫଳ ପ୍ରୟାସ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଛି ପୌର୍ଣ୍ଣମାସୀ ଠାରେ ତା ଭକ୍ତି ବିଶ୍ୱାସ",
+          "ସେହି ଗତି ଜବେ ତାଙ୍କୁ ସଙ୍ଗେ ଘେନି ଆସ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୃନ୍ଦା ଯାଇ କହେ ସବୁ ପୌର୍ଣ୍ଣମାସୀ ପାଶ",
+          "ବନ୍ଦିଲେ ରାଜେନ୍ଦ୍ର କୃଷ୍ଣ ଶ୍ରୀପଦ ସାରସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-mo-age-aau-kalyana-basanta-rahasa-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "oa-gita-000921",
+  "name": {
+    "en": "Sarasija mukhi jiba go",
+    "or": "ସରସିଜ ମୁଖୀ ଯିବା ଗୋ"
+  },
+  "composer": "oa-person-000085",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000005"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarasija-mukhi-jiba-go-sankarabharana-basanta-rahasa-kisorachandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସରସିଜ ମୁଖୀ ଯିବା ଗୋ ଦେଖି",
+          "ଆସ ବହନ ରେ ସଜନୀ",
+          "ରାସ ବିଧାନେ ବଂଶୀ ନିଃସ୍ୱନେ",
+          "ପୂର୍ଣ୍ଣ ବୃନ୍ଦାବନ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭଲା ସେ ନାଗରମଣି କେତେ ଭାବ ଅଛି ଜାଣି",
+          "ନ ଥିବ ତା ପରି କରିବାକୁ ଚୋରି",
+          "ସତୀ ମନ ଧନ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାସ ଉତ୍ସବ ନିମନ୍ତେ ନ ଡାକିଲେ ବୋଲି ତୋତେ",
+          "ଲୋତକେ ନଜର ନଳିନ ସୁନ୍ଦର",
+          "ନେତ୍ର ଥନଥନ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବୁଝିବା ତାଙ୍କ ମରଜି ଲତାଜାଳେ ଲୁଚି ଆଜି",
+          "ରାହାସ ଦେଖିବା ପ୍ରଭାତୁଁ ଆସିବା",
+          "ବୁଲି ବନ ବନ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲଳିତା ବଚନ ଶୁଣି ରାଧା ଭାଷିଲେ ଏ ବାଣୀ",
+          "ଭଣିଲେ ବିରସେ ରାଜଇନ୍ଦ୍ର କୃଷ୍ଣ",
+          "ପଦ କରି ଧ୍ୟାନ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarasija-mukhi-jiba-go-sankarabharana-basanta-rahasa-kisorachandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
