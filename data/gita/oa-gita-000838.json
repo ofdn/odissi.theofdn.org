@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000838",
+  "name": {
+    "en": "Sakhi e basanta kala dahila",
+    "or": "ସଖୀ ଏ ବସନ୍ତ କାଳ"
+  },
+  "composer": "oa-person-000043",
+  "mula_raga": [
+    "oa-raga-000009"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-e-basanta-kala-dahila-kedara-dinabandhuraja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀ ଏ ବସନ୍ତ କାଳ ଦହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ କାଳେ କାନ୍ତର ବିନୁ ନିରନ୍ତର",
+          "ଦହିବା ମନ୍ତର ପିକ କହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅତ୍ୟନ୍ତ ପାତକୀ ବିରହୀ ଘାତକୀ",
+          "କାମ କି କେତକୀ କୁନ୍ତ ବହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖ ହେ ଗହନ ପବନ ବହନ",
+          "ପରାଣ ଦହନ ଘେନି ବହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜୀଇବା ଭରମ ଗଲା ଏ ମରମ",
+          "ଘାତକୀ ଧରମ କେହି ସହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ଦୀନବନ୍ଧୁ ରାଜ ବ୍ରଜବନ୍ଧୁ",
+          "ଆସିବା ନିର୍ବନ୍ଧୁ ଜୀବ ରହିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-e-basanta-kala-dahila-kedara-dinabandhuraja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

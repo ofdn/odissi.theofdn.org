@@ -1,0 +1,50 @@
+{
+  "id": "oa-gita-001331",
+  "name": {
+    "en": "Sunagori re rusi basana",
+    "or": "ସୁନା ଗୋରୀ ରେ ରୁଷି ବସନା"
+  },
+  "composer": "oa-person-000043",
+  "mula_raga": [
+    "oa-raga-000154"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunagori-re-rusi-basana-dhannasika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସୁନା ଗୋରୀ ରେ ରୁଷି ବସନା",
+          "ମାନ ସୁମାନ ରେ ଋଷିମୋହନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଧରି କହୁଛି କର କିଣିଲା ଜନେ ତୋର",
+          "କିଞ୍ଚିତେ କୃପା କର ରେ ମୀନନୟନା",
+          "(ପଡ଼ି)",
+          "ତୋ ବିନା ଗତି ଆନ ନାହିଁ ସଜନୀ ଜାଣ",
+          "ତେଜ ମାନସୁଁ ମାନ ରଖ ପରାଣଧନ",
+          "ଘେନ ମିନତି ଦୀନବନ୍ଧୁ ମୁଁ ତୋ ଦାସ ସିନା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sunagori-re-rusi-basana-dhannasika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

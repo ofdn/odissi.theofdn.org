@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001183",
+  "name": {
+    "en": "Sri jagannatha krupa nidhana he",
+    "or": "ଶ୍ରୀ ଜଗନ୍ନାଥ କୃପାନିଧାନ ହେ"
+  },
+  "composer": "oa-person-000043",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sri-jagannatha-krupa-nidhana-he-dinabandhuraja-harichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ରୀ ଜଗନ୍ନାଥ କୃପାନିଧାନ ହେ",
+          "କର ଦୀନରେ କୃପାନିଧାନ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେବକ ଅପରାଧୀ ହେଲେ କରୁଣାନିଧି",
+          "କ୍ଷମା ତ ପ୍ରଭୁପଣ ବିଧାନ ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସାଧୁ ଜନଙ୍କ ସଙ୍ଗେ ମଜ୍ଜି କୀର୍ତ୍ତନ ରଙ୍ଗେ",
+          "ନ କଲି ତୁମ୍ଭ ଯାତ୍ରା ଲୋକନ ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୁମ୍ଭ ଶ୍ରୀମୂର୍ତ୍ତି ଶୋଭା ଦେଖି ମୋ ନେତ୍ର ଲୋଭା",
+          "ନୋହିଲା ବ୍ୟର୍ଥ ହେଲା ନୟନ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସେବା ବିନା ତୁମ୍ଭର ହେ କଞ୍ଜନେତ୍ର ମୋର",
+          "ଧିକ୍ ରାଜତ୍ୱ ପ୍ରଭତ୍ୱ ଜୀବନ ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଆହେ ଆରତତ୍ରାଣ ହୁଅ ଦୁଃଖୀ ଶରଣ",
+          "ଦୀନବନ୍ଧୁ ଦୁଃଖ ବିମୋଚନ ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sri-jagannatha-krupa-nidhana-he-dinabandhuraja-harichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

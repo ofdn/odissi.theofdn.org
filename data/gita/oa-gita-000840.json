@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000840",
+  "name": {
+    "en": "Janili ati bisama netra pirati",
+    "or": "ଜାଣିଲି ଅତି ବିଷମ ନେତ୍ର ପୀରତି"
+  },
+  "composer": "oa-person-000043",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janili-ati-bisama-netra-pirati-dinabandhuraja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜାଣିଲି ଅତି ବିଷମ ନେତ୍ର ପୀରତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନୟନେ ସେ ଭଙ୍ଗୀ କଟାକ୍ଷ ପଡ଼ିଲେ",
+          "ଚମକି ଉଠଇ ଛାତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖୁଥିଲେ ମନ ତୃପତ ନୁହଇ",
+          "ନ ଦେଖିଲା ହୁଏ ମତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚାହାଣୀରେ ତାର ବିଷ କି ପୀୟୂଷ",
+          "କରତି ପକାଏ ଛାତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚାହୁଁ ଚାହୁଁ ଯେ ଚେତନା ବୁଡ଼ୁଥାଇ",
+          "ଦେହରେ ନ ଥାଇ ଗତି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଅନ୍ତର ହେଲେ ସବୁ ଦିଗେ ଦିଶଇ",
+          "ନ ସରଇ ଦିବାରାତି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବୋଲେ ଦୀନବନ୍ଧୁରାଜ କି ନ କରେ",
+          "ନବ ଅନୁରାଗ ପ୍ରୀତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/janili-ati-bisama-netra-pirati-dinabandhuraja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
