@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000412",
+  "name": {
+    "en": "Aau ki upaya kari mohanaku paibi",
+    "or": "ଆଉ କି ଉପାୟ କରି ମୋହନକୁ ପାଇବି"
+  },
+  "composer": "oa-person-000093",
+  "mula_raga": [
+    "oa-raga-000064"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-ki-upaya-kari-mohanaku-paibi-paraja-dwija-lokanatha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଉ କି ଉପାୟ କରି ମୋହନକୁ ପାଇବି",
+          "ଶ୍ୟାମବନ୍ଧୁ ବିନେ ମୁହିଁ କାଳକୂଟ ଖାଇବି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାହାକୁ କରିବି ସାହା କେ ଦେବ ମୋ ପ୍ରାଣନାହା",
+          "ଖଣ୍ଡିବ ମୋ ଦୁଃଖ ଆହା କାହା ଆଗେ କହିବି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କରି ତା ଶ୍ରୀଅଙ୍ଗ ସେବା ବଞ୍ଚିବି ରଜନୀ ଦିବା",
+          "ଲାଜ ଭୟ ଛାଡ଼ି ଏବେ କାହା ନାମ ଗାଇବି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କଲି ତାହା ଠାରେ ଆଶା ଭୋଗ କଲି ଏତେ ଦଶା",
+          "କେବଳ ମୋ ଲୋକହସା ସହି କେତେ ରହିବି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ଦ୍ୱିଜ ଲୋକନାଥ ଆୟତ୍ତ ନୋହିଲା ଚିତ୍ତ",
+          "ସତ୍ୟ କହୁଅଛି ମିତ ନିଶ୍ଚେ ପ୍ରାଣ ହାରିବି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-ki-upaya-kari-mohanaku-paibi-paraja-dwija-lokanatha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

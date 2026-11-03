@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-001266",
+  "name": {
+    "en": "Maaye go khauthile je mati",
+    "or": "ମାୟେ ଗୋ ଖାଉଥିଲେ ଯେ ମାଟି"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/maaye-go-khauthile-je-mati-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମାୟେ ଗୋ ଖାଉଥିଲେ ଯେ ମାଟି",
+          "ଛଡ଼ାଇଲି ହାତ ଦେଲେ ସେ ଛାଟି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗୋପାଳ ପୁଅଙ୍କ ସଙ୍ଗେ ଖେଳନ୍ତି",
+          "କ୍ରୋଧ ହୋଇ ଆଖି ଦେଲେ ତରାଟି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁମ୍ଭ ଆଗେ ମୁଁ କି ମିଛ କହିବି",
+          "ବେଗ କରି ତୁମ୍ଭେ ଦେଖ ଗୋ ପାଟି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତାଙ୍କ ନାମେ ମୁଁ କି ଖଚ କହନ୍ତି",
+          "ମିଛ ବୋଲି ମୋତେ ଆସି ମାରନ୍ତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ଲୋକନାଥ ତା ପାଦେ ମତି",
+          "ମାୟାଧର ହରି ମାୟା କଲେଟି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/maaye-go-khauthile-je-mati-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001263",
+  "name": {
+    "en": "Jasoda tora kanhai riti",
+    "or": "ଯଶୋଦା ତୋର କହ୍ନାଇ ରୀତି"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasoda-tora-kanhai-riti-krusnalila-dwija-lokanatha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯଶୋଦା ତୋର କହ୍ନାଇ ରୀତି",
+          "ନ ରହିବୁ ଆମ୍ଭେ ବ୍ରଜ ଯୁବତୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲୁଚି ଲୁଚି କାହା ପୁରେ ମିଳନ୍ତି ଗୋ",
+          "ଗମ୍ଭୀରେ ପଶି ଲବଣୀ ଭୁଞ୍ଜନ୍ତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାହାର ଖେଳିବା ପୁଅ କାନ୍ଦନ୍ତି ଗୋ",
+          "ଆଶ୍ୱାସି କହିଲେ ତହୁଁ ପଳାନ୍ତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶିକାରେ କାହାର ଭାଣ୍ଡ ଦେଖନ୍ତି ଗୋ",
+          "ଯଷ୍ଟିରେ ଫୋଡ଼ିଣ ତୁଣ୍ଡ ପାତନ୍ତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦିନେ ଦେଖିଲେ ପଥରେ ଆସନ୍ତି ଗୋ",
+          "ଚିକ୍କଣ କାଳିଆ ମଧୁର ମୂର୍ତ୍ତି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ଲୋକନାଥ ତା ପାଦେ ମତି ଗୋ",
+          "ଏକା ସେହି ନନ୍ଦଗୋପ ସମ୍ପତ୍ତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasoda-tora-kanhai-riti-krusnalila-dwija-lokanatha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

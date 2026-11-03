@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-001261",
+  "name": {
+    "en": "Ki achi mithya sansare",
+    "or": "କି ଅଛି ମିଥ୍ୟା ସଂସାରେ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-achi-mithya-sansare-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନାରଦ ଗୀତ",
+          "ମନ ହୋ ବୁଝିଲ କି ଅଛି ମିଥ୍ୟା ସଂସାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସ୍ୱୟଂ ଜଗନ୍ନାଥ ନର ଦେହ ଜାତ",
+          "ଆଛା ମନ ଦେଖିବା ନନ୍ଦ ମନ୍ଦିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାଳିନ୍ଦୀର ତଟ କେଳି ବଂଶୀବଟ",
+          "ଆଛା ମନ ଭ୍ରମଣ କରିବା ଥରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯମୁନାରେ ସ୍ନାନ କରି ଦରଶନ",
+          "ଆଛା ମନ କରିବା ସେ ଗୋପପୁରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲୋକନାଥ ଭଣି ଏତେ ଭାଳି ମୁନି",
+          "ଆଛା ମନ ଗମନ କଲେ ସଧୀରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-achi-mithya-sansare-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

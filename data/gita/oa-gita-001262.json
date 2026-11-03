@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001262",
+  "name": {
+    "en": "Na rahibu ambhe mane e gopapura",
+    "or": "ନ ରହିବୁ ଆମ୍ଭେମାନେ ଏ ଗୋପପୁର"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-rahibu-ambhe-mane-e-gopapura-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ ରହିବୁ ଆମ୍ଭେମାନେ ଏ ଗୋପପୁର",
+          "ନିତି ଜୀବିକା ବୁଡ଼ାଏ ତୋର କୁମର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନୀତି କରଇ ଯେତେ ତା ଅବା ସହିବୁ କେତେ",
+          "କୁଳ ଦେବତା ହୋଇଣ ପଶେ ଗମ୍ଭୀର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମନ୍ଦିରେ ଯାଇ ପଶଇ ସର ଲବଣୀ ଭୁଞ୍ଜଇ",
+          "କହିବାକୁ ମୁଖୁଁ ନ ଆସଇ ଉତ୍ତର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜାଣଇ କି କି ମନ୍ତର ମତି ହରଇ ଆମ୍ଭର",
+          "ପୁର ଜନେ ଭରଛନା ଆଉ ଅପାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କ୍ଷଣେ ଗୋପେ ନ ରହିବୁଁ ମଧୁ ଭୁବନକୁ ଯିବୁ",
+          "ଏକା ହୋଇଣ ସମ୍ଭାଳ ଏ ଘର ଦ୍ୱାର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଏକୁ ଆରେକ କହିଲେ ଦ୍ୱିଜ ଲୋକନାଥ ବୋଲେ",
+          "ଚିତ୍ତ ମତି ରହୁ ରାମକୃଷ୍ଣ ପୟର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-rahibu-ambhe-mane-e-gopapura-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

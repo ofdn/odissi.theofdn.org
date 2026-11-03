@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-001259",
+  "name": {
+    "en": "Dekha dekha ago sakhi nanda nandana",
+    "or": "ଦେଖ ଦେଖ ଆଗୋ ସଖୀ ନନ୍ଦନନ୍ଦନ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-dekha-ago-sakhi-nanda-nandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ଦେଖ ଆଗୋ ସଖୀ ନନ୍ଦନନ୍ଦନ",
+          "ନନ୍ଦ ଘରେ ଜନମିଛି କଳା ବଦନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତନୁ ଅତସୀ କୁସୁମ ଶରଦ ଚନ୍ଦ୍ର ବଦନ",
+          "ତିଳ କୁସୁମ ନାସିକା ଦିଶେ ଘଟଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ଥୂଳ କପୋଳେ ସୁରେଖ ଭ୍ରୂଲତା ମୋହନ ଚାପ",
+          "ହୃଦୟ ବୃଷାଳ ପଦ୍ମ ପ୍ରାଏ ଯତନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବାହୁ ଦିଶଇ ମୃଣାଳ ଲାବଣ୍ୟ ପାଦ ଯୁଗଳ",
+          "ଜାତ ହୋଇଛି କି ଆସି ଏଥି ମଦନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅତି ନହୁଲି ମୂରତି ଗୋପୀ ଆନନ୍ଦେ ଦେଖନ୍ତି",
+          "କହେ ଦ୍ୱିଜ ଲୋକନାଥ କରି ରଚନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-dekha-ago-sakhi-nanda-nandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

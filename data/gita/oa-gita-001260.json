@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001260",
+  "name": {
+    "en": "Jasode go kimpain kara rodana",
+    "or": "ଯଶୋଦେ ଗୋ କିମ୍ପାଇଁ କର ରୋଦନ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasode-go-kimpain-kara-rodana-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯଶୋଦେ ଗୋ କିମ୍ପାଇଁ କର ରୋଦନ",
+          "କହ୍ନାଇ କି ଖୋଜି ଆଣିଦେବୁ ବହନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏକ ନାରୀ ଆସିଥିଲା ନେତ୍ରେ ତ ଦେଖା ନ ଥିଲା",
+          "ବୋଇଲା ମୋର ବାଳକ ଗଲା ଯେ ନାଶ ହୋଇଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚାତୁରୀ କରି କହିଲା ଆମ୍ଭ ମନକୁ ମୋହିଲା",
+          "ତା ରୋଦନ ଶୁଣି ଦେହ ହେଲା କର୍ତ୍ତନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିକଳ ତାର ଦେଖିଣ ତୁମ୍ଭରି ଆଗେ କହିଣ",
+          "ପଚାରିଲ କିମ୍ପାଇଁ କି ଗୋ ଘଡ଼ି ଘଡ଼ିଣ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆମ୍ଭଙ୍କୁ କିପାଁ ପଚାର ତୁମ୍ଭ ହୃଦରେ ବିଚାର",
+          "କୋଳ କରି କ୍ଷୀର ଦେଉଥିଲା ଧରିଣ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯଶୋଦା ଏ ବାଣୀ ଶୁଣି ଦ୍ୱିଜ ଲୋକନାଥ ଭଣି",
+          "ମୋହ ହୋଇ ଲୋଟେ ହୃଦେ ହସ୍ତ ମାରିଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasode-go-kimpain-kara-rodana-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

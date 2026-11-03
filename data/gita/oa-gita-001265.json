@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-001265",
+  "name": {
+    "en": "Micha kahanti tumbha agare go maa",
+    "or": "ମିଛ କହନ୍ତି ତୁମ୍ଭ ଆଗରେ ଗୋ ମା"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/micha-kahanti-tumbha-agare-go-maa-krusnalila-dwija-lokanatha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମିଛ କହନ୍ତି ତୁମ୍ଭ ଆଗରେ ଗୋ ମା",
+          "ଖେଳୁ ଯେ ଥାଇ ମୁହିଁ ଦାଣ୍ଡରେ ଗୋ ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋତେ ଦେଖି ନ ପାରନ୍ତି",
+          "ଖଚ ମିଛ ସେ କହନ୍ତି",
+          "ବାଳ କୁମରଙ୍କୁ ଯେ ପଚାର ଗୋ ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗୃହରେ ମୁଁ ବସିଥାଇ",
+          "କା ସଙ୍ଗରେ ନ ଖେଳଇ",
+          "ଛାଟ ଦେଖି ମୋ ଦେହ ଅଧୀର ଗୋ ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତାଙ୍କ କଥା ସତ ମଣି",
+          "ଧାଉଁଛୁ ତୁ ଛାଟ ଘେନି",
+          "ତୁଣ୍ଡ ବିସ୍ତାରି ଦେଖ ବେଗର ଗୋ ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଛାଟ ତୁ ପକାଅ ତଳେ",
+          "ତୁଣ୍ଡ ମୋର ଦେଖ ଡୋଳେ",
+          "କାନ୍ଦି କହନ୍ତି ମାତା ଛାମୁର ଗୋ ମା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହଇ ଯେ ଲୋକନାଥ",
+          "ଏ ତ ବଡ଼ ଆଚମ୍ବିତ",
+          "ତୁମ୍ଭ ମନକୁ ତୁମ୍ଭେ ବିଚାର ଗୋ ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/micha-kahanti-tumbha-agare-go-maa-krusnalila-dwija-lokanatha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

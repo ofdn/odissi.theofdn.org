@@ -1,0 +1,89 @@
+{
+  "id": "oa-gita-001269",
+  "name": {
+    "en": "Koli mo koli kie khaiba",
+    "or": "କୋଳି ମୋ କୋଳି କିଏ ଖାଇବ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/koli-mo-koli-kie-khaiba-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୋଳି ମୋ କୋଳି କିଏ ଖାଇବ",
+          "ମନ ବଳି ଧନ କଉଡ଼ି ଦେବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେହୁ ଖାଇବ ମୋ କଣ୍ଟାଇ କୋଳି",
+          "ଠୋଲା ଠୋଲା କରି ଆଣିଛି ତୋଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେହୁ ଖାଇବ ମୋ କରଣ୍ଡା କୋଳି",
+          "ପଇସା ନଥିଲେ ଦେବି ମୁଁ କାଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପାଚିଲା କମଳା କେହୁ ଖାଇବ",
+          "ବରଷକୁ ତାର ବଳ ହୋଇବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କେହୁ ଖାଇବ ମୋ ପାଚିଲା ତାଳ",
+          "କଉଡ଼ି ନଥିଲେ ଉଧାର କର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସପୁରୀ ପଣସ କେହୁ ଖାଇବ",
+          "ଦୁଇ ଦିନ ଯାଏ ଦେହ ବାସିବ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "କେହୁ ଖାଇବ ମୋ ଆଙ୍କୁ ନିରାଶ",
+          "କଉଡ଼ି ଘେନିଣ ବହନ ଆସ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ଏ କୋଳି ସୁଆଦ ଯେହୁ ଜାଣିବ",
+          "ଉଧାର କରିଣ ସେହୁ ଖାଇବ"
+        ]
+      },
+      {
+        "n": 8,
+        "lines": [
+          "ଭଣେ ଲୋକନାଥ ହୋଇ ହରଷ",
+          "କଉଡ଼ି ଘେନିଣ ବହନ ଆସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/koli-mo-koli-kie-khaiba-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

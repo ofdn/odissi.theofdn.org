@@ -1,0 +1,90 @@
+{
+  "id": "oa-gita-001268",
+  "name": {
+    "en": "Sakhi go abibeka nanda jubati",
+    "or": "ସଖୀ ଗୋ ଅବିବେକ ନନ୍ଦ ଯୁବତୀ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-go-abibeka-nanda-jubati-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀ ଗୋ ଅବିବେକ ନନ୍ଦ ଯୁବତୀ",
+          "କେମନ୍ତେ ବାନ୍ଧିଲା ସତ ଗୋ ବଳିଲା",
+          "ପଥର କରିଥିଲା ଛାତିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବଡ଼ ଘର ବୋଲି କିଛି ନ ବୋଲିବା",
+          "ମନୁଷ୍ୟ କରେ ଏ ରୀତି କି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦୁର୍ଗା ଗୋ ରଖିଲା ମାଡ଼ି ନ ପଡ଼ିଲା",
+          "ସରନ୍ତା ନନ୍ଦର ସମ୍ପତ୍ତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦଇବ ବିଧାତା କି ବୁଝାମଣା ଗୋ",
+          "ଏ ପୁଅ ନ କଲା ନୃପତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗଉଡ଼ ଗୋପାଳେ ଢମାଳି ଅଟନ୍ତି",
+          "ବନେ ବୁଲନ୍ତି ଦିବାରାତି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଚାହାଁନ୍ତେ ଗୋ ସଖୀ ଶ୍ରୀକୃଷ୍ଣ ବଦନ",
+          "ପାଦ ନ ଚଳଇ ଏଣିକି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବୃକ୍ଷର ଉହାଡ଼େ ପ୍ରଭାତ ଆଦିତ୍ୟ",
+          "ବିରାଜି ଦିଶୁଛି ଜ୍ୟୋତିକି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "କୃଷ୍ଣଙ୍କୁ ଗୋପାଳେ କୋଳ ଯେ କରିଣ",
+          "କୋଟି ବନ୍ଧନକୁ ଫେଡ଼ନ୍ତି"
+        ]
+      },
+      {
+        "n": 8,
+        "lines": [
+          "ଲୋକନାଥ କହେ ଜନନୀ ବାନ୍ଧିଲା",
+          "ଗୋପାଳ ପୋଏ କହୁଛନ୍ତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-go-abibeka-nanda-jubati-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

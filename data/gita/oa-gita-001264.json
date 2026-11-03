@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001264",
+  "name": {
+    "en": "Syama sundara mati khai",
+    "or": "ଶ୍ୟାମ ସୁନ୍ଦର ମାଟି ଖାଇ"
+  },
+  "composer": "oa-person-000093",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-mati-khai-deha-kalu-dwija-lokanatha-krusnalila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ସୁନ୍ଦର ଶ୍ୟାମ ସୁନ୍ଦର",
+          "ମାଟି ଖାଇ ଦେହ କଲୁ ତୁ ନାରଖାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଖେଳିବାକୁ ତୁହି ଗଲୁ ବଳରାମକୁ ମାଇଲୁ",
+          "କାନ୍ଦି କରି କହେ ଆସି ମୋ ଆଗର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଡ଼ ଦୁରୁଦଣ୍ଡ ହେଉ ଦାଣ୍ଡେ ମୋତେ ନ ଚଳାଉ",
+          "ଝିଙ୍ଗାସ ସହିବି ଆଉ କେତେ କାହାର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋପୀଙ୍କର ଘରେ ପଶୁ କହିଲେ ତୁ କେତେ ରୁଷୁ",
+          "କାର କେତେ ସହି ଦେହ କଲି ପଥର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯେବେ ଖାଇନାହୁଁ ମାଟି ମୋତେ ଦେଖା ବେଗେ ପାଟି",
+          "କୋଳେ ଧରି ଭୁଞ୍ଜାଇବି ଲବଣୀ ସର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମାତାଙ୍କ ବଚନ ଶୁଣି କାନ୍ଦି କହେ ନୀଳମଣି",
+          "ଲୋକନାଥ ଦ୍ୱିଜ କହେ ହେ ଗିରିଧର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-sundara-mati-khai-deha-kalu-dwija-lokanatha-krusnalila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
