@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-001165",
+  "name": {
+    "en": "Dutia chanda dekhi mo mana ananda",
+    "or": "ଦୁତୀଆ ଚାନ୍ଦ ଦେଖି ମୋ ମନ ଆନନ୍ଦ"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dutia-chanda-dekhi-mo-mana-ananda-mahapurusa-jasobanta-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୁତୀଆ ଚାନ୍ଦ ଦେଖି ମୋ ମନ ଆନନ୍ଦ",
+          "ଭଜତୁ ରାଧା ଗୋବିନ୍ଦ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହରେ ରାମକୃଷ୍ଣ ତିନି",
+          "ଶ୍ରୀଗୁରୁଙ୍କ ଆଜ୍ଞା ଘେନି",
+          "ଛ ପାଞ୍ଚ ଗୁଣନ୍ତେ ତିରିଶ ହୋଇଲା",
+          "ଆଉ ରହେ କାହିଂ ବେନି ଦୁତୀଆ ଲୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାମଟି ନିତ୍ୟ ଷୋଡ଼ଶା",
+          "ରୂପ ଷୋଳ ତହିଂ ମିଶା",
+          "ମହାମନ୍ତ୍ର ଯହିଂ ବତିଶ ଅକ୍ଷର",
+          "ତହିଂ ଜଳେ ଦୀପ ଶୀଂସା ଦୁତୀଆ ଲୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦକ୍ଷିଣ ବାରିଧି ତୀରେ",
+          "କଳପବଟର ମୂଳେ",
+          "ଶଙ୍ଖ ଚକ୍ର ଧରି ବିଜେ କରିଛନ୍ତି",
+          "ଯୋଗମାୟା ଶିର ପରେ ଦୁତୀଆ ଲୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶୁକଳ ଗଉର ରଙ୍ଗ",
+          "କାଳୀ ଗୋରୀ ଦୁହେଂ ସଙ୍ଗ",
+          "ଷଷ୍ଠ ଚକ୍ର ପରେ ନାବ ବାହୁଛନ୍ତି",
+          "ନାଉରିଆ ଶିରୀରଙ୍ଗ ଦୁତୀଆ ଲୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଷଡ଼ଚକ୍ର ପରେ ଅନା",
+          "ଉଡ଼େ ଅବଧୂତ ବାନା",
+          "କହେ ଯଶୋବନ୍ତ ଦେବଙ୍କୁ ଦୁର୍ଲ୍ଲଭ",
+          "କରତୁ ନାମ ଭଜନା ଦୁତୀଆ ଲୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dutia-chanda-dekhi-mo-mana-ananda-mahapurusa-jasobanta-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

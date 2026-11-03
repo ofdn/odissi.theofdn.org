@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001166",
+  "name": {
+    "en": "Chala dekhi jiba go sunya bedi",
+    "or": "ଚାଲ ଦେଖିଯିବା ହୋ ଶୂନ୍ୟବେଦୀ"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chala-dekhi-jiba-go-sunya-bedi-tini-konia-mahapurusa-jasobanta-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାଲ ଦେଖିଯିବା ହୋ ଶୂନ୍ୟବେଦୀ ତିନିକୋଣିଆ",
+          "କରକେ ବସି ବର ବିଭା ହେଉଛି",
+          "ଦୁଇ ପାଖେ ଦୁଇ କନିଆ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶୂନ୍ୟ ପଣ୍ଡାମାନେ ବିଭା କରୁଛନ୍ତି",
+          "ଶୂନ୍ୟେଣ ଶୂନ୍ୟ ମିଶାଇ",
+          "ଶୂନ୍ୟ ସ୍ତିରୀମାନେ ବନ୍ଦାଇ ଆସନ୍ତି",
+          "ଥିବେ ହୁଳହୁଳି ଦେଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିଭାର ଉତ୍ସବ କି ଅବା ବର୍ଣ୍ଣିବା",
+          "ଝରୁଛି ଅମୀୟ ନଈ",
+          "ପଚିଶଠାରୁ ବିଂଶ ପରିଯନ୍ତେ",
+          "ହୋଉଅଛି ଧୁଆଧୋଇ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୂର୍ବରୁ ବର ପଛିମ ଆସଇ",
+          "ବାର ବରଜାତି ମେଳେ",
+          "ବରଘର ଜାଣି କନିଆ କରିଛି",
+          "ବାଟ ବରକୋଳି ମୂଳେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବର ଚଳିଗଲେ କନ୍ୟା ଚଳିଯିବ",
+          "ଚଳିଯିବେ ବରଜାତି",
+          "ବୋଲେ ଯଶୋବନ୍ତ ଗୁରୁସେବା ଥିଲେ",
+          "ପାଇବୁ ନିଶ୍ଚେଂ ତୁ ଗତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chala-dekhi-jiba-go-sunya-bedi-tini-konia-mahapurusa-jasobanta-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-001168",
+  "name": {
+    "en": "Mahasunye bindu brahma",
+    "or": "ମହାଶୂନ୍ୟେ ବିନ୍ଦୁବ୍ରହ୍ମ"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mahasunye-bindu-brahma-mahapurusa-jasobanta-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋହାଶୂନ୍ୟେ ବିନ୍ଦୁବ୍ରହ୍ମ ଉଦେ ହୋଇଛି",
+          "ତହିଂ ତଳେ ଅର୍ଦ୍ଧମାତ୍ରା ଘେରି ରହିଛି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତହିଂରୁ ଓଁକାର ଜାତ ଓଁକାରୁ ବେଦ ସମ୍ଭୂତ",
+          "ତହୁଂ ଅବନା ବେଷ୍ଟିତ ପ୍ରକାଶି ଅଛି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅବନାରୁ ଷୋଳନାମ ଷୋଳରୁ ବତିଶ ଜାଣ",
+          "ବତିଶୁଂ ଚୌଷଠୀ ପୁଣ କ୍ଷରି ରହିଛି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏମନ୍ତ ବିରାଟ କହି ହେତୁ ମତି ଥାଅ ଦେଇ",
+          "ଭାବିଯିବ ମୋକ୍ଷ ହୋଇ ତରିଯାଉଛି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭାଳେ ଯଶୋବନ୍ତ ଦାସ ମନ ମଧ୍ୟେ କରି ଆଶ",
+          "ସର୍ବଦା ସେ ପାଦପଦ୍ମ ହୃଦେ ଧ୍ୟାଉଛି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mahasunye-bindu-brahma-mahapurusa-jasobanta-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

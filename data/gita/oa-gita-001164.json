@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001164",
+  "name": {
+    "en": "Duti go jiba hansaku dekhi",
+    "or": "ଦୂତୀ ଗୋ ଯିବା ହଂସକୁ ଦେଖି"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-go-jiba-hansaku-dekhi-mahapurusa-jasobanta/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୂତୀ ଗୋ ଯିବା ହଂସକୁ ଦେଖି",
+          "ଥଣ୍ଟ ପକ୍ଷୀ ଭିତରେ ଲୁଚାଇଛି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅପୂର୍ବ ହଂସର ତିନୋଟି ପାଦ",
+          "ଏକ ପାଦକେ ଘୋଟିଛି ଅଗାଧ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏକ ପାଦ ତାର କେଶରେ ସ୍ଥିତି",
+          "ଏକ ପାଦ ତାର ଶୂନ୍ୟେ ଗୁପତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଣ୍ଡିରା ହଂସର ଏକଇ ଡିମ୍ବ",
+          "ଏକ ଡିମ୍ବକେ ଘୋଟିଛି ଅଗାଧ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଡିମ୍ବୁ ବାହାରି ଛୁଆ ଉଡ଼ିଗଲା",
+          "ଜଳ ଚଳୁକେ ଦେଉଳ ବୁଡ଼ିଲା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସେ ହଂସ ଚରଣେ ମୋହର ଆଶ",
+          "ଭାବେ ଭଣିଲା ଯଶୋବନ୍ତ ଦାସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-go-jiba-hansaku-dekhi-mahapurusa-jasobanta/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

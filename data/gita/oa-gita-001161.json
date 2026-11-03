@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001161",
+  "name": {
+    "en": "Sumana are mo bola kara",
+    "or": "ସୁମନ ଆରେ ମୋ ବୋଲ କର"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sumana-are-mo-bola-kara-mahapurusa-jasobanta/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସୁମନ ଆରେ ମୋ ବୋଲ କର",
+          "ସୁସଙ୍ଗେ ସୁପଥେ ଯାଆରେ",
+          "ଅଗାଧ ଜଳ ନ ପାଇ ଥଳ",
+          "ହରି ନାମ ମୁଖେ ଗାଆରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁମନ ପଟାକୁ କୁମନ କଣ୍ଟା",
+          "ବିନ୍ଧି ଜଗତୀକୁ ଯାଆରେ",
+          "ହେତୁ କେଉଟ ମଙ୍ଗକୁ ଆଣ୍ଟ",
+          "ଆଗ ପଛ କରି ବାହାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦିଗୁଣା ମାରି ଚାରି ଅନ୍ଧାରି",
+          "ଆଠ ଆଖଡ଼ାକୁ ଚାହାଂରେ",
+          "ଯମ ଯେମନ୍ତେ ଯିବ ପରତେ",
+          "ଯିବା ଆସିବାର ଚାହାଂରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଷଡ଼ ଅଇରି ବିନାଶ କରି",
+          "ନିଜ ବଣିଜରେ ଥାଆରେ",
+          "ସାଧୁ ସଙ୍ଗତେ ବେଭାର ଯେବେ",
+          "ମୂଳ ରଖି ଲାଭ ଖାଆରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନ କର ହେଳା ବୁଡ଼ିବ ଭେଳା",
+          "ବହିବଟି ବଡ଼ ବାଆରେ",
+          "ଯଶୋବନ୍ତ ଦାସ ସେ ପଦେ ଶରଣ",
+          "ନୋହିବେଟି କେହି ସାହାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sumana-are-mo-bola-kara-mahapurusa-jasobanta/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

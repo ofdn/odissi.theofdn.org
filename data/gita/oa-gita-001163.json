@@ -1,0 +1,53 @@
+{
+  "id": "oa-gita-001163",
+  "name": {
+    "en": "Mana matta duhanla gai",
+    "or": "ମନ ମତ୍ତ ଦୁହାଂଳ ଗାଈ"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-matta-duhanla-gai-mahapurusa-jasobanta/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନ ମତ୍ତ ଦୁହାଂଳ ଗାଈ",
+          "ଗାଈ ପଳାଇଲା ପଘା ଛିଣ୍ଡାଇ",
+          "ସେ ଗାଈ ମହିମା ଦେବାକୁ ଉପମା",
+          "କେହି ଏକୋଇଶ ବ୍ରହ୍ମାଣ୍ଡେ ନାହିଂ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗାଈ ନା ସୁବୁଦ୍ଧି କିଏ ହେଲା ବାଦୀ",
+          "ଛିଟିକା ମନ୍ତର କିବା ଜାଣଇ",
+          "ବାରବାଟି ବିଲ ପଡ଼ିଆ ଉଠିଆ",
+          "ଦିନେ ଗାଈ ଘାସ ଖାଇଲା ନାହିଂ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତ୍ରିଗୁଣ ଦଉଡ଼ି କଷି ବାନ୍ଧିଥିଲି",
+          "ଛିଣ୍ଡାଇ ପଳାଇ ଗଲା ପଳାଇ",
+          "କହେ ଯଶୋବନ୍ତ ଗାଈ ପାଦେ ଆଶ",
+          "ଗାଈ କି କେ ଦେବ ମୋ ସୁଧୁରାଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-matta-duhanla-gai-mahapurusa-jasobanta/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

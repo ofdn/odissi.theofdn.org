@@ -1,0 +1,56 @@
+{
+  "id": "oa-gita-001167",
+  "name": {
+    "en": "Ki kale syama sundara kanhu",
+    "or": "କି କଲେ ଶ୍ୟାମ ସୁନ୍ଦର କାହ୍ନୁ"
+  },
+  "composer": "oa-person-000111",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kale-syama-sundara-kanhu-mahapurusa-jasobanta-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି କଲେ ଶ୍ୟାମ ସୁନ୍ଦର କାହ୍ନୁ",
+          "ରାତ୍ର ଦିନ ମୋ ନ ଯାଏ ମନୁ",
+          "କଦମ୍ବମୂଳିଆ କାହ୍ନୁ",
+          "ଘନଘନ କରି ବଜାଏ ବେଣୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଓଲଟ କଦମ୍ବ ମୂଳେ ବଜାୟେ",
+          "ଉଚ୍ଚାରି ମୁରଲୀ କି ରଙ୍ଗେ ବାୟେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଂଶୀସ୍ୱନ ଆଣି କେ ଦ୍ୟନ୍ତା ମୋତେ",
+          "ଭସାଇ ଦିଅନ୍ତି ଯମୁନା ସ୍ରୋତେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାଧାକୃଷ୍ଣ ଭାବ ଅମୀୟ ରସ",
+          "ଭାବେ ଭଣିଲେ ଯଶୋବନ୍ତ ଦାସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-kale-syama-sundara-kanhu-mahapurusa-jasobanta-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
