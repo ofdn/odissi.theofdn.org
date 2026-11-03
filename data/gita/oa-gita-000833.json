@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000833",
+  "name": {
+    "en": "Are mahi mandana",
+    "or": "ଆରେ ମହୀ ମଣ୍ଡନା"
+  },
+  "composer": "oa-person-000050",
+  "mula_raga": [
+    "oa-raga-000177"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/are-mahi-mandana-sindhuda-dinakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆରେ ମହୀ ମଣ୍ଡନା ମଣ୍ଡନୀରେ",
+          "ମନ ମୋହିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଦନ ମୋହନ ରସିକ ରତନ",
+          "ମଦନେ ଦୁଃଖୀ ତୋ ଘେନିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅହର୍ନିଶି ଧ୍ୟାନ କରେ ତୋ ବଦନ",
+          "ମତ୍ତ ମରାଳ ଗମନୀରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତାର ତର ହାର ସାର ଘନସାର",
+          "ଚନ୍ଦନ ଅଙ୍ଗେ ନ ଘେନିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ଦୀନକୃଷ୍ଣ ରକ୍ଷା କର କୃଷ୍ଣ",
+          "ବାରେ ମୋ ବିନୟ ଘେନିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/are-mahi-mandana-sindhuda-dinakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

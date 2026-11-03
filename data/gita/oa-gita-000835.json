@@ -1,0 +1,63 @@
+{
+  "id": "oa-gita-000835",
+  "name": {
+    "en": "Airabata kumbha samana",
+    "or": "ଅଇରାବତ କୁମ୍ଭ ସମାନ"
+  },
+  "composer": "oa-person-000050",
+  "mula_raga": [
+    "oa-raga-000091"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/airabata-kumbha-samana-kolahala-dinakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅଇରାବତ କୁମ୍ଭ ସମାନ ହୋଇଲା",
+          "ଐରାବତ କୁମ୍ଭ ପ୍ରାଏ",
+          "ଏତେକେହେଁ ଦିନେ ମନେ ନ ପଡ଼ିଲା",
+          "ନନ୍ଦ ଗଉଡ଼ ତନୟେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରେ ରାମା କର୍ମ ଧର୍ମ ମୋର ନାହିଁ",
+          "ଅଦୃଷ୍ଟ ରଜାରୁ ପାଦ ସେବା କଲା ଫଳ ଏହି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏଡ଼େ ଉଚ୍ଛବରେ ମୁଁ ଅଣଉଚ୍ଛବ",
+          "ଏହା ମୁଁ କହିବି କାହା",
+          "ରତିରଙ୍କ ହୋଇ ମରି ଯାଉଅଛି",
+          "ବାରେ ହେଉ ନାହୁଁ ସାହା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାକା ଥାଉ ଥାଉ ଅନ୍ଧାର ହୋଇଲା",
+          "ଏହା ଅତି ବିପରୀତ",
+          "ବୋଲେ ଦୀନକୃଷ୍ଣ କୃଷ୍ଣ ବୋଲେ ରାଧା",
+          "ହସି ଚାହିଁଲେ କିଞ୍ଚିତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/airabata-kumbha-samana-kolahala-dinakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

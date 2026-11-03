@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000832",
+  "name": {
+    "en": "Ahe rasika sundara bara",
+    "or": "ଆହେ ରସିକ ସୁନ୍ଦରବର"
+  },
+  "composer": "oa-person-000050",
+  "mula_raga": [
+    "oa-raga-000177"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-rasika-sundara-bara-sindhuda-dinakrusna/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ରସିକ ସୁନ୍ଦରବର ହେ",
+          "ଆହେ ନାଗର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅତି ହିଁ ନିଷ୍ଠୁର ହୃଦୟ ତୁମ୍ଭର",
+          "ପ୍ରିୟ ସଖୀଠାରେ ମୋର ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁମ୍ଭ ବିନୁ ତନୁ ତନୁ କଲା ଅତି",
+          "ଯେହ୍ନେ ନବ ଶୀତକର ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଳୟ ପବନ ଅନଳ ସମାନ",
+          "ଦହଇ ଅଙ୍ଗ ତାହାର ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତୁମ୍ଭଙ୍କୁ ଭଜିଲା ଫଳ ତ ଭଜିଲା",
+          "ମଦନ ଶର ପ୍ରହାର ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦୀନକୃଷ୍ଣ ବୋଲେ ଏବେହେଁ ନଇଲେ",
+          "ନାହିଁ ନାହିଁ ପ୍ରତିକାର ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-rasika-sundara-bara-sindhuda-dinakrusna/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
