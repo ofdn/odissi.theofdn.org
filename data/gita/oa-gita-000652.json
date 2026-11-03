@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000652",
+  "name": {
+    "en": "Syama chhabire kali mun",
+    "or": "ଶ୍ୟାମ ଛବିରେ କାଲି ମୁଁ"
+  },
+  "composer": "oa-person-000024",
+  "mula_raga": [
+    "oa-raga-000059"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-chhabire-kali-mun-punnaga-khemata/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମ ଛବିରେ କାଲି ମୁଁ ତ ଭୁଲି ଗଲିରେ",
+          "ଚିତ୍ତ ମୋର ମୋହିନେଲା ତ ମୁରଲୀ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତ୍ରିଭଙ୍ଗୀ ମୂରତି ହୋଇ ନୀପ ମୂଳେ ଥିଲେ ରହି",
+          "ସେ ରୂପକୁ କିଞ୍ଚିତେ ମୁଁ ଚାହିଁଦେଲି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଖି ସେ କଳା କହ୍ନାଇ କି କରି ଦେଲେ ଅନାଇଁ",
+          "ମୋ ଦମ୍ଭ ଧଇର୍ଯ୍ୟ କାହିଁ ହରାଇଲି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କଲେ ଯେତେ ଅଙ୍ଗ ଭଙ୍ଗୀ କି କହିବି ପ୍ରାଣସଙ୍ଗୀ",
+          "ମୋ ଉରକୁ ଦେଲେ ଫିଙ୍ଗି ନେତ୍ର ଭାଲି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନୃପ କୃଷ୍ଣଚନ୍ଦ୍ର ବୋଲେ ଦେଖିଲେ ସେ ମୂର୍ତ୍ତି ହେଳେ",
+          "ବରଣ କରନ୍ତି ହାର ଗୁନ୍ଥି ମଲ୍ଲୀରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-chhabire-kali-mun-punnaga-khemata/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

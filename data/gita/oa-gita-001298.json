@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001298",
+  "name": {
+    "en": "Mita ana ehi para brajaraja kanha",
+    "or": "ମିତ ଅନା ଅନା ଗୋ ଏହି ପରା ବ୍ରଜରାଜ କାହ୍ନା"
+  },
+  "composer": "oa-person-000024",
+  "mula_raga": [
+    "oa-raga-000189"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mita-ana-ehi-para-brajaraja-kanha-abhiri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମିତ ଅନା ଅନା ଗୋ",
+          "ଏହି ପରା ବ୍ରଜରାଜ କାହ୍ନା ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତ୍ରିଭଙ୍ଗୀରେ ଉଭା ହୋଇ ମୁରଲୀ ଅଧରେ ଦେଇ",
+          "ବାଙ୍କ ନୟନରେ ଚାହିଁ ହରୁଛି ଚେତନା ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶିରେ ଶିଖୀପୁଚ୍ଛ ଚୂଡ଼ା ତହିଁ ସେବତୀ ପାଖୁଡ଼ା",
+          "ଯୁବତୀଙ୍କ ଘରବୁଡ଼ା ସେ କାଳିଆ ସୁନା ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖି ସେ ମୋହନ ମୂର୍ତ୍ତି ରହିବ କାହାର ଧୃତି",
+          "ହେଲେ ପତିବ୍ରତ ମତି ନ ହେବ କି ଚୂନା ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀମତୀ ବୋଲନ୍ତି ଦୂତୀ ସେ ମୋ ନୟନ ସମ୍ପତ୍ତି",
+          "ସେ ପୟରେ କୃଷ୍ଣଚନ୍ଦ୍ର ନୃପତି ଭାବନା ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mita-ana-ehi-para-brajaraja-kanha-abhiri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

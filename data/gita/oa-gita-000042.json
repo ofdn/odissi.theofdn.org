@@ -1,0 +1,53 @@
+{
+  "id": "oa-gita-000042",
+  "name": {
+    "en": "Chahan ki sobha mitani",
+    "or": "ଚାହାଁ କି ଶୋଭା ମିତଣୀ"
+  },
+  "composer": "oa-person-000024",
+  "mula_raga": [
+    "oa-raga-000024"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahan-ki-sobha-mitani-rasa-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାହାଁ କି ଶୋଭା ମିତଣୀ ମୁରଲୀପାଣି",
+          "ତନୁ ନିନ୍ଦେ ନବଘନ ଇନ୍ଦ୍ରନୀଳମଣି ଗୋ",
+          "କେକିପୁଚ୍ଛ ବାଙ୍କଚୂଳ ତ୍ରିଭଙ୍ଗିମା ଠାଣି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭାଲେ ଗୋରଚନା ଚିତା ବଙ୍କିମା ଚାହାଣୀ",
+          "ଭୂରୁ ନୀଳ କାମଚାପ ନାସା ମୋତିମଣି ।",
+          "(ପଡ଼ି)",
+          "ଗଳେ ବନମାଳା ପୃଷ୍ଠଦେଶେ ଶୋହେ ବେଣୀ",
+          "କଟିରେ ହେମକିଙ୍କିଣୀ ବାଜେ କିଣିକିଣି",
+          "ଶ୍ରୀକରେ ବଳୟ ପାଦେ ନୂପୁର ବାଜେଣି",
+          "ଦେଖି ସେ ମୂରତି ବଶ ନୋହିବ କେ ପୁଣି",
+          "ଶ୍ରୀ ଶ୍ରୀ କୃଷ୍ଣଚନ୍ଦ୍ର ନୃପଇନ୍ଦ୍ର ଭଣି ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahan-ki-sobha-mitani-rasa-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

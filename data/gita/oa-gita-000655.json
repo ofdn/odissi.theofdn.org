@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000655",
+  "name": {
+    "en": "Kahinki chahindeli syamaku go",
+    "or": "କାହିଁକି ଚାହିଁଦେଲି ଶ୍ୟାମକୁ ଗୋ"
+  },
+  "composer": "oa-person-000024",
+  "mula_raga": [
+    "oa-raga-000134"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-chahindeli-syamaku-go-todi-tripata/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ଚାହିଁଦେଲି ଶ୍ୟାମକୁ ଗୋ",
+          "ଅଇରି ହେଲି ସିନା କାମକୁ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୁଳ ଲାଜ ଭୀତି ହୋଇଲା ଦୂର",
+          "ନୟନେ ନାଚିଲେ ନଟନାଗର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବସିଲାଣି ଅପକୀରତି ହାଟ",
+          "ତେବେ ମନୁ ନ ଯାଏ ନନ୍ଦଚାଟ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୁରୁଜନ ଶାଶୁ ନଣନ୍ଦ ଗାଳି",
+          "ଦିଅନ୍ତି କେତେ ମାରି କରତାଳି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମନା ହେଲାଣି ଯମୁନା ପାଣିକି",
+          "ଲୁଚି ଦେଖିଯାଏଁ ବେନୁ ପାଣିକି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କି ମନ୍ତ୍ର କରିଛି ନନ୍ଦ କହ୍ନାଇ",
+          "ତାଙ୍କୁ ତିଳେ ମୂର୍ଚ୍ଛି ନୋହିଲା ସହି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗଲେ ଅପବାଦେ ଯାଉଛି ସରି",
+          "ନ ଗଲେ ମଦନେ ହେଉଛି ଘାରି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ନୃପ କୃଷ୍ଣଚନ୍ଦ୍ର ବଦତି ସହି",
+          "ରାଧାକୃଷ୍ଣ ବିନୁ ଶରଣ ନାହିଁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-chahindeli-syamaku-go-todi-tripata/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
