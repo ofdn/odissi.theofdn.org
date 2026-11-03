@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000589",
+  "name": {
+    "en": "Ehi eka ki re prana sahi",
+    "or": "ଏହି ଏକାକିରେ ପ୍ରାଣସହି"
+  },
+  "composer": "oa-person-000030",
+  "mula_raga": [
+    "oa-raga-000070"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-eka-ki-re-prana-sahi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି ଏକାକିରେ ପ୍ରାଣସହି",
+          "ସଦା ନୟନେ ନାଚୁଛି ହୃଦରେ ରହି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତ୍ରିଭଙ୍ଗୀ ସୁନ୍ଦର ବଂଶୀ ନ୍ୟାସାଧର",
+          "ଚିତ୍ରପଟ ଦେଖି ଅନୁମାନୁଛି ମୁହିଁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୃଷ୍ଣ କେହି ବୋଲି ମୁଁ ପଚାରୁ ଆଳୀ",
+          "ନନ୍ଦନନ୍ଦନ ବୋଲି ତୁ ଦେବାର କହି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯମୁନାରୁ ବାରି ଆଣି ଆସୁ ନାରୀ",
+          "ଦେଖିଲା କ୍ଷଣି ଚିତ୍ତକୁ ନେଉଛି ମୋହି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଧନ୍ୟ ଆଜ ଦିନ ମୋର ନେତ୍ର ମନ",
+          "ପବିତ୍ର କଲି ଶ୍ୟାମଳ ରୂପକୁ ଚାହିଁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ହେ କୀର୍ତ୍ତିଦା ଜେମା ଏ ଗୋଷ୍ଠ ଚନ୍ଦ୍ରମା",
+          "ବୋଲି ଧୀରେ ହରିବନ୍ଧୁ ଦେଲା ଚିହ୍ନାଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ehi-eka-ki-re-prana-sahi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
