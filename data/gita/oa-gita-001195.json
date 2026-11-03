@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001195",
+  "name": {
+    "en": "Duti ratipati bhiti",
+    "or": "ଦୂତୀ ରତିପତି ଭୀତି"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-ratipati-bhiti-atireka-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୂତୀ ରତିପତି ଭୀତି ଅତିରେକ ହୋଇଲା",
+          "ହୃଦୟେ ଉଦୟ ହୋଇ କାମାନଳ ଦହିଲାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆନ ହେତୁ କିଛି ନାହିଁ ଆନନକୁ ମୋର ସହୀ",
+          "ଆନନ୍ଦେ ନନ୍ଦନନ୍ଦନ ଏକମାତ୍ର ଚାହିଁଲା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାସା ଫୁଲାଇବା ରୀତି ସୁସ୍ମିତ ମିଶା ଭାରତୀ",
+          "ତା ଚାରୁଠାର ଚାହାଣୀ ଆନକୁ ତ ନଇଲା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦୂରୁଁ ଚାହିଁଲା କ୍ଷଣି ସେ ଚାରୁ ଭୂରୁ ନାଟ ରସେ",
+          "କରୁଁ କରୁଁ କରୁ ମୋର କୁମ୍ଭ ଖସି ପଇଲା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କଟୀ ତଟେ ପୀତାମ୍ବର ପଟ୍ଟ ପିନ୍ଧା ଆଡ଼ମ୍ବର",
+          "ହଟି ଚିତ୍ତ ବଟି ନେଇ ନଟ ସିନା ସାଇଲା ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବ୍ରଜନାଥ ହୋଇ ରତା ଭାଷେ ଭାସିଯିବ ଚିନ୍ତା",
+          "ରସା ରସରାଶିକି ତୁ ଭେଟି ଗୋପୀ ବୋଇଲା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-ratipati-bhiti-atireka-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

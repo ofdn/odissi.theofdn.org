@@ -1,0 +1,82 @@
+{
+  "id": "oa-gita-001193",
+  "name": {
+    "en": "He pathika kahinki jaucha kaha",
+    "or": "ହେ ପଥିକ କାହିଁକି ଯାଉଛ କହ"
+  },
+  "composer": "oa-person-000148",
+  "mula_raga": [
+    "oa-raga-000177"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-pathika-kahinki-jaucha-kaha-sindhuda-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେ ପଥିକ କାହିଁକି ଯାଉଛ କହ",
+          "ଏ ଘନସ୍ତନୀ ତ ବରଷି ନିକି",
+          "ଛାଡ଼ିଯିବ କହ କହ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘଡ଼ଘଡ଼ି ରଡ଼ି ଶୁଣି ତରତର",
+          "ହୋଉଛି ଏ ମୋର ମତି",
+          "ଅତନୁ ଅନ୍ଧାର ଘୋଟୁଛି ଏଥିରେ",
+          "ହେବ ଏ କାନ୍ତାର ଗତି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରହ ପୁର ମୋର ପରବାସୀ ବର",
+          "ଆସୁ ନାହିଁ କି ବିଚାରେ",
+          "ହରବର ଯୋଗ ଅଛି ତୋତେ ଭୋଗ",
+          "ଯାଅନା ଚଳି ସତ୍ୱରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସ୍ଫୁଟ ସୁମନେ ମଧୁପେ ବସିଛନ୍ତି",
+          "ଦେଖ ବାସ ଅଛି ତହିଁ",
+          "ହରଷେ ମୋହନେ ଶୋଇ ନ ପାରିବି",
+          "ଦେବି ପରଭାବ ନାହିଁ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସୁତୀକ୍ଷ କଟାକ୍ଷ କାଣ୍ଡ ଲକ୍ଷ ଲକ୍ଷ",
+          "ଲାଖ ତାର ବକ୍ଷ କଲା",
+          "କାଶହାସ ପରକାଶ ଆଶା ତାର",
+          "ଆଶା ଆସ ସୂଚିଗଲା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ରସିକା ସିହାଣୀ ଛଳ ଶ୍ଳେଷ ବାଣୀ",
+          "ଶୁଣି ସେ ନାଗରମଣି",
+          "ଦୁହେଁ ରତିରଙ୍ଗ କଲେ ମାନ ଭଙ୍ଗ",
+          "କବି ବ୍ରଜନାଥ ଭଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-pathika-kahinki-jaucha-kaha-sindhuda-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-001190",
+  "name": {
+    "en": "Sakhi dekhili aja mun braja patinki",
+    "or": "ସଖୀ ଦେଖିଲି ଆଜ ମୁଁ ବ୍ରଜପତିଙ୍କି"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-dekhili-aja-mun-braja-patinki-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀ ଦେଖିଲି ଆଜ ମୁଁ ବ୍ରଜପତିଙ୍କି ଗୋ",
+          "ମନ ଅଭିରାମ ନବ ଚୂତ କାନ୍ତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଜଳ ଜଳଦ ନୀଳ ମଞ୍ଜୁଳ ତମାଳ ଦଳ",
+          "ଦଳିତ କଜ୍ଜ୍ୱଳ ଶ୍ୟାମ ଦ୍ୟୁତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କଟୀ ତଟେ ପୀତପଟ ଘନେ ଚପଳା ଚହଟ",
+          "ନଟବର ମନୋହର ମୂର୍ତ୍ତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶିଖୀ ଶିଖଣ୍ଡକ ଚୂଳ ସୁଷମ କୁସୁମ ମାଳ",
+          "ଲୁଳୁଥିଲା କଣ୍ଠୁ ପାଦ କତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୃଦୁ ମନ୍ଦ ମନ୍ଦ ହାସ ସୁରଙ୍ଗ ଓଷ୍ଠେ ପ୍ରକାଶ",
+          "ହୋଇ ନାଶେ ଅନାୟାସେ ଧୃତିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତ୍ରିଭଙ୍ଗୀ ଛନ୍ଦରେ ଉଭା ଶ୍ରୀକରେ ମୁରଲୀ ଶୋଭା",
+          "ଯହିଁ ବାଇ କଲେ କୁଳବତୀଙ୍କି ଗୋ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଦୀନ ବ୍ରଜନାଥ ରାତି ଦିନ ଏ କେଶୀ ଅରାତି",
+          "ରୂପ ଭାବୁଅଛି ଭବ ଭୀତିକି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-dekhili-aja-mun-braja-patinki-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

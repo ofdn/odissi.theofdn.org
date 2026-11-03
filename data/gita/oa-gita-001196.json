@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-001196",
+  "name": {
+    "en": "Dhana ki range chahen",
+    "or": "ଧନ କି ରଙ୍ଗେ ଚାହେଁ"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dhana-ki-range-chahen-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଧନ କି ରଙ୍ଗେ ଚାହେଁ",
+          "ତରଙ୍ଗେ ତୁଳ ବାଳ କୁରଙ୍ଗୀ ନୋହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଟାକ୍ଷ ତଳୁଥାଇ ଶ୍ରବଣ ସୀମା",
+          "ନାଶେ ଅନ୍ୟାୟ ଋଷି ଦମ୍ଭ ଗାରିମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗଣ୍ଡ ମଣ୍ଡଳେ ପୂରିଥାଇ ତ ହାସ",
+          "ଓଷ୍ଠ ପଲ୍ଲବେ ଲବେ କରି ପ୍ରକାଶ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲେଖା ନାରୀ କୁଳେ ସେ ଲେଖା ରସିକା",
+          "ଫୁଲାଇ ପ୍ରଫୁଲ୍ଲିତ ତିଳ ନାସିକା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶକ୍ର ଭୁଲିବ ବକ୍ର ଭ୍ରୂଲତା ନାଟେ",
+          "ମୃଦୁ ମଧୁରେ ପଶି ପ୍ରେମ ଉତ୍କଟେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ହାବ ଭାବ ଲୀଳାଦି ତା ନେତ୍ରେ ଥାଇ",
+          "ପ୍ରକାଶ ହୋଏ ରତି ସହି ଅସହି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ସୁରସେ କବି ବ୍ରଜନାଥ ଭଣଇ",
+          "ନାଗରବର ମନ ଏହା ଜାଣଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dhana-ki-range-chahen-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

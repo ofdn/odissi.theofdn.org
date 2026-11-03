@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-001194",
+  "name": {
+    "en": "E ki riti tora kuakuta",
+    "or": "ଏ କି ରୀତି ତୋର କୁଆକୁଟା"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-riti-tora-kuakuta-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ କି ରୀତି ତୋର",
+          "କୁଆକୁଟା କଲୁ ଅତୀତ ଲୋ ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘର ବର ଦୁଇ ଦୂର କରିଦେଇ",
+          "ତୋ ବୋଲେ ଅଇଲି ଏଥି ତ",
+          "ମରମର ତୁହି ତରତର ହୋଇ",
+          "ଆଣି କଲୁ ଏତେ ବ୍ୟଥିତ ଲୋ ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଲୁ ଏତେ ଦଣ୍ଡ ଭାଲୁ ବାଘ ଗଣ୍ଡ",
+          "ଚାଲୁଥିବେ ଗଜ ଯୂଥ ତ",
+          "ମୁଖରେ ତାଙ୍କର ମୁଁ ଖରେ ପଡ଼ିଲେ",
+          "ସୁଖୀ ହୁଅନ୍ତା ଚିତ୍ତ ତ ଲୋ ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଏ ଗୋପ ଯୁବତୀ ସତୀକି ଅସତୀ",
+          "ବାଦ ହୋଇଥାନ୍ତି ନିତି ତ",
+          "ଫୁଟିଲେ ଏ ମଳ ଫାଟିଲା କପାଳ",
+          "ହେବ ନାଗ ମଥିତ ଲୋ ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହୁଥିଲୁ ତୁ ସେ ସେହି ଥିବ କୁଞ୍ଜେ",
+          "ଚାହିଁ ତୋ ଗମନ ପଥ ତ",
+          "ଉଠ ଉଠ ମଠ ନ କର ଏ ପାଠ",
+          "ଛାଡ଼ କହେ ବ୍ରଜନାଥ ତ ଲୋ ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-riti-tora-kuakuta-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

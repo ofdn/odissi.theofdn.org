@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-001191",
+  "name": {
+    "en": "Ali banamali guna japamali",
+    "or": "ଆଳି ବନମାଳୀ ଗୁଣ ଜପାମାଳି"
+  },
+  "composer": "oa-person-000148",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ali-banamali-guna-japamali-dhanasri-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଳି ବନମାଳୀ ଗୁଣ ଜପାମାଳି ହୋଇଲା",
+          "ଅଳି କେତକୀ ପରା ଯା ମୋତେ ସେ ନ ଚାହିଁଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭାଳିଲେ କି ହେବ ଯେ ଯା ଅର୍ଜିଲା ତା ପାଇଲା",
+          "ଭାଳିଆଇ ତୁ ଯା କଲୁ ସେ ତ ମନେ ରହିଲା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଓଳିକି ଓଳି ଲାଗିଲୁ ତୋତେ ଲଙ୍ଘି ନୋହିଲା",
+          "ଓଳି ପଦାରେ ମନ୍ଦିରେ ତା ଗୁଣ ତ ପଇଲା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗାଳି ଦେଲି ତାକୁ ଯେବେ ମୋ ପାଶକୁ ଅଇଲା",
+          "ଟାଳି ଦେଲାକୁ ତୁ ସିନା ବହପ ସେ ପାଇଲା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମିଳିଲେନି କେଳିକି ତା ଭଳି ଯେତେ ଛଇଳା",
+          "ତଳିପା ତଳେ ତ ଗୋପ ଭୂପପଣ ଥୋଇଲା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କୁଳୀନ ଯୁବତୀ ମୋରେ ମଳି କାହୁଁ ଅଇଲା",
+          "ତାଳି ଧରିବାକୁ ଏବେ ନଳୀନଜ ବହିଲା"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "କାଳୀ ଦଳି ନିଆଁ ଗିଳି ତୋଳି ଗିରି ଧଇଲା",
+          "ବଳିଗଲା ସେ ଦିନୁଟି ବ୍ରଜନାଥ ବୋଇଲା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ali-banamali-guna-japamali-dhanasri-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001199",
+  "name": {
+    "en": "Harabasa dekhi hara suchi mate",
+    "or": "ହରବାସ ଦେଖ ହର ଶୁଚିମତେ"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/harabasa-dekhi-hara-suchi-mate-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ହରବାସ ଦେଖ ହର ଶୁଚିମତେ",
+          "ଭୋଗ କରେ ଦିଗମ୍ବରେ",
+          "ହେବ ଯେ ରସବଳେ ପ୍ରତିବନ୍ଧକ",
+          "ଏହୁ କାନ୍ତର ବସେର ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପରବାସେ ଯାଇ ପ୍ରିୟ କାହିଁ ରହି",
+          "ପ୍ରଫୁଲ୍ଲ ସୁମନା କୁଳେ",
+          "ଏ ଘନସ୍ତନୀ ତ ବରଷିଲେ ଆଗ",
+          "-ମନ କରିବ ଯେ ବଳେ ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦରବାର ତେଜି ପୁରକୁ ଆସିବେ",
+          "ଦିଅ ରସ ସୁରତରେ",
+          "ବରଜନ ନିଶା ସୁଆଇ ମୋଦକ",
+          "ହୋଇଛି ଏ କାମନାରେ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭୋଗୀ ବିଳାସ ଏ ପୁରେ ତାପ ହେତୁ",
+          "ବିଶେଷେ ସେ ତ ନାଗର",
+          "ମାରଣରେ ପାଞ୍ଚକାଣ୍ଡ ବୁଡ଼ାଉଛି",
+          "ଯିବକି ରହିବ ପୁର ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଧନ କୁଚଭର ଏକା ହେଲେ ନବ",
+          "ସତତ ସୁଖ ନଦୀରେ",
+          "କହେ ବ୍ରଜନାଥ ସେ ରସେ ଉନ୍ମତ୍ତ",
+          "ହୋଇ ମାତିଲେ ରସରେ ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/harabasa-dekhi-hara-suchi-mate-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001192",
+  "name": {
+    "en": "Padili ki paramade nanda suta",
+    "or": "ପଡ଼ିଲି କି ପରମାଦେ ନନ୍ଦସୁତ"
+  },
+  "composer": "oa-person-000148",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/padili-ki-paramade-nanda-suta-brajanatha-badajena/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପଡ଼ିଲି କି ପରମାଦେ",
+          "ନନ୍ଦସୁତ ମୋତେ ଲାଗିଲା ବାଦେ",
+          "ରଜନୀ ଦିବସ ସଜନୀ ତା ବଶ",
+          "ହୋଇ ବାଇ ହେଲି ମୁରଲୀ ନାଦେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେତେବେଳେ ମୁହିଁ ପାଣି ଆଣିଯାଇ",
+          "ଜଗି ବସିଥାଇ ବିଜନ ପଦେ",
+          "ଛଟକ ମଟକେ ସରାଗେ ମୋ ଆଗେ",
+          "ଅଟକେ କହିବା ଯାଏ ମୁଁ ପଦେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମନ୍ଦ ନଣନ୍ଦ ଯା ବାଦ ଉପୁଯାଏ",
+          "ନନ୍ଦନନ୍ଦନର ପ୍ରୀତି ଦୁର୍ବାଦେ",
+          "ଦୂରେ ତାକୁ ଦେଖି ଦରେ ବୁଜି ଆଖି",
+          "ଘରେ ପଶିଯାଇ ମନ ବିଷାଦେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅତି ସରାଗରେ ଅନାଇଁ ଯାଏ ଯା",
+          "କହ୍ନାଇ ଅଧର ଭିଡ଼ିଣ ରଦେ",
+          "ଧରତୀରେ ତାର ବରତି ଯିବ କେ",
+          "ସୁରତି ଇଚ୍ଛିବ ଜରତୀ ହୃଦେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦିଶେ ଦିଶେ ସହୀ ଦିଶେ ମୋତେ ସେହି",
+          "ତା ବେଶ ସପନେ ଦେଖଇ ନିଦେ",
+          "ବ୍ରଜନାଥ ବୋଲେ ଲାଜ ଦୂର କଲେ",
+          "ଆଜ ବୃନ୍ଦାବନେ ମାତିବୁ ମୋଦେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/padili-ki-paramade-nanda-suta-brajanatha-badajena/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
