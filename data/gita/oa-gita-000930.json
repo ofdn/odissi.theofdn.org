@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000930",
+  "name": {
+    "en": "Ahe kesaba kisori mani",
+    "or": "ହେ କେଶବ କିଶୋରୀମଣି"
+  },
+  "composer": "oa-person-000130",
+  "mula_raga": [
+    "oa-raga-000178"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-kesaba-kisori-mani-srichandana-lalita-basanta/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ କେଶବ କିଶୋରୀମଣି ନ ବଞ୍ଚିବ",
+          "ବେଳୁଁ ବେଳ ବ୍ୟାଧି ବୃଦ୍ଧି ହେବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦଇବୀ ବୈଦ୍ୟ ହୃଦୟ ଆମ୍ଭଙ୍କୁ କର ଉଦୟ",
+          "କରୁଣା ଔଷଧି ଦେଇ ରଖ ଜୀବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଏକେ ତ ରାଜକୁମାରୀ ଆଜନମ ସୁକୁମାରୀ",
+          "ଅଳ୍ପକ ବାଧାରେ କଳ୍ପ ଅନୁଭବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଞ୍ଚି କିଶଳୟ ଶେଯ କରାଇଣ ତାତପର୍ଯ୍ୟ",
+          "କେବେ କି ଲଭିବ ତାର ଚେତା ଲବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀଚନ୍ଦନ ବୋଲେ ଶ୍ୟାମ ତୁମ୍ଭେ ତାରେ ହେଲ ବାମ",
+          "ବିଚାର କି ନାରୀବଧେ ଭାଗୀ ହେବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-kesaba-kisori-mani-srichandana-lalita-basanta/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

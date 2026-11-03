@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000943",
+  "name": {
+    "en": "Syama bandhu mukha indu",
+    "or": "ଶ୍ୟାମବନ୍ଧୁ ମୁଖଇନ୍ଦୁ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-bandhu-mukha-indu-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମବନ୍ଧୁ ମୁଖଇନ୍ଦୁ ଲୁଚାଅ ଏଥର ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୁଇବାର ହୁଡ଼ କରି କାହିଁ ନୋହିଲ ହେ ହରି",
+          "ଜାଣିଲୁ ଟାଣ ତୁମ୍ଭର ରସିକଶେଖର ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କଣ୍ଠୁ ତୁମ୍ଭ ମୁକ୍ତାହାର ବେଗେ ଦିଅ ମୋର କର",
+          "ଜିଣିମା ଦ୍ରବ୍ୟ ସେ ମୋର ରଖିଛ କିଶୋର ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆମ୍ଭେ ସର୍ବ ନାରୀଗଣ ଆମ୍ଭଙ୍କୁ ନ କହ ଟାଣ",
+          "କେତେ କରୁଛ ଗୁମାନ ଅବଳାମାର ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀଚନ୍ଦନ ଦୀନ ଆଜ ଘେନ ଆହେ ରସରାଜ",
+          "କଣ୍ଠୁ ମୁକ୍ତାହାର ତ୍ୟାଜ କରିବ ନିକର ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syama-bandhu-mukha-indu-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

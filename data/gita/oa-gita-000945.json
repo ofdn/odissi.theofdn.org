@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000945",
+  "name": {
+    "en": "Au tumbha bansi ambhe",
+    "or": "ଆଉ ତୁମ୍ଭ ବଂଶୀ ଆମ୍ଭେ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/au-tumbha-bansi-ambhe-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଘନଶ୍ୟାମ ହେ ଘନଶ୍ୟାମ ହେ",
+          "ଆଉ ତୁମ୍ଭ ବଂଶୀ ଆମ୍ଭେ ନ ଦେବୁ କଦାଚନ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏ ବଂଶୀର ଲାଗି ହରି ହେଲୁ ଆମ୍ଭେ ଅତିସରି",
+          "କୁଳ ଛଡ଼ାଇ ଆମ୍ଭରି ବୁଲାଇଲା ବନ ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୋକଧର୍ମ ବେଦଧର୍ମ ଛଡ଼ାଇ ଆମ୍ଭ ପ୍ରାକର୍ମ",
+          "ଭଗାରି ହେଲା ନିଦାନ କରୁଛି ଉଚ୍ଛନ୍ନ ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେଲାଣି ଏ ବ୍ରଜେ ବ୍ରଜ ବଧୂ ଘେନି ବୃନ୍ଦ ହେଜ",
+          "ଛଡ଼ାଇଲା ଲାଜ ବ୍ୟାଜ ଆଭୀରୀୟ ଗଣ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯମୁନା ନଦୀରେ ନେଇ ଏକ୍ଷଣି ଦେବି ଭସାଇ",
+          "ତେବେ ମନ ସୁସ୍ଥ ହୋଇ ଶୁଣ ହେ ମୋହନ ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦୀନ ଶ୍ରୀଚନ୍ଦନ କହି ଶୁଣ ଆହେ ଭାବଗ୍ରାହୀ",
+          "ନ କହ ଆଉ ବଳାଇ ନାଗର ରତନ ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/au-tumbha-bansi-ambhe-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

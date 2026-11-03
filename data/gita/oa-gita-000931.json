@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000931",
+  "name": {
+    "en": "Taba bine syama sundara",
+    "or": "ତବ ବିନେ ଶ୍ୟାମସୁନ୍ଦର"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/taba-bine-syama-sundara-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶୁଣ ଗୋ ସଜନୀ ତବ ବିନେ ଶ୍ୟାମସୁନ୍ଦର",
+          "ନ ରୁଚଇ ସୁଖଭୋଗ ବାସ ବନ କନ୍ଦର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତେଜି ପଲଙ୍କ ସୁପାତି ବିରସେ ଲୁଟଇ କ୍ଷିତି",
+          "ନିରବଧି ସ୍ମରଶର ଦହେ ତାର ଅନ୍ତର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାସରସ ଦେଖି ତାର ଯେମନ୍ତେ ଆତୁରତର",
+          "ଗତରାତି ରୀତି ଚିନ୍ତି ମତି ଅତି କାତର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବସି ଯମୁନା ତୀରେ ଦରଶନ ଲାଳସରେ",
+          "ମୁରଲୀରେ ଗାଏ ତବ ନାମ କରି ମନ୍ତର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନପ୍ରିୟର ସୁଗିର ତା ସଙ୍ଗେ ଭୃଙ୍ଗ ଝଙ୍କାର",
+          "ଶୁଣନ୍ତେ ବିରସ ମଣି ସ୍ମରେ କୁମ୍ଭ କୁମର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ରଞ୍ଚି କିଶଳୟ ତଳ୍ପ ନିମିଷକ କୋଟି କଳ୍ପ",
+          "ସମ ମଣି ସରସିଜ ପତ୍ରେ କରେ ସଞ୍ଚାର"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଶ୍ରୀଚନ୍ଦନ ବୋଲେ ଧୀର ନାୟକ ଅତି ଅଧୀର",
+          "ଗୁଣ ଗୁଣି ନ ସରଇ ତାର ନିଶି ବାସର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/taba-bine-syama-sundara-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

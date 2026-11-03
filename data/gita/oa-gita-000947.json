@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000947",
+  "name": {
+    "en": "Brunda debi ananda",
+    "or": "ବୃନ୍ଦାଦେବୀ ଆନନ୍ଦ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brunda-debi-ananda-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବୃନ୍ଦାଦେବୀ ଆନନ୍ଦରେ ଗାଇଲା ରେ",
+          "ଖେମଟା ରଙ୍ଗରେ ନୃତ୍ୟ ବିହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖ ଦେଖ ସଖୀଗଣ ଆଖି ପକ୍ଷୀ ନିମଜ୍ଜନ",
+          "କିଶୋର କିଶୋରୀ ଶୋଭା ମୋହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରସିକିନୀ ସୁରସିକ କଳା ଗୋରା ହେଲା ଏକ",
+          "ତମାଳେ ସୁବର୍ଣ୍ଣଲତା ଜଡ଼ିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତାତା ଥେଇଥେଇ ସ୍ୱନ ତାଧେଇ ତାଧେଇ ମାନ",
+          "ରଙ୍ଗ ଭଙ୍ଗୀ କେତେ ବାଢ଼ି ନାଚିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତୋଷେ ଭାଷେ ଶ୍ରୀଚନ୍ଦନ ରସ ହୁଏ ବରନନ",
+          "ତରୁତ ତରୁଣୀ ଭାଲ ସାଜିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brunda-debi-ananda-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

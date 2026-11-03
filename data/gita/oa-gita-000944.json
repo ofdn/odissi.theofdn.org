@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000944",
+  "name": {
+    "en": "Bansi dei rakha",
+    "or": "ବଂଶୀ ଦେଇ ରଖ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bansi-dei-rakha-nija-dasa-prana-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣଧନ ବଂଶୀ ଦେଇ ରଖ ନିଜ ଦାସ ପ୍ରାଣ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୋହର ଜିଣିମା ଦ୍ରବ୍ୟ ସେହି",
+          "ମୋ କ୍ଷମତା ତହିଁ କିଛି ନାହିଁ",
+          "ଦୟା ଚିତ୍ତ କରି ବଂଶୀ ଦିଅ ଗୋରୀ",
+          "ନୋହିଲେ ହେଲି ଉଚ୍ଛନ୍ନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୁହିଁ ଯେବେ ତୋର କିଣାଧନ",
+          "ବାଂଶରୀ ରଖି କି ପ୍ରୟୋଜନ",
+          "ଆୟୁଧ ସେ ମୋର ଚିତ୍ତରେ ବିଚାର",
+          "ତୁ କି ନ ଜାଣୁ ରାମାରତନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଗୋ କୃପାମୟୀ କୃପା କର",
+          "ତୋ ବିନା ମୋର ଅଛି କେ ଆର",
+          "ଦାସଜନ ହେବି ସେବା ନିଯୋଗିବି",
+          "ଏହି ବାଞ୍ଛା ମୋର କରେ ମନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦୀନ ଶ୍ରୀଚନ୍ଦନ କହେ ସ୍ମରି",
+          "ପ୍ରିୟା ଆଗେ ଉଭା ବେଣୁଧାରୀ",
+          "ଯେତେ ଚାଟୁ କହି ନ ଭୁଲିଲା ସହି",
+          "ସ୍ତମ୍ଭୀଭୂତେ ରହିଲେ ମୋହନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bansi-dei-rakha-nija-dasa-prana-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

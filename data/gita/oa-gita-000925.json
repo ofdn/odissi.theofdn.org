@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000925",
+  "name": {
+    "en": "Gopa gopie arghya bandanti",
+    "or": "ଗୋପ ଗୋପୀଏ ଅର୍ଘ୍ୟ ବନ୍ଦାନ୍ତି"
+  },
+  "composer": "oa-person-000130",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopa-gopie-arghya-bandanti-bandapana-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଗୋପ ଗୋପୀଏ ଅର୍ଘ୍ୟ ବନ୍ଦାନ୍ତି",
+          "ଜୟ ମଙ୍ଗଳ ଶୁଭ ମଙ୍ଗଳ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଷ୍ଟସଖୀ ହୋଇ ମେଳି କରେ ଧରି ଅର୍ଘ୍ୟଥାଳି",
+          "କେହୁ ଦିଏ ହୁଳହୁଳି ନାଦରେ ସ୍ଥଳୀ ଉଚ୍ଛୁଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କେଉଁ ବାଳୀ ମାରେ ତାଳି ନାଚେ ଶ୍ୟାମ ଢଳି ଢଳି",
+          "ଅଧରେ ଦେଇ ମୁରଲୀ ବଜାଏ ସୁସ୍ୱର କରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋଧନ ବାହୁଡ଼ା କାଳେ ଗୋପ ଗୋପାଳଙ୍କ ମେଳେ",
+          "ନାଚନ୍ତି ନନ୍ଦ ଦୁଲାଳେ ଧରି ଜାମୁ ଡାଳେ ଡାଳେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବାମେ ରାଧା ଚନ୍ଦ୍ରାବଳୀ ମଧ୍ୟେ ନାଚେ ବନମାଳୀ",
+          "ଶ୍ରୀଚନ୍ଦନ ମନେ ଭାଳି ଦିଏ ତହିଁ କରତାଳି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopa-gopie-arghya-bandanti-bandapana-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

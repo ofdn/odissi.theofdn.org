@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000937",
+  "name": {
+    "en": "Naba kisori rupa madhuri",
+    "or": "ନବକିଶୋରୀ ରୂପ ମାଧୁରୀ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-kisori-rupa-madhuri-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବକିଶୋରୀ ରୂପ ମାଧୁରୀ କିବା ଚମତ୍କାର ରେ",
+          "କୁନ୍ଦନ କଲି ଝଲକ ଝଲି ସକଳ ଗଉର ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭୃଙ୍ଗ ଗଉର ପିକ ଗଉର ଗଉର ମୟୂର ରେ",
+          "ଶୁକ ଶାରିକା ବନଚାରିକା କୁରଙ୍ଗୀ ଗଉର ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତରୁଣ ଲତା କୂଳ ଜଡ଼ିତା ଯୁଗଳ ମଧୁର ରେ",
+          "ତମାଳ ବନ ଭୁବି ଗଗନ ସକଳ ଗଉର ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଲ୍ଲୀ ମାଳତୀ ନିଆଳୀ ଜାତି ବଧୁକ ମନ୍ଦାର ରେ",
+          "ନୀଳ କମଳ କୁସୁମ କୁଳ ସକଳ ଗଉର ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚକ୍ର କପୋତ ଖଞ୍ଜନ ଯତ ତତ ନୃତ୍ୟକାର ରେ",
+          "ଶ୍ରୀବୃନ୍ଦାବନ ମନ୍ଦ ପବନ ଗଗନ ଗଉର ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀରାଧା ଅଙ୍ଗ କାନ୍ତି ତରଙ୍ଗ କିବା ଚମତ୍କାର ରେ",
+          "ଜଳଦମାଳା କଜ୍ଜ୍ୱଳ କଳା ଶ୍ୟାମ ହିଁ ଗଉର ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-kisori-rupa-madhuri-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

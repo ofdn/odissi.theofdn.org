@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000948",
+  "name": {
+    "en": "Jaya jaya radhe",
+    "or": "ଜୟ ଜୟ ରାଧେ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-jaya-radhe-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜୟ ଜୟ ରାଧେ ଭଜ ରାଧେ",
+          "ରାଧେ କୃଷ୍ଣ ଗୋବିନ୍ଦେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରସିକ ରସାୟନ ରସବତୀ ଜୀବନ",
+          "ରାହାସ ବିହାରୀ ଗୋବିନ୍ଦେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନଟବର ଧାରୀ ବାଙ୍କବିହାରୀ",
+          "ରାଧା ମନୋହାରୀ ଗୋବିନ୍ଦେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋପ ଯୁବତୀବର ଲମ୍ପଟ ନଟବର",
+          "କେଳି କରୁଣାସିନ୍ଧୁ ଗୋବିନ୍ଦେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୁରଲୀଧାରୀ ଗିରିବର ଧାରୀ",
+          "ନିକୁଞ୍ଜ ବିହାରୀ ଗୋବିନ୍ଦେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀଚନ୍ଦନ ନାମ ରାଧା ପଦେ ଆଶ",
+          "ବୃନ୍ଦାବନ ଚନ୍ଦ୍ର ଗୋବିନ୍ଦେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-jaya-radhe-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

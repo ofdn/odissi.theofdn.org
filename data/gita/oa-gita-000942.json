@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000942",
+  "name": {
+    "en": "Pranasakhi sasimukhi kheliba",
+    "or": "ପ୍ରାଣସଖୀ ଶଶୀମୁଖୀ ଖେଳିବା"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pranasakhi-sasimukhi-kheliba-juakhela-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣସଖୀ ଶଶୀମୁଖୀ ଖେଳିବା ଏ ବାର ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେବେ ହାରି ଏହି ବାର ଦେବ କଣ୍ଠ ମୁକ୍ତାହାର",
+          "ଏଇ ପିଢ଼ ହେଲା ସ୍ଥିର ସଙ୍ଗିନୀ ନିକର ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଣ ଆଣ ପଶା ସାର କରିବା ଖେଳ ବିଚାର",
+          "ଲଳିତା ପାତିଲା ସାର ହୋଇଲା ତୁମୂଳ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପ୍ରଥମେ ଖେଳିଲେ ଶ୍ୟାମ ପଶା ନାହିଁ ଦେଲେ ଦାନ",
+          "ହସିଲେ ନାଗରୀଗଣ ହାରିଲ ନାଗର ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦୀନ ଶ୍ରୀଚନ୍ଦନ କହି ଶୁଣ ଆଗୋ ବ୍ରଜଗୋଈ",
+          "ନ କହ ଆଉ ଛଳାଇ ହସିବେ ସଂସାର ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pranasakhi-sasimukhi-kheliba-juakhela-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

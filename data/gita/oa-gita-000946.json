@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000946",
+  "name": {
+    "en": "Bije mohini mohana",
+    "or": "ବିଜେ ମୋହିନୀ ମୋହନ"
+  },
+  "composer": "oa-person-000130",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sajani-go-bije-mohini-mohana-srichandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ସଜନୀ ଗୋ ବିଜେ ମୋହିନୀ ମୋହନ",
+          "କଳା ଗୋରା ଭାଲ ତୋରା ହରଇ ଚେତନ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନଟବର ବେଶ ଦେଖ ଅତ୍ୟନ୍ତ ମାଧୁରୀ",
+          "ନଟିନୀର ଶିରୋମଣି ବଢ଼ାଏ ଚାତୁରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚନ୍ଦ୍ରଚୂଳ ଫୁଲ ଗଭା ଏକ ପଟେ ଯୋଖା",
+          "ନାସାଯୁଗେ ମୁକୁତା ବସନୀ ଅଛି ରଖା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାଈ କରେ କୃଷ୍ଣ କର ଛନ୍ଦିଣ ରେ ଦିଅ",
+          "ନାଗର ଗଳାରେ ଭୁଜ ନାଗରୀର ଥୁଅ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତମାଳର ସାଥେ କିବା କନକର ଲତା",
+          "କେଉଁ ବିଧି କରିଅଛି ଏମନ୍ତ ଜଡ଼ିତା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପ୍ରେମ ମତ୍ତ ଭୋଳେ ବୋଲେ ଦୁଃଖୀ ଶ୍ରୀଚନ୍ଦନ",
+          "ଆନନ୍ଦ ସାଗରେ ବୁଡ଼ିଗଲେ ସଖୀଗଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sajani-go-bije-mohini-mohana-srichandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
