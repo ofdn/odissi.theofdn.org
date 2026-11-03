@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000661",
+  "name": {
+    "en": "Kahinki naile syama e jamini",
+    "or": "କାହିଁକି ନଇଲେ ଶ୍ୟାମ ଏ ଯାମିନୀ"
+  },
+  "composer": "oa-person-000029",
+  "mula_raga": [
+    "oa-raga-000143"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-naile-syama-e-jamini/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ନଇଲେ ଶ୍ୟାମ ଏ ଯାମିନୀରେ",
+          "ଯହିଁକି ଥିଲା ମୋ ଆଶା ଗଲା ବୃଥାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଣ୍ଡନ କେଳି ବାସକୁ କଲି ବିଧିରେ",
+          "ଖଣ୍ଡନ କଲେ ମୋ ଆଶା ନ ଆସି ମାତି କା ପୁରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭଲା ସେ ମୁଁ ବସିଥିଲି ଦିବ୍ୟ ବେଶରେ",
+          "ଭଲା ସେ ନାଗରବର ବିହିଲେ ସନ୍ତାପ ମୋରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଜନୀକର ମିଶାଇ ଗନ୍ଧ ସାରରେ",
+          "ସଜନୀ ମୁଁ ରଖିଥିଲି ନାଗବଲ୍ଲୀ ସହିତରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଣ ଯା ବଂଶୀପାଣିଙ୍କି ଏବେ ସତ୍ୱରେ",
+          "ଭଣେ ରାମଚନ୍ଦ୍ର ଦେଓ କୃଷ୍ଣଙ୍କୁ ଭାବି ମନରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-naile-syama-e-jamini/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

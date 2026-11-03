@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000411",
+  "name": {
+    "en": "Sakhi tuhi jaa re",
+    "or": "ସଖି ତୁହି ଯାଆରେ"
+  },
+  "composer": "oa-person-000029",
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-tuhi-jaa-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖି ତୁହି ଯାଆରେ ମୋର ନାଆଁରେ",
+          "ଶ୍ୟାମ ଠାରେ କହ ବାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତାର ଅବଶରେ ମୋ ଦିନ ନ ସରେ",
+          "ଗଡ଼ି ଗଡ଼ି ବସୁଧାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୋର କି ଦୋଷ ଏ ଘନ ରୋଷରେ",
+          "ଆସିବେ ସେ ଶରଧାରେ",
+          "ତା ପଉରୁଷରେ ରହିବି ପାଶରେ",
+          "ସତେ ବିରହ ବାଧାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେଲେ ନିରାଶରେ ରତି ଚିନ୍ତା ସରେ",
+          "ଭାସିବିଟି ନିରାଧାରେ",
+          "ତାର ମାନସରେ ନୋହିଲେ ଲେଶରେ",
+          "ଦୟା କେ ଗତି ରାଧାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଜ ମୋ ବାସରେ ନିଶି ପ୍ରବେଶରେ",
+          "କୃଷ୍ଣଙ୍କୁ ଆଣି ଉଦ୍ଧାରେ",
+          "ଅତି ହରଷରେ ଭାଷେ ଏ ରସରେ",
+          "ରାମଚନ୍ଦ୍ର ଦେଓ ବାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-tuhi-jaa-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
