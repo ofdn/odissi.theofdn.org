@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000179",
+  "name": {
+    "en": "Jaya gokula mangala madhuhari",
+    "or": "ଜୟ ଗୋକୁଳମଙ୍ଗଳ ମଧୁହାରୀ"
+  },
+  "composer": "oa-person-000044",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-gokula-mangala-madhuhari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜୟ ଗୋକୁଳମଙ୍ଗଳ ମଧୁହାରୀ",
+          "ରାସରସିକବର କୁଞ୍ଜବିହାରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୋଟିମଦନଜିତ ସୁନ୍ଦର ବିଗ୍ରହ",
+          "କୁଞ୍ଚିତକେଶ ପୀତପଟଧାରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଧ୍ୱଜ ବଜ୍ରାଙ୍କୁଶ ରାଜିତ ପଦଯୁଗ",
+          "ଉପଳୋଦ୍ଧାରିତ ଗୌତମନାରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସ୍ଥୂଳ ମୌକ୍ତିକ ମଞ୍ଜୁଳ ଉରସ୍ଥଳ",
+          "ଅଙ୍ଗଦ ବାହୁଯୁଗ୍ମ ମନୋହାରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗଣ୍ଡଯୁଗ ମକରକୁଣ୍ଡଳ ମଣ୍ଡିତ",
+          "ପୁଣ୍ଡରୀକଦୃଶ ଷଣ୍ଢବିହାରୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କଦମ୍ବ ତରୁତଳ ଲମ୍ପଟ ନଟବର",
+          "ବଟପୁଟଶାୟୀ ଦୁଷ୍ଟ ଦନୁଜାରି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଗୌରହରି କୃତ କୀର୍ତ୍ତନ ତୋଷିତ",
+          "କରୁଣାଜଳନିଧି ପତିତୋଦ୍ଧାରୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-gokula-mangala-madhuhari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

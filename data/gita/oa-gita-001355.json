@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001355",
+  "name": {
+    "en": "Rasarangi to ingita bachane",
+    "or": "ରସରଙ୍ଗୀ ତୋ ଇଙ୍ଗିତ ବଚନେ"
+  },
+  "composer": "oa-person-000044",
+  "mula_raga": [
+    "oa-raga-000020"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasarangi-to-ingita-sri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରସରଙ୍ଗୀ ତୋ ଇଙ୍ଗିତ ବଚନେ",
+          "ତା ଚିତ୍ତକୁ ହରି ନେଲୁ କିରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୋ ବିଧୁବଦନ ଦେଖିଣ ମୋହନ",
+          "ବାସ ଭୂଷଣାଦି ମଣେ ବିଷ ପରିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଖୋଜିବାକୁ ଜଣେ ଏ ବ୍ରଜ ଭୁବନେ",
+          "ନାହିଁ କେହି ସ୍ନେହୀ ଆଉ ତୋର ପରିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚାହିଁଦେଲେ ଯେଣେ ତୋ ଛବି ନୟନେ",
+          "ଦିଶେ ଦିଶେ ଦିଶୁଛି ନାଚିଲା ପରିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କେବଳ ତୁ ତାର ପଞ୍ଚପ୍ରାଣ ପର",
+          "କାର ବର ବାରଣ ଗମନୀ ସିନାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପାରଳା ଧବ ଗୌରଚନ୍ଦ୍ର ଦେବ",
+          "ଏ ରସେ ତୋଷେ ଭାଷେ ସରସ ଚିତ୍ତରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasarangi-to-ingita-sri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

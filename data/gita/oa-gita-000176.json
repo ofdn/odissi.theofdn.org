@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000176",
+  "name": {
+    "en": "Kundanangi sukunda hasi mukunda",
+    "or": "କୁନ୍ଦନାଙ୍ଗୀ ସୁକୁନ୍ଦହାସୀ ମୁକୁନ୍ଦ ପାଶକୁ"
+  },
+  "composer": "oa-person-000044",
+  "mula_raga": [
+    "oa-raga-000031"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kundanangi-sundara-hasi-kundanangi-sukunda-hasi-mukunda-pasaku/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୁନ୍ଦନାଙ୍ଗୀ ସୁକୁନ୍ଦହାସୀ",
+          "ମୁକୁନ୍ଦ ପାଶକୁ ଆସରେ",
+          "ଦ୍ୱନ୍ଦ ତେଜି ମନୁ ମନ୍ଦିରସ୍ତନୀ",
+          "ମନ୍ଦେ ହସି ମୃଦୁ ଭାଷରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାନ୍ତରେ ତୁ ଏକାନ୍ତରେ କରି",
+          "ଦନ୍ତବାସରେ ଦଂଶରେ",
+          "ଭ୍ରାନ୍ତିକୁ ତେଜି କାନ୍ତ ଚିତ୍ତ",
+          "ନିରନ୍ତରେ କର ତୋଷରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବାରିଜାକ୍ଷୀ ମୁରାରି ତୋ ବିନୁ",
+          "ହାରି ଜୀବନ ଆଶରେ",
+          "ପାରି ନ କଲେ ତୁ ନାରୀମଣ୍ଡନା",
+          "ସାରିଦେବ ସ୍ମର ତ୍ରାସରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବଞ୍ଚନ ନ କର ଚଞ୍ଚଳରେ ଚଳ",
+          "ଘଞ୍ଚ ବିପିନ ପ୍ରଦେଶରେ",
+          "ଚଞ୍ଚଳେକ୍ଷଣି ରଞ୍ଚ ବିପରୀତ",
+          "ବଞ୍ଚ ସୁରତି ରହସ୍ୟରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏ ରସରେ ଦ୍ୱିଜ ଗୌରହରି କହେ",
+          "ସାର ବଚନ ବିଶେଷରେ",
+          "ସ୍ଥିର ହରଷରେ ମିଳାଇଲେ ମୁରଲୀ",
+          "-ପାଣି ରାଧା ପାଶରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kundanangi-sundara-hasi-kundanangi-sukunda-hasi-mukunda-pasaku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

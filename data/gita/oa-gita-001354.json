@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-001354",
+  "name": {
+    "en": "E ki riti gajagati",
+    "or": "ଏ କି ରୀତି ଗଜଗତି"
+  },
+  "composer": "oa-person-000044",
+  "mula_raga": [
+    "oa-raga-000040"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-riti-gajagati-ramakeri-gourahari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ କି ରୀତି ଗଜଗତି",
+          "ମଥା ପୋତି ଚାହୁଁ କ୍ଷିତିରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାର ଗିର ତୋର ଚିତ୍ତେ ଧରି",
+          "ପର ପରି କଲୁ ଜବାଧରୀ",
+          "ହରପର ବାର ବାର",
+          "ଶର ମାରେ ମୋର ଛାତିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାଶହାସ ପରକାଶ କରି",
+          "ଦାସେ ତୋଷ ବହ କୃଶୋଦରୀ",
+          "ଯଶ ବାସବନଗରୀ",
+          "ପରିଯନ୍ତେ ହେଉ ଖ୍ୟାତିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଖେଳା ଡୋଳା ଢଳା ଆରେ ବାଳା",
+          "ବେଳେ କୋଳେ ବସ ପ୍ରେମଶୀଳା",
+          "ଷୋଳକଳା ଶଶୀମୁଖ",
+          "କଳା କଲେ ନାହିଁ ଗତିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କରକରଦନୀ କୃପା କର",
+          "କର ଧରି କହୁଅଛି ତୋର",
+          "କର ମାନ ମନୁ ଦୂର",
+          "କର ମୋ ସଙ୍ଗେ ପୀରତିରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନାଗର ବିନୟ ଗିର ଶୁଣି",
+          "ଗୁମାନ ତେଜି ଶ୍ୟାମ ମୋହିନୀ",
+          "ଦ୍ୱିଜ ଗୌରହରି ଭଣି",
+          "ଯୁଗଳ ପାଦକୁ ଚିନ୍ତିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-riti-gajagati-ramakeri-gourahari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
