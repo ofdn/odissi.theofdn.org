@@ -1,7 +1,7 @@
 import { escapeHtml, t, link, embed, mediaLink, displayName, renditionPeople } from "./shared.js";
 import { recordPage, links, section, names, recordCitation, stanzaLabel } from "./music.js";
 
-const BIB = { recording: "audio", notation: "unpublished", manuscript_copy: "unpublished" };
+const BIB = { recording: "audio", notation: "score", manuscript_copy: "unpublished" };
 
 function creditRows(ctx, r) {
   const lang = ctx.lang;

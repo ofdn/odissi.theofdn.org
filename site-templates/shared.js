@@ -278,6 +278,7 @@ export function texEscape(s) {
 }
 
 const BIB_TYPES = ["audio", "music", "unpublished", "inbook"];
+const CITE_LABELS = [...BIB_TYPES, "score"];
 
 // c is { type, title, authors[], performers[], year, publisher, url, id, note, container }.
 // __ACCESSED__ and __ACCESSED_ISO__ are filled in with the reader's date by site.js.
@@ -287,7 +288,7 @@ export function buildCitations(c, lang = "en") {
   const publisher = c.publisher ?? PUBLISHER;
   const year = c.year ?? "n.d.";
   const by = authors.join(", ");
-  const typeLabel = BIB_TYPES.includes(c.type) ? ` [${t(`cite.type.${c.type}`, {}, lang)}]` : "";
+  const typeLabel = CITE_LABELS.includes(c.type) ? ` [${t(`cite.type.${c.type}`, {}, lang)}]` : "";
   const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}. ` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";
   const accessed = `${t("cite.accessed", {}, lang)} __ACCESSED__`;

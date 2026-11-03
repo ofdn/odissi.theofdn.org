@@ -24,6 +24,7 @@
   "cite.type.music": "Music recording",
   "cite.type.unpublished": "Unpublished",
   "cite.type.inbook": "Book chapter",
+  "cite.type.score": "Musical score",
   "media.open": "Open on {provider}",
   "media.player": "{title}, player from {provider}",
   "list.count.one": "1 record",
