@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001256",
+  "name": {
+    "en": "Rasu nahin ta surasa bati",
+    "or": "ରସୁ ନାହିଁ ତ ସୁରସବତୀ"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000053"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasu-nahin-ta-surasa-bati-soma-adatali-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରସୁ ନାହିଁ ତ ସୁରସବତୀ ତବ ପ୍ରୀତିକି ହେ",
+          "କି ସୁଖ ଏଥିରୁ କହୁ ପରିଶ୍ରମ ଏତିକି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭାଷୁଁ ତବ ସ୍ନେହ କଥା ନ ଶୁଣି ପୋତଇ ମଥା",
+          "ବସୁଧାକୁ ଚାହିଁ ରହେ ନ କହି ଭାରତୀକି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶାଶୁ ଆଗରେ କହିବି ପାଶୁ ଦୂର କରିଦେବି",
+          "ନାଶୁଛ ଯା ମୋତେ ବୋଲି ଜନମାଏ ଭୀତିକି ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ସୁମୁଖୀ ମନୁ ଭାବ ଖସୁ ନାହିଁ ରୋଷ ଭାବ",
+          "ଅସୁଖ ମଣଇ ତବ ଗୁଣକୁହା ରୀତିକି ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀ ସୁବର୍ଣ୍ଣପୁର ଯୁବ ବସୁନ୍ଧରାତଳ ଧବ",
+          "ତୋଷୁଛି କି ହେତୁ ଦ୍ରବ ଚାହଁ ସେ ଯୁବତୀକି ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rasu-nahin-ta-surasa-bati-soma-adatali-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001254",
+  "name": {
+    "en": "Ke achi to bina mo saha",
+    "or": "କେ ଅଛି ତୋ ବିନା ମୋ ସାହା ନବୀନା"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000020"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-achi-to-bina-mo-saha-nabina-sri-aditala-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେ ଅଛି ତୋ ବିନା",
+          "ମୋ ସାହା ନବୀନା ଏ ବ୍ରଜେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରାଣ କରି ଦେଖିବାକୁ ମୋ ସ୍ନେହ ପରଖିବାକୁ",
+          "ଉପଦେଶ ଯୋଖିବାକୁ ବିପଦରୁ ରଖିବାକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସି ମୋ ପାଶେ ବସିବ ପରିହାସରେ ରସିବ",
+          "କୁତୁକ ବଶେ ହସିବ ହିତବଚନ ଭାଷିବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅନାଇ ମୋର ଆରତି ତୋଷିବ କହି ଭାରତୀ",
+          "ଶୁଣି ପର ଅକୀରତି ହୃଦୟ ହେବ କରତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମନେ ରଖି ପ୍ରାଣ ପରା କରିବ ମୁଖେ ଟାପରା",
+          "ଅପ୍ରିୟ ହେଲେ ଅପରା ଦଣ୍ଡିବ ତାକୁ ତୋ ପରା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ବୀରମିତ୍ରୋଦୟ ସିଂହ ତୁ ମୋର ହୃଦୟ",
+          "ନ ହୁଅ ସଖୀ ନିର୍ଦ୍ଦୟ ତେଜ ଛଳ ସମୁଦୟ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-achi-to-bina-mo-saha-nabina-sri-aditala-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

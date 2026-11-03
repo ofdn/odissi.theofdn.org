@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-001247",
+  "name": {
+    "en": "Sadhi jibi sina mun laje",
+    "or": "ସଢ଼ିଯିବି ସିନା ମୁଁ ଲାଜେ"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000056"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sadhi-jibi-sina-mun-laje-maruaa-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଢ଼ିଯିବି ସିନା ମୁଁ ଲାଜେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିଶିଥିନୀ ହେଲା ନାଶ ଦିଶି ଆସିଲାଣି ଦିଶ",
+          "ଲୋକେ ହେଲେ ପରକାଶ ହେବ ସିନା ଉପହାସ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୋଟି ଅସମ୍ଭାଳ ପରି ଫିଟିପଡ଼ିଛି କବରୀ",
+          "ସଜାଅ ତା ବେଗ କରି ନ ଜାଣନ୍ତୁ ସହଚରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରହି ନ କଟାଳ ଆଉ ଏହି ଅନୁକମ୍ପା ଥାଉ",
+          "ପଳାଅ ରାତି ନ ପାହୁଁ ନ ଲାଗୁଟି ନିନ୍ଦା ଦାଉ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୀରମିତ୍ରୋଦୟ ଭଣି ଶୁଣି ସେ ନାଗରମଣି",
+          "ବିନୟରେ ଧରି ପାଣି ହୋଇଲେ ତହୁଁ ମେଲାଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sadhi-jibi-sina-mun-laje-maruaa-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

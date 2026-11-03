@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001246",
+  "name": {
+    "en": "E ki dasa re karaibuti lokahasa",
+    "or": "ଏ କି ଦଶା ରେ କରାଇବୁଟି ଲୋକହସା"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000101"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-dasa-re-karaibuti-lokahasa-gundakeri-adatali-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ କି ଦଶା ରେ କରାଇବୁଟି ଲୋକହସା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନୂତନ ପଲ୍ଲବ ପାଟଳ କାନ୍ତିକି",
+          "ଚୁମ୍ବଇ ବାସବ ଆଶା",
+          "ପାଦପ ମଧ୍ୟରେ ମନ୍ଦ୍ରତରେ ଶୁଭି",
+          "-ଲାଣି ବିହଙ୍ଗମ ଭାଷା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୀରଜ ସଞ୍ଚୟ ବାସ ଧରି ବହି",
+          "-ଲାଣି ସମୀରଣ ଯୋଷା",
+          "ବାଜଇ ଯମୁନା ତୀର ବନେ ଶୁଣ",
+          "ଗୋପ ବଧୂ ପଦଭୂଷା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭାଙ୍ଗି ପକା ବନ ନାଗରମଣ୍ଡନ",
+          "କେଳି କଳାପରୁ ଆଶା",
+          "ଜାଣିବଟି ଯେବେ ସେ ଜଟିଳା ଘରେ",
+          "କାଟି ପକାଇବ ନାସା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସ୍ୱର୍ଣ୍ଣପୁରେଶ୍ୱର ପୁତ୍ରର ସତ୍ୱର",
+          "ଭାଷକୁ ଘେନ ସୁକେଶା",
+          "ସାରି ନ ଦେ ଧନ ଆମ୍ଭ ମହତ୍ୱକୁ",
+          "ମାତି ଦିନେ ସୁନିବେଶା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-ki-dasa-re-karaibuti-lokahasa-gundakeri-adatali-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

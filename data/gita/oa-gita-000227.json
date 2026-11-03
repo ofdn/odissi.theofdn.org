@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000227",
+  "name": {
+    "en": "Deuchi dambha apasari sari re",
+    "or": "ଦେଉଛି ଦମ୍ଭ ଅପସାରି ସାରି ରେ"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/deuchi-dambha-apasari-sari-re-suratha-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଉଛି ଦମ୍ଭ ଅପସାରି ସାରି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅମର ଭବନକୁ ଯିବା ବେଳେ ମନକୁ ।",
+          "ନେଉଛି ଯାହା ସୁର ନାରୀ ନାରୀ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯେମନ୍ତ ରାଜହଂସୀ ମୃଣାଳକୁ ଆକର୍ଷି ।",
+          "ନିଏ ସୂତ୍ରକୁ ଧୀରେ ସାରି ସାରି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗମନ ଚାହାଣୀରେ ।ଲଟ ଚାହାଣୀରେ ।",
+          "ନୟନ ଶରେ ସୁକୁମାରୀ ମାରି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅନାଇଁ ତାର ମୁଖ ଲଭୁଥିଲୁ କି ସୁଖ ।",
+          "ଆହା ଦେଲେ ତୋ ପରିବାରୀ ବାରି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀ ବୀରମିତ୍ରୋଦୟ ସିଂହ ଭାଷେ ହୃଦୟ ।",
+          "ହେଉଛି ଅଧୀନ ତାହାରି ହାରି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/deuchi-dambha-apasari-sari-re-suratha-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

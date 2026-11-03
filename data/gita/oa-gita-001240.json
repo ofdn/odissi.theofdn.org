@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-001240",
+  "name": {
+    "en": "Na pachari jani jani",
+    "or": "ନ ପଚାରି ଜାଣି ଜାଣି"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000135"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-pachari-jani-jani-biramitrodaya-singhdeo-nalinigouda-tripata/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ ପଚାରି ଜାଣି ଜାଣି ମତିକି ମୁଁ ହୁଡ଼ିଲି ରେ",
+          "ଲମ୍ପଟିଆ ପ୍ରୀତି ପଟଳରେ ପଡ଼ି ବୁଡ଼ିଲି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲାଭ ଏତିକି ଚରମେ ଦରଦ ହେଲା ମରମେ",
+          "କେଣିକି ମନ ନ ରମେ କି ଭରମେ ପଡ଼ିଲି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନୃଶଂସକୁ ଯେ ନିରତେ ପ୍ରଶଂସୁ ମୋହ ପୁରତେ",
+          "ତୋ କଥା କରି ପରତେ ଏ ଦୁର୍ଦ୍ଦଶା ଲୋଡ଼ିଲି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗଗନ ଶଶୀକି କର ଲଗନ କରି ନିକର",
+          "ପିଇବି ସୁଧା ଶୀକର ଆଶା ଧରି ସଢ଼ିଲି ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଙ୍ଗିନୀ ହିତ ବଚନ ନ ମାନି କଲି ମୋଚନ",
+          "ତେଣୁ ଏ ଅନୁଶୋଚନ ସରିତରେ ବୁଡ଼ିଲି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସ୍ୱର୍ଣ୍ଣପୁର ଯୁବନାଥ ଭାଷେ ସଙ୍କେତ ସନାଥ",
+          "ଆସି ଯା ହେଲି ଅନାଥ କୁଳଭୟ ଛାଡ଼ିଲି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-pachari-jani-jani-biramitrodaya-singhdeo-nalinigouda-tripata/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

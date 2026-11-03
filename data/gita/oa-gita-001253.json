@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-001253",
+  "name": {
+    "en": "To pari nahin itara re sangini",
+    "or": "ତୋ ପରି ନାହିଁ ଇତର ରେ ସଙ୍ଗିନୀ"
+  },
+  "composer": "oa-person-000051",
+  "mula_raga": [
+    "oa-raga-000107"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/to-pari-nahin-itara-re-sangini-puri-biramitrodaya/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତୋ ପରି ନାହିଁ ଇତର ରେ ସଙ୍ଗିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପୀରତି ପାଳିବା ପଣେ ତୋତେ ଅବା",
+          "ହେବୁ ତୁହି ପଟାନ୍ତର ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନବନୀତୁ ଜିଣି ମୃଦୁଳତା ଆଣି",
+          "ଥାଏ ତୋହର ଅନ୍ତର ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋ ମନ ରଖିବା ସ୍ନେହ ପରଖିବା",
+          "ପାଇଁ ହେଉ ତରତର ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜାଣିଲେ ମୋ ଦୁଃଖ ଅଳପ ବିମୁଖ",
+          "ଭଜି ତୁ ହେଉ କାତର ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦେଲା କେ ଲଗାଇ ପୀରତି ଭଙ୍ଗାଇ",
+          "ତେଡ଼େ ସୁମଧୁର ତର ରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଭାଷେ ସ୍ୱର୍ଣ୍ଣପୁର ଯୁବରାଜ ସୁର",
+          "ମୋହୀ ତୁ ଗତି ମାତର ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/to-pari-nahin-itara-re-sangini-puri-biramitrodaya/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
