@@ -1,0 +1,57 @@
+{
+  "id": "oa-gita-001279",
+  "name": {
+    "en": "Tu para nagari hira dhara mandana",
+    "or": "ତୁ ପରା ନାଗରୀ ହୀରା ଧରାମଣ୍ଡନା"
+  },
+  "composer": "oa-person-000035",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tu-para-nagari-hira-dhara-mandana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତୁ ପରା ନାଗରୀ ହୀରା ଧରାମଣ୍ଡନା",
+          "ନଳିନ ବଦନ ମଳିନ କରୁ ସୁମନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଣି ଅପରାଧ କାହିଁ କରି ନାହିଁରେ ସୁମୁହୀଁ",
+          "ବୃଥା ରୋଷ ବହି ସହୀ ଆଉ ରୁଷନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପ୍ରିୟସହୀ ଅବା କେହି କହିଥିବେ ଛନ୍ଦ ବହି",
+          "ଶୁଣି ବାଣୀ ପୁଣି ତୁହି କରୁ ଶୋଚନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କରିଥିଲେ ଅବା ଦୋଷ ବଳେ ଦଣ୍ଡିବୁ ବାଳୀଶ",
+          "ଦଣ୍ଡିଲେ ହେବ ଅଯଶ ଲୋକେ ହସାନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tu-para-nagari-hira-dhara-mandana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

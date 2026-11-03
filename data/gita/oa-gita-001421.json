@@ -1,0 +1,65 @@
+{
+  "id": "oa-gita-001421",
+  "name": {
+    "en": "Bigraha sundara nila kalebara",
+    "or": "ବିଗ୍ରହ ସୁନ୍ଦର ନୀଳ କଳେବର"
+  },
+  "composer": "oa-person-000035",
+  "mula_raga": [
+    "oa-raga-000143"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bigraha-sundara-nila-kalebara-lalita-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ବିଗ୍ରହ ସୁନ୍ଦର ନୀଳ କଳେବର",
+          "ମଣ୍ଡିଦେବି ମୁଁ ଗିରିଧାରୀ",
+          "ସେ ବେଶେ ମନ୍ମଥ ହେବ ପରାଜିତ",
+          "ସାର ସୁନ୍ଦରପଣ ହାରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲଲାଟେ ଚନ୍ଦନ ବିନ୍ଦୁ ସୁଶୋଭନ",
+          "ଇନ୍ଦୁ ଗରିମା ଦେବ ସାରି",
+          "ମୃଗମଦ ଚିତ୍ରରାଜି ରାଜିବ",
+          "ଜନମାନସ ତୋଷକାରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମଣ୍ଡନ ଶିଖଣ୍ଡ ଦେବ କରି ପଣ୍ଡ",
+          "ଦଣ୍ଡ ମାତ୍ରକେ ସର୍ବ ଶିରୀ",
+          "ପୁଣ୍ଡରୀକ ମୁଖମଣ୍ଡଳରେ ସୁଖ",
+          "ଚିତ୍ର ସୁଷମା ଯିବ ପୂରି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମଣ୍ଡାଇବି ଗଳା ମଞ୍ଜୁ ପୁଷ୍ପମାଳା",
+          "ସାଜି ରାଜିବ ବେଣୁଧାରୀ",
+          "ପାଟ ପୀତାମ୍ବର ଖଞ୍ଜି ନଟବର",
+          "ବେଶ ରଚିବି ଅନୁସରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bigraha-sundara-nila-kalebara-lalita-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

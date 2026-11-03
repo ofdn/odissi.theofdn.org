@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000073",
+  "name": {
+    "en": "Charana dharili re bandhu",
+    "or": "ଚରଣ ଧରିଲିରେ ବନ୍ଧୁ"
+  },
+  "composer": "oa-person-000035",
+  "mula_raga": [
+    "oa-raga-000006"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/charana-dharili-re-bandhu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚରଣ ଧରିଲିରେ ବନ୍ଧୁ",
+          "ଶରଣ ବରିଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଞ୍ଜନ ଖଞ୍ଜନନେତ୍ରୀ କିଶୋରୀ କନକଗାତ୍ରୀ",
+          "ନ ଢାଳିଲା ତିଳେ ମାତ୍ର ନୀଳ ଇନ୍ଦୀବର ନେତ୍ର",
+          "(ପଡ଼ି)",
+          "ନାହିଁ ନାହିଁ ମହୀମଣ୍ଡନା ସହି କେହି",
+          "ଅଖଣ୍ଡିତ ଚନ୍ଦ୍ରମୁଖୀ ଶୋଭାଙ୍ଗୀ",
+          "ସୀମନ୍ତଲପନାର କମ୍ପନ ମନୋହର",
+          "ଦଣ୍ଡେ କି ଦଣ୍ଡ ଦଣ୍ଡିଲା",
+          "କହିଲି ମଲି ବୋଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚଳିଲି ଆକୁଳ ଚିତ୍ତେ ବିକଳ ପରାଣ କେତେ",
+          "ବନ୍ଧୁରେ ମରମ କଥା ନ ବୁଝିଲେ ହୃଦବ୍ୟଥା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/charana-dharili-re-bandhu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
