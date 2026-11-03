@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000864",
+  "name": {
+    "en": "Radhasya sarasa dibakara",
+    "or": "ରାଧାସ୍ୟ-ସାରସ-ଦିବାକର"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radhasya-sarasa-dibakara-khambaja-sanskrit-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାଧାସ୍ୟ-ସାରସ-ଦିବାକର ପାହିମାଂ",
+          "ଗୋପୀ-ନେତ୍ର-ନୀଳୋତ୍ପଳ-ସୁଧାକର ପାହିମାଂ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିଗମଚୟ-ହାରକ ଶଙ୍ଖାସୁର-ବିଚ୍ଛେଦକ",
+          "କର୍ପର ଧୃତ-ମନ୍ଦର-ଧରାଧର ପାହିମାଂ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଧରଣୀ-ଧାରଣ-ଦନ୍ତ କୃତ-ହେମଲୋଚନାନ୍ତ",
+          "ମନୁଜ କଣ୍ଠୀରବ-ସ୍ୱରୂପଧର ପାହିମାଂ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବଳିଗର୍ବ-ବିନାଶକ ବସୁନ୍ଧରା-ଧବାନ୍ତକ",
+          "ରାବଣ-ବଂଶ-ସରୋଜ-କରୀବର ପାହିମାଂ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତପନସୁତା-ଭେଦନ ଅତି-କରୁଣାସଦନ",
+          "ବିକ୍ରମ-ବନ୍ଦିତ କଳ୍କି-ରୂପଧର ପାହିମାଂ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radhasya-sarasa-dibakara-khambaja-sanskrit-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

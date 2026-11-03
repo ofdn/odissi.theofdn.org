@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000863",
+  "name": {
+    "en": "Srabana masa ebe",
+    "or": "ଶ୍ରାବଣ ମାସ ଏବେ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/srabana-masa-ebe-asila-dhanasri-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ରାବଣ ମାସ ଏବେ ଆସିଲା ରେ",
+          "ଉତ୍ସାହ କୃଷକର ବଢ଼ିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କାଳ ଜଳଧର ରାହୁ ପରି ସୂର",
+          "ଶଶାଙ୍କ ମଣ୍ଡଳଙ୍କୁ ଗ୍ରାସିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସନ୍ତତ ବିଜୁଳି ଗଗନେ ପ୍ରବଳି",
+          "ଲୋଚନ ପ୍ରିବନ୍ଧ ହୋଇଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଘୋରେ ମେଘରାଜି ଗରଜି ଗରଜି",
+          "ହୃଦୟ କମ୍ପନକୁ କରିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏ ବରଷା କାଳ ବିରହୀଙ୍କ କାଳ",
+          "ବୋଲି ଭେକ ରାବରେ କହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କ୍ଷତ୍ରିୟ ପ୍ରବର ବିକ୍ରମଦେବର",
+          "ମାନସ ରଚନାରେ ମଜ୍ଜିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/srabana-masa-ebe-asila-dhanasri-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

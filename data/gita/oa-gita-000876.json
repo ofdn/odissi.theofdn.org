@@ -1,0 +1,83 @@
+{
+  "id": "oa-gita-000876",
+  "name": {
+    "en": "Ahe nanda kumara",
+    "or": "ଆହେ ନନ୍ଦ କୁମର"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000017"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-nanda-kumara-ahari-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ନନ୍ଦ କୁମର ଛାଡ଼ ଏ କପଟ ଗିର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୁଁ ଆସିବି ବୋଲି କହିଥିଲ କାଲି",
+          "ଧରି ମୁରଲୀ ନିକର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାର ନୀଳଚେଳ ପରିଧାନ କଲ",
+          "ଲାଜ ଭୟ କରି ଦୂର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଓଷ୍ଠରେ ଅଞ୍ଜନ ନୀଳ ସୁରଞ୍ଜନ",
+          "କପୋଳେ ସିନ୍ଦୂର ଗାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗଣ୍ଡେ ଦନ୍ତକ୍ଷତ ଦେହେ ନଖଘାତ",
+          "ସୁନ୍ଦର ଲାକ୍ଷା ବକ୍ଷର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତେଜି କୁଟଜକୁ କଞ୍ଜ ଚୁମ୍ବିବାକୁ",
+          "ଆସିଛ ଭୃଙ୍ଗ ନାଗର"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଛାଡ଼ ପଦ୍ମ ଆଶ ଶ୍ରୀ ବିକ୍ରମପୋଷ",
+          "ଯାଅ ଏ ନୁହେ କାସାର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-nanda-kumara-ahari-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-000886",
+  "name": {
+    "en": "Nabina ghana samana syama",
+    "or": "ନବୀନ ଘନ ସମାନ ଶ୍ୟାମ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000164"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nabina-ghana-samana-syama-sena-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବୀନ ଘନ ସମାନ ଶ୍ୟାମ ମନ୍ଦ କଲ ତ",
+          "ରାଧାକୁ ବାଧା ସାଗରେ ଭସାଇ ଭାସିଲ ତ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଧନୀକି କୁଞ୍ଜେ ଜଗାଇ ଚନ୍ଦ୍ରାବଳୀ ସଙ୍ଗେ ରହି",
+          "କେଳି ଚିହ୍ନ ବହି ପ୍ରାତେ ରାଧାଠାକୁ ଗଲ ତ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପଡ଼ିଛନ୍ତି କୁଞ୍ଜବନେ ଛାଡ଼ି ରତ୍ନହାର ମାନେ",
+          "କସ୍ତୁରି ଚନ୍ଦ୍ର ତାମ୍ବୂଳ ଗନ୍ଧ ଫୁଲମାଳ ତ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁଞ୍ଜେ ଏକା ଅଛି ଅଡ଼ି ପାଶୁଁ ସଖୀଙ୍କି ଘଉଡ଼ି",
+          "ଦୁର୍ଜୟ ମାନିନୀ ରାଧାର କୋପ ପ୍ରବଳ ତ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନ ଦେଖିବି ବୋଲି କଳା ଶପଥ କରିଛି ବଳା",
+          "ମାରଇ ଦିଶିଲେ ଶାରୀ ଭ୍ରମର କୋକିଳ ତ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବର୍ଣ୍ଣ ଶୁଣିଲେ ସତେ ଶତଧାର ଭ୍ରମ ଚିତ୍ତେ",
+          "ରସବତୀକି ସ୍ମରଣ ହୁଏ ଘଟବାଳତ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ମୋରେ ତୁମ୍ଭର ରାଧାର ଭେଟ ହେବ କି ପ୍ରକାର",
+          "ହେ ବିକ୍ରମନୁତ ନ ଘେନିଲା ସେ ମୋ ବୋଲ ତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nabina-ghana-samana-syama-sena-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

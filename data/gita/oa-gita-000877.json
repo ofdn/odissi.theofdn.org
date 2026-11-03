@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000877",
+  "name": {
+    "en": "Tora mora deha eka",
+    "or": "ତୋର ମୋର ଦେହ ଏକ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000053"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tora-mora-deha-eka-soma-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତୋର ମୋର ଦେହ ଏକ ପୂର୍ବେ ବୋଲିଥିଲ ତ",
+          "ବ୍ରଜ ଦ୍ୱିଜରାଜ ଆଜ ହେଲା ତା ସଫଳ ତ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବିରହେ ମୁଁ ଜାଗରିଣୀ ହୋଇଲି କାଲି ରଜନୀ",
+          "ତୁମ୍ଭ ବେନି ନେତ୍ରକଞ୍ଜ ହୋଇଅଛି ଲାଲ ତ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁମ୍ଭ ଦେହ ନଖ ଦନ୍ତ କ୍ଷତେ ହୋଇଛି ଅଙ୍କିତ",
+          "ମୋର ଅନ୍ତର୍ଗତେ ଜଳୁଅଛି ଘୋର ଜ୍ୱାଳା ତ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୁମ୍ଭ ବିମ୍ବାଧରେ କାଳି ଲାଗିଅଛି ବନମାଳୀ",
+          "ମୋର ଶରଚ୍ଚନ୍ଦ୍ର ମୁଖ ହୋଇଛି ଶ୍ୟାମଳ ତ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୁହିଁ ବାସ ଶେଯ ଛାଡ଼ି କାନ୍ଦୁଅଛି କୁଞ୍ଜେ ଗଡ଼ି",
+          "ଗୋପୀ ବାସଚୋର ଗଦଗଦ ତୁମ୍ଭ ବୋଲ ତ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବିକ୍ରମଦେବ ପାଳକ ଭେଦ ଏତିକି ମାତ୍ରକ",
+          "ଦିବ୍ୟହେମ ଗୌରାଙ୍ଗୀ ମୁଁ ତୁମ୍ଭ ଦେହ ନୀଳ ତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tora-mora-deha-eka-soma-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

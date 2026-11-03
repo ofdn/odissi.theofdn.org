@@ -1,0 +1,59 @@
+{
+  "id": "oa-gita-000859",
+  "name": {
+    "en": "Kahin pain e rusa",
+    "or": "କାହିଁ ପାଇଁ ଏ ରୁଷା"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahin-pain-e-rusa-kamodi-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁ ପାଇଁ ଏ ରୁଷା ରମଣୀ ବରପଟୀର ହାସିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅକାରଣେ ତୋର ମୁଖାମ୍ବୁଜାତର",
+          "ଅତୁଳ ସୁନ୍ଦର ଝଳି ହେଲା ଦୂର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନବୀନ ନଳିନ ସମାନ ନୟନ",
+          "ଯୁଗଳରୁ ବନ ବହେ ଅନୁକ୍ଷଣ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିକ୍ରମ ବିନୁତ ମଦନ ଶପଥ",
+          "ନ କର ଗୁପତ କାରଣ କହ ତ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahin-pain-e-rusa-kamodi-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

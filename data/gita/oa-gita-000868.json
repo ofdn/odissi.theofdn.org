@@ -1,0 +1,80 @@
+{
+  "id": "oa-gita-000868",
+  "name": {
+    "en": "Pahi sri radhikesa",
+    "or": "ପାହି ଶ୍ରୀ ରାଧିକେଶ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pahi-sri-radhikesa-mukhari-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପାହି ଶ୍ରୀ ରାଧିକେଶ ହୃଷୀକେଶ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଗୋବିନ୍ଦ ମାଧବ ଗୋପାଳ କେଶବ",
+          "ପାପ ସମୂହ ନାଶ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୌନି ପ୍ରପାଳକ ଦାନବ ମାରକ",
+          "ଧୃତ ହରିତବାସ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯଶୋମତୀ ବାଳ ନିଶାଚର କାଳ",
+          "ବାମନ ଜଗଦୀଶ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୃନ୍ଦାବନାନଙ୍ଗ ଗନ୍ଧ ଚର୍ଚ୍ଚିତାଙ୍ଗ",
+          "ବନ୍ଦିତ ଗିରିଜେଶ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମିତ୍ର କଳ୍ପସାର ଶକ୍ର ତୃଣାନଳ",
+          "ନେତ୍ରାଭିରାମ ବେଶ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ବାସୁଦେବାଚ୍ୟୁତ ବାସବପୂଜିତ",
+          "ଦାସ ବିକ୍ରମ ପୋଷ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pahi-sri-radhikesa-mukhari-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

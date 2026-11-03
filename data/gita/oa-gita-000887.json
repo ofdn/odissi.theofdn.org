@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-000887",
+  "name": {
+    "en": "Jasoda suta te mangalam",
+    "or": "ଯଶୋଦାସୁତ ତେ ମଙ୍ଗଳଂ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasoda-suta-te-mangalam-sanskrit-surata-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯଶୋଦାସୁତ ତେ ମଙ୍ଗଳଂ",
+          "ଜୟ କିଶୋରବର ତେ ମଙ୍ଗଳଂ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଈଶମନୋମ୍ବୁଜ ସୂରସନାତନ",
+          "କେଶବ ସାରସଲୋଚନ",
+          "କ୍ଳେଶବିନାଶନ ଶୀତକରାନନ",
+          "ରାସରସିକ ତେ ମଙ୍ଗଳଂ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କ୍ରୂରନିଶାଚର ନାଗମୃଗେଶ୍ୱର",
+          "ନାରଦସନ୍ନୁତଶ୍ରୀଧର",
+          "ନୀରଦସୁନ୍ଦର ନୀଳକଳେବର",
+          "ନୀରଜପଦ ତେ ମଙ୍ଗଳଂ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁନ୍ଦନବାସ ବୃନ୍ଦାରକବନ୍ଦିତ",
+          "ମନ୍ଦସ୍ମିତାଧର ଅସିତ",
+          "ସୁନ୍ଦର ହେ ହୃତଗୋପବଧୂଚିତ୍ତ",
+          "ନନ୍ଦନନ୍ଦନ ତେ ମଙ୍ଗଳଂ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମାଧବ ଶ୍ରୀକର ଶ୍ରୀମତିନାୟକ",
+          "ବୋଧଯୁକ୍ତଚୟପାଳକ",
+          "ଗୋଧନପୋଷକ ବିକ୍ରମରକ୍ଷକ",
+          "ଭୂଧରଧର ତେ ମଙ୍ଗଳଂ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jasoda-suta-te-mangalam-sanskrit-surata-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

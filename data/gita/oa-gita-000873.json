@@ -1,0 +1,83 @@
+{
+  "id": "oa-gita-000873",
+  "name": {
+    "en": "Dekha syama prema riti",
+    "or": "ଦେଖ ଶ୍ୟାମ ପ୍ରେମ ରୀତି"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000158"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-syama-prema-riti-ghantaraba-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ଶ୍ୟାମ ପ୍ରେମ ରୀତି ରେ ସୁମତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିକୁଞ୍ଜେ ଜଗାଇ ନ ଆସିଲେ ସହି",
+          "ପାଇଲାଣି ଏବେ ରାତିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସମର୍ପି ଅନଙ୍ଗ ବାଣକୁ ମୋ ଅଙ୍ଗ",
+          "ରହିଲେ କାହାରେ ମାତିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାହା ସ୍ନେହ ପାଶେ ବନ୍ଧା ହୋଇଣ ସେ",
+          "ପାଶୋରିଲେ ମୋର ପ୍ରୀତିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗନ୍ଧ ସୁମମାଳା ପାନ ବୃଥା ହେଲା",
+          "ରାତି ହୋଇ ଶିବରାତିରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୋର ବେଶ ଶେଯ ସଖୀ ବ୍ୟର୍ଥ ଆଜ",
+          "ଯେମନ୍ତେ ବନ ମାଳତୀରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଶ୍ରୀ ରାଜେନ୍ଦ୍ର ଦେବୀ ଚିତ୍ତକଞ୍ଜ ରବି",
+          "ହରି ଶଠକୁଳ ପତିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-syama-prema-riti-ghantaraba-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

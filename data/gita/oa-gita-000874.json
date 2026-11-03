@@ -1,0 +1,69 @@
+{
+  "id": "oa-gita-000874",
+  "name": {
+    "en": "Dekha sakhi mohana ritiki",
+    "or": "ଦେଖ ସଖୀ ମୋହନ ରୀତିକି"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000017"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sakhi-mohana-ritiki-ahari-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ସଖୀ ମୋହନ ରୀତିକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚନ୍ଦ୍ରାବଳୀ ସଙ୍ଗେ ରାତି ଅତି ସରସରେ ମାତି",
+          "ଏବେ ଢୁଳି ଢୁଳି ଆସେ କତିକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୋତେ ରଖି ବନ ଭାଗେ ରହିଲା ତାର ସରାଗେ",
+          "କି ବୋଲି ବୋଲିବା ତାର ଧୃତିକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲାଜ ନାହିଁ ତାର ମୁଖେ ଆସୁଅଛି କେଉଁ ସୁଖେ",
+          "ପୁର ଛଡ଼ାଇଣ କୁଳବତୀକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀ ବିକ୍ରମଦେବ ନୁତ ଶଠାଗ୍ରଣୀ ଗୋପସୁତ",
+          "ଏବେ କରିବ କେତେ ବିନତିକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sakhi-mohana-ritiki-ahari-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

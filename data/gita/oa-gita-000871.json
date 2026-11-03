@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000871",
+  "name": {
+    "en": "Dekha sarbanga sundari",
+    "or": "ଦେଖ ସର୍ବାଙ୍ଗ ସୁନ୍ଦରୀ"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000059"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sarbanga-sundari-punnaga-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ସର୍ବାଙ୍ଗ ସୁନ୍ଦରୀ",
+          "ବୃନ୍ଦାବନ ଶୋଭା ଦିବ୍ୟ ତରୁଣୀର ପରି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତମାଳ କୁନ୍ତଳ ଚନ୍ଦ୍ରପତି ବିମ୍ବାନନ",
+          "ତିଳଫୁଲ ନାସିକା ଇନ୍ଦୀବର ଲୋଚନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୁନ୍ଦଦନ୍ତ ଜବାଧର ବରଶୁକ୍ତିକର୍ଣ୍ଣ",
+          "କୋକିଳକଣ୍ଠ ଲତାବାହୁ ଶ୍ରୀଫଳ ସ୍ତନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପଙ୍କଜପତ୍ର ଉଦର ରମ୍ଭାପର୍ଣ୍ଣ ପିଠି",
+          "ଭ୍ରମନାଭି ସେକତଶ୍ରୋଣୀ କେଶରୀ କଟି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କେନ୍ଦୁପଲ୍ଲବ ଶ୍ରୀକର ରମ୍ଭା ଉରୁବର",
+          "ମକର ଜଙ୍ଘା କିଶଳୟଚୟ ପୟର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମଲ୍ଲୀଦଳ ନଖଶ୍ରେଣୀ ମଦଗଜଗତି",
+          "କାଶହାସ ଚମ୍ପକ ସୁମନ ତନୁକାନ୍ତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sarbanga-sundari-punnaga-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

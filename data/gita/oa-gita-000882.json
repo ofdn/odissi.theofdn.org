@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000882",
+  "name": {
+    "en": "Snehadhina tora bina",
+    "or": "ସ୍ନେହାଧୀନା ତୋର ବିନା"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000040"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000007"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/snehadhina-tora-bina-ramakeri-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସ୍ନେହାଧୀନା ତୋର ବିନା",
+          "ଆଉ କେହି ମୋର ଗତିରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଳାକର ମୁଖୀ ବାରେ ବିଚାର ତ ସୁଚିତ୍ତରେ",
+          "ତୋର ଲାଗି ନିଶ୍ଚୟରେ ମୋର ଜନନ ଏ କ୍ଷିତିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁ ତେଜିଲେ ଯୋଗୀ ହୋଇ ବୁଲିବି ତୋ ଗୁଣ ଗାଇ",
+          "ତୋର ନାମ ଛପେ ଲିହି ଦେହେ ଛାଇ ହୋଇ ନିତିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୁ କୋଳ ନ କଲେ ଚାଣ୍ଡେ ରାଧା ରାଧା ବୋଲି ତୁଣ୍ଡେ",
+          "ଝାସ ଦେବି ରାଧାକୁଣ୍ଡେ ଲୋକେ ପାଇବୁ ଏ ଖ୍ୟାତିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବିକ୍ରମ ବନ୍ଦିନୀ ସହି ତୋ ନିରାଶୁଁ ମରି ମୁହିଁ",
+          "ତୋର ଦେହେ ତିଳ ହୋଇ ହେଲେ ଜନ୍ମିବି ସୁଦନ୍ତୀରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/snehadhina-tora-bina-ramakeri-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

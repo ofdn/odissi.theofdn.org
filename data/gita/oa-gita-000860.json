@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000860",
+  "name": {
+    "en": "Kie se nagara sahi",
+    "or": "କିଏ ସେ ନାଗର ସହି"
+  },
+  "composer": "oa-person-000128",
+  "mula_raga": [
+    "oa-raga-000070"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kie-se-nagara-sahi-bihaga-vikram-deb-varma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କିଏ ସେ ନାଗର ସହି ଦିଶେ କେଡ଼େ ସୁନ୍ଦର",
+          "ବର ମାନବତୀ ଗଣ ଚିତ୍ତ ବିତ୍ତ ତସ୍କର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅକଳଙ୍କ କଳାକର ସମ ମୁଖ ମନୋହର",
+          "ମତ୍ତ କଳାପି କଳାପ ମସ୍ତକରେ ଭାସୁର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସଜ ସରୋଜକୁ ଜିଣି ବିରାଜେ ନୟନ ବେନି",
+          "ଭସ୍ମ ହୀନ ପକ୍ୱ ବିମ୍ବ ଫଳ ପରି ଅଧର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସୁକୁମାର ଅପଘନ ନବୀନ ଘନ ସମାନ",
+          "କଟିତଟ ପୀତପଟ ସୌଦାମିନୀ ପ୍ରକାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତାର ନିଶିତ ଈକ୍ଷଣ ବଡ଼ିଶକୁ ପକାଇଣ",
+          "ବଳେ ଓଟାରିନେଲା ମୋ ମନୋମୀନ ସତ୍ୱର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯେ ସର୍ବଲୋକ ଲୋଚନ କୁମୁଦ ନିଶାରମଣ",
+          "ଯାର ପାଦ ପଦ୍ମେ ବୀର ଶ୍ରୀ ବିକ୍ରମ କିଙ୍କର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kie-se-nagara-sahi-bihaga-vikram-deb-varma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
