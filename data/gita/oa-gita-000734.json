@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000734",
+  "name": {
+    "en": "Pari hebi mu kehi",
+    "or": "ପାରି ହେବି ମୁଁ କେହି"
+  },
+  "composer": "oa-person-000038",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pari-hebi-mu-kehi-sankarabharana-padmanabha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପାରି ହେବି ମୁଁ କେହି ଶ୍ୟାମ ବିନୁ ଆରେ ସହି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦେଖ ଏ ଦୁର୍ଦ୍ଦିନ ଦିନ ଦିନ ହୋଇଲା ନବୀନ",
+          "ଘନ ଘନ ଘନ ଗରଜନ ମାନ ସହି ସହି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଫୁଟିଲେ କଦମ୍ବ ଧାଡ଼ି ସୁମନ ମାଳତୀ ବୁଡ଼ି",
+          "ଏକାଳେ ମୋ ପତି ମତି ମୋହିଲା ତ କେହି କେହି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଜନୀ ଏ ବରଷାରେ ନାରୀ ବିନା ଭରସାରେ",
+          "ସହିବ କେ ଏ ରସାରେ ଏକାକିନୀ ରହି ରହି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦ୍ୱିଜ ପଦ୍ମନାଭ ଭଣି ନ ଭାଳ କିଶୋରୀମଣି",
+          "ଭାବିଲେ କି ହେବ ପୁଣି ଯାହା ଥିଲା ବିହି ଲିହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pari-hebi-mu-kehi-sankarabharana-padmanabha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

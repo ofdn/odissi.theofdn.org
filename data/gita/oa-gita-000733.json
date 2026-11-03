@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000733",
+  "name": {
+    "en": "Jara jara gupata katha",
+    "or": "ଯାର ଯାର ଗୁପତ କଥା"
+  },
+  "composer": "oa-person-000038",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jara-jara-gupata-katha-padmanabha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯାର ଯାର ଗୁପତ କଥା",
+          "ତାର ତାର ସବୁ ସେହି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିତି ଚାହୁଁଥିଲେ ତାହାର ମୁଖ",
+          "ହରୁଥାଇ ମନେ ସକଳ ଦୁଃଖ",
+          "ପାଦେ ପଡ଼ୁଥାଇ ସୁରପତି ସୁଖ",
+          "ଆନେ ମନ ନ ରୁଚଇ ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହିତ ସୁରପତି ମଣଇ ଛାର",
+          "ତାହା ଦୁଃଖ ସୁଖ ମଣେ ତାହାର",
+          "ଅନ୍ତର ହେଲେ ସବୁ ଦିଗ ଦିଶଇ",
+          "ଶୋକ ସରିତେ ଭସାଇ ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନୟନେ ନୟନ ପଡ଼ଇ ଯେବେ",
+          "ଅନୁରାଗ ରୀତି ବଢ଼ଇ ତେବେ",
+          "ଶୟନେ ସ୍ୱପନେ ମନ ନୟନକୁ",
+          "ତାହା ରସରେ ରସାଇ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବେନି ମାନସ ରସିଥାଇ ରସେ",
+          "ଚାହୁଁଥିଲେ ଘନରସ ବରଷେ",
+          "କହେ ପଦ୍ମନାଭ ବେନି ପରଭାବ",
+          "ମାରଶରେ ଭରସାଇ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jara-jara-gupata-katha-padmanabha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

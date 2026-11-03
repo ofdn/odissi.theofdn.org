@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001054",
+  "name": {
+    "en": "Bada kari madana",
+    "or": "ବାଦ କରି ମଦନ"
+  },
+  "composer": "oa-person-000038",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bada-kari-madana-taraja-suratha-dwija-padmanabha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବାଦ କରି ମଦନ ତରଜ ନା",
+          "ସଂଶୟ ପରିହର ମୁଁ ହରି ହର ତୋ ପର",
+          "ପଞ୍ଚ ସୁମନଶର ବରଜ ନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମମ ହୃଦ ହାର ମାର ସେ କି ବିଷଧର",
+          "ମଳୟଜ ରଜ ତୁ ଭଷ ମଣ ନା",
+          "ଅତିଶୟ ମଞ୍ଜୁଳ ନବ କୁବଳୟ ଦଳ",
+          "କଣ୍ଠେ ନୁହେ ଗରଳ ଗରଜ ନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାଧା ନୟନ ବାଣେ ତନୁ ଜରଜର",
+          "ଦୁଃସହ ଧୃତି ରତିପତି ହର ନା",
+          "ସୁବୁଦ୍ଧି ଗୁଣନିଧି ମୂର୍ଚ୍ଛିତ ଜନ ବଧି",
+          "ଦୁଷ୍ଟ କୁବୁଦ୍ଧି ସିଦ୍ଧି ଅରଜ ନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କହେ ଦ୍ୱିଜ ପଦ୍ମନାଭ ଶୁଣ ମାଧବ",
+          "ଆଣିବି ରସମୟୀ ସୁଖସଦନା",
+          "ବିହର ତ ସଙ୍ଗର ଦର୍ପକ ଦର ଦୂର",
+          "କର ସବିନୟ ଗିର ସରଜ ନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bada-kari-madana-taraja-suratha-dwija-padmanabha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
