@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001074",
+  "name": {
+    "en": "Mane paduchi syama pirati",
+    "or": "ମନେ ପଡ଼ୁଛି ଶ୍ୟାମ ପୀରତି"
+  },
+  "composer": "oa-person-000075",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mane-paduchi-syama-pirati-somanatha-singha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନେ ପଡ଼ୁଛି ଶ୍ୟାମ ପୀରତି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରୀଦନ୍ତ ପଲଙ୍କେ ବସାଇଥାଏ ଅଙ୍କେ",
+          "ଖସାଇ ଦିଏ ବାସ ଝଟତି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କମ୍ପୁ ଯେ ଥାଏ ଅଙ୍ଗଦେଶ ଭୂଷଣ ଭଙ୍ଗ",
+          "କରଇ କେତେ ରଙ୍ଗେ ସୁରତି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜାଣଇ କାମରଣ ଭଲା ସେ ନବଘନ",
+          "କେବେ ନୁହଇ ମନ ଧୀରତି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚୁମ୍ବନ ଦିଏ ଧୀରେ ଭିଡ଼ୁ ଯେ ଥାଏ ଉରେ",
+          "ଲବେ ଉର ପକାୟେ କରତି ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସୋମନାଥ ନରେଶ ଭାଷେ ନୁହ ବିରସ",
+          "ରଖି ତ ଅଛ ତୁମ୍ଭେ କୀରତି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mane-paduchi-syama-pirati-somanatha-singha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

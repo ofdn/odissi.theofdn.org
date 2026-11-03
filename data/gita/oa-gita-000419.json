@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000419",
+  "name": {
+    "en": "Asa re pankaja nayana",
+    "or": "ଆସ ରେ ପଙ୍କଜନୟନା"
+  },
+  "composer": "oa-person-000075",
+  "mula_raga": [
+    "oa-raga-000100"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asa-re-pankaja-nayana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆସ ରେ ପଙ୍କଜନୟନା",
+          "ବସ ତୁ ମୋ ଅଙ୍କେ ନବୀନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁ ଥାଉ ମାର ଯା କଷଣ",
+          "ଦେଉଛି କାହାକୁ ଦୂଷଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତର୍ଜଣ କରିଛି ସେ ଟାଣ",
+          "ଭାଙ୍ଗିବ ମୋହର ଗୁମାନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନାଶିବ ଯେମନ୍ତେ ସେ ମୋତେ",
+          "ବଞ୍ଚିବି କହ ମୁଁ କେମନ୍ତେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏକେ ତ ଅଟେ ସେ ଡିଙ୍ଗର",
+          "ଆୟତ୍ତ ନ ରଖେ ମୋହର"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସୋମନାଥ ରାଜା ବଦତି",
+          "ଶୁଣିଣ ହସିଲା ଯୁବତୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/asa-re-pankaja-nayana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "oa-gita-000417",
+  "name": {
+    "en": "Chhadi rasabati kimpa rahili mu",
+    "or": "ଛାଡ଼ି ରସବତୀ କିମ୍ପା ରହିଲି ମୁଁ"
+  },
+  "composer": "oa-person-000075",
+  "mula_raga": [
+    "oa-raga-000104"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhadi-rasabati-kimpa-rahili-mu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଛାଡ଼ି ରସବତୀ କିମ୍ପା ରହିଲି ମୁଁ ଏଥି ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସାରସଗମାଙ୍କୁ ମୋ ବିନା ନାହିଁ ଗତି ରେ",
+          "ସୁଖକୁ ବିସୁଖ ମଣୁଥିବ ତାର ମତି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭାଳୁ ଭାଳୁ ନ ସରିବ ତାକୁ ଦିବାରାତି ରେ",
+          "ଖଞ୍ଜନନୟନୁ ନୀର ଝଡ଼ୁଥିବ ନିତି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚନ୍ଦ୍ରମା ବଦନେ ଆଉ ନ ଥିବ ତା ଜ୍ୟୋତି ରେ",
+          "ବାତୁଳ ହେବନି ଏବେ ସେ ମୋ କୁନ୍ଦଦନ୍ତୀ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲୁଥିବ ଆଳୀଙ୍କି ନଇଲେ ମୋର ପତି ରେ",
+          "ସୋମନାଥ ବୀରବର ଏ ରସେ ବଦତି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chhadi-rasabati-kimpa-rahili-mu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

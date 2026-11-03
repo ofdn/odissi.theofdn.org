@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000418",
+  "name": {
+    "en": "Kama samara mo jane angana re",
+    "or": "କାମ ସମର ମୋ ଜାଣେ ଅଙ୍ଗନା ରେ"
+  },
+  "composer": "oa-person-000075",
+  "mula_raga": [
+    "oa-raga-000118"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kama-samara-mo-jane-angana-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାମ ସମର ମୋ ଜାଣେ ଅଙ୍ଗନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚମକାଇ କରି ଅଙ୍ଗ ଉଲଟ ରତି ଆରମ୍ଭ",
+          "କମ୍ପାଇ ଅଧର ଚାଳେ ରସନା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭୁଜେ ଭୁଜ ଭିଡ଼ାଭିଡ଼ି କରନ୍ତେ ମୋ ଅଙ୍ଗେ ଜଡ଼ି",
+          "ଯାଉଥାଏ ଝାଳେ ବୁଡ଼ି ସେ ସିନା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଛନ୍ଦିଣ ପାଦକୁ ପାଦ ହୁଅଇ କେଡ଼େ କୋମଦ",
+          "ଇସି ଇସି ବୋଲି ଭାଷେ ନବୀନା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନ ରହେ ଆୟତ୍ତ ତାର କେଶ ବେଶ ଅସମ୍ଭାଳ",
+          "ମନ୍ଦେ ମନ୍ଦେ ହସେ ପିକବଚନା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସୋମନାଥ ବୀରବର ଭାଷନ୍ତି ତା ପ୍ରୀତି ସାର",
+          "ନାହିଁ ନ ଥିବ ସଂସାର ତା ବିନା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kama-samara-mo-jane-angana-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "oa-gita-001075",
+  "name": {
+    "en": "Chahinla se chahin mo manaku",
+    "or": "ଚାହିଁଲା ସେ ଚାହିଁ ମୋ ମନକୁ"
+  },
+  "composer": "oa-person-000075",
+  "mula_raga": [
+    "oa-raga-000182"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahinla-se-chahin-mo-manaku-maaruaa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାହିଁଲା ସେ",
+          "ଚାହିଁ ମୋ ମନକୁ ମୋହିଲା ସେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଛଇଳବର ନାଗର ଛିନ୍ନ କଲା ଏତେ ଦୂର",
+          "ଛଟକେ କଲା ବାହାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯହିଁକି କରଇ ହଟ ଜଗିଥାଏ ଜଳଘାଟ",
+          "ଜବାଧରେ କରେ ହଟ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଝଟକେ ପକାଏ ମୋହେ ଝଡ଼ଇ ଦେହ ତା ସ୍ନେହେ",
+          "ଝରି ନୀର ନେତ୍ରୁ ବହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନବ ଅନୁରାଗ ସହି ନବେ ଘରେ ନୋହେ କହି",
+          "ନ ଦିଶେ ତା ବିନା କେହି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଟଳି ବିବେକ ହୁଡ଼ଇ ଟଳି ନୋହେ ସ୍ନେହ ସହି",
+          "ଟଙ୍କଧର ପଦ ରହି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଠକି ରସାଇଲା ପାଶେ ଠକ ବୁଦ୍ଧି କେତେ ଦିଶେ",
+          "ଠିକେ ବୀରବର ଭାଷେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahinla-se-chahin-mo-manaku-maaruaa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

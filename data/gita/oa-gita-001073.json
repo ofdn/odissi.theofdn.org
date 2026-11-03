@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001073",
+  "name": {
+    "en": "Syamara natabara rupa chahin",
+    "or": "ଶ୍ୟାମର ନଟବର ରୂପ ଚାହିଁ"
+  },
+  "composer": "oa-person-000075",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syamara-natabara-rupa-chahin-somanatha-singha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶ୍ୟାମର ନଟବର ରୂପ ଚାହିଁ",
+          "ଦେଖିଲା ବେଳୁ ଚିତ୍ତ ହେଲା ବାଇ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଶିର ପରେ ଚନ୍ଦ୍ରିକା ଚୂଳ କରିଛି ଡକା",
+          "ମାର ମାରୁଛି ସହି ନ ପାରଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁନ୍ଦର ମୁଖ ତାର ହସିଲେ ଧୀର ଧୀର",
+          "ତନୁ ଆନନ୍ଦେ ଜରଜର ହୋଇ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନାନା କୁସୁମେ ବେଣୀ ସଜାଇଥାଏ ପୁଣି",
+          "ନୟନ ଠାରି ମନ ମୋହି ନେଇ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କ୍ଷୀଣ କଟିରେ ଉଡ଼ି ଆଣି ଯତନେ ଭିଡ଼ି",
+          "ଶବଦେ ହୃଦ ହେଉଥାଏ ଦହି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସୋମନାଥ ନରେନ୍ଦ୍ର ନୃପକୁଳରେ ଚନ୍ଦ୍ର",
+          "ଭାଷେ ସଖୀ ବଂଶୀରେ ନୋହି ରହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/syamara-natabara-rupa-chahin-somanatha-singha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
