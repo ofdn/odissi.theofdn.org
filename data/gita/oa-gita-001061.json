@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001061",
+  "name": {
+    "en": "Na kale tu mora",
+    "or": "ନ କଲେ ତୁ ମୋର"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000063"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-kale-tu-mora-se-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ କଲେ ତୁ ମୋର ସେ ହେଲେ କାହାର ମା",
+          "ନ ବୋଲାଇବ କି ଯେ ଯାହାର ସେ ତାହାର ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଫୁଲ ତୋଳି ଯାଇଥିଲି ଦେଖି ତା ଆତୁର",
+          "ଆକୁଳରେ ଉଡ଼ିଗଲା ସାହାସ ମୋହର ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତଳ ତଳପରେ ଗଡ଼ି ହେବାର ଅଥିର",
+          "ଦେଖି ଦେଖି କାହା ଚିତ୍ତ ନୋହିବ କାତର ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୋ ଦୁଃଖ ଦେଖି ସେ ଛାଡ଼ି ନେଲାନି ଆହାର",
+          "ବଳ ଥିଲେ ବଳେ ଆସି ଧରନ୍ତେ ପୟର ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶର ମାରି ମାରି ସ୍ମର କଲାନି ଅଥିର",
+          "କହେ ରଘୁନାଥ କୋପ ଏଥର ସଂହର ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-kale-tu-mora-se-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

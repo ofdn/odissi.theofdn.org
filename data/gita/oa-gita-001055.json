@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-001055",
+  "name": {
+    "en": "Rusi parile se pare rusi",
+    "or": "ରୁଷି ପାରିଲେ ସେ ପାରେ ରୁଷି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000103"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rusi-parile-se-pare-rusi-regupta-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରୁଷି ପାରିଲେ ସେ ପାରେ ରୁଷି ଗୋ",
+          "ତୋଷିବେ ବୋଲି ସେ ରସି ପ୍ରତିଆଶେ",
+          "ବସି ସାରିଲା ଯେ ନିଶି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଜ କରାଇ ଯେ କେଳି ଗୃହକୁ",
+          "ସଜଡ଼ାଇ ସୁବେଶରେ ଦେହକୁ",
+          "ସଜପଦ୍ମମୁଖୀ ସଜନୀ ନ ରଖି",
+          "ସଞ୍ଜରୁ ଯେ ଥିଲା ଆସି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସୁମନସ ଲାଗି ହେବେ ସେ ବୋଲି",
+          "ସୁମନରେ ଗୁନ୍ଥିଥିଲା ଛଇଳୀ",
+          "ପ୍ରେମରସେ ପୂରି କାମନା ସେ କରି",
+          "କାମଶରେ ହେଲା ତ୍ରାସୀ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କାନନକୁ ସଖୀ ସଙ୍ଗେ ସେ ଯାଇ",
+          "ଈନ ସବିଧିରେ ନିତି ପୂଜଇ",
+          "ସେ ନ ଆସିବାରେ ଦିନ ବଞ୍ଚିବାରେ",
+          "ଆନ ସେହି ତୁଲେ ରସି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପରଜନ ଗୁରୁଜନ ନିକର",
+          "ତରଜନକୁ ସହୀ ଯେ ନିକର",
+          "ବରତରେ ମିତ ଅରଜିଛି ଚିତ୍ତ",
+          "ନିରତ ହୋଇ ଯେ କ୍ଳେଶୀ ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ସବିଧିରେ ସହୀ କହୁ ଏ ବାଣୀ",
+          "କବିସୁଧାଂଶୁ ରଘୁନାଥ ଭଣି",
+          "ଭାବି ଏହା କହି ସୁବିବେକୀ ହୋଇ",
+          "ନ ବିଚାରି ହେଲେ ଦୋଷୀ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rusi-parile-se-pare-rusi-regupta-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

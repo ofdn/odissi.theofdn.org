@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-001277",
+  "name": {
+    "en": "Aha ki kali pirati",
+    "or": "ଆହା କି କଲି ପୀରତି"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000016"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aha-ki-kali-pirati-saha-hina-raghunatha-kalyana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହା କି କଲି ପୀରତି ସାହା ହୀନ ଦେଖି ରତି",
+          "ନାହା ଦିଅଇ କରତି ଏହା କି ନୀତି",
+          "ତାହା ପରା ରସବତୀ ଯାହା ହେଲାଏ ଅଗତି",
+          "କାହାର ଏ ଅପଖ୍ୟାତି ତାହାର ନ ସରେ ରାତି । ୧"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଏହିପରି ପରିହର କାହିଁକି ନୀତି",
+          "ସେହିକି ତୁମ୍ଭର ପରି କହି ଜାଣେ କୁଭାରତୀ । ପଦ ।"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସାରିବ ଯେବେ ମହତ୍ୱ ପାରିବକି ସେ କହ ତ",
+          "ପାରୀନ୍ଦ୍ରମଧ୍ୟମା ସତ ଘାରି ହୋଏ ତ",
+          "ସାରିବାକୁ ସ୍ନେହ ବିତ୍ତ ଭାରିହେଲାନି ଜୀବିତ",
+          "ବାରିଜନୟନ ପ୍ରାନ୍ତେ ହେରିଲା ନାହିଁ ଏକାନ୍ତେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେବି ବୋଲି ସିନା ତ୍ରାହି ସେବିଛି ତୁମ୍ଭଙ୍କୁ ସେହି",
+          "ସେ ବିରସକୁ ତେଜଇ ଛବିକି ଚାହିଁ",
+          "ଏ ବିଚ୍ଛେଦରେ ମୁଁ କେହି ନେବି କାଳ ବୋଲେ ସହୀ",
+          "ତା ବିକଳ କଳି ନୋହି ଭାବି ରଘୁନାଥ କହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aha-ki-kali-pirati-saha-hina-raghunatha-kalyana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

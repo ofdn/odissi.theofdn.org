@@ -1,0 +1,87 @@
+{
+  "id": "oa-gita-001047",
+  "name": {
+    "en": "Ebe hele mana mohanaku dhana",
+    "or": "ଏବେ ହେଲେ ମନ ମୋହନକୁ ଧନ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000063"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ebe-hele-mana-mohanaku-dhana-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏବେ ହେଲେ ମନ ମୋହନକୁ ଧନ",
+          "ଦୁଃଖରୁ ରଖ ଉଦ୍ଧରି ଧରି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିକଟରେ ତୋର ଥିବା କାଳେ ସ୍ମର",
+          "ବାରଣକୁ ସେ କେଶରୀ ସରି",
+          "ଟାଣପଣେ ମାର ମାରିବାରେ ଶର",
+          "ରହିଲେ କୁଞ୍ଜବିହାରୀ ଦ୍ୱାରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଯାହାକୁ ତ ଚାହିଁ ମୋହିତ ହେବେ ସେହି",
+          "ରମା ଆଦି ମଦନାରି ନାରୀ",
+          "ସେ ତୋର କଥାରେ ନ ଡେଇଁ ତ ଗାରେ",
+          "ରହିଛନ୍ତି ନଉକରୀ କରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁଞ୍ଚ ସଦନକୁ ସେ ଯିବା ବେଳକୁ",
+          "ଦେବାରୁ ତୋ ପରିବାରୀ ବରି",
+          "ଶୁଣ ତୁ ଏଣିକି ନ ଯାଇ କେଣିକି",
+          "ରହିବେ ସେହି ଆଦରି ଦରି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲୁଥିଲୁ କାଲି ତୁ ପରା ଛଇଳୀ",
+          "ଜୀବର ଜୀବ ମୋହରି ହରି",
+          "ଆଜ ଗଲେ ଫେରି ଆଣ ବୋଲିକରି",
+          "ପଡ଼ିବ ସିନା ଆହୁରି ହୁରି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ରଘୁନାଥ କବି ନିଶାନାଥ",
+          "ମୁଁ କହିବାର ପଚାରି ଚାରି",
+          "ସଖୀ ସଙ୍ଗେ ବସି ଦୟା କର ହସି",
+          "ତୋ ଯଶ ରହୁ ଏ ପୁରୀ ପୂରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ebe-hele-mana-mohanaku-dhana-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

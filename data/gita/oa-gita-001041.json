@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001041",
+  "name": {
+    "en": "Ki buddhi karibu sabu",
+    "or": "କି ବୁଦ୍ଧି କରିବୁ ସବୁ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000056"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-buddhi-karibu-sabu-jani-marua-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "କି ବୁଦ୍ଧି କରିବୁ ସବୁ ଜାଣି ଜାଣି",
+          "ହେବୁ ଯେବେ ଏପରି",
+          "ସୁବୁଦ୍ଧି ରମଣୀ ଅବୁଝାଣ ପରି",
+          "ଦେବୁ ଯେବେ ଅପବାଦ ନ ବିଚାରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସିନ୍ଧୂର ଗମନୀ ବନ୍ଧୁ ଶୁଣ ଶୁଣ",
+          "ଛନ୍ନ ନ ହୋଇ ଏହା",
+          "ସୁନ୍ଦର କେମନ୍ତେ ହେବ ବୋଲି ମିତ",
+          "ଗୈରିକ ହେଲେ ସିନ୍ଦୂର କି ଗୋ ଏହା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଞ୍ଜନ ନୋହେ ରଞ୍ଜନ ମୃଗମଦ",
+          "ଖଞ୍ଜନ ନେତ୍ର ଘନ",
+          "କଞ୍ଜ ଘ୍ରାଣବଶୁ ଭୃଙ୍ଗତାରେ ଫରେ",
+          "ଓଷ୍ଠେ କ୍ଷତ କଲା ହୃଦେ ସତ ମାନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନଖରେଖ ବୋଳି ଦୁଃଖ ରଖନା ରେ",
+          "ଦେଖ ନେତ୍ର ସୁମୁହୀଁ",
+          "ମୁଖରେ ଆଶୁ କେତକୀ ତଳଦଳ",
+          "ବକ୍ଷରେ ଲାଗିଲା ରଘୁନାଥ କହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-buddhi-karibu-sabu-jani-marua-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

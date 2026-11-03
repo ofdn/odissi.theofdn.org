@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001039",
+  "name": {
+    "en": "Sahi se pritire sate",
+    "or": "ସହି ସେ ପ୍ରୀତିରେ ସତେ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-se-pritire-sate-ki-labha-dhanasri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସହି ସେ ପ୍ରୀତିରେ ସତେ କି ଲାଭ ଗୋ",
+          "ଶହେ କଥାରେ ସତ ଯା ନ ଥିବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିତି ଆନ ଦେଇ ଦେଇ ନିକର ବୋଲି ଏ କହି",
+          "ତେତିକି ବେଳରେ ଯେବେ ତା ପାଶୋରି ଦେବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସରାଗ ଥିବ ବାହାରେ ନିରାଶ ଥିବ ଭିତରେ",
+          "ପରାଣ ବିକିଲେ ତାକୁ ଫଳ କି ମିଳିବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହିତ ବୋଲି ଭଜିଥିଲେ କିତବପଣ ସେ କଲେ",
+          "ଲିତାଏ ହେଲେ ତା ଠାରେ ଲୋଭ କି ବଳିବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ରସେ ରଘୁନାଥ କବି କୁମୁଦିନୀ ନାଥ",
+          "ସ୍ନେହେ ମିଶିଥିଲେ ମନ ଛାଡ଼ି କେ ପାରିବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-se-pritire-sate-ki-labha-dhanasri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

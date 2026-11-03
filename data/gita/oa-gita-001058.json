@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-001058",
+  "name": {
+    "en": "Sahi go kahibu tu eha",
+    "or": "ସହି ଗୋ କହିବୁ ତୁ ଏହା"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000063"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-go-kahibu-tu-eha-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସହି ଗୋ କହିବୁ ତୁ ଏହା",
+          "ସେହି ନ କଲେ କରୁଣା କେହି ନାହିଁ ସାହା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଶା କରି ଶଶ ନାଶ ଆଜ ଯାଏ ଅଛି",
+          "ନିଶାନାଥର ହୃଦରେ ବସା କରିଛି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶଶୀ କେମନ୍ତ ସୁନ୍ଦର ସମସ୍ତେ ତ ଜାଣ",
+          "ନିଶିକି ଆସି ରସୁଛି ନ ଥିଲେହେଁ ଗୁଣ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚାତକ ସାନ ତା ବାଞ୍ଛା ଜଳଦ ତ ଉରେ",
+          "ପାତକୀ ଦେଖି ତୀର୍ଥ କି ପାବନ ନ କରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଳିକି ନଳିନ ରସେ ଅନୁଗତ ମାନି",
+          "ବଳିଶୋଭିନୀ ନ ତେଜୁ କଳା ରୂପ ଘେନି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କବି ନିଶାନାଥ ରଘୁନାଥ ଏହା ଭଣି",
+          "ଅବିଳମ୍ବେ ଦୂତୀ ବୋଲେ ଅତି ମୃଦୁ ବାଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-go-kahibu-tu-eha-asabari-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001066",
+  "name": {
+    "en": "Gopinathaya mangalam",
+    "or": "ଗୋପୀନାଥାୟ ମଙ୍ଗଳଂ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000012"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopinathaya-mangalam-kalyana-sanskrit-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 1,
+        "lines": [
+          "ଗୋପୀନାଥାୟ ମଙ୍ଗଳଂ ଗୋ ଗୋପବାଳ",
+          "ପାପ ମୋଚନାୟ ମଙ୍ଗଳଂ",
+          "ପାପନିକର ଖଣ୍ଡନାୟ ପାପ ସହୃଦି ମଣ୍ଡନାୟ",
+          "ଆପଦଚୟ ମୋକ୍ଷଣାୟ ଭୂପଚକ୍ର ରକ୍ଷଣାୟ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନନ୍ଦବାଳାୟ ମଙ୍ଗଳଂ ଆନନ୍ଦକନ୍ଦ",
+          "ମନ୍ଦହାସାୟ ମଙ୍ଗଳଂ",
+          "ଚନ୍ଦନବିନ୍ଦୁ ଭୂଷିତାଙ୍ଗ ଇନ୍ଦୁବଦନୀ ବୃନ୍ଦ ସଙ୍ଗ",
+          "ମନ୍ଦରଧର ଲୋକପାଳ କୁନ୍ଦରଦନ କାନ୍ତିଲୋଳ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କେଶିନାଶାୟ ମଙ୍ଗଳଂ ସୁଭକ୍ତବଂଶ",
+          "ପାଳ ଲୋଳାୟ ମଙ୍ଗଳଂ",
+          "ବାସବାଦି ଶେଷ ବ୍ୟୋମ କେଶଭଜିତ ଦିବ୍ୟନାମ",
+          "ଦୋଷରହିତ ମୋକ୍ଷଧାମ ଦାସ ନିକର ପୂର୍ଣ୍ଣକାମ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କଂସନାଶାୟ ମଙ୍ଗଳଂ ଅଦୋଷଦର୍ଶୀ",
+          "ବଂଶୀବାଦନାୟ ମଙ୍ଗଳଂ",
+          "ନାଶିତ ଭବବନ୍ଧ ମୋହ ପୋଷିତ ସୁରମୌନିବହା",
+          "-ଭୂଷିତ ଶିଖିଚନ୍ଦ୍ର ନିଚୟ ତୋଷିତ କବିଚନ୍ଦ୍ର ହୃଦୟ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/gopinathaya-mangalam-kalyana-sanskrit-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

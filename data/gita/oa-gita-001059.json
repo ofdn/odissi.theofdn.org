@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001059",
+  "name": {
+    "en": "Jati kahibaku sate",
+    "or": "ଜଟି କହିବାକୁ ସତେ"
+  },
+  "composer": "oa-person-000061",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000009"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jati-kahibaku-sate-dhanasri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜଟି କହିବାକୁ ସତେ କି ଅଛି ହେ",
+          "ସାକ୍ଷାତେ ଯେ ଚୋରପଣ ଦେଖିଛି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହଟ କରିଅଛି ସେହି ଅଳିକି ଅନାଉ ନାହିଁ",
+          "ଅଟକ କଳା ସଖୀଙ୍କି ହୋଇଛି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପିକକୁ ମୁଁ ନ ଦେଖିବି ବୋଲି ମନେ ମନେ ଭାବି",
+          "ନିକଟ ରସାଳ ରସେ ଛାଡ଼ିଛି ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କହିବି ବୋଇଲେ ତାକୁ ମୁହଁ ଅଛିକି ଆମ୍ଭଙ୍କୁ",
+          "ଯହିଁ ତହିଁ ସାକ୍ଷୀ ତ ସେ ରହିଛି ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ରସେ ରଘୁନାଥ କବି କୁମୁଦିନୀ ନାଥ",
+          "ମୋହନ ବୋଇଲେ ଦୋଷ କରିଛି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jati-kahibaku-sate-dhanasri-raghunatha-parichha-gopinatha-ballabha-nataka/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
