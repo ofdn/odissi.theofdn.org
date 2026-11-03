@@ -1,0 +1,84 @@
+{
+  "id": "oa-gita-001286",
+  "name": {
+    "en": "Rase jiba para re ali",
+    "or": "ରାସେ ଯିବା ପରା ରେ ଆଳୀ"
+  },
+  "composer": "oa-person-000140",
+  "mula_raga": [
+    "oa-raga-000107"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rase-jiba-para-re-ali-raga-puri-gourachandra-gajapati/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାସେ ଯିବା ପରା ରେ ଆଳୀ",
+          "ଶୁଭିଲାନି ଘନଘନ ମୁରଲୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅରୁଣିମା ଉଦୟାଚଳ",
+          "ମଳିନିମା ନକ୍ଷତ୍ର ଜାଳ",
+          "ଅତି ସେ ହରଷ ପାଇ ଔଷଧୀଶ",
+          "କଲେନି ପ୍ରକାଶ କିରଣ ପାଳି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିଶବଦ ବ୍ରଜ ଭୁବନ",
+          "ଉଚ୍ଛୁଳିତ ଶ୍ରୀ ବୃନ୍ଦାବନ",
+          "ନାହିଁଟି ଚେତନ ବ୍ରଜବାସୀ ଜନ",
+          "କଲେନି ଶୟନ ହୋଇ ବାଉଳି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିକଶିତ ମଲ୍ଲୀ ମାଳତୀ",
+          "ହୋଇବେନି ଜାତି ସେବତୀ",
+          "ଆଭୀର ନାଗରୀ ଭୁଜ ଧରାଧରି",
+          "ହୋଇ ନାଚୁଥିବା ବଜାଇ ତାଳି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସାରୀ ଶୁକ ପିକ ମୟୂର",
+          "ଗାନ ମଧୁକର ଝଙ୍କାର",
+          "ଶୁଣି ନାନା ରଙ୍ଗେ ଗାନ କରି ତୁଙ୍ଗେ",
+          "ନୃତ୍ୟ ଶ୍ୟାମ ସଙ୍ଗେ କରିବା ମିଳି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦୂତୀ ବାଣୀ ଶ୍ରୀମତୀ ଶୁଣି",
+          "ଭେଟିଲେ ଚଳି ବେନୁପାଣି",
+          "ଗୌରଚନ୍ଦ୍ର ଗଜପତି ହୃଷ୍ଟ ମତି",
+          "ମାଗନ୍ତି ଯୁଗଳ ଚରଣେ ଧୂଳି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rase-jiba-para-re-ali-raga-puri-gourachandra-gajapati/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

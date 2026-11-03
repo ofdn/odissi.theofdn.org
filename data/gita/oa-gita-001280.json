@@ -1,0 +1,83 @@
+{
+  "id": "oa-gita-001280",
+  "name": {
+    "en": "Brajaraja tanaya guna gaa re",
+    "or": "ବ୍ରଜରାଜ ତନୟ ଗୁଣ ଗାଆ ରେ"
+  },
+  "composer": "oa-person-000140",
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-tanaya-guna-gaa-re-gourachandra-gajapati/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବ୍ରଜରାଜ ତନୟ ଗୁଣ ଗାଆ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୋଟି କନ୍ଦର୍ପ ଦଳା ସାଧ୍ୱୀଙ୍କ ଧୃତି ଟଳା",
+          "ଅଟଇ ମୁଖ କଳା",
+          "ଆଭୀର ନାରୀଙ୍କ ପ୍ରମୋଦ ପସରା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବିଡ଼ୋଜା ବଡ଼ପଣ କରିଣ ବିସର୍ଜ୍ଜନ",
+          "ସେବିଲା ସେ ଚରଣ",
+          "ଗୋପରେ ଗୋବିନ୍ଦ ନାମକୁ ସ୍ମରି ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବତ୍ସା ବାଳକଗଣ ବ୍ରହ୍ମା କଲା ହରଣ",
+          "ଅନ୍ତେ ଲଭିଣ ଜ୍ଞାନ",
+          "ଶ୍ରୀହରି ପାଦରେ ଭଜିଲା ମୋଦରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପାପମୟ ସଂସାର ବିଷୟ କରି ଦୂର",
+          "ଚିତ୍ତକୁ କର ସ୍ଥିର",
+          "ଶ୍ରୀ ବୃନ୍ଦାବନରେ କରିଣ ବାସ ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଭବସାଗର ଭେଳା ଅଟନ୍ତି ନନ୍ଦବଳା",
+          "ତା ନାମାବଳୀ ମାଳା",
+          "ସାଦରେ ଧରିଣ ହୃଦୟ ଭିତରେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଶ୍ରୀ ଗୌରଚନ୍ଦ୍ର ଦେବ ବୋଲନ୍ତି ଛାଡ଼ି ଦମ୍ଭ",
+          "ଭଜି ରାଧାବଲ୍ଲଭ",
+          "ରାଜୀବ ପଦରେ ଆନନ୍ଦ ମନରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/brajaraja-tanaya-guna-gaa-re-gourachandra-gajapati/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
