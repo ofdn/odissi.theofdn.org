@@ -1,0 +1,62 @@
+{
+  "id": "oa-gita-001404",
+  "name": {
+    "en": "Begare asa go braja nagara nagarimane",
+    "or": "ବେଗରେ ଆସ ଗୋ ବ୍ରଜନଗର ନାଗରୀମାନେ"
+  },
+  "composer": "oa-person-000131",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/begare-asa-go-braja-nagara-nagarimane-radha-prema-lila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "( ରାଧାପ୍ରେମ ଲୀଳା )",
+          "ବେଗରେ ଆସ ଗୋ ବ୍ରଜନଗର ନାଗରୀମାନେ",
+          "ଦେଖି ନ ଥିବ ଏ କାଚ କେବେ ନୟନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଗୋ କେଳିକଳହଂସୀ କୁନ୍ଦଲତା ମନ୍ଦହାସୀ",
+          "ଚମ୍ପକଲତା ଲଳିତା ପ୍ରମୋଦ ମନେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଗୋ ପଦ୍ମା ଇନ୍ଦୁରେଖା କାମକଳା ଗୋ ବିଶାଖା",
+          "ପିନ୍ଧାଇ ଦେବି ମୁଁ ଏବେ ଅତି ଯତନେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଗୋ ରାଧା ଚନ୍ଦ୍ରାବଳୀ ତୁମ୍ଭର ଶରଧା ବୋଲି",
+          "ଆଣିଅଛି ଚାରି ଜାତି କାଚ ନୂତନେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏପରି ଆସନ୍ତେ ଭାଷି ଶୁଣି ଚନ୍ଦ୍ରାବଳୀ ଦାସୀ",
+          "ଡାକିଲେ କିଶୋରଚନ୍ଦ୍ର ମଜ୍ଜିଲେ ଧ୍ୟାନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/begare-asa-go-braja-nagara-nagarimane-radha-prema-lila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

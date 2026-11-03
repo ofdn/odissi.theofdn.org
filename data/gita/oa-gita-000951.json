@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000951",
+  "name": {
+    "en": "Ahe nabakisora hira",
+    "or": "ଆହେ ନବକିଶୋର ହୀରା"
+  },
+  "composer": "oa-person-000131",
+  "kabya": {
+    "id": "oa-kabya-000006"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-nabakisora-hira-biswambhara-rajendradeba-sarada-rahasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ନବକିଶୋର ହୀରା",
+          "ମୁରଲୀଧରା ନାଗରୀ ଜାତି ମତିହରା",
+          "ନାଳିକନୟନ ହେ ଭାଳିଥିଲ କି ମନେ",
+          "ଆଳୀଙ୍କି ସୁମଶର ପାଳିରେ ଦେବି ବୋଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜାଣିଥିଲେ ଏହା ହେ ଧନ",
+          "ଆଣି ପାରନ୍ତା କେହି ଏ ବଂଶୀସ୍ୱନ",
+          "ବାଣୀ ପୀୟୂଷ ମୃଦୁ ଛାଣି ଚତୁରପଣ",
+          "ଆଳୀମୋହନ ନୀଳଠାଣି କଷନ୍ତୁ ତେବେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆସି ମୁଖ ଦେଖାଅ ଏବେ",
+          "ଭାସିଗଲୁନି ଦାସୀଟାମାନେ ଶୋକାର୍ଣ୍ଣବେ",
+          "ଜାଗର କରି ନିଶିଭାଗରେ ବୁଲି ବୁଲି",
+          "ଆଗରେ ମିଳି ଅନୁରାଗରେ ମନ ଘେନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନାହିଁ ଲୋଡ଼ା ତୁମ୍ଭ ପୀରତି",
+          "କାହିଁକି ଆଉ ଚାହିଁ ବସିଛ ଦୁଃଖରୀତି",
+          "ଯାଉଛୁ ପୁରକୁ ଏ ଦାଉ ନ ସହୁ ଲବେ ଥାଉ",
+          "ଏ କଟାକ୍ଷ କଠାଉ ତଳରେ ନମି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶିଖଣ୍ଡଚୂଳ ସଖୀ ଗିରେ",
+          "ବିକଳ ହୋଇ ଭାଷିଲେ ମଦନ ଆତୁରେ",
+          "ରାଜନ ସୁରବର ତାଜ କରି ସେ ବ୍ରଜ",
+          "ରାଜତନୁଜ ପଦ ଆଜନମୁ ସେବେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-nabakisora-hira-biswambhara-rajendradeba-sarada-rahasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

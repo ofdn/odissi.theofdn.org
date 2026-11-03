@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000991",
+  "name": {
+    "en": "Ago kunda lalite",
+    "or": "ଆଗୋ କୁନ୍ଦ ଲଳିତେ"
+  },
+  "composer": "oa-person-000131",
+  "kabya": {
+    "id": "oa-kabya-000008"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-kunda-lalite-biswambhara-rajendradeba-radha-prema-lila/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଗୋ କୁନ୍ଦ ଲଳିତେ ମଲା ଉତ୍ତାରୁ ମତେ",
+          "ଲାଟସାର କରୁଛ କାହିଁକି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଉ କି ଲୋଡ଼ା ବୋଲି ମନୁ ବରଜି ଦେଲି",
+          "ଚନ୍ଦନ ଫୁଲ ପାନ ଚାହିଁକି ଗୋ",
+          "କରିଅଛ ଜୀବିକା ନିଶି ଦିବସେ ଏକା",
+          "ଖାଲି ଧୂଳିଧୂସର ମହୀକି ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନ ଦେଖୁ ବୋଲି ଆଖି ଭାଙ୍ଗି ତମାଳ କେକୀ",
+          "ମଞ୍ଜୁଳ ନୀଳ ଘନଛାଇକି",
+          "ଲେସାଇ ଦେଲି ପରା ତୁମ୍ଭ ହାତେ ଏ ହୀରା",
+          "କଞ୍ଜପଞ୍ଜର ମନେ ନାହିଁକି ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବୋଲୁଛ ଯେ ସକଳେ ଚାରୁ କୁଚମଣ୍ଡଳେ",
+          "ମଣ୍ଡନ କର କଳା ଅହିକି",
+          "ପାତର ହେବି ସିନା ବ୍ରଜପୁର ଲଳନା",
+          "ଜାତିର ଉଡ଼ାହସା ଟାହିକି ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏ ଗିର ସର୍ବେ ଶୁଣି ଭାଷିଲେ ବୋଧ ବାଣୀ",
+          "ସାରା ମଣ୍ଡଳ ଗୁଣଗ୍ରାହୀକି ଗୋ",
+          "ଭଜେ କିଶୋରଚନ୍ଦ୍ର ଛଦ୍ମ ନାଗରୀ ପଦ୍ମ",
+          "ପଦକୁ କର ବୋଲି ତ୍ରାହିକି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-kunda-lalite-biswambhara-rajendradeba-radha-prema-lila/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

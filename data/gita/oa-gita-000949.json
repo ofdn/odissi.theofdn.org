@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000949",
+  "name": {
+    "en": "He mohana chali mu na pare",
+    "or": "ହେ ମୋହନ ଚାଲି ମୁଁ ନ ପାରେ"
+  },
+  "composer": "oa-person-000131",
+  "mula_raga": [
+    "oa-raga-000059"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000006"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-mohana-chali-mu-na-pare-biswambhara-rajendradeba-sarada-rahasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେ ମୋହନ ଚାଲି ମୁଁ ନ ପାରେ",
+          "ହାଲିଆ ହୋଇ କ୍ଷପାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁଭାଗିନୀଗଭା ହେଲି ବ୍ରଜ ସ୍ୱରୂପାରେ",
+          "ଦେବୀଙ୍କ କଟାକ୍ଷଖେଳା ବିଳାସରୁ",
+          "ସେବିଲି ଜଳଜ ପାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଭାସିଗଲିନି ମୁଁ ଆସି ଖେଦ ଅକୂପାରେ",
+          "କରିବି କି ବିଧି ଦିଶୁନାହିଁ ବୁଦ୍ଧି",
+          "ତରିବାକୁ ଆଉ ପାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆସୁନାହିଁ ବୋଲିବାକୁ ଭାଷଟି ତ୍ରପାରେ",
+          "ଭଙ୍ଗୀରଙ୍ଗିଲା ହେ ଦିଅ ଦିଅ ସିଲ",
+          "ଅଙ୍ଗୀକାରକୁ କୃପାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏହିକ୍ଷଣି ଗରବ ସରିବ ଏଥି ପାଁରେ",
+          "ରାଜଇନ୍ଦ୍ର ବୋଲେ ସେ ଶ୍ୟାମ ଭାଷିଲେ",
+          "କପଟ ରଖି ଅପାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-mohana-chali-mu-na-pare-biswambhara-rajendradeba-sarada-rahasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
