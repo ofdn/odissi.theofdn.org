@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000957",
+  "name": {
+    "en": "Sangini re mane paduchi mora",
+    "or": "ସଙ୍ଗିନୀରେ ମନେ ପଡ଼ୁଛି ମୋର"
+  },
+  "composer": "oa-person-000132",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-mane-paduchi-mora-mohan-goswami/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଙ୍ଗିନୀରେ ମନେ ପଡ଼ୁଛି ମୋର",
+          "ବୃନ୍ଦାବନ ବିହାରୀ ଶ୍ୟାମସୁନ୍ଦର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚାହିଁଲେ ଯେଣେ ଦିଶନ୍ତି ତେଣେ",
+          "ଘନବରନ ରୂପ ମୋ ଗଳାହାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚିତ୍ର ପ୍ରତିମା ଗୋପ ଚନ୍ଦ୍ରମା",
+          "ଆହା ସେ ତ୍ରିଭଙ୍ଗିମା ଠାଣି ତାଙ୍କର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭୁଲିଲେ ପରା ମୋ ଚିତ୍ତଚୋରା",
+          "ସରିଗଲା ସୁଖ ଅଭାଗିନୀ ରାଧାର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯୁଗଳ ପ୍ରୀତି ମୋହନ ଚିନ୍ତି",
+          "ସତେ ଲଭିବି ରାଧାକୃଷ୍ଣ ପୟର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sangini-re-mane-paduchi-mora-mohan-goswami/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

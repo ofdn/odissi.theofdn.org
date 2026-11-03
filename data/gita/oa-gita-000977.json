@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000977",
+  "name": {
+    "en": "Sakhi re dharuchi to pani",
+    "or": "ସଖୀ ରେ ଧରୁଛି ତୋ ପାଣି"
+  },
+  "composer": "oa-person-000132",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-dharuchi-to-pani-mohana-gosein/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀ ରେ ଧରୁଛି ତୋ ପାଣି",
+          "ମନରୁ ମାନ ତେଜରେ ମାନିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚାହାଁ ଟେକି ବଦନ ଆରେ ମୋ ପ୍ରାଣଧନ",
+          "ସୁନ୍ଦର କୁନ୍ଦରଦନୀ",
+          "କାହାଠାରୁ ଏମନ୍ତ ଶିଖିଲୁ ପ୍ରାଣମିତ",
+          "କହରେ ଘନ ଜଘନୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିର୍ଦ୍ଦୟ ରତିପତି ଛାତି ଦିଏ କରତି",
+          "ନ ଶୁଣି ତୋ ମୃଦୁବାଣୀ",
+          "ବହୁ ଦିନରେ ଚିତ୍ତ ଜାଣିଲି ପ୍ରାଣମିତ",
+          "କହରେ ଚାରୁ ହାସିନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶ୍ରୀପତିଙ୍କ ଦେଇ ଦୟିନୀ ଶ୍ରୀମତୀ",
+          "କର୍ଣ୍ଣେ ଶୁଣି କୋଳେ ବସାଇଲେ ଆଣି",
+          "ମୋହନ ରସେ ଭାଷେ ବୃନ୍ଦାବନେ କି ଦିଶେ",
+          "ଯୁଗଳ ଲାବଣ୍ୟ ଠାଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-dharuchi-to-pani-mohana-gosein/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

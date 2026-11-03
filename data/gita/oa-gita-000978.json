@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000978",
+  "name": {
+    "en": "Na asa na asa syama",
+    "or": "ନ ଆସ ନ ଆସ ଶ୍ୟାମ"
+  },
+  "composer": "oa-person-000132",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-asa-na-asa-syama-mohana-gosein/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନ ଆସ ନ ଆସ ଶ୍ୟାମ ଆଉ ଏଣିକି ହେ",
+          "ଧରୁଛି ଚରଣ ପ୍ରଭୁ ଘୁଞ୍ଚ ତେଣିକି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁମ୍ଭ ଲାଗି ଚିନ୍ତାମଣି ହେଲି ବ୍ରଜେ କଳଙ୍କିନୀ",
+          "ପୋଷିଥିଲି ଗୃହେ ଆଣି କାଳ ଫଣୀକି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସେ ନାରୀ ସୁରସବତୀ ମୋହିଲାକି ନୀଳହାତୀ",
+          "କହି ମଜ୍ଜାଇଲା ମତି ମୃଦୁବାଣୀକି ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେ ଶଠ ଲମ୍ପଟ କାହ୍ନା ନିକୁଞ୍ଜ ହେଲାଣି ମନା",
+          "ଆଉ ନ ଯିବି ଯମୁନା ନୀର ଆଣିକି ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ମୋହନ କରେ ଗୁହାରି ମୁଞ୍ଚ ମାନ ବ୍ରଜେଶ୍ୱରୀ",
+          "ମନ୍ଦେ ହସି ଚାହଁ ଫେରି ବାଙ୍କଠାଣିକି ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/na-asa-na-asa-syama-mohana-gosein/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
