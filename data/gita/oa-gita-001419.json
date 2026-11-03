@@ -1,0 +1,47 @@
+{
+  "id": "oa-gita-001419",
+  "name": {
+    "en": "Raga tala sura bheda",
+    "or": "ରାଗ ତାଳ ସୁର ଭେଦ"
+  },
+  "composer": "oa-person-000162",
+  "mula_raga": [
+    "oa-raga-000065"
+  ],
+  "mula_tala": [
+    "oa-tala-000010"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/raga-tala-sura-bheda-gopal-chandra-panda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାଗ ତାଳ ସୁର ଭେଦ ଗୁରୁଜ୍ଞାନ ପରସାଦ",
+          "ପ୍ରାପତ ହୋଇ ଯେ ଜନ ହୋଇ ସୁଜ୍ଞାନୀ କୋବିଦ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଭ୍ୟାସ ଶ୍ରବଣ ଧ୍ୟାନ ନିରତ ସାଧନ ମନ",
+          "ସର୍ବ ବିଧ ଶାସ୍ତ୍ର ଜ୍ଞାନ ସାଧେ ଯେ ସାବଧାନ",
+          "ନାଦ ବିଦ୍ୟା ସୁକଠିନ କିଞ୍ଚିତେ ସେ ପାଏ ଭେଦ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/raga-tala-sura-bheda-gopal-chandra-panda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

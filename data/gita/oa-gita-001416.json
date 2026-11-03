@@ -1,0 +1,49 @@
+{
+  "id": "oa-gita-001416",
+  "name": {
+    "en": "Sakala jana mana mohini suddhadesi ragini",
+    "or": "ସକଳ ଜନ ମନ ମୋହିନୀ ଶୁଦ୍ଧଦେଶୀ ରାଗିଣୀ"
+  },
+  "composer": "oa-person-000162",
+  "mula_raga": [
+    "oa-raga-000068"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakala-jana-mana-mohini-suddhadesi-ragini-gopal-chandra-panda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସକଳ ଜନ ମନ ମୋହିନୀ",
+          "ଶୁଦ୍ଧଦେଶୀ ରାଗିଣୀ",
+          "ମୃଦୁ ଗାନ୍ଧାରେ ଧୈବତ ନିଷାଦିନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପଞ୍ଚମ ସ୍ୱର ବାଦିନୀ",
+          "ଷଡ଼ଜ ସ୍ୱର ସଂବାଦିନୀ",
+          "କର୍ଣ୍ଣାଟ ମେଳ ଧାରିଣୀ",
+          "ଦିବସ ଦ୍ୱିତୀୟ ପ୍ରହରେ ବିହରିଣୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakala-jana-mana-mohini-suddhadesi-ragini-gopal-chandra-panda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
