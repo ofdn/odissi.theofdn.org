@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000356",
+  "name": {
+    "en": "Sarili sarili hari pirati asare",
+    "or": "ସରିଲି ସରିଲି ହରି ପୀରତି ଆଶାରେ"
+  },
+  "composer": "oa-person-000042",
+  "mula_raga": [
+    "oa-raga-000045"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarili-sarili-hari-pirati-asare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସରିଲି ସରିଲି ହରି ପୀରତି ଆଶାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଲ୍ଲୀଝରା ଦେଲି ମଲି ନ ମେଲି ଭାଷା ରେ",
+          "ଖୋଷିଲେ ତା ନେଇ ଚନ୍ଦ୍ରାବଳୀର ଖୋଷାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଡାକି ଗଲା ଶୁକ ଡାକି ପ୍ରାଣ ପିପାସାରେ",
+          "ତା ମନ୍ଦିର ଦାନ୍ଦୀ ବନ୍ଦି ବିହିଲେ ହସା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସାରି ତା ତନୁ ଉଜ୍ଜ୍ୱଳ କଜ୍ଜ୍ୱଳ ଘଷା ରେ",
+          "ଧରାରୁ ଛାଡ଼ିଲେ ଖରା ପ୍ରସାରୁ ରସାରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଇଙ୍ଗିତ କଲେ ମୋ ମାଳୀ ବାଳୀକି କାସାରେ",
+          "କେହୁ ଶୁକ କାକ ହୁଏ ରାଧିକା ପୋଷା ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଭାସିଲି ବୋଲି ଲେଖିଲି ବିନୟ ଭାଷାରେ",
+          "ଭାଷେ ଯଦୁମଣି ଦେଲେ ବିପକ୍ଷ ଯୋଷାରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sarili-sarili-hari-pirati-asare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

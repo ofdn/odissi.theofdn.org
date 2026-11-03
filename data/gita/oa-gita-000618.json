@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000618",
+  "name": {
+    "en": "Kirajita gira padaka suna",
+    "or": "କୀରଜିତ ଗିର ପଦକ ଶୁଣା"
+  },
+  "composer": "oa-person-000042",
+  "mula_raga": [
+    "oa-raga-000150"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kirajita-gira-padaka-suna-todiparaja-jadumani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୀରଜିତ ଗିର ପଦକ ଶୁଣା ରେ ହୀରକ ଦଶନା ବାଳା",
+          "କୀରତି ରଖାଅ ଏ ମହୀ ମଣ୍ଡଳେ ଆରେ ପୀରତି ବତ୍ସଳା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଧୀରଗତି ନବ ନୀରଦ କୁନ୍ତଳା ଚିର ଆଶ୍ରିତ ମୁଁ ତୋର",
+          "ନିରସ ବଦନ କରି ଯା ବସିଛୁ ଶିର ପୋତି ଅବନୀର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କ୍ଷୀର ଖଣ୍ଡ ମିଶା ତୋ ମଧୁର ଭାଷା ଶୁଣା ଏ ରୁଷଣା ମୁଞ୍ଚି",
+          "ଦ୍ୱିରଦ କୁମ୍ଭ ଉରଜା ନାରୀରାଜା ବ୍ୟର୍ଥେ ତୁ ନ ବସ ଘୁଞ୍ଚି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ନୀରଜ ନୟନୁ ନୀର ଧାର ହାର ପରେ ଆଉ ନ ବରଷା",
+          "ଚିର ଶୋଭୀ ଘେନ ଅନୁନୟ ମୋର ତୋ ବିନେ କେ ବା ଭରସା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚରଣ ଦଶନେ ଧରି ମୁଁ ମାଗୁଛି ଗୁମାନୀ ହୁଅ ନା ଧନ",
+          "ବୀର ମାରକୁ ହଟାଅ ହରିମଧ୍ୟା ଦେଇ କେଳାତି ବର୍ତ୍ତନ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ତିରସ୍କାର କଲେ କର ସେ ମୋ ସୁଖ ଆରେ ମଦାଳସା ମଣି",
+          "ଭୀରସେନ ଭାସୁ ଆଶୁତୋଷ ମୋହୀ ସଦାଧୀନ ଯଦୁମଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kirajita-gira-padaka-suna-todiparaja-jadumani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

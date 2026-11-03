@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000626",
+  "name": {
+    "en": "Re sarasanana rasara sara",
+    "or": "ରେ ସାରସାନନା ରସାର ସାର"
+  },
+  "composer": "oa-person-000042",
+  "mula_raga": [
+    "oa-raga-000064"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/re-sarasanana-rasara-sara-paraja-jadumani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରେ ସାରସାନନା ରସାର ସାର",
+          "ରସାଳସା ଯୋଷା ଦମ୍ଭ ନ ସାର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତୁରିତ ମୂରତି ସୁରତି ଦାତ୍ରୀ",
+          "ଶତବାନୀ ସାତକୁମ୍ଭ ସୁଗାତ୍ରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଆଳୀ ଆଳୀମାଳିକାରେ ବାଳୀଶ",
+          "ଚାଳିବା ଚରଣ କରେ ବାଳୀଶ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କି କରି ରେ ମତ୍ତ କରୀନ୍ଦ୍ର ଗତି",
+          "ଶ୍ରୀକର ଧରି କିଙ୍କର ହୁଅନ୍ତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅନଙ୍ଗ ରଙ୍ଗରେ ରଙ୍ଗ ଅଧରା",
+          "ସଙ୍ଗ ଭଙ୍ଗ ବେଳେ ନୁହନ୍ତି ପରା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଭଣି ଯଦୁମଣି ରମଣୀମଣି",
+          "ଅଣିମାଦି ସୁଖ ଦିଅନ୍ତା ଗଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/re-sarasanana-rasara-sara-paraja-jadumani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

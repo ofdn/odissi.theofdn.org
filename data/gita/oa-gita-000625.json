@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000625",
+  "name": {
+    "en": "Ki bhangire gala ta chali",
+    "or": "କି ଭଙ୍ଗୀରେ ଗଲା ତ ଚାଲି"
+  },
+  "composer": "oa-person-000042",
+  "mula_raga": [
+    "oa-raga-000080"
+  ],
+  "mula_tala": [
+    "oa-tala-000012"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-bhangire-gala-ta-chali-desabaradi-jadumani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି ଭଙ୍ଗୀରେ ଗଲା ତ ଚାଲି",
+          "ମୋ ଧନ ମଦନ କେଳି ଖିଆଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଧନ୍ୟ ତାର ଚାହିଁବା ଛଟା",
+          "ଯୁବା ପୁଂସ ଧଇର୍ଯ୍ୟ କଟା",
+          "ଭୂରୁନଚା ଖଣ୍ଡ ସୁରେଶ କୋଦଣ୍ଡ",
+          "ଟଙ୍କାର ଗର୍ବକୁ ଦିଏ ନକାଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତାର ଯେଉଁ ମୁରୁକି ହସା",
+          "ତାରାନାଥୁଁ ଅମୀୟ ଖସା",
+          "ରଦ ବସନରେ ଦଶନ ଦଂଶାଟି",
+          "କେଳତି ପତିର ସୁତୀକ୍ଷ୍ଣ ଭାଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ଯେ ସଜ ପଙ୍କଜବାସୀ",
+          "ବାସ କରପୁର ସୁହାସୀ",
+          "ପରବତ କୁଚା ପରବ ଶର୍ବରୀ",
+          "ବଲ୍ଲଭ ଲପନା ଗେହ୍ଲା ନିହାଲୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରସେ ଯଦୁମଣି ବଦତି",
+          "ଅଶେଷ ପା ଚାତୁରୀ ଗତି",
+          "ନ ସେବି ଥିବ ଯେ ହର ପାରବତୀ",
+          "ଲଭିବ କି ସେ ଏ ପରା ଛଇଳି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-bhangire-gala-ta-chali-desabaradi-jadumani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
