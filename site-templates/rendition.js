@@ -69,12 +69,12 @@ export default function rendition(record, ctx) {
     type: BIB[record.kind],
     title: gita ? displayName(gita, lang) : displayName(record, lang),
     ...composerCite(ctx, gita?.composer),
-    editors: [],
     performers: record.kind === "recording" ? names(ctx, people) : [],
-    year: record.date?.slice(0, 4),
-    container: carrier && carrier.kind !== "online" ? displayName(carrier, lang) : undefined,
-    publisher: carrier?.label ?? "",
-    note: record.kind === "notation" ? t("cite.notation_by", { names: names(ctx, people).join(", ") }, lang) : undefined,
+    dated: record.date,
+    note: [
+      record.kind === "notation" && t("cite.notation_by", { names: names(ctx, people).join(", ") }, lang),
+      carrier && t("cite.on", { carrier: [displayName(carrier, lang), carrier.label].filter(Boolean).join(", ") }, lang),
+    ].filter(Boolean).join(". ") || undefined,
   });
   return recordPage(ctx, record, {
     facts,
