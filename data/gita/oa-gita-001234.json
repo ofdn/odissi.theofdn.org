@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-001234",
+  "name": {
+    "en": "Jaya jaya sankara tanka pinaka",
+    "or": "ଜୟ ଜୟ ଶଙ୍କର ଟଙ୍କ ପିନାକକର"
+  },
+  "composer": "oa-person-000150",
+  "mula_raga": [
+    "oa-raga-000124"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-jaya-sankara-tanka-pinaka-sankara-bihara-prabandha-kabiratna-narayana-misra-mallara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଶଙ୍କରବିହାରପ୍ରବନ୍ଧ, ମଲ୍ଲାରରାଗେଣ",
+          "ଜୟ ଜୟ ଶଙ୍କର ଟଙ୍କ ପିନାକକର",
+          "କିଙ୍କର ଭବଭୟ ମୋଚନୁଆ",
+          "ବିନିହତ ଶମ୍ବର ଅରି ଅଜିନାମ୍ବର",
+          "ଅମ୍ବରମଣି ଶଶିଲୋଚନୁଆ । ଉଦ୍ଗ୍ରାହଃ ।"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଖଣ୍ଡ ରଜନୀକର ମଣ୍ଡନବର ଶିର",
+          "ଗଣ୍ଡଯୁଗଳ ଫଣିକୁଣ୍ଡଳୁଆ",
+          "ପ୍ରକଟ ଜଟାତଟ ସୁରତଟିନୀ ନଟ",
+          "-ଦମ୍ବୁ କୁସୁମଚୟ ମଣ୍ଡନୁଆ",
+          "ଶାରଦ ଶଶଧର କୁନ୍ଦତୁହିନ ବର",
+          "-ବୃନ୍ଦ ବିଜୟୀ ରୁଚି ସୁନ୍ଦରୁଆ",
+          "ସନକ ସନନ୍ଦନ ମୁନିକୃତ ବନ୍ଦନ",
+          "ଚରଣାନତ ପୁରନ୍ଦରୁଆ । ଦ୍ୱିଗୁଣମାତ୍ରୋ ଧ୍ରୁବଃ ।"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନି ଧ୍ଧ ମ ଗ ମ ଧ ନି ରି ମ୍ମ ଗ ରି ଧ ମ",
+          "ନି ନ୍ନି ନି ଧ ରି ଗ ମ ଗ ନି ଧ ଧ ମରେ",
+          "ଦ୍ରାଂ ଦ୍ରାଂ ଦ୍ରି ମି ଦ୍ରାଂ ଦ୍ରାଂ ଦ୍ରିମିକିଟ ଥୋ ଗିଂଟ ନାଂ ଗି ଟ ତା",
+          "କକୁ ରେ ନ କୁ ନା କୁନୈ ତେନା ତେନ ରେ । ଆଭୋଗଃ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jaya-jaya-sankara-tanka-pinaka-sankara-bihara-prabandha-kabiratna-narayana-misra-mallara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

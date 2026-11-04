@@ -1,0 +1,57 @@
+{
+  "id": "oa-gita-001233",
+  "name": {
+    "en": "Jaya haladhara rebati nayaka",
+    "or": "ଜୟ ହଳଧର ରେବତୀ ନାୟକ"
+  },
+  "composer": "oa-person-000150",
+  "mula_raga": [
+    "oa-raga-000154"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/balabhadra-bijaya-prabandha-jaya-haladhara-rebati-nayaka-kabiratna-narayana-misra-dhannasika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବଳଭଦ୍ରବିଜୟପ୍ରବନ୍ଧ, ଧନାଶୀରାଗେଣ –",
+          "ଜୟ ହଳଧର ରେବତୀ ନାୟକ ସୁର ନର ମୁନି ବାଞ୍ଛିତଦାୟକ",
+          "ପଦଯୁଗ ନିର୍ଝର ନାୟକ ଦୁର୍ଜୟ ରିପୁଚୟ ଦଣ୍ଡନୁଆ",
+          "ଚଟୁଳ ନୀଳ ନିଚୋଳକ କଟିତଟ ପ୍ରକଟ ଚାରୁ ସମୀର ବର କିରୀଟ",
+          "କାନ୍ତି ଭାସୁର ବିପୁଳ କଟିତଟ ନିର୍ମଳ ମଣିଗଣ ମଣ୍ଡନୁଆ । ପ୍ରଥମଖଣ୍ଡଃ ।"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଧୁରହାସ ବିରାଜିତାଧର ଲପନ ନିର୍ଜିତ ପୂର୍ଣ୍ଣ ଶଶଧର",
+          "କୁନ୍ଦସୁନ୍ଦର ଲଳିତ କଳେବର ଘୂର୍ଣ୍ଣିତ ବରଲୋଚନୁଆ",
+          "ଗଣ୍ଡସ୍ଥଳ ମଣିମଣ୍ଡିତ କୁଣ୍ଡଳ ପାଦାନତ ଅବନୀ ମଣ୍ଡଳ",
+          "ନିର୍ଜିତାଖିଳ ଦନୁଜକୁଳ ନିଜ ଭକ୍ତି ଭବଭୟ ମୋଚନୁଆ । ଉଚ୍ଚଖଣ୍ଡୋ ଧ୍ରୁବଃ ।"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସା ସ୍ସା ସ୍ସା ନି ନି ନ୍ନି ଧ ଗ ମପ ଧ ନି ମ୍ମ ଗ ନି ଗ ନି ଗ ନି ଧ୍ଧ ମ",
+          "ମ ପନି ଧ ଧ ମ୍ମ ଗ ପ ଗ ସା ସ୍ସ ନି ଧ ଧ ମ ମ ମ୍ମ ଧ ପ ଧ ନି ନ୍ନି ଧରେ",
+          "ଦ୍ରାଂ ଦ୍ରାଂ କିଟଥୋଂ ଗିଟନାଂ ଗିଟ ଝେଁ ଝେଁ କ୍ରିଣଠ ଗଣନା କୁ କି କି ଟ ତେ ନ୍ନାଂ ତେ",
+          "ନା ତେ ନା ତ୍ରେନ୍ନା ନ୍ନା ତେନ୍ନାଂ ନ୍ତେନା ତେନା ଈ ଆ ରେ । ଆଭୋଗଃ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/balabhadra-bijaya-prabandha-jaya-haladhara-rebati-nayaka-kabiratna-narayana-misra-dhannasika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
