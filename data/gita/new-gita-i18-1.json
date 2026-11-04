@@ -1,0 +1,78 @@
+{
+  "id": "new-gita-i18-1",
+  "name": {
+    "en": "Besa Karibi Mathuranathanku",
+    "or": "ବେଶ କରିବି ମଥୁରାନାଥଙ୍କୁ",
+    "alternates": [
+      "Besha Karibi Mathura Nathanku",
+      "Besa Karibi Mathuranathanku",
+      "ବେଶ କରିବି ମଥୁରା ନାଥଙ୍କୁ"
+    ]
+  },
+  "composer": "oa-person-000012",
+  "mula_raga": [
+    "oa-raga-000203"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "song_type": "chaupadi",
+  "text": {
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବେଶ କରିବି ମଥୁରାନାଥଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯାଈ ଜୂଈ ମଲ୍ଲୀ ଜାତି ପୁଷ୍ପ ତୋଳି",
+          "କରେ ଗୁନ୍ଥି ମାଳୀ ଦେବି ଭୁଜକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଘନସାର ଗୋଳି ମଳୟଜ ବୋଳି",
+          "ଦେବି ଝଳି ଶ୍ୟାମ ଶିରୀଅଙ୍ଗକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବଳାହକଦଳା ତମାଳସୁନ୍ଦର",
+          "କଳା କଳେବର ରଙ୍ଗାଧରଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଷଡ଼ ଅଇଶ୍ୱର୍ଯ୍ୟ ଯାର ଭୁଜ ତେଜ",
+          "ଜିଣି ବ୍ୟାଜପୁଞ୍ଜ ତାପଜ୍ୱାଳାକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ହରି ପାରିଷଦ ଅମ୍ଭୋରୁହ ପଦ",
+          "ସ୍ମରି ମନାନନ୍ଦ ଭଣି ଗୀରକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/besa-karibi-mathuranathanku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-04",
+  "updated_at": "2026-11-04",
+  "entered_by": [
+    "Prateek Pattanaik"
+  ]
+}
