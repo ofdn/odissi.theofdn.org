@@ -102,14 +102,14 @@ export function composerCite(ctx, id) {
 }
 
 export function recordCitation(ctx, record, extra = {}) {
-  // a gīta or kābya is the poet's work; Prateek edits the archive it sits in
+  // a gīta or kābya is the poet's work; Prateek edits the archive every record sits in
   const kind = record.id.split("-")[1];
   const poet = (kind === "gita" || kind === "kabya") && { ...composerCite(ctx, record.composer), compilers: record.entered_by };
   return {
     type: "inreference",
     id: record.id,
     title: displayName(record, ctx.lang),
-    authors: record.entered_by ?? [CURATOR],
+    authors: record.entered_by ?? [],
     ...poet,
     editors: [CURATOR],
     container: SITE_NAME,

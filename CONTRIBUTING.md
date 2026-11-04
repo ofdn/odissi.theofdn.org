@@ -28,7 +28,7 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.
 - Cite every source in `sources`. See "Citing sources" below.
 - A rendition needs no `name`. The site names it from the gīta and the people credited.
-- If you add a record that is not from Odissi Music or Prateek Pattanaik, put your full name in `entered_by`, such as `"entered_by": ["First1 Last1"]`. A GitHub username such as `"@octocat"` is fine too. The record is then cited under your name. On a gīta or kābya the poet is the author and you are named as compiler. Records without it are cited to Prateek Pattanaik.
+- If you add a record that is not from Odissi Music or Prateek Pattanaik, put your full name in `entered_by`, such as `"entered_by": ["First1 Last1"]`. A GitHub username such as `"@octocat"` is fine too. The record is then cited under your name. On a gīta or kābya the poet is the author and you are named as compiler. Prateek Pattanaik is named as editor of the archive on every record.
 - Give every carrier a `rights` status. Do not add audio files to the repository. Link a YouTube or Internet Archive copy in `online` instead.
 
 The full list of fields for each kind is in `schema/<kind>.schema.json`.
