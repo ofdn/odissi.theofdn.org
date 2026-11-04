@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-001408",
+  "name": {
+    "en": "Ei mana sina chaturdha murati",
+    "or": "ଏହି ମନ ସିନା ଚତୁର୍ଦ୍ଧା ମୂରତି"
+  },
+  "composer": "oa-person-000145",
+  "mula_raga": [
+    "oa-raga-000067"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ei-mana-sina-chaturdha-murati-achyutananda-bichitra-kamodi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏହି ମନ ସିନା ଚତୁର୍ଦ୍ଧା ମୂରତି ରେ ମୂଢ଼ମତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମନ କହେ ଚଇତନ ହେତୁରେ ଦେଖ ତୁ ବ୍ରହ୍ମ",
+          "ୟେ ତତ୍ତ୍ୱ ଚାରିବେଦେଣ ଦଣ୍ଡିବ ନାହିଂ ଶମନ",
+          "ସନକାଦି ମୁନି ଧ୍ୟାଉଛନ୍ତି ରେ ମୂଢ଼ମତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନ ଖୋଳ ତଡ଼ାଗ କୂପ ଦେଉଳ ତୋଟା ନ ଗେପ",
+          "ଥାପନା ଦିଅଁ ନ ଥାପ ନ ଯା ବୃନ୍ଦାବନ ଗୋପ",
+          "ନ ଯା ତୁହି ପ୍ରୟାଗ ଗୋମତୀ ରେ ମୂଢ଼ମତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ୟେ ଗ୍ୟାଂନ ହୃଦେ ନ ଧର ତିଳକ ମାଳା ନ କର",
+          "ଜଟା କୌପୁନି ନ ଧର ଭସ୍ମ ଅଙ୍ଗୁ ପରିହର",
+          "ଗଙ୍ଗାକୂଳେ ନାହିଁ ସଦଗତି ରେ ମୂଢ଼ମତି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆତ୍ମାରେ ଆତ୍ମାକୁ ଦେଖ ଦେଖିଲେ ପାଇବୁ ସୁଖ",
+          "ତୋର ଦେହେ ତୁହି ଦେଖ ଦିଶୁଅଛି ଜକଜକ",
+          "ଭାବି କହେ ପାମର ଅଚ୍ୟୁତି ରେ ମୂଢ଼ମତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ei-mana-sina-chaturdha-murati-achyutananda-bichitra-kamodi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

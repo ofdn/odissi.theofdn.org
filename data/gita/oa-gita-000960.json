@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000960",
+  "name": {
+    "en": "Kunchita kuntala",
+    "or": "କୁଞ୍ଚିତ କୁନ୍ତଳା"
+  },
+  "composer": "oa-person-000039",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kunchita-kuntala-krupamaya-deba/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କୁଞ୍ଚିତ କୁନ୍ତଳା",
+          "ଆସରେ ରାସରଙ୍ଗିନୀ କହିଛନ୍ତି ନନ୍ଦବଳା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରେ ମତ୍ତକରୀ ଗତିକି ସତ ମଣି ଭାରତୀ କି",
+          "ନିର୍ଦ୍ଦୟ ଚିତ୍ତକୁ ଘେନ ନ କର ତୋଠାରେ ହେଳା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମଦନ ସାଗରେ ସହି ପଡ଼ିଛିରେ ପ୍ରିୟସହି",
+          "ବାରେ ପାରି କର ତୋର ଦେଇଣ ଜାନୁର ଭେଳା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭାବି ମନେ ତୋ ପୀରତି ନିଦ୍ରା ନାହିଁ ଦିବାରାତି",
+          "ନିରନ୍ତରେ ଜପୁଥାନ୍ତି ରାଧା ରାଧା ନାମ ମାଳା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କିଆ କେତକୀ ଦଳରେ ଲେଖାଲେଖି ଚଞ୍ଚଳରେ",
+          "ଦେଇ ପତ୍ର ମୋର କରେ ଥନଥନ କଲେ ଡୋଳା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀ ଶ୍ରୀ କୃପାମୟ ଦେବ ସଖୀ ଭାବେ ଭାବୁଥିବ",
+          "ଅତି ଗୁପତରେ ହେବ ଶ୍ରୀମତୀ ଶ୍ରୀକୃଷ୍ଣ ଲୀଳା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kunchita-kuntala-krupamaya-deba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

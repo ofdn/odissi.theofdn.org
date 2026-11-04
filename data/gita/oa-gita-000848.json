@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000848",
+  "name": {
+    "en": "Sajani aja surate rasila",
+    "or": "ସଜନୀ ଆଜ ସୁରତେ ରସିଲା"
+  },
+  "composer": "oa-person-000125",
+  "mula_raga": [
+    "oa-raga-000089"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-aja-surate-rasila-mohana-kedara-phakira-bhanja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଜନୀ ଆଜ",
+          "ସୁରତେ ରସିଲା ସେ ମୋ ବନ୍ଧୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଉରେ ଉର ଯୋଡ଼ିବାର ଭୁଜେ ଭୁଜ ଭିଡ଼ିବାର",
+          "ରଦଚ୍ଛଦ ପୀଡ଼ିବାର କସିଲା ସେ ମୋ ବନ୍ଧୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସରୁ ଚୁମ୍ବ ଯାଚିବାର ନାସାମଣି ନାଚିବାର",
+          "ନାନା ଭଙ୍ଗୀ ଭାଷିବାର ପାଞ୍ଚିବାର ଦିଶିଲା ସେ ମୋ ବନ୍ଧୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଭାଲେ ଡୋଳା ଖୋସିବାର ସ୍ୱେଦବିନ୍ଦୁ ଖସିବାର",
+          "ସ୍ମରଶର ପେଷିବାର ନାଶିଲା ସେ ମୋ ବନ୍ଧୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହନ୍ତି ଶ୍ରୀ ହରି ବାରବାର ମୁଁ ତୋ ପରିଚାର",
+          "ଭଞ୍ଜ ଭୂପ ରସବାର ଭାଷିଲା ସେ ମୋ ବନ୍ଧୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sajani-aja-surate-rasila-mohana-kedara-phakira-bhanja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

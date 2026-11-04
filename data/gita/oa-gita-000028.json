@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000028",
+  "name": {
+    "en": "Sadha nada saptaswara",
+    "or": "ସାଧ ନାଦ ସପ୍ତସ୍ୱର"
+  },
+  "composer": "oa-person-000020",
+  "mula_raga": [
+    "oa-raga-000018"
+  ],
+  "mula_tala": [
+    "oa-tala-000010"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sadha-nada-saptaswara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "(ଧ୍ରୁବପଦାଙ୍ଗ)",
+          "ସାଧ ନାଦ ସପ୍ତସ୍ୱର ଏକୋଇଶ ମୃରଛନା",
+          "ଦ୍ୱାବିଂଶତି ଶ୍ରୁତି ଭିନ୍ନ ଊନଚାଶ କୂଟତାନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆରୋହାବରୋହଣ ସ୍ଥାୟୀ ଅନ୍ତରା ସଞ୍ଚାର",
+          "ଦ୍ୱାବିଂଶତି ଶ୍ରୁତି ଶୁଦ୍ଧାକ୍ଷର ଉଦାରା ମୁଦାରା ତାର । ଅନ୍ତରା ।"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଓଡ଼ବ ଷାଡ଼ବ ପୂର୍ଣ୍ଣ ଗ୍ରହ ଅଂଶ ନ୍ୟାସ ବର୍ଣ୍ଣ",
+          "ତ ମଧ୍ୟ ବିଳମ୍ବିତ ସମାତୀତ ଅନାଗତ । ସଞ୍ଚାରୀ ।"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶୁଦ୍ଧ ଛାୟାଲଗ କ୍ଷୁଦ୍ର ବନ୍ଧଗାନ ସୁଆମୋଦ",
+          "ରାଗ ରସ କାଳ ଭାବ ବଳଦେବ ବଦେ ଧ୍ରୁବ । ଆଭୋଗ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sadha-nada-saptaswara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

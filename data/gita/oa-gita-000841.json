@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000841",
+  "name": {
+    "en": "Ago priya sahi mara maruchi",
+    "or": "ଆଗୋ ପ୍ରିୟସହି\nମାର ମାରୁଛି"
+  },
+  "composer": "oa-person-000031",
+  "mula_raga": [
+    "oa-raga-000143"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-priya-sahi-mara-maruchi-lalita-kamodi-dukhisyama-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଗୋ ପ୍ରିୟସହି",
+          "ମାର ମାରୁଛି ମରମେ ରହି ରହି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବିଶ୍ରବା ନନ୍ଦନ ଭ୍ରାତ ନେଇ",
+          "ସଦନୁ ବାହାର ହେଲି ମୁହିଁ",
+          "ବିନତା ନନ୍ଦନ ପତିଙ୍କି ଦେଖିଲି",
+          "ନୀପମୂଳେ ଛନ୍ତି ଉଭା ହୋଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚାରି ସୁତ ଭ୍ରାତ ମୁଖ ଚାହିଁ",
+          "ମୂର୍ଚ୍ଛାଗତ ଗଲି ସଖୀ ତହିଁ",
+          "ରାବଣ ସାନୁଜ ପତି ପ୍ରାଣ ଗଲା",
+          "ଧୃତରାଷ୍ଟ୍ର ସୁତ ଖଣ୍ଡ ମହୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖି ପାଦ ମୋର ନ ଚଳଇ",
+          "କି ବୋଲି କହିବି ପୁରେ ଯାଇ",
+          "କାନ୍ତା ସୁତ ତାତ ଅତି ଦୁରୁଦଣ୍ଡ",
+          "ଦେଖିଲେ ମୋ ଦେହ ଥରୁଥାଇ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସଖୀ ମୁଁ କହୁଛି କର ଦେଇ",
+          "ବିରାଟ ନନ୍ଦନ ଦିଅ କହି",
+          "ଭଣେ ଦୁଃଖୀଶ୍ୟାମ ଦାସ ଏହୁ ରସେ",
+          "ନ ଭେଟିଲେ ଅନ୍ୟ ଗତି ନାହିଁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ago-priya-sahi-mara-maruchi-lalita-kamodi-dukhisyama-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

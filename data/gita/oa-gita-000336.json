@@ -1,0 +1,88 @@
+{
+  "id": "oa-gita-000336",
+  "name": {
+    "en": "Kaha re sajani aja e rajani",
+    "or": "କହରେ ସଜନୀ ଆଜ ଏ ରଜନୀ"
+  },
+  "composer": "oa-person-000066",
+  "mula_raga": [
+    "oa-raga-000009"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-re-sajani-aja-e-rajani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କହରେ ସଜନୀ ଆଜ ଏ ରଜନୀ",
+          "ମୋ ପ୍ରାଣନାୟକ ଆସିବେ କି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେଳିଗୃହେ ମିଳି କରିବେ କି କେଳି",
+          "ରସାଇ ମୋ ମନ ରସିବେ କି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାୟକରତନ ଦେଇ ଚୁମ୍ବଦାନ",
+          "ସୁରତେ ମୋ ମନ ତୋଷିବେ କି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ନନ୍ଦନନ୍ଦନ ଶ୍ରୀ ମଧୁସୂଦନ",
+          "ଆସି ମୋ ପଲ୍ୟଙ୍କେ ବସିବେ କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଖଣ୍ଡିବେ ଅଦେହ ଦଣ୍ଡକୁ ମୋହର",
+          "ବିନୟରେ ଚାଟୁ ଭାଷିବେ କି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦେଇ ଚିବୁକରେ କର ମୋ ଚିକୁରେ",
+          "ଶ୍ୟାମଳୀ କୁସୁମ ଖୋଷିବେ କି"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଘୋଟିଛି ମଦନ ଅନ୍ଧାର ସଦନ",
+          "ମୋହନଚନ୍ଦ୍ର ପ୍ରକାଶିବେ କି"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "ବୋଲେ ପୀତାମ୍ବର ରତି ହୃଦ ଚୋର",
+          "ଅଇରି ତାପ ତା ନାଶିବେ କି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-re-sajani-aja-e-rajani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

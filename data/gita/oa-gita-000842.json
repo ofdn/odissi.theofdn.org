@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-000842",
+  "name": {
+    "en": "Tola tola ehi phula",
+    "or": "ତୋଳ ତୋଳ ଏହି ଫୁଲ"
+  },
+  "composer": "oa-person-000031",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tola-tola-ehi-phula-dukhisyama-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ତୋଳ ତୋଳ ଏହି ଫୁଲ ଯତନେ ଗୁନ୍ଥିବା",
+          "ମାଳ କରି ଶ୍ରୀ କୃଷ୍ଣର ଗଳେ ଲମ୍ବାଇବା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କୁନ୍ଦ କଞ୍ଚନ ମୋତେ ଗୋ ଦିଶେ କେଡ଼େ ଶୋଭା",
+          "ନାଗେଶ୍ୱର କନିଅର ଦେଖି ମନ ଲୋଭା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖ ମଧୁ କାଳେ କୁଞ୍ଜେ ମାଳତୀ ଫୁଟିବା",
+          "ଆର ସଖୀ ବୋଲେ ନେଇ ଶ୍ରୀକୃଷ୍ଣେ ଭେଟିବା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯୁଇ ଫୁଲ ନେଇ ଦେବ ଯୁର କରେ ଯୁବା",
+          "ମାଧବୀରେ ମାଧବର ମନକୁ ତୋଷିବା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚମ୍ପା ଚମତ୍କାର ଦେଖ କି ଉପମା ଦେବା",
+          "ଚଞ୍ଚଳେ ଅଞ୍ଚଳେ କରବୀର କେହି ଅବା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦୁଃଖୀଶ୍ୟାମ ବୋଲେ ଆଉ ଗୋପକୁ ନ ଯିବା",
+          "ଏହି ସ୍ଥାନେ ରହି କୃଷ୍ଣ ପାଶରୁ ନ ଯିବା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/tola-tola-ehi-phula-dukhisyama-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

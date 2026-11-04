@@ -1,0 +1,60 @@
+{
+  "id": "oa-gita-000068",
+  "name": {
+    "en": "Ana lo mitani kunje jhulana doliku",
+    "or": "ଅନାଲୋ ମିତଣି କୁଞ୍ଜେ ଝୁଲଣ ଦୋଳିକୁ"
+  },
+  "composer": "oa-person-000034",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-lo-mitani-kunje-jhulana-doliku/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନାଲୋ ମିତଣି କୁଞ୍ଜେ ଝୁଲଣ ଦୋଳିକୁ",
+          "ଅପୁର୍ବ ସୁନ୍ଦର ରାଧାମୋହନ କେଳିକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଉଭା ତ୍ରିଭଙ୍ଗଠାଣିରେ",
+          "ଚୋରା ବାଙ୍କ ଚାହାଣୀରେ",
+          "ନାରୀ ମନ ଦୋହଲାଏ",
+          "ବାଇ ମୁରଲୀ କୁ |୧|"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କଟିଦେଶେ ପୀତବାସ",
+          "ମୁଖେ ଦରହାସ ଭାଷ",
+          "ନୋହିବ କେ ଶୁଣି ବଶ",
+          "ତା ଚାଟୁ ବୋଲିକୁ |୨|"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରାଈକୁ ଧରି କୋଳରେ",
+          "ଝୁଲନ୍ତି ଫୁଲଦୋଳରେ",
+          "ବଇକୁଣ୍ଠ ଧ୍ୟାନ କରେ",
+          "ତା ପାଦତଳିକୁ |୩|"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-lo-mitani-kunje-jhulana-doliku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

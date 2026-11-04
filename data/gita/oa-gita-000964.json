@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000964",
+  "name": {
+    "en": "Naha bina saha mote",
+    "or": "ନାହା ବିନା ସାହା ମୋତେ"
+  },
+  "composer": "oa-person-000133",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naha-bina-saha-mote-kartika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନାହା ବିନା ସାହା ମୋତେ",
+          "କେ ଏବେ ହୋଇବ ପୁଣି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମରମ ହେଉଛି ଯାହା କହିବି କା ଆଗେ ତାହା",
+          "କା ପାଶେ ହରିବି ଦିନ କେ ଭାଷିବ ଚାଟୁ ବାଣୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଶିଶିର ହେଲା ପ୍ରବେଶ ଛାଡ଼ିଯିବ ହେ ଜୀବେଶ",
+          "ନିଶି ହୋଇଲେ ପ୍ରବେଶ କେତେ ବଞ୍ଚିବି ରଜନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗ୍ରୀଷମେ ଶିରୀଷଦେହା ଆସି ପୁରେ ହେଲେ ଠିଆ",
+          "ଗୋଳିଣ ଚନ୍ଦନ ଚୂଆ ଅଙ୍ଗେ ବୋଳେ ମନ ଜାଣି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଆଷାଢ଼େ ବିଦ୍ୟୁଚମକ ମନ ହୁଏ ଦକଦକ",
+          "କହଇ ଦ୍ୱିଜ କାର୍ତ୍ତିକ ଚିତ୍ତେ ଚିନ୍ତି ଚକ୍ରପାଣି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naha-bina-saha-mote-kartika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

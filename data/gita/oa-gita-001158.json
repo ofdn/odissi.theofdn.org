@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001158",
+  "name": {
+    "en": "Hati muhan jagabandhu",
+    "or": "ହାତୀ ମୁହାଁ ଜଗବନ୍ଧୁ"
+  },
+  "composer": "oa-person-000141",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hati-muhan-jagabandhu-baishnaba-pani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହାତୀ ମୁହାଁ ଜଗବନ୍ଧୁ ଜାତି ନାହିଁ ତୋହରି ହେ",
+          "ଜାତିଜ୍ଞାନ ଥିଲେ କ୍ଷତି କରନ୍ତୁ କି ମୋହରି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନାହିଁ ଉଚ୍ଚ ନୀଚ ତୋର କେ ଦ୍ୱିଜ କେବା ଚମାର",
+          "ଖାଇଲୁ ଅଇଁଠା ପାଶେ ଯେ କରିଲା ଗୁହାରି ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପୋଇଲି ପୁଅ ବିଦୂର କଲା ସେ ତୋରେ ଆଦର",
+          "ଶାକ ଅନ୍ନ ଭୁଞ୍ଜି ଖୁସି ମନେ ଗଲୁ ବାହାରି ହେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗୋପାଳ ଟୋକାଏ କୋଳି ଚାଖିଦେଲେ ବନମାଳୀ",
+          "ତା ଗର୍ଭକୁ ଦେଲୁ ଗିଳି ବୃନ୍ଦାବନ ବିହାରୀ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଦନ୍ତକ୍ଷତ ଚୂତ ଫଳ ହରଷେ କଲୁ କବଳ",
+          "ଦେଲା ଶବରୀ ନ କରି ବରିଦେଲୁ ତାହାରି ହେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମୁଁ ବିପ୍ର ଡାକୁଛି ଏତେ ବ୍ରୀଡ଼ା ମାଡ଼ୁଛି କେମନ୍ତେ",
+          "ବଇ ବୋଲେ ସଙ୍ଗେ ଭୁଞ୍ଜ ଅଙ୍ଗ ଉଠୁ ଶିହିରି ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hati-muhan-jagabandhu-baishnaba-pani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

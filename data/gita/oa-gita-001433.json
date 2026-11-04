@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-001433",
+  "name": {
+    "en": "Dina artatrana he narayana",
+    "or": "ଦୀନ ଆର୍ତ୍ତତ୍ରାଣ ହେ ନାରାୟଣ"
+  },
+  "composer": "oa-person-000054",
+  "mula_raga": [
+    "oa-raga-000140"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dina-artatrana-he-narayana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୀନ ଆର୍ତ୍ତତ୍ରାଣ ହେ ନାରାୟଣ",
+          "ଦୟା କର ପ୍ରଭୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଭୁଜଙ୍ଗଅଶନ ଯାହାର ଆସନ",
+          "ହରପ୍ରିୟାଯାନ ଭକ୍ଷଣ ବାହନ",
+          "ଅମରଭୁବନ ଈଶ ସର୍ବେ ଜାଣ",
+          "ସନ୍ନିଧାନେ ସେ କାର୍ପଣ୍ୟ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସ୍ମରରାଜଐରି ଶୈଳଜବିଭୂତି",
+          "ହୃଦୟରେ ଅହୋରାତ୍ର ଚିନ୍ତୁଛନ୍ତି",
+          "ଅଷ୍ଟବେନି ଦିଗେ ଯେତେ ଅଧିପତି",
+          "ସାବିତ୍ରେୟ ଅନୁକ୍ଷଣ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଲିଳେ କରୀନ୍ଦ୍ର ଗ୍ରାହ ଭକ୍ଷକାଳେ",
+          "ଆତଙ୍କେ ଡାକିଲା ପ୍ରଭୁ ଦେବରାୟେ",
+          "ଅସ୍ତ୍ରରାଜ ପେଷି ଛେଦି ତାର କାୟେ",
+          "ବିପଦୁଁ କଲ ତାରଣ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dina-artatrana-he-narayana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

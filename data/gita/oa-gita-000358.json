@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000358",
+  "name": {
+    "en": "Purna chandra mukhi bala re",
+    "or": "ପୂର୍ଣ୍ଣଚନ୍ଦ୍ର ମୁଖୀ ବାଳା ରେ"
+  },
+  "composer": "oa-person-000069",
+  "mula_raga": [
+    "oa-raga-000014"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/purna-chandra-mukhi-bala-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପୂର୍ଣ୍ଣଚନ୍ଦ୍ର ମୁଖୀ ବାଳା ରେ",
+          "ଆହା ପ୍ରୀତିଲତା ମୋର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତଳେ ବସିଥିବ ସଖୀ । ଗଣ୍ଡେ କର ଥିବ ରଖି ।",
+          "ଅନିମିଷେ ପୋଛୁଥିବ ଅଶ୍ରୁକଳା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୋ ପଥକୁ ଚାହୁଁଥିବ । କାହାକୁ କିସ କହୁଥିବ ।",
+          "ଭାରି ହୋଇ ଯାଉଥିବ ପୁଷ୍ପମାଳା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜମ୍ବୁନଦ ଜିତ ଗୋରୀ । ମୃଦୁ ନବନୀତ ପରି ।",
+          "ହୋଇଥିବ ଶ୍ୱେତଚମ୍ପା କି ଅବଳା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅତି ସୁକୁମାରୀ ଶ୍ୟାମା । ଶ୍ରୀ ରାଧିକା ସୁମଧ୍ୟମା ।",
+          "ନିରବଧି ନୀର ଯାଉଥିବ ବହି ରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀ ଲକ୍ଷ୍ମୀ ନାରାୟଣ । ଭୀମଦେବ ମହାରାଣ ।",
+          "ଅତି ଗୁପ୍ତେ ହେବ ରାଧାକୃଷ୍ଣ ଲୀଳା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/purna-chandra-mukhi-bala-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

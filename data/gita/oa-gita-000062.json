@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000062",
+  "name": {
+    "en": "Dinabandhaba murari he giridhari",
+    "or": "ଦୀନବାନ୍ଧବ ମୁରାରି ହେ ବଂଶୀଧାରୀ"
+  },
+  "composer": "oa-person-000032",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinabandhaba-murari-he-giridhari/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୀନବାନ୍ଧବ ମୁରାରି ହେ ବଂଶୀଧାରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେକୀପୁଚ୍ଛଚୂଳିଆ ନବଘନ କାଳିଆ",
+          "କାଳିନ୍ଦୀକୂଳବିହାରୀ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହେ ବ୍ରଜେନ୍ଦ୍ରନନ୍ଦନ ଗୋପିକା ହୃଦଚନ୍ଦନ",
+          "ଶ୍ରୀମତୀଙ୍କ ମନୋହାରୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହେ ମଦନମୋହନ କମଳଜିତ ଆନନ",
+          "କମଳାଅଙ୍କ ବିହାରୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତମାଳବରନିଆ କାଳିନ୍ଦୀ କାଳୀଦଳିଆ",
+          "ବୃନ୍ଦାବନ ରାସବିହାରୀ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଭାଷେ ଦ୍ୱିଜ ଗୋବିନ୍ଦ ସ୍ମରି ରାଧାଗୋବିନ୍ଦ",
+          "ଭବାବ୍ଧିରୁ କର ପାରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinabandhaba-murari-he-giridhari/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

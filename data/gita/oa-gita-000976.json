@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000976",
+  "name": {
+    "en": "Kaha kaha sajani bege go",
+    "or": "କହ କହ ସଜନୀ ବେଗେ ଗୋ"
+  },
+  "composer": "oa-person-000136",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-kaha-sajani-bege-go-maharaja-krusna-chandra-gajapati-tankadhara-subedara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କହ କହ ସଜନୀ ବେଗେ ଗୋ",
+          "ନନ୍ଦ ହୃଦୟ ଅରବିନ୍ଦ ତପନ ବ୍ରଜାନନ୍ଦ",
+          "ବରୁଣାଳୟ ଛନ୍ଦ ଶ୍ୟାମଘନଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରାଣସଙ୍ଗିନୀ ମୋର ପ୍ରାଣ",
+          "ରହିବ ନାହିଁ ଜାଣ",
+          "ତାଙ୍କ ବିନା ଶରଣ କେ ନାହିଁ ମୋର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସହି ଅତନୁ ତନୁ ଦହି",
+          "ଦେଲାଣି ଆଉ ମୁହିଁ",
+          "ରହି ନ ପାରେ ସହି ବ୍ରଜରାଜଙ୍କୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଯେଣେ ଚାହିଁଲେ ଦିଶେ ତେଣେ",
+          "ସେ ରୂପ ଅନୁକ୍ଷଣେ",
+          "ସଖୀ ମୋର ନୟନେ ନାଚଇ ରହି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚନ୍ଦ୍ରବଦନ କୃଷ୍ଣଚନ୍ଦ୍ର",
+          "ପାରଳା ନରଇନ୍ଦ୍ର",
+          "ଭାଷନ୍ତି ଉପେନ୍ଦ୍ର ପଦକୁ ଧ୍ୟାଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kaha-kaha-sajani-bege-go-maharaja-krusna-chandra-gajapati-tankadhara-subedara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

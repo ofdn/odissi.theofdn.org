@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000980",
+  "name": {
+    "en": "Jebe e nagara bara",
+    "or": "ଯେବେ ଏ ନାଗରବର"
+  },
+  "composer": "oa-person-000076",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jebe-e-nagara-bara-khambaja-ekatali-sadananda-kabisurjya-brahma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯେବେ ଏ ନାଗରବର ଅଙ୍ଗସଙ୍ଗ ହେବ ମୋର",
+          "କପିଳାସ କନ୍ଦେ ବସି ନିଶି ଜାଳିବି ଜାଗର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନିଦାଘ କାଳେ ନାଗର ସାକ୍ଷାତ ହେଲେ ମୋହର",
+          "ହରି ଦ୍ୟନ୍ତି କାମଜ୍ୱର କରିଣ ରସ ବିହାର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବରଷା କାଳରେ ମାତି ପୁହାଇ ଦିଅନ୍ତି ରାତି",
+          "ଚଖାଇ ରସ ସୁରତି ମନ ମୋହନ୍ତି ତାଙ୍କର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହିମ ଶିଶିରରେ ରହି ଶୀତେ ଶରୀର କମ୍ପଇ",
+          "ବିହାର ବେଳେ ଘୋଡ଼ାଇ ଦ୍ୟନ୍ତି ପଣତ ପୃଷ୍ଠର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ସଦାନନ୍ଦ ଗିର ହେ ପ୍ରଭୁ ରଙ୍ଗା ଅଧର",
+          "ଏହି ଅନୁଗ୍ରହ କର ହେଉ କାନ୍ତ ଧରୁ କର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jebe-e-nagara-bara-khambaja-ekatali-sadananda-kabisurjya-brahma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

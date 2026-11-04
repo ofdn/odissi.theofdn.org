@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000732",
+  "name": {
+    "en": "Mo rana parana dhana",
+    "or": "ମୋ ରାଣ ପରାଣ ଧନ"
+  },
+  "composer": "oa-person-000049",
+  "mula_raga": [
+    "oa-raga-000103"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-rana-parana-dhana-regupta-padana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ରାଣ ପରାଣ ଧନ",
+          "ବାରେ ଫେରି ଚାହିଁ ଯା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ତରୁଣ କାଳେ ନବୀନା ଦାରୁଣପଣ ହୁଅନା",
+          "ଶରଣାଗତ ଜନରେ କରୁଣା ତୁ ବହି ଯା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାଗୀ ନୁହ ତୁ ଦୟାଳୁ ଲାଗି ପଡ଼ି ବାଳକାଳୁଁ",
+          "ମାଗିଛି ଯାହା ହେମାଙ୍ଗୀ ତାହା ମୋତେ ଦେଇ ଯା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପାଜି କାମ ଦମ୍ଭ ସିନା ଭାଜି ହୋଇଯିବ ଚୂନା",
+          "ରାଜି କରି ଦେବି ଧନ ଆଜି ଦଣ୍ଡେ ରହି ଯା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରଥାଙ୍ଗସ୍ତନା ଶିବାରି ବ୍ୟଥା ନ ଦିଅରେ ଗୋରୀ",
+          "ବୃଥାରେ ମଥା ନ ପୋଥି କଥା ପଦେ କହି ଯା"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହିଲେ ପଦନ ପଦେ ପ୍ରୀତି କରି ଶ୍ୟାମ ରାଧେ",
+          "ଧରତୀରେ ଧନୀ ସେହି କୀରତିକି ଥୋଇ ଯା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-rana-parana-dhana-regupta-padana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

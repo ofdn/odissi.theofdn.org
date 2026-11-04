@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000322",
+  "name": {
+    "en": "Rama ramani ture",
+    "or": "ରାମା ରମଣୀ ତୁରେ"
+  },
+  "composer": "oa-person-000057",
+  "mula_raga": [
+    "oa-raga-000021"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rama-ramani-ture-gajapati-dibyasingha-deba-gouri/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାମା ରମଣୀ ତୁରେ ଗୁମାନ ନ କର ମୋରେ",
+          "ମାନ ନ କର ଗୋରୀ ଚାରୁ ବିମ୍ବାଧରୀ",
+          "କୁନ୍ଦରଦନା ତୁ ମୋ ନାଗରୀବର ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ରାମା ତୁହି ମୋ ଧୀରା ଅଧୀରା ନ କର ଗୋରୀ",
+          "ଦଣ୍ଡ ଦେଖି ରେ ଗୁଣ ମଣ୍ଡି ପିଣ୍ଡ ରଖ",
+          "ନେତ୍ର ଦଣ୍ଡୁ ଦିଅ ଦୋଷ ବିଚାରି ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାମା ତୋ ବିନା ଶର ହାସ୍ୟରେ କରେ ପ୍ରହାର",
+          "ହାସ ବସ ପରକାଶ କଇଳାଶ",
+          "ବାସୀ ପରାଏ ମୋର ତ୍ରାସ ହର ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଶ୍ରୀକୃଷ୍ଣ ବାଣୀ ଶୁଣିଣ ତୋଷ ରମଣୀ",
+          "ଗଙ୍ଗଦରୀକୁଳ ପଙ୍କଜ ଦିନମଣି",
+          "ଦିବ୍ୟସିଂହ ଦେବ ଗଜପତି ଭଣି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/rama-ramani-ture-gajapati-dibyasingha-deba-gouri/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000111",
+  "name": {
+    "en": "Jamuna kule kalia",
+    "or": "ଯମୁନା କୂଳେ କାଳିଆ"
+  },
+  "composer": "oa-person-000039",
+  "mula_raga": [
+    "oa-raga-000048"
+  ],
+  "mula_tala": [
+    "oa-tala-000014"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jamuna-kule-kalia-kede-hata-kala-ma/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯମୁନା କୂଳେ କାଳିଆ କେଡ଼େ ହଟା କଲା ମା",
+          "ସଟାବଟା କରି ମୋତେ ଜଟାଇଣ ନେଲା ମା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଦମ୍ବ ମୂଳରେ ରହି । ବଂଶୀସ୍ୱନ ଥରେ ବାଇ ।",
+          "ରାଧେ ରାଧେ ବୋଲି ବଂଶୀ ନିରତେ ରଟିଲା ମା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ସେ ନଟ ନାଗରବର । ଦିଶୁଥାଇ କି ସୁନ୍ଦର ।",
+          "ନାଗରୀମାନଙ୍କ ଚିତ୍ତ କମ୍ପାଉଣ ଥିଲା ମା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହୃଦରେ ସୁରଙ୍ଗ ବହି । ବାଙ୍କନୟନରେ ଚାହିଁ ।",
+          "କି ସୁନ୍ଦର ସେ ନାଟୁଆ ଚିତ୍ତ ମୋ ମୋହିଲା ମା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗଙ୍ଗବଂଶରେ ସମ୍ଭବ । ଶ୍ରୀ ଶ୍ରୀ କୃପାମୟ ଦେବ ।",
+          "ଜନ୍ମେ ଜନ୍ମେ କୃଷ୍ଣ ପାଦେ ଚିତ୍ତ ମୋ ରହିଲା ମା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jamuna-kule-kalia-kede-hata-kala-ma/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

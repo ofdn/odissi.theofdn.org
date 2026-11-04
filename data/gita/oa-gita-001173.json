@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-001173",
+  "name": {
+    "en": "Kahinki asichu mana kisa neba pain re",
+    "or": "କାହିଁକି ଆସିଛୁ ମନ କିସ ନେବା ପାଇଁରେ"
+  },
+  "composer": "oa-person-000025",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-asichu-mana-kisa-neba-pain-re-salabega/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କାହିଁକି ଆସିଛୁ ମନ କିସ ନେବା ପାଇଁରେ",
+          "ଆସିଅଛୁ ଲଙ୍ଗଳା ତୁ ଯିବୁ ଶୂନ୍ୟ ହୋଇରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘାଇଯାକ ମୁକୁଳା ତୁ ବନ୍ଧ କେତେ ବାନ୍ଧୁରେ",
+          "ଆପେ ମଲେ ଯୁଗ ଯାଏ ପର ଲାଗି କାନ୍ଦୁରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁ ଯାହାକୁ ବିଭା ହେଲୁ ଶାଢ଼ୀ ଶଙ୍ଖା ଦେଇରେ",
+          "ଖାଉଅଛି ସେହି ତୋତେ କାଳରୂପୀ ହୋଇରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମାଟିଘଟ ପଞ୍ଜରୀରେ ପାଳୁ ସୁନା ଶୁଆରେ",
+          "ଅଠାକାଠି ଲଗାଇଛି ଭାବ ବିନୋଦିଆରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହେ ସାଲବେଗ ହୀନ ପାଦପଦ୍ମେ ଧ୍ୟାୟିରେ",
+          "ଶ୍ରୀରଙ୍ଗା ଚରଣ ବିନୁ ଅନ୍ୟ ଗତି ନାହିଁରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kahinki-asichu-mana-kisa-neba-pain-re-salabega/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "oa-gita-001159",
+  "name": {
+    "en": "Hela karana he nilachala natha aau",
+    "or": "ହେଳା କରନା ହେ ନୀଳାଚଳ ନାଥ ଆଉ"
+  },
+  "composer": "oa-person-000141",
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hela-karana-he-nilachala-natha-aau-baishnaba-pani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେଳା କରନା ହେ ନୀଳାଚଳ ନାଥ ଆଉ",
+          "ବଳାଇଲା ଦୁଃଖ କଳାକର ମୁଖ",
+          "ତୋ ପରା ଚାଳକ ଥାଉଁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମିଳାଇଲା ଦେହ ଜଳେ ଲୁଣ ପରି",
+          "ପଳାଇଯିବ ଏ ଜୀବ",
+          "ଟଳାଟଳି କଲେ ଲୀଳା ବିନୋଦିଆ",
+          "କେ କିମ୍ପା ତୋତେ ଭଜିବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଗଳାକଟା ଛଟା କାଠାରୁ ଶିଖିଲ",
+          "କୁଳବୁଡ଼ା ନନ୍ଦବଳା",
+          "ଦୁରୁବଳେ ବଧି କି ଫଳ ପାଇବୁ",
+          "କୁରୁବଳ ଦମ୍ଭଟଳା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ତୁଳାପଟ ପରି ଶଇଳ ତୋଳିଲୁ",
+          "ଗୋକୁଳ ଆକୁଳ ଦେଖି",
+          "ମୋ ବଳକୁ ଏବେ ପଛକୁ ଘୁଞ୍ଚୁଛ",
+          "ଲାଞ୍ଚ ଦେଇଥିଲେ ସେ କି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅରଜୁନ ଶଳା ହୋଇ ନନ୍ଦିଘୋଷେ",
+          "ଚଳାଇଲୁ ଭାରତରେ",
+          "ଦେଲେ କି ପୁଳାଏ କୋନ୍ତି ପାଞ୍ଚ ପୋଏ",
+          "ହୀରା ଲୀଳା ତୋ ହାତରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନିଜ ଗୋଇ ନିଜେ ନ ଖୋଳା ସହଜେ",
+          "ଜଳଧିଜେମା ବଲ୍ଲଭ",
+          "ବଇଷ୍ଣବ ଭାଳେ ଭାସେ ଶୋକଜଳେ",
+          "ବଢ଼ା ତୋ କରପଲ୍ଲବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/hela-karana-he-nilachala-natha-aau-baishnaba-pani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

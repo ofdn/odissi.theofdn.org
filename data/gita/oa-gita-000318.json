@@ -1,0 +1,81 @@
+{
+  "id": "oa-gita-000318",
+  "name": {
+    "en": "Chahan re sangini keli nipa mulaku",
+    "or": "ଚାହାଁରେ ସଙ୍ଗିନୀ କେଳି ନୀପମୂଳକୁ"
+  },
+  "composer": "oa-person-000055",
+  "mula_raga": [
+    "oa-raga-000002"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahan-re-sangini-keli-nipa-mulaku-dhanasri-madanamohana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚାହାଁରେ ସଙ୍ଗିନୀ କେଳି ନୀପମୂଳକୁ",
+          "କି ଶୋଭା ଦିଶଇ ଆଜ ନନ୍ଦବାଳକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କଟୀରେ ଝଟକେ ଯାର ପୀତଚେଳକୁ",
+          "ଅଟକାଉଛି ମନ ଶିଖଣ୍ଡଚୂଳକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନିନ୍ଦୁଛି ଅପଘନ ଘନ ତମାଳକୁ",
+          "କି ସୁନ୍ଦର ଦିଶେ ଉର ବନମାଳକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରଖିବ ନାହିଁ ଯୁବତୀ କୁଳଶୀଳକୁ",
+          "ଓଟାରି ନେବ ମୁରଲୀ ନାଦେ କୋଳକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବନ୍ଦୀ କରିବ ପରା କାଳିନ୍ଦୀ କୂଳକୁ",
+          "କିପରି ଯିବା ଏ ପଥେ ଆଣି ଜଳକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଦେଖି ସେ ରୂପ ସଜନୀ ହୋଇ ମେଳକୁ",
+          "ଭାଳିଲେ ରହିବ କିଏ ନୋହି ଭୋଳକୁ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ଛନ୍ଦେ ଉଭା ହେବା ପଦଦ୍ୱନ୍ଦ ତଳକୁ",
+          "ବନ୍ଦି ବୋଲନ୍ତି ଧରାକୋଟ ଭୂପାଳକୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chahan-re-sangini-keli-nipa-mulaku-dhanasri-madanamohana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

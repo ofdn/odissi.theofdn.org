@@ -1,0 +1,62 @@
+{
+  "id": "oa-gita-000967",
+  "name": {
+    "en": "Bahudina pare paichi",
+    "or": "ବହୁଦିନ ପରେ ପାଇଛି"
+  },
+  "composer": "oa-person-000095",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bahudina-pare-paichi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବହୁଦିନ ପରେ ପାଇଛି ହେ ଦେଖା",
+          "ଦଣ୍ଡେ କି ନିମିଷେ ରହ ହେ",
+          "ଅଧୀର ହେଉଛି ଏ ପଞ୍ଚପରାଣ",
+          "ପଦେ ଅଧେ କଥା କହ ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯିବ କି ରହିବ ଏ ପୋଡ଼ା ପରାଣ",
+          "ନାହିଁ ତାର କିଛି ଥୟ ହେ",
+          "ଦହିବ ତ ଦିନେ ଚିତାରେ ଏ ଦେହ",
+          "ଚିନ୍ତାନଳେ କିମ୍ପା ଦହ ହେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲିତା ଲିତା କରି ବିତିଲା ବରଷ",
+          "ନିମିଷେକ ତୁମ୍ଭେ ସହ ହେ",
+          "ଜୀବ ଗଲେ ଯିବ କୀରତି ରହିବ",
+          "ମହକିବ ମହମହ ହେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୋଲେ ଏହି ଗୀତ କବିକୁଳଖ୍ୟାତ",
+          "ଗୋବିନ୍ଦ ନାମ ନିର୍ବାହ ହେ",
+          "ହେ ରସିକବର ଦୋଷ ଥିଲେ ମୋର",
+          "ଜଳରେ ଭସାଇ ଦିଅ ହେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bahudina-pare-paichi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

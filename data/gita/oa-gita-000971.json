@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000971",
+  "name": {
+    "en": "Dekha sakhi ehi ambha",
+    "or": "ଦେଖ ସଖୀ ଏହି ଆମ୍ଭ"
+  },
+  "composer": "oa-person-000133",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sakhi-ehi-ambha-kartika/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦେଖ ସଖୀ ଏହି ଆମ୍ଭ ଶିଖଣ୍ଡଚୂଳିଆ ଗୋ",
+          "ବୃଷଭାନୁ ନନ୍ଦିନୀଙ୍କ ଜୀବନପାଳିଆ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅଧର ଜିଣୁଛି ଜବା କୋଟିଏ କନ୍ଦର୍ପ ଶୋଭା",
+          "ଦ୍ୱିଜରାଜ ପ୍ରାୟେ ପ୍ରଭା ପୀତଦୁକୂଳିଆ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦେଖି ସେ ଲାବଣ୍ୟ ମୂର୍ତ୍ତି କେ ଧରିପାରିବ ଧୃତି",
+          "ତ୍ରିଭଙ୍ଗି ଭଙ୍ଗିମା ଛନ୍ଦେ ହୋଇଛନ୍ତି ଠିଆ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗଳେ ଲୁଳେ ବନମାଳ ଶିରେ ଶିଖୀପୁଚ୍ଛ ଚୂଳ",
+          "କି ଉପମା ଦେବ ତୁଳ ଯମୁନାକୂଳିଆ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସେ ରୂପ ଦେଖି କାମିନୀ ଝୁରନ୍ତି ଦିବା ଯାମିନୀ",
+          "କାର୍ତ୍ତିକ କରେ ଦଇନୀ କାଇଞ୍ଚମାଳିଆ ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dekha-sakhi-ehi-ambha-kartika/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

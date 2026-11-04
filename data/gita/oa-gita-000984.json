@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000984",
+  "name": {
+    "en": "Chaka nayana he prabhu jagujibana",
+    "or": "ଚକାନୟନ ହେ ପ୍ରଭୁ ଜଗୁଜୀବନ"
+  },
+  "composer": "oa-person-000137",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chaka-nayana-he-prabhu-jagujibana-banikantha-nimai-harichandan/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଚକାନୟନ ହେ ପ୍ରଭୁ ଜଗୁଜୀବନ",
+          "ଥରେ ଚାହିଁ ଦେଲେ ମନ ନ ଇଚ୍ଛେ ଆନ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଲୋଡ଼ା ନାହିଁ ଦୁଇ ନେତ୍ର ଗୋଟିଏ ନେତ୍ର",
+          "ସେ ନେତ୍ରରେ ଚାହିଁଥାଅ ଏ ଦୀନ ଜନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଲୋଡ଼ା ନାହିଁ ଦୁଇ କାନ ଗୋଟିଏ କାନ",
+          "ସେ କାନରେ ଶୁଣ ବାରେ ଚକାନୟନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଲୋଡ଼ା ନାହିଁ ଦୁଇ ଭୁଜ ଗୋଟିଏ ଭୁଜ",
+          "ସେ ଭୁଜର ତଳେ ରଖ ଏ ପାପୀ ଜନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଲୋଡ଼ା ନାହିଁ ଦୁଇ ପାଦ ଗୋଟିଏ ପାଦ",
+          "ସେ ପାଦର ତଳେ ରହୁ ଏ ଥକା ମନ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଜୀବ ଯିବା ବେଳେ ପ୍ରଭୁ ସେ ପଦରଜ",
+          "କଣିକାଏ ମୁଖେ ଦେବ କଳାବଦନ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "ତୁମ ନାମ ଭଜି ଭଜି ଏ ଜୀବ ଯାଉ",
+          "ଏତିକି ମାଗୁଣି ପ୍ରଭୁ ଚକାବଦନ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chaka-nayana-he-prabhu-jagujibana-banikantha-nimai-harichandan/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

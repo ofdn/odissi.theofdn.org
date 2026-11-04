@@ -1,0 +1,75 @@
+{
+  "id": "oa-gita-000357",
+  "name": {
+    "en": "Pranabandhu re kokanada ambuja adharu",
+    "or": "ପ୍ରାଣବନ୍ଧୁ ରେ କୋକନଦ ଅମ୍ବୁଜ ଅଧରୁ"
+  },
+  "composer": "oa-person-000068",
+  "mula_raga": [
+    "oa-raga-000010"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pranabandhu-re-kokanada-ambuja-adharu/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରାଣବନ୍ଧୁ ରେ",
+          "କୋକନଦ ଅମ୍ବୁଜ ଅଧରୁ ଦିଅ ମଧୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କମ୍ବୁକଣ୍ଠୀ ଜମ୍ବୁନଦ ଗୋରୀ",
+          "ଶମ୍ଭୁଜିତ ଊରଜ ଚତୁରୀ",
+          "ମୋର କେଉଁ ଦୋଷ ଦେଖିକରି",
+          "ହେଳେ ଭସାଇଦେଲୁ ଯା ମଦନ ସିନ୍ଧୁରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କକ୍ଷ ମୂଳେ ଚାଳିଦେଲେ ନଖ",
+          "ତୁ ଯେ ବୋଲୁ ବନ୍ଧୁ ରଖ ରଖ",
+          "ତେଣୁ ସ୍ନେହେ ପୂରିଥାଉ ମୁଖ",
+          "ବାହୁ ମୃଣାଳକୁ ଆଣି ମୋ ଗଳାରେ ଛନ୍ଦୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ରତେ ମାତିଥାଉ ଯେତେବେଳେ",
+          "ମୋର କାମ ପୂର୍ଣ୍ଣ ତେତେବେଳେ",
+          "ଭାବେ ନେତ୍ର ଖୋଷିଦେଇ ଭାଲେ",
+          "ଦୃଢ଼େ ଜାନୁରେ ଜାନୁକୁ କି ଭାବେ ଛନ୍ଦୁରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କଳାହାଣ୍ଡି ମଣ୍ଡନ ନରେଶ",
+          "ଦ୍ୱିଜ ନାରାୟଣ ଏହୁ ଭାଷ",
+          "ଶୁଣି ସନ୍ତୋଷ ନାଗରୀ ଈଶ",
+          "ସୀଉକାର କଲା ତାର ଲପନ ଇନ୍ଦୁ ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pranabandhu-re-kokanada-ambuja-adharu/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000981",
+  "name": {
+    "en": "Manima tumbha srimukha",
+    "or": "ମଣିମା ତୁମ୍ଭ ଶ୍ରୀମୁଖ"
+  },
+  "composer": "oa-person-000137",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manima-tumbha-srimukha-banikantha-nimai-harichandan/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମଣିମା ତୁମ୍ଭ ଶ୍ରୀମୁଖ ଚାହିଁଲେ",
+          "ସବୁ ଦୁଃଖ ପ୍ରଭୁ ଦିଏ ପାଶୋରି ହେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆରତ ତାରଣ ବାନା ଉଡ଼ାଇ",
+          "ଆରତର ଦୁଃଖ ଦିଅ ଏଡ଼ାଇ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଡ଼ଦେଉଳରେ ବସି ଗୋସାଇଁ",
+          "ଦୁଃଖୀ ଦୁଃଖ ଦେଖି ପାର କି ନାହିଁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଖି ନ ଦେଖିଲା ପରି ବସିଲେ",
+          "ଆଉ କିଏ ପ୍ରଭୁ ଦେଖିବ ଭଲେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶୁଣ ବା ନ ଶୁଣ କରେ ଗୁହାରି",
+          "ଦିନ ସରିଯାଉ ଚରଣ ଧରି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/manima-tumbha-srimukha-banikantha-nimai-harichandan/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

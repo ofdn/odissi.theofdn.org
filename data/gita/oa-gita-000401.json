@@ -1,0 +1,72 @@
+{
+  "id": "oa-gita-000401",
+  "name": {
+    "en": "Pasori na paribi se praneswari ki",
+    "or": "ପାଶୋରିବି ନ ପାରିବି ସେ ପ୍ରାଣେଶ୍ୱରୀକି"
+  },
+  "composer": "oa-person-000068",
+  "mula_raga": [
+    "oa-raga-000111"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pasori-na-paribi-se-praneswari-ki-kalyana-ahari-narayana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପାଶୋରିବି ନ ପାରିବି ସେ ପ୍ରାଣେଶ୍ୱରୀକି*"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଫୁଲ ଅମ୍ବୁଜ ନୟନୀ ଅଶେଷ ସୁଖ ଦାୟିନୀ",
+          "ସା ରି ଗା ମା ପ ଦାୟିନୀ ନବୀନ କିଶୋରୀକି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କନକ କେତକୀ ଦଳ ଦଳା ଗୋଳା ହରିତାଳ",
+          "ତପତ ହେମୁ ଜମ୍ଭାଳ ଗୋରଚନା ଗୋରୀକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅସର ଦୁଃଖକୁ ସେବି ଏବେ ମୁଁ ବିଦେଶୀ ହେବି",
+          "ମାର ମୁଖେ ସିନା ଦେବି ପଲ୍ଲବ ଅଧରୀକି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନାରାୟଣ ଧରାଦେବ ବୋଲେ ସେ ଏମନ୍ତ ହେବ",
+          "ମୋ ବନ୍ଧୁ ଜୀବନେ ଥିବ ମୋ ଆସିବା ସରିକି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ପାଠାନ୍ତର : ପରା ପରାଣ ଈଶ୍ୱରୀକି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/pasori-na-paribi-se-praneswari-ki-kalyana-ahari-narayana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oa-gita-001317",
+  "name": {
+    "en": "Dhire ghena kananare",
+    "or": "ଧୀରେ ଘେନ କାନନରେ"
+  },
+  "composer": "oa-person-000155",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dhire-ghena-kananare-krusna-bilambita-kala-manika-re-bidagdha-chintamani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଧୀରେ ଘେନ କାନନରେ କୃଷ୍ଣ ବିଳମ୍ବିତ",
+          "ବାତ୍ସଲ୍ୟ ମମତା ଘେନି ଭାଳୁଛନ୍ତି ମାତ । କଳା ମାଣିକରେ !",
+          "ନିଧନ ସଙ୍ଖାଳି ମୋର ଦରିଦ୍ର ପସରା",
+          "ଅନ୍ଧର ଲଉଡ଼ି ବାବୁ ହୃଦ ରତ୍ନ ହାରା । କଳା ମାଣିକରେ !",
+          "ମୋ ଜୀବ ଜୀବନ ତୁହି ନୟନ ପ୍ରତିମା",
+          "ତୋତେ କି ପାସୋରି ହେବ ମୋର ସୁଖ ସୀମା । କଳା ମାଣିକରେ !",
+          "ଡରୁଥାଉ ଅନ୍ଧାରକୁ ରଖିଥାଉ ଗୋରୁ",
+          "ଜନକ ଜନନୀ ସୁଖ କାହିଁପାଇଁ ସାରୁ । କଳା ମାଣିକରେ !",
+          "ବୃଦ୍ଧକାଳେ ତୁ ମୋହର ଏକଇ ନନ୍ଦନ",
+          "ହୃଦତାପ ବିନାଶନେ ତୁ ହରି ଚନ୍ଦନ । କଳା ମାଣିକରେ !"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dhire-ghena-kananare-krusna-bilambita-kala-manika-re-bidagdha-chintamani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

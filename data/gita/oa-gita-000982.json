@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000982",
+  "name": {
+    "en": "Ahe chaka akhi tumaku",
+    "or": "ଆହେ ଚକା ଆଖି ତୁମକୁ"
+  },
+  "composer": "oa-person-000137",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-chaka-akhi-tumaku-banikantha-nimai-harichandan/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆହେ ଚକା ଆଖି ଆହେ ଚକା ଆଖି",
+          "ତୁମକୁ ଯେ ଥରେ ଦିଏ ଦେଖି",
+          "ତା ହୃଦ ପଟରେ ରୁହ ଲାଖି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମଙ୍ଗଳ ଆଳତି ବେଶ ଦେଖି",
+          "ପଲକ ନ ପଡ଼େ ମୋର ଆଖି",
+          "ଯେତେ ଦେଖୁଥିଲେ ନୂଆ ଦିଶୁଥାଅ",
+          "ସେ ରୂପରେ ଆଖି ରହେ ଲାଖି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଳିୟାର ଦୁଇ ଭୁଜ ଦେଖି",
+          "ମନେ ମନେ ହୁଏ ମୁହିଁ ସୁଖୀ",
+          "କେତେ ପାପୀ ତାପୀ ତାରୁଅଛ ବସି",
+          "ହସି ହସି ଦୁଇ ବାହୁ ଟେକି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚନ୍ଦନ ବୋଳା ସେ ମୁଖ ଦେଖି",
+          "ଲାଖି ରହେ ପ୍ରଭୁ ମୋର ଆଖି",
+          "ସବୁ ଦୁଃଖ ଶୋକ ଭୁଲିଯାଏ ମୁହିଁ",
+          "କଳା ଶ୍ରୀମୁଖର ହସ ଦେଖି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଚକାଡୋଳା ଭକ୍ତ ଭାବେ ଭୋଳା",
+          "ଏ ଭବସାଗରେ ତୁମେ ଭେଳା",
+          "ତୁମ ନାମ ଧରି ହୋଇଯିବି ପାରି",
+          "ତୁମ ଶ୍ରୀଚରଣେ ଶିର ରଖି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ahe-chaka-akhi-tumaku-banikantha-nimai-harichandan/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

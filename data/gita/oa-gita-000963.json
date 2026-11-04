@@ -1,0 +1,70 @@
+{
+  "id": "oa-gita-000963",
+  "name": {
+    "en": "Naba nabina go laja",
+    "or": "ନବ ନବୀନା ଗୋ ଲାଜ"
+  },
+  "composer": "oa-person-000133",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-nabina-go-laja-kartika-chandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନବ ନବୀନା ଗୋ ଲାଜ କରୁଅଛୁ କେତେ",
+          "ଟେକ ଟେକ ଧନ ଚାରୁ ଚନ୍ଦ୍ରାନନ",
+          "ଜଣାଉଛି ଘେନ ଏତେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେ କିସ ଲଗାଇ କହିଛିରେ ସହି",
+          "ଋଷିମୋହିନୀ ମୋ ନାଁରେ",
+          "ସେଥି ପାଇଁ ବାଳୀ ମନେ ବହି ଛଳି",
+          "କରୁଣା ଊଣା ମୋଠାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମହୀକି ଅନାଇ ବସିଛୁ ଘୁମାଇ",
+          "ନଖେ ଚିରୁଛୁ ଅବନୀ",
+          "ମାନିନୀ ମନରୁ ମାନ ଦୂର କର",
+          "ଶରଦ ଚନ୍ଦ୍ରବଦନୀ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆସିଣ ଅଙ୍କ ପଲଙ୍କ ମଣ୍ଡ ସୁଖେ",
+          "ଗଳେ ହୁଅ ଗଳାହାର",
+          "ଗଳାହାର କାହିଁ ଗଳକୁ କାଟଇ",
+          "ଏହା ନ ଭାବ ମନର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଜଳ ତେଜି ଯାଇ ମୀନ କି ବଞ୍ଚଇ",
+          "ବଞ୍ଚଇ ନବୀନା ନ ଭାବ ମନେ",
+          "କହେ ଦୀନ ହୀନ କାର୍ତ୍ତିକ ତୋହର",
+          "ଏହା ରଖିଥିବୁ ମନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/naba-nabina-go-laja-kartika-chandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000215",
+  "name": {
+    "en": "Baraji debi ki sahi",
+    "or": "ବରଜି ଦେବିକି ସହି"
+  },
+  "composer": "oa-person-000047",
+  "mula_raga": [
+    "oa-raga-000022"
+  ],
+  "mula_tala": [
+    "oa-tala-000007"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/baraji-debi-ki-sahi-arajila-dhanaku/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବରଜି ଦେବିକି ସହି ଅରଜିଲା ଧନକୁ",
+          "ବହୁ ଶିବ ସେବି ମୁଁ ଯେ ପାଇଛି ମୋହନକୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମୋ ନାମେ କଲଙ୍କ ଢାଳି । କେହି ମାରେ କରତାଳି ।",
+          "ଅସତୀ ରାଧା ବୋଲି କେ ରଞ୍ଜାଏ କି ମନକୁ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କୁଳେ ଦେଇ ଜଳାଞ୍ଜଳି । ପ୍ରୀତି ମୁଁ କରିଛି ଭାଳି ।",
+          "ଅପକୀରତିର ମାଳି ପିନ୍ଧିଅଛି ମନକୁ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଆଉ ନାହିଁ ଆନ ଗତି । ଏକା ମୋ ପ୍ରାଣ ଶ୍ରୀପତି ।",
+          "ବରଜେ କି ଡରି ଛାଡ଼େ ଘନବରନକୁ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଯେ ମତେ କହିବ ଯାହା । ଅବଶ୍ୟ କରିବି ତାହା ।",
+          "ନିରନ୍ତରେ ଦେଖୁଥିବି ବଂଶୀବଦନକୁ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଛାଡ଼ିଅଛି ସବୁ ଆଶା । ଏକା ମୋ ତାକୁ ଭରସା ।",
+          "ବୋଲେ ଦୀନ କାହ୍ନୁ ଡର ନାହିଁ ଗୁରୁଜନଙ୍କୁ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/baraji-debi-ki-sahi-arajila-dhanaku/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
