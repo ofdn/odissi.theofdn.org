@@ -292,6 +292,7 @@ const initials = (name) => {
   const [last, first] = nameParts(name);
   return first ? `${last}, ${first.split(" ").map((w) => `${[...w.normalize("NFC")][0]}.`).join(" ")}` : last;
 };
+export const dot = (s) => (s.endsWith(".") ? s : `${s}.`);
 const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
 
 export function buildCitations(c, lang = "en") {
@@ -304,17 +305,19 @@ export function buildCitations(c, lang = "en") {
   const byApa = andList(authors.map(initials), "&");
   const byChicago = andList(firstInverted, and);
   const byMla = authors.length > 2 ? `${firstInverted[0]}, et al.` : andList(firstInverted, and);
-  const end = (by) => (by && !by.endsWith(".") ? `${by}. ` : by ? `${by} ` : "");
+  const end = (by) => (by ? `${dot(by)} ` : "");
+  const pub = publisher ? `${publisher}. ` : "";
+  const pubYear = [publisher, year].filter(Boolean).join(", ");
   const typeLabel = CITE_LABELS.includes(c.type) ? ` [${t(`cite.type.${c.type}`, {}, lang)}]` : "";
   const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}. ` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";
   const accessed = `${t("cite.accessed", {}, lang)} __ACCESSED__`;
 
   const apa = authors.length
-    ? `${byApa} (${year}). ${c.title}${typeLabel}. ${inBook}${played}${publisher}. ${c.url}`
-    : `${c.title}${typeLabel}. (${year}). ${inBook}${played}${publisher}. ${c.url}`;
-  const chicago = `${end(byChicago)}"${c.title}." ${inBook}${played}${publisher}, ${year}. ${accessed}. ${c.url}.`;
-  const mla = `${end(byMla)}"${c.title}." ${c.container ? `${c.container}, ` : ""}${played}${publisher}, ${year}, ${c.url}. ${accessed}.`;
+    ? `${byApa} (${year}). ${c.title}${typeLabel}. ${inBook}${played}${pub}${c.url}`
+    : `${c.title}${typeLabel}. (${year}). ${inBook}${played}${pub}${c.url}`;
+  const chicago = `${end(byChicago)}"${c.title}." ${inBook}${played}${dot(pubYear)} ${accessed}. ${c.url}.`;
+  const mla = `${end(byMla)}"${c.title}." ${c.container ? `${c.container}, ` : ""}${played}${pubYear}, ${c.url}. ${accessed}.`;
 
   const fields = [
     ["author", authors.map((a) => texEscape(inverted(a))).join(" and ")],

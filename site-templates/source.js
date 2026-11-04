@@ -1,4 +1,4 @@
-import { escapeHtml, t, displayName, pageShell, countLabel, texEscape, COPY_ICON } from "./shared.js";
+import { escapeHtml, t, displayName, pageShell, countLabel, texEscape, dot, COPY_ICON } from "./shared.js";
 import { recordPage, section, linkList, people, sortByName } from "./music.js";
 import { KINDS } from "../scripts/lib/config.js";
 
@@ -16,8 +16,8 @@ export function sourceCitations(src, ctx) {
   const online = [src.url, src.archive_url && `${t("source.archived_at", {}, ctx.lang)} ${src.archive_url}`].filter(Boolean).join(". ");
   const tail = [where, online].filter(Boolean).join(". ");
   const apa = `${by ? `${by} (${year}). ` : ""}${title}.${by ? "" : ` (${year}).`}${tail ? ` ${tail}.` : ""}`;
-  const chicago = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${year}.${online ? ` ${online}.` : ""}`;
-  const mla = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${year}${online ? `, ${online}` : ""}.`;
+  const chicago = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(year)}${online ? ` ${online}.` : ""}`;
+  const mla = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(`${year}${online ? `, ${online}` : ""}`)}`;
   return { apa, chicago, mla, bibtex: bibtex(src, ctx) };
 }
 

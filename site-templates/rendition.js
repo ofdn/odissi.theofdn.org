@@ -73,6 +73,7 @@ export default function rendition(record, ctx) {
     performers: record.kind === "recording" ? names(ctx, people) : [],
     year: record.date?.slice(0, 4),
     container: carrier && carrier.kind !== "online" ? displayName(carrier, lang) : undefined,
+    publisher: carrier?.label ?? "",
     note: record.kind === "notation" ? t("cite.notation_by", { names: names(ctx, people).join(", ") }, lang) : undefined,
   });
   return recordPage(ctx, record, {
