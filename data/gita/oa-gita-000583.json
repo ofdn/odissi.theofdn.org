@@ -1,0 +1,52 @@
+{
+  "id": "oa-gita-000583",
+  "name": {
+    "en": "Sundari tora badana chandra",
+    "or": "ସୁନ୍ଦରି ତୋର ବଦନ ଚନ୍ଦ୍ର"
+  },
+  "composer": "oa-person-000114",
+  "mula_raga": [
+    "oa-raga-000019"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sundari-tora-badana-chandra/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "( ନଟ୍ଟରାଗେଣ )"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁନ୍ଦରି ତୋର ବଦନ ଚନ୍ଦ୍ରମଣ୍ଡଳଜିତ ଲେଆ",
+          "ଆକାଶ ବା ଖିନ୍ନଭାନୁକିରଣ ତପଇ ଆ ।",
+          "ଆରେ ରେ ଇନ୍ଦୁ ପୂର୍ଣ୍ଣତନୁ ମନ ଅଭିମତ ବାଞ୍ଛିତା ।",
+          "ପୁନିମ ସଂଝ ରାଗରୁଧିର ଭରିତ ଅଙ୍ଗ ଅମ୍ବରା",
+          "କଳଙ୍କ କପଟ ଛରିତ ତନୁ ଲାଜେ ତେଜଇ ଜୀବିତା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରାସରଙ୍ଗରଭସ ରସିକ ହରିବଚନେ ରାଧିକା",
+          "ମୁଦିତମନ୍ନ ଅନୁଖିନ୍ନ କୃଷ୍ଣଦାସ ଭଣନ୍ତି ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sundari-tora-badana-chandra/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

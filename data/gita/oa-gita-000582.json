@@ -1,0 +1,56 @@
+{
+  "id": "oa-gita-000582",
+  "name": {
+    "en": "Kinchidudanchaya chanchala nayane",
+    "or": "କିଞ୍ଚିଦୁଦଞ୍ଚୟ ଚଞ୍ଚଳ ନୟନେ"
+  },
+  "composer": "oa-person-000114",
+  "mula_raga": [
+    "oa-raga-000019"
+  ],
+  "mula_tala": [
+    "oa-tala-000010"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kinchidudanchaya-chanchala-nayane/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "(ନଟ୍ଟରାଗେଣ)"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କିଞ୍ଚିଦୁଦଞ୍ଚୟ ଚଞ୍ଚଳନୟନେ ସଞ୍ଚିତବହୁଲାବଣ୍ୟମ୍",
+          "ବଦନମିଦଂ ବିଧୁମଣ୍ଡଳମଧୁନା ମୁଞ୍ଚତୁ ମାନମଗଣ୍ୟମ୍ ।",
+          "କିମିତି କରୋତି କୃଶୋଦରି ରୋଷମ୍",
+          "ମଦନମହାନଳବିକଳଶରୀରଂ ମାନବ ଭଜ ପରିତୋଷମ୍"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବଚନମୁଦୀରୟ ମଧୁରାଳାପିନି ମୃଦୁମନ୍ଦସ୍ମିତକାନ୍ତମ୍",
+          "କିଂଚନ ସିଂଚ ସୁଧାରସବିନ୍ଦୁଭିରଙ୍ଗମିଦଂ ମମ ତାନ୍ତମ୍ ।",
+          "ରାଧାମାଧବକେଳିକଳାରସଖଚିତଂ ନବମବିଗୀତମ୍",
+          "ସୁଖୟତୁ ସଜ୍ଜନଚିତ୍ତଂ ସତତଂ କୃଷ୍ଣଦାସକବିଗୀତମ୍ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/kinchidudanchaya-chanchala-nayane/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
