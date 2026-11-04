@@ -1,5 +1,5 @@
 import { escapeHtml, t, link, embed, mediaLink, displayName, renditionPeople } from "./shared.js";
-import { recordPage, links, section, names, recordCitation, stanzaLabel } from "./music.js";
+import { recordPage, links, section, names, recordCitation, composerCite, stanzaLabel } from "./music.js";
 
 const BIB = { recording: "audio", notation: "score", manuscript_copy: "unpublished" };
 
@@ -64,12 +64,12 @@ export default function rendition(record, ctx) {
     derived.length ? section(t("rendition.derived", {}, lang), `<ul>${derived.map((r) => `<li>${link(ctx, r.id)}</li>`).join("")}</ul>`, "derived") : "",
   ].join("\n");
   const people = record.credits.filter((c) => c.role !== "music_director").map((c) => c.person);
-  const composer = gita?.composer ? [displayName(ctx.get(gita.composer), lang)] : [];
   const carrier = record.held_on?.length ? ctx.get(record.held_on[0].carrier) : null;
   const citation = recordCitation(ctx, record, {
     type: BIB[record.kind],
     title: gita ? displayName(gita, lang) : displayName(record, lang),
-    authors: composer,
+    ...composerCite(ctx, gita?.composer),
+    editors: [],
     performers: record.kind === "recording" ? names(ctx, people) : [],
     year: record.date?.slice(0, 4),
     container: carrier && carrier.kind !== "online" ? displayName(carrier, lang) : undefined,

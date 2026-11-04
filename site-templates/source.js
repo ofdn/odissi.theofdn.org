@@ -20,7 +20,7 @@ export function sourceCitations(src, ctx) {
   const where = [src.in && `${t("cite.in", {}, ctx.lang)} ${src.in}${src.volume ? ` ${src.volume}` : ""}`, src.publisher, src.pages].filter(Boolean).join(", ");
   const online = [src.url, src.archive_url && `${t("source.archived_at", {}, ctx.lang)} ${src.archive_url}`].filter(Boolean).join(". ");
   const tail = [where, online].filter(Boolean).join(". ");
-  const apa = `${authors.length ? `${byApa} (${year}). ` : ""}${title}.${authors.length ? "" : ` (${year}).`}${tail ? ` ${tail}.` : ""}`;
+  const apa = `${authors.length ? `${dot(byApa)} (${year}). ` : ""}${title}.${authors.length ? "" : ` (${year}).`}${tail ? ` ${tail}.` : ""}`;
   const chicago = `${byChicago ? `${dot(byChicago)} ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(year)}${online ? ` ${online}.` : ""}`;
   const mla = `${byMla ? `${dot(byMla)} ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(`${year}${online ? `, ${online}` : ""}`)}`;
   return { apa, chicago, mla, bibtex: bibtex(src, ctx) };

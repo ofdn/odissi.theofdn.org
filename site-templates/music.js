@@ -94,15 +94,28 @@ export function renditionList(ctx, renditions, pageId) {
   return `<ul class="record-list record-list--detail">\n${sorted.map((r) => renditionLine(ctx, r, pageId)).join("\n")}\n</ul>`;
 }
 
+// poets from before about 1850 rarely have a surname, so their names stay as written
+export function composerCite(ctx, id) {
+  if (!id) return { authors: [] };
+  const person = ctx.get(id);
+  const name = sortName(person, ctx.lang);
+  return { authors: [name], asWritten: person.birth_year >= 1850 ? [] : [name] };
+}
+
 export function recordCitation(ctx, record, extra = {}) {
+  // a gīta or kābya is the poet's work; Prateek edits the archive it sits in
+  const kind = record.id.split("-")[1];
+  const poet = (kind === "gita" || kind === "kabya") && { ...composerCite(ctx, record.composer), compilers: record.entered_by };
   return {
     type: "inreference",
     id: record.id,
     title: displayName(record, ctx.lang),
     authors: record.entered_by ?? [CURATOR],
+    ...poet,
+    editors: [CURATOR],
     container: SITE_NAME,
     year: record.created_at?.slice(0, 4),
-    url: arkUrl(record.id) ?? `${SITE_URL}${record.id.split("-")[1]}/${record.id}/`,
+    url: arkUrl(record.id) ?? `${SITE_URL}${kind}/${record.id}/`,
     ...extra,
   };
 }

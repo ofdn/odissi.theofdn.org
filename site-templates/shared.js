@@ -280,49 +280,68 @@ export function texEscape(s) {
 const BIB_TYPES = ["audio", "music", "unpublished", "inbook", "inreference"];
 const CITE_LABELS = ["audio", "music", "unpublished", "inbook", "score"];
 
-// c is { type, title, authors[], performers[], year, publisher, url, id, note, container }.
-// __ACCESSED__ and __ACCESSED_ISO__ are filled in with the reader's date by site.js.
 // "First Last" becomes ["Last", "First"]; one-word names and github usernames stay whole
 function nameParts(name) {
   const words = name.trim().split(/\s+/);
   return words.length < 2 || name.startsWith("@") ? [name] : [words.at(-1), words.slice(0, -1).join(" ")];
 }
 export const inverted = (name) => nameParts(name).join(", ");
+const initialsOf = (given) => given.split(" ").map((w) => `${[...w.normalize("NFC")][0]}.`).join(" ");
+const givenFirstInitials = (name) => {
+  const [last, first] = nameParts(name);
+  return first ? `${initialsOf(first)} ${last}` : last;
+};
 export const initials = (name) => {
   const [last, first] = nameParts(name);
-  return first ? `${last}, ${first.split(" ").map((w) => `${[...w.normalize("NFC")][0]}.`).join(" ")}` : last;
+  return first ? `${last}, ${initialsOf(first)}` : last;
 };
 export const dot = (s) => (s.endsWith(".") ? s : `${s}.`);
 export const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
 
+// c is { type, title, authors[], asWritten[], editors[] (of the container), compilers[], performers[], year, publisher, url, id, note, container }.
+// names in asWritten are never turned surname first, as for early poets with no surname
+// __ACCESSED__ and __ACCESSED_ISO__ are filled in with the reader's date by site.js.
 export function buildCitations(c, lang = "en") {
   const authors = c.authors ?? [];
   const performers = c.performers ?? [];
+  const editors = c.container ? (c.editors ?? []).filter((e) => !authors.includes(e)) : [];
+  const keep = new Set(c.asWritten);
+  const surnameFirst = (a) => (keep.has(a) ? a : inverted(a));
+  const compilers = c.compilers ?? [];
   const publisher = c.publisher ?? PUBLISHER;
   const year = c.year ?? "n.d.";
   const and = t("cite.and", {}, lang);
-  const firstInverted = authors.map((a, i) => (i ? a : inverted(a)));
-  const byApa = andList(authors.map(initials), "&");
+  const firstInverted = authors.map((a, i) => (i ? a : surnameFirst(a)));
+  const byApa = andList(authors.map((a) => (keep.has(a) ? a : initials(a))), "&");
   const byChicago = andList(firstInverted, and);
   const byMla = authors.length > 2 ? `${firstInverted[0]}, et al.` : andList(firstInverted, and);
   const end = (by) => (by ? `${dot(by)} ` : "");
   const pub = publisher ? `${publisher}. ` : "";
   const pubYear = [publisher, year].filter(Boolean).join(", ");
   const typeLabel = CITE_LABELS.includes(c.type) ? ` [${t(`cite.type.${c.type}`, {}, lang)}]` : "";
-  const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}. ` : "";
+  const edited = andList(editors, and);
+  const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}${edited ? `, ${t("cite.edited_by", { names: edited }, lang)}` : ""}. ` : "";
+  const inApa = c.container
+    ? `${t("cite.in", {}, lang)} ${editors.length ? `${andList(editors.map(givenFirstInitials), "&")} (${t(editors.length > 1 ? "cite.eds" : "cite.ed", {}, lang)}), ` : ""}${c.container}. `
+    : "";
+  const inMla = c.container ? `${c.container}, ${edited ? `${t("cite.edited_by", { names: edited }, lang)}, ` : ""}` : "";
+  const compiled = compilers.length ? `${t("cite.compiled_by", { names: andList(compilers, and) }, lang)}. ` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";
   const accessed = `${t("cite.accessed", {}, lang)} __ACCESSED__`;
 
   const apa = authors.length
-    ? `${byApa} (${year}). ${c.title}${typeLabel}. ${inBook}${played}${pub}${c.url}`
-    : `${c.title}${typeLabel}. (${year}). ${inBook}${played}${pub}${c.url}`;
-  const chicago = `${end(byChicago)}"${c.title}." ${inBook}${played}${dot(pubYear)} ${accessed}. ${c.url}.`;
-  const mla = `${end(byMla)}"${c.title}." ${c.container ? `${c.container}, ` : ""}${played}${pubYear}, ${c.url}. ${accessed}.`;
+    ? `${dot(byApa)} (${year}). ${c.title}${typeLabel}. ${compiled}${inApa}${played}${pub}${c.url}`
+    : `${c.title}${typeLabel}. (${year}). ${compiled}${inApa}${played}${pub}${c.url}`;
+  const chicago = `${end(byChicago)}"${c.title}." ${compiled}${inBook}${played}${dot(pubYear)} ${accessed}. ${c.url}.`;
+  const mla = `${end(byMla)}"${c.title}." ${compiled}${inMla}${played}${pubYear}, ${c.url}. ${accessed}.`;
 
   const fields = [
-    ["author", authors.map((a) => texEscape(inverted(a))).join(" and ")],
+    ["author", authors.map((a) => (keep.has(a) ? `{${texEscape(a)}}` : texEscape(inverted(a)))).join(" and ")],
     ["editora", performers.map(texEscape).join(" and ")],
     ["editoratype", performers.length ? "performer" : ""],
+    ["editorb", compilers.map((a) => texEscape(inverted(a))).join(" and ")],
+    ["editorbtype", compilers.length ? "compiler" : ""],
+    ["editor", editors.map((a) => texEscape(inverted(a))).join(" and ")],
     ["title", `{${texEscape(c.title)}}`],
     ["booktitle", c.container && texEscape(c.container)],
     ["publisher", texEscape(publisher)],
@@ -342,7 +361,7 @@ export function buildCitations(c, lang = "en") {
 export function citationMeta(c, lang = "en") {
   const tags = [
     ["citation_title", c.title],
-    ...(c.authors ?? []).map((a) => ["citation_author", inverted(a)]),
+    ...(c.authors ?? []).map((a) => ["citation_author", c.asWritten?.includes(a) ? a : inverted(a)]),
     ["citation_inbook_title", c.container],
     ["citation_publication_date", c.year],
     ["citation_publisher", c.publisher ?? PUBLISHER],
