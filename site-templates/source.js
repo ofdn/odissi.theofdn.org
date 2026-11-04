@@ -1,4 +1,4 @@
-import { escapeHtml, t, displayName, pageShell, countLabel, texEscape, dot, COPY_ICON } from "./shared.js";
+import { escapeHtml, t, displayName, pageShell, countLabel, texEscape, dot, inverted, initials, andList, COPY_ICON } from "./shared.js";
 import { recordPage, section, linkList, people, sortByName } from "./music.js";
 import { KINDS } from "../scripts/lib/config.js";
 
@@ -9,22 +9,27 @@ const names = (ctx, list = []) => list.map((p) => (ctx.get(p) ? displayName(ctx.
 
 // the source's own reference, in the four styles the citation block offers
 export function sourceCitations(src, ctx) {
-  const by = names(ctx, src.authors).join(", ");
+  const authors = names(ctx, src.authors);
+  const and = t("cite.and", {}, ctx.lang);
+  const firstInverted = authors.map((a, i) => (i ? a : inverted(a)));
+  const byApa = andList(authors.map(initials), "&");
+  const byChicago = andList(firstInverted, and);
+  const byMla = authors.length > 2 ? `${firstInverted[0]}, et al.` : byChicago;
   const year = src.date?.slice(0, 4) ?? "n.d.";
   const title = src.subtitle?.en ? `${displayName(src)}: ${src.subtitle.en}` : displayName(src);
   const where = [src.in && `${t("cite.in", {}, ctx.lang)} ${src.in}${src.volume ? ` ${src.volume}` : ""}`, src.publisher, src.pages].filter(Boolean).join(", ");
   const online = [src.url, src.archive_url && `${t("source.archived_at", {}, ctx.lang)} ${src.archive_url}`].filter(Boolean).join(". ");
   const tail = [where, online].filter(Boolean).join(". ");
-  const apa = `${by ? `${by} (${year}). ` : ""}${title}.${by ? "" : ` (${year}).`}${tail ? ` ${tail}.` : ""}`;
-  const chicago = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(year)}${online ? ` ${online}.` : ""}`;
-  const mla = `${by ? `${by}. ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(`${year}${online ? `, ${online}` : ""}`)}`;
+  const apa = `${authors.length ? `${byApa} (${year}). ` : ""}${title}.${authors.length ? "" : ` (${year}).`}${tail ? ` ${tail}.` : ""}`;
+  const chicago = `${byChicago ? `${dot(byChicago)} ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(year)}${online ? ` ${online}.` : ""}`;
+  const mla = `${byMla ? `${dot(byMla)} ` : ""}${title}.${where ? ` ${where},` : ""} ${dot(`${year}${online ? `, ${online}` : ""}`)}`;
   return { apa, chicago, mla, bibtex: bibtex(src, ctx) };
 }
 
 export function bibtex(src, ctx) {
   const fields = [
-    ["author", names(ctx, src.authors).map(texEscape).join(" and ")],
-    ["editor", names(ctx, src.editors).map(texEscape).join(" and ")],
+    ["author", names(ctx, src.authors).map((a) => texEscape(inverted(a))).join(" and ")],
+    ["editor", names(ctx, src.editors).map((a) => texEscape(inverted(a))).join(" and ")],
     ["title", `{${texEscape(displayName(src))}}`],
     ["subtitle", src.subtitle?.en && `{${texEscape(src.subtitle.en)}}`],
     [IN_FIELD[src.type] ?? "howpublished", src.in && texEscape(src.in)],

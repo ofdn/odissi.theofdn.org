@@ -287,13 +287,13 @@ function nameParts(name) {
   const words = name.trim().split(/\s+/);
   return words.length < 2 || name.startsWith("@") ? [name] : [words.at(-1), words.slice(0, -1).join(" ")];
 }
-const inverted = (name) => nameParts(name).join(", ");
-const initials = (name) => {
+export const inverted = (name) => nameParts(name).join(", ");
+export const initials = (name) => {
   const [last, first] = nameParts(name);
   return first ? `${last}, ${first.split(" ").map((w) => `${[...w.normalize("NFC")][0]}.`).join(" ")}` : last;
 };
 export const dot = (s) => (s.endsWith(".") ? s : `${s}.`);
-const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
+export const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
 
 export function buildCitations(c, lang = "en") {
   const authors = c.authors ?? [];
