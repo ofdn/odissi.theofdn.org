@@ -1,0 +1,77 @@
+{
+  "id": "oa-gita-000729",
+  "name": {
+    "en": "Susamanani manini gaja gamini",
+    "or": "ସୁଷମାନନୀ ମାନିନୀ ଗଜଗାମିନୀ"
+  },
+  "composer": "oa-person-000122",
+  "mula_raga": [
+    "oa-raga-000066"
+  ],
+  "mula_tala": [
+    "oa-tala-000003"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/susamanani-manini-gaja-gamini/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସୁଷମାନନି ମାନିନି",
+          "ଗଜଗାମିନି ତେଜ ମାନ ରେ ।",
+          "ଆନ ମୋ ପରିତ୍ରାଣ ତୋ ବିନୁ",
+          "ନାହିଁ କାହିଁ ସମାନ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଚଣ୍ଡରେ ସ୍ମର କାଣ୍ଡ ଚାଣ୍ଡରେ",
+          "ମଣ୍ଡଳୀକୃତ ଚାପରେ",
+          "ଦଣ୍ଡନା ମହୀମଣ୍ଡନା ଏବେ",
+          "ଖଣ୍ଡ ମୋ ପରିତାପରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରଞ୍ଜ ଅଞ୍ଜନ ଖଞ୍ଜନେକ୍ଷଣି",
+          "ଖଞ୍ଜ ମଞ୍ଜୀର ପାଦରେ",
+          "ମଞ୍ଜୁଭାଷିଣି ସଞ୍ଚ ମୋ ସୁଖ",
+          "-ପୁଞ୍ଜ କାଞ୍ଚୀ ନିନାଦରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୁନ୍ଦସୁନ୍ଦରଦନ୍ତି ଦାରୁଣ",
+          "ମନ୍ଦ ଗନ୍ଧ ପ୍ରବାହରେ",
+          "ଦ୍ୱନ୍ଦ ନ କର ତୁ ମନ୍ଦରସ୍ତନି",
+          "ବନ୍ଧୁକାଧରି ବନ୍ଧୁରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବୀର ଶ୍ରୀ ଜଗନ୍ନାଥ ଗଜପତି",
+          "ଧୀର ଗୀର ପ୍ରବନ୍ଧ ରେ",
+          "ସାରସାନନି ସାର ଚୁମ୍ବନ",
+          "ବାରେ ବିହିଲେ ପ୍ରମୋଦରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/susamanani-manini-gaja-gamini/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

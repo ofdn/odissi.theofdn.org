@@ -1,0 +1,64 @@
+{
+  "id": "oa-gita-000738",
+  "name": {
+    "en": "Jana jauchi ethiru",
+    "or": "ଜଣା ଯାଉଛି ଏଥିରୁ"
+  },
+  "composer": "oa-person-000122",
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jana-jauchi-ethiru-jagannatha-gajapati/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜଣା ଯାଉଛି ଏଥିରୁ",
+          "ଉପାଡ଼ିବେ ପରା ଜୀବଧନ ଧୈର୍ଯ୍ୟ ତରୁ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ମାଳତୀ ଲତିକା କରି ଚତ୍ୱରେ ରୋପଣ",
+          "ଦିନୁ ଦିନ ହେଉଛନ୍ତି ସଜଳ ଈକ୍ଷଣ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରଙ୍ଗ ଶଳାକାକୁ ଘେନି ଚାହିଁ ଏଣେ ତେଣେ",
+          "ମୋତେ ଲୁଚାଇ ଲେଖନ୍ତି ଭିତରେ ଆପଣେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦିନୁ ଦିନୁ ରସ ଗର୍ବମାନଙ୍କୁ ବଢ଼ାଇ",
+          "କେଶରୁ କୁସୁମମାଳ ନେଲେଣି ଛଡ଼ାଇ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପୟରେ ଅଳତା ଦେଇ ପାହାଡ଼ା ପକାଇ",
+          "ଜଗନ୍ନାଥ ଦେବ ନେଲେ ପହଣ୍ଡ ମଣାଇ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jana-jauchi-ethiru-jagannatha-gajapati/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
