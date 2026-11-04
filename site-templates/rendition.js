@@ -6,10 +6,8 @@ const BIB = { recording: "audio", notation: "score", manuscript_copy: "unpublish
 function creditRows(ctx, r) {
   const lang = ctx.lang;
   const rows = [];
-  const named = renditionPeople(r);
   for (const role of ["vocalist", "notator", "scribe", "chorus", "music_director"]) {
-    // the people under the heading are not listed again
-    const people = r.credits.filter((c) => c.role === role && !named.includes(c.person));
+    const people = r.credits.filter((c) => c.role === role);
     if (people.length) rows.push([t(`role.${role}`, {}, lang), people.map((c) => link(ctx, c.person)).join(", ")]);
   }
   const players = r.credits.filter((c) => c.role === "instrumentalist");
@@ -49,6 +47,8 @@ export default function rendition(record, ctx) {
   // stanzas sung link to the text on the gīta page
   const stanzas = (record.stanzas ?? []).map((n) => `<a href="${escapeHtml(ctx.url(record.gita))}#stanza-${n}">${escapeHtml(stanzaLabel(n, lang))}</a>`).join(", ");
   const facts = [
+    [t("kind.gita", {}, lang), link(ctx, record.gita)],
+    [t("gita.composer", {}, lang), gita?.composer ? link(ctx, gita.composer) : escapeHtml(t("gita.unknown", {}, lang))],
     ...creditRows(ctx, record),
     [t("rendition.raga", {}, lang), links(ctx, record.raga)],
     [t("rendition.tala", {}, lang), links(ctx, record.tala)],

@@ -327,13 +327,14 @@ export function buildCitations(c, lang = "en") {
   const inMla = c.container ? `${c.container}, ${edited ? `${t("cite.edited_by", { names: edited }, lang)}, ` : ""}` : "";
   const compiled = compilers.length ? `${t("cite.compiled_by", { names: andList(compilers, and) }, lang)}. ` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";
+  const noted = c.note ? `${dot(c.note)} ` : "";
   const accessed = `${t("cite.accessed", {}, lang)} __ACCESSED__`;
 
   const apa = authors.length
-    ? `${dot(byApa)} (${year}). ${c.title}${typeLabel}. ${compiled}${inApa}${played}${pub}${c.url}`
-    : `${c.title}${typeLabel}. (${year}). ${compiled}${inApa}${played}${pub}${c.url}`;
-  const chicago = `${end(byChicago)}"${c.title}." ${compiled}${inBook}${played}${dot(pubYear)} ${accessed}. ${c.url}.`;
-  const mla = `${end(byMla)}"${c.title}." ${compiled}${inMla}${played}${pubYear}, ${c.url}. ${accessed}.`;
+    ? `${dot(byApa)} (${year}). ${c.title}${typeLabel}. ${compiled}${inApa}${played}${noted}${pub}${c.url}`
+    : `${c.title}${typeLabel}. (${year}). ${compiled}${inApa}${played}${noted}${pub}${c.url}`;
+  const chicago = `${end(byChicago)}"${c.title}." ${compiled}${inBook}${played}${noted}${dot(pubYear)} ${accessed}. ${c.url}.`;
+  const mla = `${end(byMla)}"${c.title}." ${compiled}${inMla}${played}${noted}${pubYear}, ${c.url}. ${accessed}.`;
 
   const fields = [
     ["author", authors.map((a) => (keep.has(a) ? `{${texEscape(a)}}` : texEscape(inverted(a)))).join(" and ")],
