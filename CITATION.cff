@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these records, please cite them as below."
+type: dataset
+title: "The Odissi Archive"
+authors:
+  - given-names: Prateek
+    family-names: Pattanaik
+  - given-names: Subhashish
+    family-names: Panigrahi
+url: "https://odissi.theofdn.org/"
+repository-code: "https://github.com/ofdn/odissi.theofdn.org"
+license: CC-BY-SA-4.0
+preferred-citation:
+  type: database
+  title: "The Odissi Archive"
+  authors:
+    - given-names: Prateek
+      family-names: Pattanaik
+  publisher:
+    name: "O Foundation"
+    city: Bhubaneswar
+  url: "https://odissi.theofdn.org/"

@@ -1,6 +1,6 @@
 // Parts shared by the record pages: header, sources, verse, renditions.
 import { escapeHtml, t, localized, pick, displayName, titledName, sortName, link, pageShell, filmLayout, factsAside, arkPermalink, citationBlock, citationMeta } from "./shared.js";
-import { SITE_URL } from "../scripts/lib/config.js";
+import { SITE_URL, SITE_NAME, CURATOR, arkUrl } from "../scripts/lib/config.js";
 
 export function links(ctx, ids = []) {
   return ids.map((id) => link(ctx, id)).join(", ");
@@ -96,12 +96,13 @@ export function renditionList(ctx, renditions, pageId) {
 
 export function recordCitation(ctx, record, extra = {}) {
   return {
-    type: "misc",
+    type: "inreference",
     id: record.id,
     title: displayName(record, ctx.lang),
-    authors: [],
+    authors: record.entered_by ?? [CURATOR],
+    container: SITE_NAME,
     year: record.created_at?.slice(0, 4),
-    url: `${SITE_URL}${record.id.split("-")[1]}/${record.id}/`,
+    url: arkUrl(record.id) ?? `${SITE_URL}${record.id.split("-")[1]}/${record.id}/`,
     ...extra,
   };
 }

@@ -139,7 +139,7 @@
       }
     },
     "entered_by": {
-      "description": "Full names of the people who entered or edited this record.",
+      "description": "Full names of the people who entered this record, or their GitHub usernames (such as @octocat) where no name is given. They are cited as its authors. A record without it is cited to Prateek Pattanaik, the curator.",
       "type": "array",
       "minItems": 1,
       "items": {

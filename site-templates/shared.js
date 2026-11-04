@@ -277,30 +277,47 @@ export function texEscape(s) {
   return String(s).replace(/([&%$#_{}])/g, "\\$1");
 }
 
-const BIB_TYPES = ["audio", "music", "unpublished", "inbook"];
-const CITE_LABELS = [...BIB_TYPES, "score"];
+const BIB_TYPES = ["audio", "music", "unpublished", "inbook", "inreference"];
+const CITE_LABELS = ["audio", "music", "unpublished", "inbook", "score"];
 
 // c is { type, title, authors[], performers[], year, publisher, url, id, note, container }.
 // __ACCESSED__ and __ACCESSED_ISO__ are filled in with the reader's date by site.js.
+// "First Last" becomes ["Last", "First"]; one-word names and github usernames stay whole
+function nameParts(name) {
+  const words = name.trim().split(/\s+/);
+  return words.length < 2 || name.startsWith("@") ? [name] : [words.at(-1), words.slice(0, -1).join(" ")];
+}
+const inverted = (name) => nameParts(name).join(", ");
+const initials = (name) => {
+  const [last, first] = nameParts(name);
+  return first ? `${last}, ${first.split(" ").map((w) => `${[...w.normalize("NFC")][0]}.`).join(" ")}` : last;
+};
+const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
+
 export function buildCitations(c, lang = "en") {
   const authors = c.authors ?? [];
   const performers = c.performers ?? [];
   const publisher = c.publisher ?? PUBLISHER;
   const year = c.year ?? "n.d.";
-  const by = authors.join(", ");
+  const and = t("cite.and", {}, lang);
+  const firstInverted = authors.map((a, i) => (i ? a : inverted(a)));
+  const byApa = andList(authors.map(initials), "&");
+  const byChicago = andList(firstInverted, and);
+  const byMla = authors.length > 2 ? `${firstInverted[0]}, et al.` : andList(firstInverted, and);
+  const end = (by) => (by && !by.endsWith(".") ? `${by}. ` : by ? `${by} ` : "");
   const typeLabel = CITE_LABELS.includes(c.type) ? ` [${t(`cite.type.${c.type}`, {}, lang)}]` : "";
   const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}. ` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";
   const accessed = `${t("cite.accessed", {}, lang)} __ACCESSED__`;
 
-  const apa = by
-    ? `${by} (${year}). ${c.title}${typeLabel}. ${inBook}${played}${publisher}. ${c.url}`
+  const apa = authors.length
+    ? `${byApa} (${year}). ${c.title}${typeLabel}. ${inBook}${played}${publisher}. ${c.url}`
     : `${c.title}${typeLabel}. (${year}). ${inBook}${played}${publisher}. ${c.url}`;
-  const chicago = `${by ? `${by}. ` : ""}"${c.title}." ${inBook}${played}${publisher}, ${year}. ${accessed}. ${c.url}.`;
-  const mla = `${by ? `${by}. ` : ""}"${c.title}." ${inBook}${played}${publisher}, ${year}, ${c.url}. ${accessed}.`;
+  const chicago = `${end(byChicago)}"${c.title}." ${inBook}${played}${publisher}, ${year}. ${accessed}. ${c.url}.`;
+  const mla = `${end(byMla)}"${c.title}." ${c.container ? `${c.container}, ` : ""}${played}${publisher}, ${year}, ${c.url}. ${accessed}.`;
 
   const fields = [
-    ["author", authors.map(texEscape).join(" and ")],
+    ["author", authors.map((a) => texEscape(inverted(a))).join(" and ")],
     ["editora", performers.map(texEscape).join(" and ")],
     ["editoratype", performers.length ? "performer" : ""],
     ["title", `{${texEscape(c.title)}}`],
@@ -322,7 +339,8 @@ export function buildCitations(c, lang = "en") {
 export function citationMeta(c, lang = "en") {
   const tags = [
     ["citation_title", c.title],
-    ...(c.authors ?? []).map((a) => ["citation_author", a]),
+    ...(c.authors ?? []).map((a) => ["citation_author", inverted(a)]),
+    ["citation_inbook_title", c.container],
     ["citation_publication_date", c.year],
     ["citation_publisher", c.publisher ?? PUBLISHER],
     ["citation_language", lang],
@@ -331,6 +349,7 @@ export function citationMeta(c, lang = "en") {
     ...(c.authors ?? []).map((a) => ["DC.creator", a]),
     ...(c.performers ?? []).map((p) => ["DC.contributor", p]),
     ["DC.date", c.year],
+    ["DC.relation.ispartof", c.container],
     ["DC.publisher", c.publisher ?? PUBLISHER],
     ["DC.rights", LICENCE],
     ["eprints.place_of_pub", PUBLISHER_PLACE],

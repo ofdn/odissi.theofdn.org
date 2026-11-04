@@ -18,6 +18,7 @@
   "cite.copy": "Copy citation",
   "cite.download": "Download .bib",
   "cite.in": "In",
+  "cite.and": "and",
   "cite.performers": "Performed by {names}",
   "cite.accessed": "Accessed",
   "cite.type.audio": "Audio recording",

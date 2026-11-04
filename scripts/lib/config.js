@@ -12,6 +12,8 @@ export const SITE_URL = (process.env.SITE_URL || "https://odissi.theofdn.org/").
 // "/" on our own domain, "/odissi.theofdn.org/" on github.io
 export const BASE_PATH = new URL(SITE_URL).pathname;
 export const PUBLISHER = "O Foundation";
+// cited as author of every record that has no entered_by
+export const CURATOR = "Prateek Pattanaik";
 export const PUBLISHER_PLACE = "Bhubaneswar";
 export const LICENCE = "CC BY-SA 4.0";
 
