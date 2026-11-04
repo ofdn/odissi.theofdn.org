@@ -1,0 +1,23 @@
+{
+  "id": "new-person-i21-3",
+  "name": {
+    "en": "Sisu Sankara Dasa",
+    "or": "ଶିଶୁ ଶଙ୍କର ଦାସ",
+    "alternates": [
+      "Sishu Shankara Dasa",
+      "Shishu Shankara Dasa",
+      "Sisu Sankar Das",
+      "Sisusankar"
+    ]
+  },
+  "roles": [
+    "composer"
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-04",
+  "updated_at": "2026-11-04",
+  "entered_by": [
+    "Prateek Pattanaik"
+  ]
+}
