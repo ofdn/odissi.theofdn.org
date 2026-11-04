@@ -8,6 +8,7 @@
     "validate": "node scripts/validate.js",
     "build": "node scripts/build.js",
     "mint": "node scripts/mint-id.js",
+    "mint-new": "node scripts/mint-new.js",
     "archive": "node scripts/archive-links.js"
   },
   "dependencies": {

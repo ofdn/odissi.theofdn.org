@@ -6,26 +6,39 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
+# runs wait for each other so two merges never get the same new id
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
+      - name: Give new records their ids
+        run: |
+          npm ci
+          npm run mint-new
+          git add data
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -q -m "ids for new records"
+            git push origin HEAD:main
+          fi
       - id: pages
         uses: actions/configure-pages@v5
-      - run: npm ci
       - run: npm run validate
       - run: npm run build
         env:

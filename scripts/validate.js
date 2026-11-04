@@ -1,12 +1,30 @@
 #!/usr/bin/env node
 // Checks every record against its kind's schema, then the rules a schema
 // cannot hold: id matches the file, and every id a record mentions exists.
-import { readFileSync } from "node:fs";
+import { readFileSync, cpSync, mkdtempSync, rmSync } from "node:fs";
 import { join, basename, relative, dirname } from "node:path";
+import { execFileSync } from "node:child_process";
+import { tmpdir } from "node:os";
 import Ajv2020 from "ajv/dist/2020.js";
 import addFormats from "ajv-formats";
 import { DATA_DIR, SCHEMA_DIR, KINDS } from "./lib/config.js";
-import { loadRecords, jsonFiles, refs, kindOf, tombstones } from "./lib/records.js";
+import { loadRecords, jsonFiles, refs, kindOf, tombstones, NEW_ID } from "./lib/records.js";
+
+// new-* records are checked on a copy with the ids they will get on merge
+if (KINDS.some((k) => jsonFiles(join(DATA_DIR, k)).some((f) => NEW_ID.test(f.slice(0, -5))))) {
+  const copy = mkdtempSync(join(tmpdir(), "validate-"));
+  cpSync(DATA_DIR, copy, { recursive: true });
+  const script = new URL(import.meta.url).pathname;
+  let code = 0;
+  try {
+    execFileSync("node", [join(dirname(script), "mint-new.js"), copy], { stdio: "inherit" });
+    execFileSync("node", [script], { env: { ...process.env, DATA_DIR: copy }, stdio: "inherit" });
+  } catch {
+    code = 1;
+  }
+  rmSync(copy, { recursive: true, force: true });
+  process.exit(code);
+}
 
 // unknown keywords still fail; "pattern" beside a $ref with no "type" is fine
 const ajv = new Ajv2020({ allErrors: true, strictTypes: false });

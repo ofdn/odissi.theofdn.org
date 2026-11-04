@@ -34,6 +34,19 @@ export function tombstones(dataDir = DATA_DIR) {
   return existsSync(file) ? JSON.parse(readFileSync(file, "utf8")) : [];
 }
 
+// a record waiting for its id, such as new-gita-i12-1
+export const NEW_ID = /^new-[a-z0-9-]+$/;
+
+// one past the highest number a kind has used, withdrawn ids included
+export function nextNumber(dataDir, kind) {
+  let max = 0;
+  for (const id of [...jsonFiles(join(dataDir, kind)).map((f) => f.slice(0, -5)), ...tombstones(dataDir)]) {
+    const m = ID_PATTERN.exec(id);
+    if (m && m[1] === kind) max = Math.max(max, Number(m[2]));
+  }
+  return max + 1;
+}
+
 function pointerPart(key) {
   return String(key).replaceAll("~", "~0").replaceAll("/", "~1");
 }
