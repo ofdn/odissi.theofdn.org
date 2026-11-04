@@ -297,6 +297,8 @@ export const initials = (name) => {
 };
 export const dot = (s) => (s.endsWith(".") ? s : `${s}.`);
 export const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
+// two names in normal order take no comma: "A and B"
+const pair = (list, and) => (list.length === 2 ? list.join(` ${and} `) : andList(list, and));
 
 // c is { type, title, dated, authors[], asWritten[], editors[] (of the container), performers[], year, publisher, url, id, note, container }.
 // names in asWritten have no surname and are never turned surname first
@@ -321,10 +323,10 @@ export function buildCitations(c, lang = "en") {
   const label = CITE_LABELS.includes(c.type) ? t(`cite.type.${c.type}`, {}, lang) : "";
   const described = [label, c.dated].filter(Boolean).join(", ");
   const typeLabel = described ? ` [${described}]` : "";
-  const edited = andList(editors, and);
+  const edited = pair(editors, and);
   const inBook = c.container ? `${t("cite.in", {}, lang)} ${c.container}${edited ? `, ${t("cite.edited_by", { names: edited }, lang)}` : ""}. ` : "";
   const inApa = c.container
-    ? `${t("cite.in", {}, lang)} ${editors.length ? `${andList(editors.map(givenFirstInitials), "&")} (${t(editors.length > 1 ? "cite.eds" : "cite.ed", {}, lang)}), ` : ""}${c.container}. `
+    ? `${t("cite.in", {}, lang)} ${editors.length ? `${pair(editors.map(givenFirstInitials), "&")} (${t(editors.length > 1 ? "cite.eds" : "cite.ed", {}, lang)}), ` : ""}${c.container}. `
     : "";
   const inMla = c.container ? `${c.container}, ${edited ? `${t("cite.edited_by", { names: edited }, lang)}, ` : ""}` : "";
   const played = performers.length ? `${t("cite.performers", { names: performers.join(", ") }, lang)}. ` : "";

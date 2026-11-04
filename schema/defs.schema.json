@@ -248,6 +248,15 @@
         "entered_by": {
           "$ref": "#/$defs/entered_by"
         },
+        "editors": {
+          "description": "Full names of the editors who reviewed this record, cited as editors of The Odissi Archive. Leave it out when Prateek Pattanaik is the only editor. When someone edits with him, list both, him first.",
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
         "record_status": {
           "enum": [
             "active",

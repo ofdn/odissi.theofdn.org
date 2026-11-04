@@ -111,7 +111,7 @@ export function recordCitation(ctx, record, extra = {}) {
     title: displayName(record, ctx.lang),
     authors: [],
     ...poet,
-    editors: [CURATOR],
+    editors: record.editors ?? [CURATOR],
     container: SITE_NAME,
     year: record.created_at?.slice(0, 4),
     url: arkUrl(record.id) ?? `${SITE_URL}${kind}/${record.id}/`,

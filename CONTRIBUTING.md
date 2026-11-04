@@ -13,6 +13,15 @@ Each record is one JSON file in `data/<kind>/`. You can add or edit records in t
 
 A check runs on every pull request. It tells you if a field is wrong or a link points to a record that does not exist. When the check passes, merge the pull request. The site updates in about a minute.
 
+## Choosing an id
+
+You choose the id yourself. Nothing fills it in after a merge, because records link to each other by id. A new gīta can name a new poet in the same pull request only if both ids are already set.
+
+- Take the highest number in the folder and add one, as in step 3.
+- If you add several records, give them the next numbers in turn.
+- If two open pull requests take the same id, GitHub shows a conflict on the second. Change that one to the next free number.
+- Never reuse an id, even after its file is deleted. The check refuses ids listed in `data/tombstones.json`.
+
 ## Linking records
 
 Records point to each other by id. A gīta names its composer as `"composer": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
@@ -28,6 +37,7 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.
 - Cite every source in `sources`. See "Citing sources" below.
 - A rendition needs no `name`. The site names it from the gīta and the people credited.
+- Prateek Pattanaik is cited as editor of every record. If someone else edits a record with him, list both in `editors`, such as `"editors": ["Prateek Pattanaik", "First1 Last1"]`.
 - Put your full name in `entered_by` when you add a record, such as `"entered_by": ["First1 Last1"]`. A GitHub username such as `"@octocat"` is fine too. It records who entered the data. Citations never use it: a gīta or kābya is cited to its poet, and Prateek Pattanaik is named as editor of the archive on every record.
 - Give every carrier a `rights` status. Do not add audio files to the repository. Link a YouTube or Internet Archive copy in `online` instead.
 
