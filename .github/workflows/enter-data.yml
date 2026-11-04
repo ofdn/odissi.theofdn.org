@@ -1,0 +1,58 @@
+name: Enter data
+
+# An issue sent from /enter-data/ becomes pull requests (scripts/issue-to-records.js).
+# Only people with write access to the repo can use it. The issue body goes to the
+# script through env, never into a shell line.
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  records:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'new-records') &&
+      contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.issue.author_association)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - id: build
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          export ISSUE_AUTHOR_NAME="$(gh api "users/$ISSUE_AUTHOR" --jq '.name // ""' || true)"
+          node scripts/issue-to-records.js
+      - uses: actions/github-script@v7
+        if: always()
+        env:
+          PRS: ${{ steps.build.outputs.prs }}
+          PROBLEMS: ${{ steps.build.outputs.problems }}
+          ERROR: ${{ steps.build.outputs.error }}
+        with:
+          script: |
+            const { PRS, PROBLEMS, ERROR } = process.env;
+            const parts = [];
+            if (PRS) parts.push(`Opened:\n${PRS.split("\n").map((u) => `- ${u}`).join("\n")}`);
+            if (PROBLEMS) parts.push(`These could not be added. Fix them on the form and send them again:\n\n\`\`\`\n${PROBLEMS}\n\`\`\``);
+            if (ERROR) parts.push(ERROR);
+            if (!parts.length) parts.push("Something went wrong before any record was read. See the workflow run.");
+            const issue = { owner: context.repo.owner, repo: context.repo.repo, issue_number: context.issue.number };
+            await github.rest.issues.createComment({ ...issue, body: parts.join("\n\n") });
+            if (PRS && !PROBLEMS && !ERROR) await github.rest.issues.update({ ...issue, state: "closed" });
