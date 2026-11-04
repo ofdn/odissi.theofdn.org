@@ -2,11 +2,12 @@ name: Enter data
 
 # An issue sent from /enter-data/ becomes pull requests (scripts/issue-to-records.js).
 # Only people with write access to the repo can use it. The issue body goes to the
-# script through env, never into a shell line.
+# script through env, never into a shell line. GitHub adds an issue's labels just after
+# opening it, so this runs on the label; removing and adding it again runs it again.
 
 on:
   issues:
-    types: [opened]
+    types: [labeled]
 
 permissions:
   contents: write
@@ -16,7 +17,7 @@ permissions:
 jobs:
   records:
     if: >-
-      contains(github.event.issue.labels.*.name, 'new-records') &&
+      github.event.label.name == 'new-records' &&
       contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.issue.author_association)
     runs-on: ubuntu-latest
     steps:
