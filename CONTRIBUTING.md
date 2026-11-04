@@ -2,25 +2,34 @@
 
 Each record is one JSON file in `data/<kind>/`. You can add or edit records in the GitHub website. You do not need to install anything.
 
+## Enter data on the site
+
+Open https://odissi.theofdn.org/enter-data/ while signed in to GitHub. You need write access to the repository.
+
+1. Choose the kind of record and fill in the form. Search for linked records by name.
+2. Click **Add to the list**. Add as many records as you like. A new record can link to another new one in the list.
+3. To add many at once, download the CSV template, fill in one record per row, and choose the file.
+4. Click **Send to GitHub**. Check the issue that opens and submit it.
+
+Each record becomes its own pull request, with the issue linked. New records that link to each other share one. If a record fails the check, the issue says why. Merge the pull requests to publish them.
+
 ## Add a record in the browser
 
 1. Open the folder for the kind of record, such as `data/gita/`.
 2. Open a similar record and copy its text.
-3. Find the highest number in the folder and add one. If the last file is `oa-gita-000002.json`, the new one is `oa-gita-000003.json`.
-4. Click **Add file**, then **Create new file**. Name the file with the new id and paste the text.
-5. Change the `id` inside the file to match the file name. Edit the other fields.
-6. Click **Commit changes**. Choose **Create a new branch** and open a pull request.
+3. Click **Add file**, then **Create new file**. Name it `new-gita-` and a short word, such as `new-gita-kadamba.json`. See "Choosing an id" below.
+4. Paste the text. Set the `id` inside to the same name, then edit the other fields.
+5. Click **Commit changes**. Choose **Create a new branch** and open a pull request.
 
 A check runs on every pull request. It tells you if a field is wrong or a link points to a record that does not exist. When the check passes, merge the pull request. The site updates in about a minute.
 
 ## Choosing an id
 
-You choose the id yourself. Nothing fills it in after a merge, because records link to each other by id. A new gīta can name a new poet in the same pull request only if both ids are already set.
+You don't choose the number. Name a new file `new-<kind>-<word>.json`, such as `data/gita/new-gita-kadamba.json`, and use the same name as its `id`. Other new records link to it by that name.
 
-- Take the highest number in the folder and add one, as in step 3.
-- If you add several records, give them the next numbers in turn.
-- If two open pull requests take the same id, GitHub shows a conflict on the second. Change that one to the next free number.
-- Never reuse an id, even after its file is deleted. The check refuses ids listed in `data/tombstones.json`.
+When the pull request is merged, each new record gets the next free id. Every link to it changes too. Records merged one after another never share a number.
+
+Never reuse an id, even after its file is deleted. The check refuses ids listed in `data/tombstones.json`.
 
 ## Linking records
 
@@ -132,8 +141,7 @@ Never reuse an id or give it to another record. To withdraw a record, delete its
 
 Install Node.js 20 or later. Run `npm install` once. Then:
 
-- `npm run mint -- gita` prints the next free id.
-- `npm run validate` checks every record.
+- `npm run validate` checks every record. It checks `new-…` files with the ids they'll get on merge.
 - `npm run build` writes the site to `dist/`.
 - `npm run archive` looks up Wayback Machine copies of cited pages. Add `-- --save` to archive pages that have no copy yet.
 
