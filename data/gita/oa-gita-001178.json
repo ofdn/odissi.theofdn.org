@@ -1,0 +1,85 @@
+{
+  "id": "oa-gita-001178",
+  "name": {
+    "en": "Dinabandhu jaya niladri bihari",
+    "or": "ଦୀନବନ୍ଧୁ ଜୟ ନୀଳାଦ୍ରି ବିହାରୀ"
+  },
+  "composer": "oa-person-000084",
+  "mula_raga": [
+    "oa-raga-000150"
+  ],
+  "mula_tala": [
+    "oa-tala-000011"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinabandhu-jaya-niladri-bihari-todiparaja-hrudananda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୀନବନ୍ଧୁ ଜୟ ନୀଳାଦ୍ରି ବିହାରୀ",
+          "ଭକ୍ତଙ୍କର ହିତେ ନାମ ବହିଅଛ",
+          "କରେ ଶଙ୍ଖ ଚକ୍ର ଧରି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୀମାତା ଧର ସୁତା ବାହନର",
+          "ଭକ୍ଷ ଡାକିଲା ଆରତେ",
+          "ରଥାଙ୍ଗ ପେଷିଲ ଅରାତି ନାଶିଲି",
+          "ରକ୍ଷା କରିଲ ତ୍ୱରିତେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନାକଲୋକ ରାଜ ତନୁଜ ଅଗ୍ରଜ",
+          "ଜାୟା ଚିନ୍ତିଲା ଆକୁଳେ",
+          "ଲଜ୍ଜା ନିବାରଣ ଅବଳା ତାରଣ",
+          "କରିଅଛ ଅବହେଳେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଗିରୀଶ ଦୁଲାଳ କନିଷ୍ଠ ମାତୁଳ",
+          "ସଙ୍ଗେ ମଇତ୍ର ହୋଇଲ",
+          "ବାମନାରି ଅରୀ ଆତ୍ମଜାକୁ ହରି",
+          "ଏକା କାଣ୍ଡକେ ବଧିଲ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶମ୍ବରାରି ପର ଧରଧରାସୁତ",
+          "ବଂଶ ଅଜାମ୍ବିଳ ଜାତ",
+          "ଅନ୍ତକାଳେ ନାମ ଜପିବାରେ",
+          "ବଇକୁଣ୍ଠେ କଲା ସ୍ଥିତି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କହେ ହୃଦାନନ୍ଦ ବେନି ଜନ୍ମ ମନ୍ଦ",
+          "ମୁଁ ଅଜାମିଳୁଁ ଅଧିକ",
+          "କେକୀ ପ୍ରିୟ ପୁଷ୍ପ ଉଦ୍ଭବ ବାନ୍ଧବ",
+          "କୁମର ଭୟରୁ ରଖ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/dinabandhu-jaya-niladri-bihari-todiparaja-hrudananda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

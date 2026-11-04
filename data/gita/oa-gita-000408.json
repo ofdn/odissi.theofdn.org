@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000408",
+  "name": {
+    "en": "Mo gati eka sripati duti",
+    "or": "ମୋ ଗତି ଏକା ଶ୍ରୀପତି ଦୂତୀ"
+  },
+  "composer": "oa-person-000092",
+  "mula_raga": [
+    "oa-raga-000115"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-gati-eka-sripati-duti/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମୋ ଗତି ଏକା ଶ୍ରୀପତି ଦୂତୀ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ନାହିଁରେ ଜୀବନ ଧନ । କାହିଁରେ ପ୍ରୟୋଜନ ।",
+          "ଏହୁ ଗୁରୁଜନ ଜାତି ପତିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମାନସ ନୟନ ପ୍ରାଣ । କରିଛି ମୁଁ ସମର୍ପଣ ।",
+          "ଦର୍ପଣ ପରି ତାହାକୁ ପ୍ରୀତିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସହି ଗୋ ମାନାପମାନ । ସେହି ସୋଦର ସମାନ ।",
+          "ମହୀ ପରି ବହିଅଛି ଛାତିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ତୁ ଯେ ବୋଲୁଅଛୁ ଛାଡ଼ । ମୁଁ ଯେ କରିଅଛି ଦୃଢ଼ ।",
+          "ସେ ଶ୍ୟାମ ସ୍ନେହକୁ ଏ ଜଗତୀରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ମାନଧାତା ବଦତି ରସେ । ବସିଥିବି ତାଙ୍କ ପାଶେ ।",
+          "ଏହି ବାଞ୍ଛା ମୋର ଦିନ ରାତିରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mo-gati-eka-sripati-duti/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

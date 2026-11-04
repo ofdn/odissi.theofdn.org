@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-001063",
+  "name": {
+    "en": "Sakhi re mun ki hudili",
+    "or": "ସଖୀରେ ମୁଁ କି ହୁଡ଼ିଲି"
+  },
+  "composer": "oa-person-000138",
+  "mula_raga": [
+    "oa-raga-000059"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-mun-ki-hudili-punnaga-gayaka-ratana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସଖୀରେ ମୁଁ କି ହୁଡ଼ିଲି",
+          "ଦାରୁଣ ମାନକୁ ଭଜି ଶ୍ୟାମବନ୍ଧୁକୁ ଛାଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବସନ ପ୍ରସାରି ମୋତେ ବିନୟ ଭାଷିଲେ ଯେତେ",
+          "ଚରଣ ତଳେ ପଡ଼ନ୍ତେ ନ ଚାହିଁ ମୁଖ ମୋଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଅନାଦର ଦେଖି ମୋର ନୟନୁ ବୁହାଇ ନୀର",
+          "ବିକଳେ ନାଗରବର ଯାଉଁ ପଥ ନ ଆଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଜନୀଙ୍କ ହିତବାଣୀ ଅହିତ ପରାଏ ମଣି",
+          "ପରିହରି ବେଣୁପାଣି ଶୋକ ସଲିଳେ ବୁଡ଼ିଲି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଗାୟକ ରତନ ମତେ ପ୍ରବୋଧି କହିଲା ଯେତେ",
+          "ବିଷ ପରା ମଣି ଚିତ୍ତେ କରୁ ସୁଧାକୁ ଏଡ଼ିଲି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sakhi-re-mun-ki-hudili-punnaga-gayaka-ratana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

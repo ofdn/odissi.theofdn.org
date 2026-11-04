@@ -1,0 +1,47 @@
+{
+  "id": "oa-gita-001428",
+  "name": {
+    "en": "E papa nayana dekhiba ki sate",
+    "or": "ଏ ପାପନୟନ ଦେଖିବ କି ସତେ"
+  },
+  "composer": "oa-person-000167",
+  "mula_raga": [
+    "oa-raga-000034"
+  ],
+  "mula_tala": [
+    "oa-tala-000006"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-papa-nayana-dekhiba-ki-sate/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏ ପାପନୟନ ଦେଖିବ କି ସତେ ଶ୍ୟାମଳ ସୁଷମା ରାଶି",
+          "କରୁଣାସାଗର କରୁଣା ବିତରି କରିବେ ଚରଣ ଦାସୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜ୍ୟୋତ୍ସ୍ନା ହସିତ ବସନ୍ତ ନିଶୀଥେ",
+          "କୁଞ୍ଜେ ବିହରି ବନ୍ଧୁ ସହିତେ",
+          "ତୋଷିବିନି ସତେ ପ୍ରୀତି ଉପହାରେ ପୁଲକେ ପ୍ରଣୟ ସଲିଳେ ଭାସି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/e-papa-nayana-dekhiba-ki-sate/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

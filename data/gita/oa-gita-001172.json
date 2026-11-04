@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-001172",
+  "name": {
+    "en": "Mana bhrama re e phulare nahin basa",
+    "or": "ମନ ଭ୍ରମରା ରେ ଏ ଫୁଲରେ ନାହିଁ ବାସ"
+  },
+  "composer": "oa-person-000143",
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-bhrama-re-e-phulare-nahin-basa-gorekha-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମନ ଭ୍ରମରା ରେ ଏ ଫୁଲରେ ନାହିଁ ବାସ",
+          "କାହିଁ ପାଇଁ ତୁହି ବାଇ ହୋଇଅଛୁ",
+          "ତୁହି ପାଇବୁ କି ଯଶ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଫୁଟି ମଲ୍ଲୀ ଚମ୍ପା ଚହଟି ଗଲାଣି",
+          "ବାସି ହୋଇଲାଣି ବାସ",
+          "ବାରବାର ତୋତେ ମନା କରୁଅଛି",
+          "ପାଇବୁଟି ଅପଯଶ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପର୍ବତ ଶିଖରେ ପଦ୍ମ ଫୁଟିଅଛି",
+          "ଓଲଟି ରହିଛି ପୁଷ୍ପ",
+          "ଯେବେ ତୁ ପାଇବୁ ସେଇଠାକୁ ଯିବୁ",
+          "ନିଶ୍ଚିନ୍ତେ ହୋଇବୁ ତୋଷ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେଠାରୁ ତ୍ରିବେଣୀ ବହୁଛି ଉଜାଣି",
+          "ତହିଁରେ ଖେଳୁଛି ହଂସ",
+          "ଅମୁହାଁ ଦେଉଳେ ଘଣ୍ଟା ବାଜୁଅଛି",
+          "ନାହିଁ ରଜନୀ ଦିବସ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଅଣସୂତ୍ର ମାଳା ବାମ କରେ ଧରି",
+          "ଭଜୁଅଛନ୍ତି ମହେଶ",
+          "ମାଳା ହଜିଗଲେ ଭେଳା ବୁଡ଼ିଯିବ",
+          "କହଇ ଗୋରେଖ ଦାସ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/mana-bhrama-re-e-phulare-nahin-basa-gorekha-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

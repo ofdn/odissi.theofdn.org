@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000538",
+  "name": {
+    "en": "Sahi re sateki",
+    "or": "ସହିରେ ସତେକି"
+  },
+  "composer": "oa-person-000109",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-re-sateki/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସହିରେ ସତେକି",
+          "ପତି ଥିବା ଦେଶେ ନାହିଁକିରେ ମଦନ ଗତି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଯେବେ ଡରନ୍ତା ସ୍ମରେ ଫେରିଥାଆନ୍ତା ଘରେ",
+          "ପର ପରସଙ୍ଗେ କିବା ରଙ୍ଗେ ରହିଲେ ମାତି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତହିଁ ବିରହ ତାତି ନୁହେଁ କି ଅନୁଭୂତି",
+          "ଅବା ସେ ଦେଶରେ ଅନାୟତ୍ତେ ଜଡ଼ଇ ମତି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅନା ଚପଳା ଖେଳେ ନୀଳ ଜଳଦ କୋଳେ",
+          "ତରୁ ତୁଲେ ଖେଳେ ଲତା ଭୋଳେ କି ଭାଗ୍ୟବତୀ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଏକେ ଏ ଘନ କାଳ ବିରହିଣୀର କାଳ",
+          "ତହିଁ ପରପଞ୍ଚ ପଞ୍ଚଶର ନ ରଖେ ଧୃତି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sahi-re-sateki/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

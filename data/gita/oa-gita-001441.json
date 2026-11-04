@@ -1,0 +1,55 @@
+{
+  "id": "oa-gita-001441",
+  "name": {
+    "en": "Banchiba nabina ki syama bina",
+    "or": "ବଞ୍ଚିବ ନବୀନାକି ଶ୍ୟାମ ବିନା"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/banchiba-nabina-ki-syama-bina/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବଞ୍ଚିବ ନବୀନାକି ଶ୍ୟାମ ବିନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଜଳ ବିହୁନେ ମୀନ",
+          "କେମନ୍ତେ ନେବ ଦିନ",
+          "ରାଧା ପରାଣ ଶ୍ୟାମ ଇନ୍ଦ୍ର ସିନା"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଜୀବନ ଯଉବନ",
+          "ଚିତ୍ତ ବିବେକ ଧନ",
+          "ଦେଇ ସେ ହେଲା ତାର ତ୍ରିମାଧିନା"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦେଲା ତା ପ୍ରେମେ ଭଳି",
+          "ଚିତ୍ତକୁ ଜଳାଞ୍ଜଳି",
+          "ଏବେ ବିରହ ଦୁଃଖ ଘାରେ ଦିନା"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/banchiba-nabina-ki-syama-bina/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

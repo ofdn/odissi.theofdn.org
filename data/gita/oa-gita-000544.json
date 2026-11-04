@@ -1,0 +1,61 @@
+{
+  "id": "oa-gita-000544",
+  "name": {
+    "en": "Premara mula jane sina",
+    "or": "ପ୍ରେମର ମୂଲ ଜାଣେ ସିନା ପ୍ରେମିକ ଅନ୍ତର"
+  },
+  "composer": "oa-person-000109",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/premara-mula-jane-sina-banikantha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ପ୍ରେମର ମୂଲ ଜାଣେ ସିନା ପ୍ରେମିକ ଅନ୍ତର",
+          "ପ୍ରେମହୀନ ଜନ ମନ ପଶୁରୁ ଇତର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପ୍ରେମ ପ୍ରାଣ ତୁଳରେ ପ୍ରେମ ସିନା ତଳରେ",
+          "ଲାଗିଯାଇ ଦହିବ ଅନ୍ତର"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପ୍ରେମ ଶଶୀ ଗଗନେ ହସେ ପ୍ରେମ ମଗନେ",
+          "କଇଁ ହସେ ସରସୀ ଭିତର"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପ୍ରେମ ଜାଣେ ରସାଇ ମେରୁ ଚୂଳେ ବସାଇ",
+          "ଘେନିଯାଏ ବଣ କନ୍ଦର"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ପ୍ରେମ ରତ୍ନ ପସରା କଲାଟି ଯେ ଆସରା",
+          "ଗଲା ଧ୍ରୁବଲୋକରୁ ଖାତର"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/premara-mula-jane-sina-banikantha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001188",
+  "name": {
+    "en": "Madhure tote kahuchi ete",
+    "or": "ମଧୁରେ ତୋତେ କହୁଛି ଏତେ"
+  },
+  "composer": "oa-person-000147",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/madhure-tote-kahuchi-ete-syamasundara-bhanja/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମଧୁରେ ତୋତେ କହୁଛି ଏତେ",
+          "କହ୍ନାଇ ଗୋଟି ଲାଗଇ ତୋତେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଖାଇ ନ ଜାଣଇ ଘରେ ସେ ଅନ୍ନ",
+          "ଗାଈ ରଖିବାକୁ ଯାଉଛି ବନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କିସ କାହିଁ ହେଲେ ତାର ବନସ୍ତେ",
+          "ବିଷ ଖାଇ ମୁଁ ତ ମରିବି ସତେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଦୁଃଖୀର ସଙ୍ଖାଳି ଏ ମୋର ଆଖି",
+          "ଏହା ଲାଗି ଅଛି ସବୁ ଉପେକ୍ଷି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନ ଛାଡ଼ିବୁ ଏହା ସଙ୍ଗକୁ କ୍ଷଣେ",
+          "ଅଛନ୍ତିଟି ଦୁଷ୍ଟ ଜନ ଏ ବନେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଯେତେ କହିଲେ ତ ଘେନିଲା ନାହିଁ",
+          "କି କରିବି ଶ୍ୟାମସୁନ୍ଦର କହି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/madhure-tote-kahuchi-ete-syamasundara-bhanja/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

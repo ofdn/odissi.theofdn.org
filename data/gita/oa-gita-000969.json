@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000969",
+  "name": {
+    "en": "Jebe e nagari gori",
+    "or": "ଯେବେ ଏ ନାଗରୀ ଗୋରୀ"
+  },
+  "composer": "oa-person-000134",
+  "mula_raga": [
+    "oa-raga-000027"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jebe-e-nagari-gori-dwija-bhobani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଯେବେ ଏ ନାଗରୀ ଗୋରୀ ହୁଅନ୍ତା ମୋ ମନୋହାରୀ",
+          "ଛାତି ପଲଙ୍କରେ ମାତି ପୁହାଇ ଦ୍ୟନ୍ତି ଶର୍ବରୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସଜାଡ଼ି ବାନ୍ଧିଛି ଜୂଡ଼ା ସେବତୀ ମଲ୍ଲୀ ପାଖୁଡ଼ା",
+          "କି ଶୋଭା ସାଜେ ଅଳତା ନେଉଅଛି ମନ ହରି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ମୁଖ ଚନ୍ଦ୍ର ଶୋଭାରାଶି ଚନ୍ଦ୍ର କି ପଡ଼ିଛି ଖସି",
+          "କିବା ରବି ଉଦେ ହୋଇ ଆସନ୍ତି ଭ୍ରମଣ କରି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୁଖୁଁ ଖସି ସ୍ୱେଦ ନୀର ପଡ଼ିଯାଇ ଉର ପର",
+          "ତିନ୍ତିଣ ଝୀନ ବସନ ଦିଶଇ ଉରଜ ବାରି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ୟା ସଙ୍ଗ ଲଭିବା ପାଇଁ ଶିବଙ୍କୁ ପୂଜିବି ଯାଇଁ",
+          "ଦ୍ୱିଜ ଭୋବନୀ କହଇ ଭାବୁଛି ଦିବା ଶର୍ବରୀ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jebe-e-nagari-gori-dwija-bhobani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

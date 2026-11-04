@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-001423",
+  "name": {
+    "en": "Ana patita bana hariki re",
+    "or": "ଅନା ପତିତପାବନ ହରିକିରେ"
+  },
+  "composer": "oa-person-000163",
+  "mula_raga": [
+    "oa-raga-000090"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-patita-bana-hariki-re-jaya-singha-ananda-kedara-adatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅନା ପତିତପାବନ ହରିକିରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପିନ୍ଧି କୌପୀନ କନା ମାଗ ପଛେ ଧରି ଦନା",
+          "ନ ଛାଡ଼ ନ ଛାଡ଼ ନୀଳଗିରିକିରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦକ୍ଷିଣ ପାରୁଶେ କିନା ମଧ୍ୟେ କୁଙ୍କୁମବରନା",
+          "ରତ୍ନସିଂହାସନେ ଛନ୍ତି ପୂରିକିରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସଦନ ନନ୍ଦନ ସୁନା ନବ ଲଳିତ ଲଳନା",
+          "ସ୍ନେହ ବାସନାରେ ପରିପୂରିକିରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସବୁଠାରେ ଏହୁ ସିନା ମତେ ହୋଇଥିବେ ମନା",
+          "ସୁଦର୍ଶନ ଚକ୍ର କରେ ଧରିକିରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଶ୍ରୀ ପୁରୁଷୋତ୍ତମ ବିନା ଅନ୍ୟେ ନାହିଁ ମୋ ଭାବନା",
+          "ଭଣେ ଜୟସିଂହ ଦଣ୍ଡଧାରୀ କି ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-patita-bana-hariki-re-jaya-singha-ananda-kedara-adatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

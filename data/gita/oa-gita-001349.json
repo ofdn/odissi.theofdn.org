@@ -1,0 +1,86 @@
+{
+  "id": "oa-gita-001349",
+  "name": {
+    "en": "Abana akhyara japa",
+    "or": "ଅବନା ଅକ୍ଷର ଜପ"
+  },
+  "composer": "oa-person-000159",
+  "mula_raga": [
+    "oa-raga-000110"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/abana-akhyara-japa-sisu-ananta-panchasakha/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଅବନା ଅକ୍ଷର ଜପ",
+          "ଯିବ କୋଟି ଜନ୍ମ ପାପ",
+          "ଅସାଧନା ମାର୍ଗେ ରହି",
+          "ଅମାପକୁ ହୃଦେ ମାପ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦନ୍ତ ଓଷ୍ଠ ନ ହଲିବ",
+          "ଶିର କଣ୍ଠ ନ କମ୍ପିବ",
+          "ମନ୍ତ୍ର ଯନ୍ତ୍ର ନାହିଁ ତହିଁ",
+          "ଦେଖିବ ବ୍ରହ୍ମ ସ୍ୱରୂପ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ବ୍ରହ୍ମା ବିଷ୍ଣୁ ସଦାଶିବ",
+          "କରି ନ ପାରନ୍ତି ଠାବ",
+          "ଶେଷଦେବ ନ ପାଇଲେ",
+          "କୋଟି ଜନ୍ମ କରି ତପ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସସ୍ରଦଳଠାରେ ଅନା",
+          "ବିଜେ ନନ୍ଦସୁତ କହ୍ନା",
+          "ବାମେ ଭାନୁରାଜଜେମା",
+          "ଝଟଝଟ ବିଦ୍ୟୁଭାବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବାଜୁଛି ସପତ ସ୍ୱର",
+          "ଶୁଭଇ କେଡ଼େ ମଧୁର",
+          "ସେ ସ୍ୱରେ ହୋଇ ବିଭୋର",
+          "ଜୀବ କରୁଥାଇ ଧାପ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ନ ଯା ତୀର୍ଥବ୍ରତ କରି",
+          "ହୃଦେ ଜପ ରାମ ହରି",
+          "କହନ୍ତି ଅନନ୍ତ ଶିଶୁ",
+          "ତରିବୁ ଏ ଭବକୂପ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/abana-akhyara-japa-sisu-ananta-panchasakha/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

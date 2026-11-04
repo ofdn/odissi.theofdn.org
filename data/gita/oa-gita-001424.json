@@ -1,0 +1,79 @@
+{
+  "id": "oa-gita-001424",
+  "name": {
+    "en": "Jiba sangini ghena re",
+    "or": "ଜୀବସଙ୍ଗିନି ଘେନରେ"
+  },
+  "composer": "oa-person-000164",
+  "mula_raga": [
+    "oa-raga-000090"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-sangini-ghena-re-ananda-kedara-jati/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଜୀବସଙ୍ଗିନି ଘେନରେ, ମୋ ବିନତିକି, ମୋ ଭାରତୀକି",
+          "କରେ ଗୁହାରି ଗୋ ନ ଘେନୁ କାହିଁକି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କିପାଇଁ ବିପଞ୍ଚୀବଚନା ରେ ଘୁଞ୍ଚି",
+          "ବସିଛୁ କି ମୁଞ୍ଚି କଲି ମୁଁ ଯାହାରେ",
+          "(ପଡ଼ି)",
+          "ଆନ ଘେନ ତୁ କାନରେ",
+          "ଧନ ମାନରେ ପରିତ୍ରାଣରେ",
+          "ସାନ ନ କର ତୁ ପରବଚନରେ",
+          "ଜ୍ଞାନ ଧରି ମୋ ଜଣାଣ ଘେନ ବାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଦୟା ହେଲେ ଗୋରି ଯିବି ମୁହିଁ ତରି",
+          "ନୋହିଲେ କିଶୋରି ଯିବି ମୁଁ କାହାରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ମୋ ମିନତି ଘେନା କର ଚନ୍ଦ୍ରାନନା",
+          "ନ କର ଗୋ ମନା ରଖ ସ୍ନେହଭରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସୁରଙ୍ଗା ଅଧରି ଅନଙ୍ଗରେ ସରି",
+          "ଯାଉଛି ଗୋ ଧରି ରଖ ମୁଁ ଜୁହାରେ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଚନ୍ଦ୍ରଚୂଡ଼ାମଣି ଏ ରସରେ ଭଣି",
+          "ତୋ ପରା କାମିନୀ ନାହିଁ ତିନିପୁରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/jiba-sangini-ghena-re-ananda-kedara-jati/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

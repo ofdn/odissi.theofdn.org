@@ -1,0 +1,52 @@
+{
+  "id": "oa-gita-001450",
+  "name": {
+    "en": "He manima sunima mo dukha bare",
+    "or": "ହେ ମଣିମା, ଶୁଣିମା ମୋ ଦୁଃଖ ବାରେ"
+  },
+  "composer": "oa-person-000003",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-manima-sunima-mo-dukha-bare/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେ ମଣିମା, ଶୁଣିମା ମୋ ଦୁଃଖ ବାରେ",
+          "ଆଶା ଦେଇ ଆଉ ବସାଇ ରଖିବ",
+          "କେତେ ଶ୍ରୀମନ୍ଦିର ଦ୍ୱାରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଦୁଃଖଭାରା ମୋର ଟାଳିବା ପାଇଁକି",
+          "ବଳୀୟାର ଭୁଜେ ଶକତି ନାହିଁକି",
+          "ଦୁଃଖହାରି ଦୁଃଖ ପାଇବ କାହିଁକି",
+          "ଘାରି ହୋଇ ଅବିଚାରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନ ଶୁଣିଲ ଦୀନଜନର ଗୁହାରି",
+          "କାଳଯାକ ଗଲା ଚରଣେ ଜୁହାରି",
+          "କର ହେଲେ ମୋତେ ମନ୍ଦିର ଦୁଆରୀ",
+          "ବାଇଶି ପାବଚ୍ଛ ପରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-manima-sunima-mo-dukha-bare/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

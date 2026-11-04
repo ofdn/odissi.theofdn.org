@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001271",
+  "name": {
+    "en": "Radha name murali baja baraja raja",
+    "or": "ରାଧା ନାମେ ମୁରଲୀ ବାଜା ବରଜ ରାଜା"
+  },
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radha-name-murali-baja-baraja-raja-sankarabharana-ekatali/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ରାଧା ନାମେ ମୁରଲୀ ବାଜା ବରଜ ରାଜା",
+          "ବ୍ରଜ ବଜାରେ ନ ବଜା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସେ ସିନା କୁଳନାରୀ ମାନ ମହତ ସାରି",
+          "ତାରେ ତୁ ନ ଦିଅ ଲଜ୍ଜା ରେ",
+          "(ପଡ଼ି)",
+          "ସରଳା ଅବଳା ସେ ଛଳାଛଳି ନ ଆସେ",
+          "ବନ୍ଦୀ କଲା ହରଷେ ବାନ୍ଧି ପୀରତି ଫାଶେ",
+          "ଜାଣି ଜାଣି ଶ୍ୟାମ ନିଜ ବିବେକ ନ ହଜା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପ୍ରେମ ପୁଲିନ ହଂସ ନ ଡରୁ ଭୋଜବଂଶ",
+          "ଅବତଂସ କଂସ ରଜା ରେ",
+          "(ପଡ଼ି)",
+          "ତୁ ତ ଚରାଉ ଧେନୁ ଗେଲେ ବଜାଉ ବେଣୁ",
+          "ବରଜବର କାହ୍ନା ଧରାଇ ନେବ ବନୁ",
+          "ହେବ ସନ୍ଧ୍ୟା ଯିବ ଶ୍ୟାମ ବାହାରି ତୋ ମଜା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଉଚିତରେ ମୋ ସହି କିଛି ତ ନ ଜାଣଇ",
+          "ସୁକୁମାରୀ ଉନ୍ନତ ଉରଜା ରେ",
+          "(ପଡ଼ି)",
+          "ଶଠ ମୁରଲୀପାଣି ନଟନାଗର ମଣି",
+          "ଶିରେ ଯୋଡ଼ୁଛି ପାଣି ବାରେ ଘେନ ମୋ ବାଣୀ",
+          "ଜାଣୁ ଜାଣୁ ତାର ପ୍ରୀତି ସରିତେ ନ ହଜା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/radha-name-murali-baja-baraja-raja-sankarabharana-ekatali/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

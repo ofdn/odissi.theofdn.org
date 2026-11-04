@@ -1,0 +1,66 @@
+{
+  "id": "oa-gita-000387",
+  "name": {
+    "en": "Malaya mande mande maruta bahila re",
+    "or": "ମଳୟ ମନ୍ଦେ ମନ୍ଦେ ମରୁତ ବହିଲା ରେ"
+  },
+  "composer": "oa-person-000080",
+  "mula_raga": [
+    "oa-raga-000001"
+  ],
+  "mula_tala": [
+    "oa-tala-000002"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/malaya-mande-mande-maruta-bahila-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ମଳୟ ମନ୍ଦେ ମନ୍ଦେ ମରୁତ ବହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କେମନ୍ତେ ରେ ସଜନୀ ବଞ୍ଚିବି ଏ ରଜନୀ",
+          "ସେ ଗଜେନ୍ଦ୍ରଗମନୀ ଦୂରେ ରହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ନବ ଚୂତ ମୁକୁଳ ହୋଇ କାମେ ଆକୁଳ",
+          "କଳ କଳ କୋକିଳ ବାଣୀ ଭାଷିଲା ରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଜଗତେ ଯେତେ ଯୋଗୀ କରାଇଲା ସଂଯୋଗୀ",
+          "ଯାଚି ବିଯୋଗୀଜନ ମନ ମୋହିଲା ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭଣେ ପୁରୁଷୋତ୍ତମ ନୃପ ଅନଙ୍ଗଭୀମ",
+          "ଦେଲା କାମିନୀ ବାଧା ସହି ସହିଲା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/malaya-mande-mande-maruta-bahila-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

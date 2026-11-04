@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000368",
+  "name": {
+    "en": "Saja re sahi saja re",
+    "or": "ସାଜରେ ସହି ସାଜରେ"
+  },
+  "composer": "oa-person-000072",
+  "mula_raga": [
+    "oa-raga-000011"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/saja-re-sahi-saja-re/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସାଜରେ ସହି ସାଜରେ",
+          "ଆସିବେ ବେଗରେ ଶ୍ୟାମ ନାଗରରାଜ ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ସୁଷମା ବଦନୀ ଚାହାଁନା ଅବନୀ",
+          "କର ମୋହ ବ୍ରଜ ମନ୍ମଥ ରାଜରେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତୁ ଅବେଶ ହୋଇଥିଲେ ରୋଷ ବହି",
+          "ଉପହାସ ହେବ ସଖୀ ସମାଜରେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଅଭିସାର କାଳ କରନା ବିଫଳ",
+          "ମଞ୍ଜୁବେଶରେ ନିକୁଞ୍ଜେ ବିରାଜ ରେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ରାଜ ରାଜେଶ୍ୱର ଦେବଙ୍କ ତତ୍ପର",
+          "ରହୁ ରାଧାଶ୍ୟାମ ପଦ ସରୋଜରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/saja-re-sahi-saja-re/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000404",
+  "name": {
+    "en": "Duti go dhari kahuchi kara",
+    "or": "ଦୂତୀ ଗୋ ଧରି କହୁଛି କର"
+  },
+  "composer": "oa-person-000088",
+  "mula_raga": [
+    "oa-raga-000113"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-go-dhari-kahuchi-kara/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଦୂତୀ ଗୋ ଧରି କହୁଛି କର",
+          "ଆଣିଦେବୁ ମୋତେ ନନ୍ଦକିଶୋର"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହଟିଆ ନାଗର ନନ୍ଦନନ୍ଦନ",
+          "ପ୍ରୀତିପଣେ ମୁଁ କି ତାକୁ ଭାଜନ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହଟିଆ ନାଗର ନନ୍ଦ କହ୍ନାଇ",
+          "ମୋ ଧୈର୍ଯ୍ୟ ଧ୍ୱଂସିଲେ ବଂଶୀ ବଜାଇ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କହିଲେ କି ହେବ ହୃଦ ବେଦନା",
+          "ଏକା ତାଙ୍କଠାରେ ମୋର ଭାବନା"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ସେ ନନ୍ଦନନ୍ଦନ ପଦେ ରସିକ",
+          "ପତିତପାବନ ପଟ୍ଟନାୟକ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/duti-go-dhari-kahuchi-kara/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

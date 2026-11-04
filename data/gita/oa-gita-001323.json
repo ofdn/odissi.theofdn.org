@@ -1,0 +1,68 @@
+{
+  "id": "oa-gita-001323",
+  "name": {
+    "en": "Nua ghara khandi dine puruna heba",
+    "or": "ନୂଆ ଘରଖଣ୍ଡି ଦିନେ ପୁରୁଣା ହେବ"
+  },
+  "composer": "oa-person-000156",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nua-ghara-khandi-dine-puruna-heba-bauli-dasa/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ନୂଆ ଘରଖଣ୍ଡି ଦିନେ ପୁରୁଣା ହେବ",
+          "ମାରିବ ଶୂନ୍ୟ ଲହଡ଼ି ଥୟ ନୋହିବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଉଇ ଚରିଗଲେ ଗଣ୍ଠି ବତାମାନ ଯିବ ଫିଟି",
+          "ଛାଉଣି ଉଡ଼ିଣ ଗଲେ କାନ୍ଥ ପଡ଼ିବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ରୁଅଯାକ ଅଛି ଧରା ଟଳିଲେଣି ବେନି ଓରା",
+          "ଚମକ ପାଇଣ ପାରା ଉଡ଼ିଣ ଯିବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ସେ ଘର ପାଞ୍ଚସେଣିଆ ଦଶଦ୍ୱାର ତ୍ରିକୋଣିଆ",
+          "ରୁଅଯାକ ଘୋଡ଼ଖିଆ ଗଳିପଡ଼ିବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ବହିଲାଣି ଅଣଚାଶ କେଭେଁ ନ ରଖିବ ବାସ",
+          "କୁଟୁମ୍ବ ଜନ ପଚିଶ ମରିବେ ସର୍ବ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଏକାକ୍ଷର ଖମ୍ବ ପୋତି ଘରକୁ ରଖ ସାଇତି",
+          "ବାଉଳି ଦାସର ମତି ନିଶ୍ଚଳେ ଥିବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/nua-ghara-khandi-dine-puruna-heba-bauli-dasa/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

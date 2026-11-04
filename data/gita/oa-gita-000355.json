@@ -1,0 +1,73 @@
+{
+  "id": "oa-gita-000355",
+  "name": {
+    "en": "Aau ki ghanakesiki ghana kale paibi",
+    "or": "ଆଉ କି ଘନକେଶୀକି ଘନ କାଳେ ପାଇବି"
+  },
+  "composer": "oa-person-000067",
+  "mula_raga": [
+    "oa-raga-000094"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-ki-ghanakesiki-ghana-kale-paibi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଆଉ କି ଘନକେଶୀକି ଘନ କାଳେ ପାଇବି"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଘଡ଼ଘଡ଼ି ରଡ଼ି ଶୁଣି ଚମକି ରମଣୀମଣି",
+          "ଶିବ ଶିବ ବୋଲି ଗୁଣି କେତେ ଦୁଃଖ ସହିବି"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହୋଇଲା ଦୁର୍ଦ୍ଦିନ ଦିନ ବହଇ ଝଞ୍ଜା ପବନ",
+          "ଘନ ଘନ ଗରଜନ କେମନ୍ତେ ମୁଁ ଜୀଇବି"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଚଞ୍ଚଳା ଯାମୁକି ପରି ଘନାଳୀ ନଳୀରେ ମାରି",
+          "କୁଳିଶ ଚାଳିକି ଭରି କାମ ବୋଲେ ମାରିବି"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଭେକ ଶାମୁକଙ୍କ ଧ୍ୱନି ଶୁଣି ସେ ରମଣୀମଣି",
+          "ଆଳୀ ଅଙ୍କେ ଢଳିବନି ବିଷ ଖାଇ ମରିବି"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ଜୀବ ଲବ ଥିବ କଣ୍ଠେ ଭେଟିବି ସତେ ନିକଟେ",
+          "ଗୋପୀନାଥ ବୋଲେ ପଟ୍ଟେ ଚିତ୍ର କରି ଲିହିବି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/aau-ki-ghanakesiki-ghana-kale-paibi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

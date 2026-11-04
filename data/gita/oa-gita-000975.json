@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000975",
+  "name": {
+    "en": "Ete dine ki he bandhu",
+    "or": "ଏତେ ଦିନେ କି ହେ ବନ୍ଧୁ ପଡ଼ିଲା ମନେ"
+  },
+  "composer": "oa-person-000135",
+  "mula_raga": [
+    "oa-raga-000013"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ete-dine-ki-he-bandhu-gadamala-deba/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ଏତେ ଦିନେ କି ହେ ବନ୍ଧୁ ପଡ଼ିଲା ମନେ",
+          "ପାଶରୁ ହେଲ ଅନ୍ତର କାହା ବଚନେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "କରିଥିଲ ଗଳେ ହାର ଏବେ କରିଦେଲ ଦୂର",
+          "ପାଶରୁ ହେଲ ଅନ୍ତର କାହା ବଚନେ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "କାଲି ନିଶି ଉଜାଗର ରହିଲ କାହା ମନ୍ଦିର",
+          "ଏବେ କଲ ଛାରଖାର କି ଭାବି ମନେ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "କୂଟ କପଟ ପାଞ୍ଚିଲ ଭଗାରି ହସାଇ ଦେଲ",
+          "କାହା ବଚନେ ଆସିଲ କହ ଏ ଦିନେ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ଶ୍ରୀ ଶ୍ରୀ ଗଡ଼ମାଳ ଦେବ ସମ କେ ପୁଣି ହୋଇବ",
+          "ଦେଖିଲୁଁ ଯୁବରାଜଙ୍କୁ ବେନି ନୟନେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ete-dine-ki-he-bandhu-gadamala-deba/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

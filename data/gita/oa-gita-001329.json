@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-001329",
+  "name": {
+    "en": "Bara barana barasa ana",
+    "or": "ବରବରନା ବରଷା ଅନାବିଦୋଷେ ନ ରୁଷ କରୀବିଜିତ ଗମନା ରେ । ଘୋଷା । ବରଷଇ ନୀର ଦେଖ ବିଦାରି ଦେଉଛି ବକ୍ଷବାରେ କୋଳେ ଆସ ଧନ ସିନା ରେ ।(ପଡ଼ି)ବରଷି ସୁରତି ଦାନ ତୋଷରେ ଦାସର ମନବିହରାଅ ନ କରି ଶୋଚନା ରେଭଣିଲେ ଶ୍ରୀ ଦାମୋଦର ବିଗତ ଯେ ନିଶାକରପାଶେ ଆସ ଆସ ମୋର ବତିଶ ଲକ୍ଷଣା ରେ । ୧ ।"
+  },
+  "composer": "oa-person-000158",
+  "mula_raga": [
+    "oa-raga-000185"
+  ],
+  "mula_tala": [
+    "oa-tala-000004"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bara-barana-barasa-ana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ବରବରନା ବରଷା ଅନା",
+          "ବିଦୋଷେ ନ ରୁଷ କରୀବିଜିତ ଗମନା ରେ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବରଷଇ ନୀର ଦେଖ ବିଦାରି ଦେଉଛି ବକ୍ଷ",
+          "ବାରେ କୋଳେ ଆସ ଧନ ସିନା ରେ ।",
+          "(ପଡ଼ି)",
+          "ବରଷି ସୁରତି ଦାନ ତୋଷରେ ଦାସର ମନ",
+          "ବିହରାଅ ନ କରି ଶୋଚନା ରେ",
+          "ଭଣିଲେ ଶ୍ରୀ ଦାମୋଦର ବିଗତ ଯେ ନିଶାକର",
+          "ପାଶେ ଆସ ଆସ ମୋର ବତିଶ ଲକ୍ଷଣା ରେ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/bara-barana-barasa-ana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

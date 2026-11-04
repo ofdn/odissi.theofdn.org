@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-000595",
+  "name": {
+    "en": "He madhaba aau ki pheri asiba",
+    "or": "ହେ ମାଧବ ଆଉ କି ଫେରି ଆସିବ"
+  },
+  "composer": "oa-person-000115",
+  "mula_raga": [
+    "oa-raga-000029"
+  ],
+  "mula_tala": [
+    "oa-tala-000001"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-madhaba-aau-ki-sokabaradi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହେ ମାଧବ",
+          "ଆଉ କି ଫେରି ଆସିବ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହରଙ୍କୁ ସେବାକରି",
+          "ପାଇଥିଲି ମୁଁ ହରି",
+          "ଛଡ଼ାଇ ନେଲା ଦଇବ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ତେଜ୍ୟା କରି ପୀରତି",
+          "ପ୍ରୀତି କରି ଶ୍ରୀପତି",
+          "ଛାଡ଼ି ମଧୁପୁରକୁ ଯିବ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ଇନ୍ଦ୍ର କରିଛି କୋପ",
+          "ଛାଡ଼ି ଯାଉଛ ଗୋପ",
+          "ମନ୍ଦର କିଏ ଧରିବ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କହଇ ସୁଦର୍ଶନ",
+          "ପଦ୍ମପାଦେ ଶରଣ",
+          "ନିଶ୍ଚିନ୍ତ ହୋଇ ରହିବ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/he-madhaba-aau-ki-sokabaradi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

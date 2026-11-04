@@ -1,0 +1,50 @@
+{
+  "id": "oa-gita-000338",
+  "name": {
+    "en": "Ki karuthiba mo sajani",
+    "or": "କି କରୁଥିବ ମୋ ସଜନୀ"
+  },
+  "composer": "oa-person-000059",
+  "mula_raga": [
+    "oa-raga-000046"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-karuthiba-mo-sajani/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କି କରୁଥିବ ମୋ ସଜନୀ ପ୍ରାଣସଜନୀ",
+          "ଏକା ମୋ ବିହୁନେ ନ ସରୁଥିବ ରଜନୀ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ବନ୍ଧୁ ମୋ ବନଜମୁଖୀ ଘୋର ହିମ କାଳ ଦେଖି",
+          "ମୋ ବିଚ୍ଛେଦେ ହୋଇ ଦୁଃଖୀ ଯିବନି ଶୁଖି ।",
+          "ନ ବିଚାରି ମନକୁ ସେ ସମୟେ ଯାହା ତାକୁ",
+          "ଛାଡ଼ି ମୁଁ ଅଇଲି",
+          "କାହିଁ ପାଇଁକି ପ୍ରାଣସହୀକି ଶଶୀମୁହୀଁକି ।",
+          "ଆଉ ମୋ ବିଚ୍ଛେଦେ ଥିବ ଜୀଇଁ କି"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ki-karuthiba-mo-sajani/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "oa-gita-000399",
+  "name": {
+    "en": "Harina nayana hara hruda bedana",
+    "or": "ହରିଣନୟନା ହର ହୃଦ ବେଦନା"
+  },
+  "composer": "oa-person-000086",
+  "mula_raga": [
+    "oa-raga-000109"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/harina-nayana-hara-hruda-bedana/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ହରିଣନୟନା ହର ହୃଦ ବେଦନା",
+          "ହରପର ଶର ପୀଡ଼ାରେ ରଖିବ କେ ଆନ ତୋ ବିନା"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ହୋଇ ସୁବେଶ ହେଉ ମୋ ପାଶେ ପ୍ରବେଶ",
+          "ହେବ କି ମଦନ କେଳି ବୋଇଲେ ତୁ ହେଉ ହସହସ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ହରିଲେ ବସନ ହେଠ କରୁ ଯେ ବଦନ",
+          "ହରଷେ ଆଲିଙ୍ଗନ କରି ଲଭଇଁ ଚୁମ୍ବନ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ହଲାଉ ଆନନ ହେଜି ଜାଣଇ ତୋ ମନ",
+          "ଆହା ସେ ସୁଖ ଭୋଗ ବିନୁ ନ ଯାଇ ନିଷ୍ଠୁର ଜୀବନ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ହୋଇ ମୁଁ ବିରସ ହେଲେ ତୋ ପାଶେ ପ୍ରବେଶ",
+          "ହରି କର ପଟ୍ଟନାୟକ ନୃସିଂହ ଦୁର୍ଦ୍ଦଶା ବିନାଶ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/harina-nayana-hara-hruda-bedana/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

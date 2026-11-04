@@ -1,0 +1,48 @@
+{
+  "id": "oa-gita-001429",
+  "name": {
+    "en": "Sate madhaba dasiki chahinbe ki go",
+    "or": "ସତେ ମାଧବ ଦାସୀକି ଚାହିଁବେ କି ଗୋ"
+  },
+  "composer": "oa-person-000167",
+  "mula_raga": [
+    "oa-raga-000054"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sate-madhaba-dasiki-chahinbe-ki-go/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "ସତେ ମାଧବ ଦାସୀକି ଚାହିଁବେ କି ଗୋ",
+          "ଚରଣକମଳ ସେବା ପାଇବି କି ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଆଦରେ ପାଶେ ବସାଇ ପ୍ରୀତି ବଚନ ରସାଇ",
+          "ପ୍ରାଣେଶ୍ୱରି ରାଧେ ବୋଲି ଭାଷିବେ କି ଗୋ",
+          "ବିବେକ କହନା ବାଳୀ ଦୁଃଖିନୀ ରାଧିକା ବୋଲି",
+          "ଶ୍ରୀପଦୁଁ ଅନ୍ତର କରି ନାହାନ୍ତି କି ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/sate-madhaba-dasiki-chahinbe-ki-go/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

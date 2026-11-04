@@ -1,0 +1,74 @@
+{
+  "id": "oa-gita-000116",
+  "name": {
+    "en": "Ke deba syama priti lagai",
+    "or": "କେ ଦେବ ଶ୍ୟାମ ପ୍ରୀତି ଲଗାଇ"
+  },
+  "composer": "oa-person-000041",
+  "mula_raga": [
+    "oa-raga-000033"
+  ],
+  "mula_tala": [
+    "oa-tala-000008"
+  ],
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-deba-syama-priti-lagai-syamapriti-lagai/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "କେ ଦେବ ଶ୍ୟାମ ପ୍ରୀତି ଲଗାଇ",
+          "ବଧୂଲି ଅଧରୁ ମଧୁ ଚଖାଇ ଗୋ"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ପିଣ୍ଡେ ପରାଣ ତା ଚରଣେ ବିକି",
+          "ଜୀବ ଥିବାଯାକ ହେବି ସେବକୀ ଗୋ"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ପିଣ୍ଡ ପ୍ରାଣ ବିନା ଆନ ବଚନେ",
+          "ନ ଡାକିବି ତାକୁ ରଜନୀ ଦିନେ ଗୋ"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ବିଷୟ ବିଷକୁ କରି ବର୍ଜନ",
+          "ତା ସଙ୍ଗେ ବସିବି ହୃଦଚନ୍ଦନ ଗୋ"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "ନାନା ବ୍ରତେ ଭାଙ୍ଗି ଅବୟବକୁ",
+          "ତା ପାଇଁ ସେବିବି ସଦାଶିବଙ୍କୁ ଗୋ"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "ବୋଲେ ଅବନୀ ଦେବ ପ୍ରଭାକର",
+          "ଶୁଣୁଥିବି ତାର ମଧୁର ଗିର ଗୋ"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ke-deba-syama-priti-lagai-syamapriti-lagai/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}

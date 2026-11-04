@@ -1,0 +1,51 @@
+{
+  "id": "oa-gita-000577",
+  "name": {
+    "en": "Ana mote thare asa na nasa re",
+    "or": "ଅନା ମୋତେ ଥରେ ଆଶ ନ ନାଶରେ"
+  },
+  "composer": "oa-person-000113",
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-mote-thare-asa-na-nasa-re-banka-dasa-chaupadi/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "(ଅକ୍ଷମୟୀ ଚଉପଦୀ)"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅନା ମୋତେ ଥରେ",
+          "ଆଶ ନ ନାଶରେ",
+          "ଇଷିତେ ଭାଷି",
+          "ଈନ୍ଦ୍ରଭୂତିକି ଦିଅ ବାରେ",
+          "ଉରୁଶୋଭୀ ମୁଁ ତୋ କିଣା",
+          "ଊଣା ନ କର କରୁଣା",
+          "ଋକ୍ଷପତି ମୁଖୀ",
+          "ୠଷନା ମୋ ଅଙ୍କେ ବସ",
+          "ୡ ମଧ୍ୟମା ଠିକ",
+          "ଲୁଆଁନା ଶ୍ରୀମୁଖ",
+          "ଏ ତୋତେ ଅବଧି ଘନ",
+          "ଐରାବତ ଗମନାରେ",
+          "ଓଜ ଭାଙ୍ଗେ ମାର ଜୂର",
+          "ଔଷଧ ବାଳା କେବଳ ।"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/ana-mote-thare-asa-na-nasa-re-banka-dasa-chaupadi/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-01"
+}
