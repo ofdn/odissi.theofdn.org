@@ -22,6 +22,7 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 ## Writing the fields
 
 - Spell a person's name the way that person writes it. Put other spellings in `alternates`.
+- Citations put the last word of a name first, as the surname. If a name has no surname, such as Kali Charan, add `"as_written": true` to `name`.
 - `name.en` is for display and may carry diacritics, such as `Kāmodī`. Put plain spellings, such as `Kamodi`, in `alternates`. Search finds both.
 - Ids, field names and fixed values such as `"song_type": "chaupadi"` are always plain lower-case letters.
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.

@@ -299,7 +299,7 @@ export const dot = (s) => (s.endsWith(".") ? s : `${s}.`);
 export const andList = (list, and) => (list.length < 2 ? list.join("") : `${list.slice(0, -1).join(", ")}, ${and} ${list.at(-1)}`);
 
 // c is { type, title, authors[], asWritten[], editors[] (of the container), compilers[], performers[], year, publisher, url, id, note, container }.
-// names in asWritten are never turned surname first, as for early poets with no surname
+// names in asWritten have no surname and are never turned surname first
 // __ACCESSED__ and __ACCESSED_ISO__ are filled in with the reader's date by site.js.
 export function buildCitations(c, lang = "en") {
   const authors = c.authors ?? [];

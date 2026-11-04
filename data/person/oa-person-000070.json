@@ -2,7 +2,8 @@
   "id": "oa-person-000070",
   "name": {
     "en": "Aditya Nrupati",
-    "or": "ଆଦିତ୍ୟ ନୃପତି"
+    "or": "ଆଦିତ୍ୟ ନୃପତି",
+    "as_written": true
   },
   "roles": [
     "composer"
@@ -16,5 +17,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-04"
 }

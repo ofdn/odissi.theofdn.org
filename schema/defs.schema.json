@@ -69,6 +69,10 @@
             "type": "string",
             "minLength": 1
           }
+        },
+        "as_written": {
+          "description": "True when a person's name has no surname, such as Kali Charan. Citations then keep the name as written, not surname first.",
+          "const": true
         }
       }
     },

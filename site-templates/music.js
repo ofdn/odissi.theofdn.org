@@ -94,12 +94,11 @@ export function renditionList(ctx, renditions, pageId) {
   return `<ul class="record-list record-list--detail">\n${sorted.map((r) => renditionLine(ctx, r, pageId)).join("\n")}\n</ul>`;
 }
 
-// poets from before about 1850 rarely have a surname, so their names stay as written
 export function composerCite(ctx, id) {
   if (!id) return { authors: [] };
   const person = ctx.get(id);
   const name = sortName(person, ctx.lang);
-  return { authors: [name], asWritten: person.birth_year >= 1850 ? [] : [name] };
+  return { authors: [name], asWritten: person.name.as_written ? [name] : [] };
 }
 
 export function recordCitation(ctx, record, extra = {}) {
