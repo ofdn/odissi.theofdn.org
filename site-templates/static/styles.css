@@ -1,5 +1,12 @@
 /* Tokens from the Registry of Type Design, page colours, header, footer and film layout from theofdn.org */
 
+@font-face {
+  font-family: "0f125102";
+  src: url("/0f125102.woff2") format("woff2");
+  font-display: swap;
+  unicode-range: U+0B00-0B7F, U+0964-0965, U+200C-200D, U+25CC;
+}
+
 :root {
   --color-bg: #FDFBF7;
   --color-bg-alt: #F3EFE7;
@@ -15,11 +22,11 @@
   --footer-bg: #0B1A36;
   --footer-text: #D5DEEF;
   --ink-on-tint: #1a1a1a;
-  --font-heading: "Montserrat", system-ui, sans-serif;
-  --font-body: "Noto Sans", "Arial Narrow", system-ui, sans-serif;
-  --font-prose: "Source Serif 4", Georgia, serif;
-  --font-condensed: "Noto Sans", "Arial Narrow", sans-serif;
-  --font-odia: "Noto Sans Oriya", "Noto Sans Odia", "Odia Sangam MN", "Kalinga", system-ui, sans-serif;
+  --font-heading: "0f125102", "Montserrat", system-ui, sans-serif;
+  --font-body: "0f125102", "Noto Sans", "Arial Narrow", system-ui, sans-serif;
+  --font-prose: "0f125102", "Source Serif 4", Georgia, serif;
+  --font-condensed: "0f125102", "Noto Sans", "Arial Narrow", sans-serif;
+  --font-odia: "0f125102", "Noto Sans Oriya", "Noto Sans Odia", "Odia Sangam MN", "Kalinga", system-ui, sans-serif;
   --max-prose: 68ch;
   --radius: 3px;
 }
