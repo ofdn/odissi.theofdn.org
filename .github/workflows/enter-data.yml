@@ -16,11 +16,17 @@ permissions:
 
 jobs:
   records:
-    if: >-
-      github.event.label.name == 'new-records' &&
-      contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.issue.author_association)
+    if: github.event.label.name == 'new-records'
     runs-on: ubuntu-latest
     steps:
+      # author_association hides private org members, so ask for the permission itself
+      - name: Only people who can write to the repo
+        env:
+          GH_TOKEN: ${{ github.token }}
+          AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          level="$(gh api "repos/$GITHUB_REPOSITORY/collaborators/$AUTHOR/permission" --jq .permission || echo none)"
+          case "$level" in admin|maintain|write) ;; *) echo "$AUTHOR has $level access"; exit 1 ;; esac
       - uses: actions/checkout@v4
         with:
           ref: main
@@ -41,7 +47,7 @@ jobs:
           export ISSUE_AUTHOR_NAME="$(gh api "users/$ISSUE_AUTHOR" --jq '.name // ""' || true)"
           node scripts/issue-to-records.js
       - uses: actions/github-script@v7
-        if: always()
+        if: always() && steps.build.conclusion != 'skipped'
         env:
           PRS: ${{ steps.build.outputs.prs }}
           PROBLEMS: ${{ steps.build.outputs.problems }}
