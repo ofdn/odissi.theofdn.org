@@ -3,7 +3,7 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { SCHEMA_DIR, REPO_URL } from "../scripts/lib/config.js";
-import { escapeHtml, t, pageShell } from "./shared.js";
+import { escapeHtml, t, tHtml, pageShell } from "./shared.js";
 
 const schema = (kind) => JSON.parse(readFileSync(join(SCHEMA_DIR, `${kind}.schema.json`), "utf8"));
 const props = (kind) => Object.assign({}, schema(kind).properties, ...(schema(kind).allOf ?? []).map((p) => p.properties ?? {}));
@@ -80,6 +80,7 @@ export default function enterData(ctx) {
 </header>
 <div class="prose">
 <p>${escapeHtml(t("enter.intro", {}, lang))}</p>
+<p>${tHtml("enter.sign_in", { link: `<a href="https://github.com/login">${escapeHtml(t("enter.sign_in_link", {}, lang))}</a>` }, lang)}</p>
 </div>
 <form id="enter-form" class="enter__form" novalidate>
 <label class="enter__label" for="enter-kind">${escapeHtml(t("enter.kind", {}, lang))}</label>
