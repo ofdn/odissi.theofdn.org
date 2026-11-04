@@ -1,0 +1,44 @@
+{
+  "title": "The Odissi Archive",
+  "upload_type": "dataset",
+  "description": "<p>An archive of Odissi music: gītas, the kābyas they come from, their renditions, the discs and manuscripts that carry them, and the people, rāgas and tāḷas behind them. Curated by Prateek Pattanaik, building on his site Odissi Music. Every record is a JSON file checked against a schema and published as a citable page. Browse it at <a href=\"https://odissi.theofdn.org/\">odissi.theofdn.org</a>.</p>",
+  "creators": [
+    {
+      "name": "Pattanaik, Prateek"
+    },
+    {
+      "name": "Panigrahi, Subhashish",
+      "affiliation": "O Foundation",
+      "orcid": "0000-0002-3665-8184"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "O Foundation",
+      "type": "HostingInstitution"
+    }
+  ],
+  "license": "cc-by-sa-4.0",
+  "keywords": [
+    "Odissi music",
+    "Odia",
+    "gīta",
+    "rāga",
+    "tāḷa",
+    "music archive",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://odissi.theofdn.org/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "ofdn"
+    }
+  ],
+  "language": "eng"
+}
