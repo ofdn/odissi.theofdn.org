@@ -113,6 +113,7 @@ const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
 page("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
+page("enter-data/index.html", rebase((await import(pathToFileURL(join(TEMPLATE_DIR, "enter-data.js")))).default({ ...ctx, enterVersion: hash(readFileSync(join(STATIC_DIR, "enter-data.js"))) })));
 if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
 for (const kind of KINDS) {

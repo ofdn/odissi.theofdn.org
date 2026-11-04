@@ -493,3 +493,64 @@ button.copy-id.copied::after { content: " \2713"; }
 .matra__mark { font-size: 0.8rem; }
 .matra--ghata { background: var(--color-text); color: var(--color-bg); border-color: var(--color-text); }
 .matra--anaghata { border-style: dashed; border-width: 2px; }
+
+/* Enter data */
+.enter__form, .enter__bulk, .enter__list { max-width: 40rem; }
+.enter__field { margin: 0 0 1.1rem; }
+.enter__label { display: block; margin: 0.6rem 0 0.25rem; font-weight: 600; }
+.enter fieldset { margin: 0; padding: 0; border: 0; }
+.enter input[type="text"], .enter input[type="url"], .enter input[type="search"], .enter select, .enter textarea {
+  width: 100%;
+  padding: 0.45rem 0.55rem;
+  border: 1px solid var(--color-outline);
+  border-radius: 3px;
+  background: var(--color-bg-card);
+  color: var(--color-text);
+  font: inherit;
+}
+.enter textarea { line-height: 1.6; }
+.enter input:focus-visible, .enter select:focus-visible, .enter textarea:focus-visible, .enter button:focus-visible { outline: 2px solid var(--color-link); outline-offset: 2px; }
+.enter__hint { margin: 0 0 0.3rem; color: var(--color-text-muted); font-size: 0.9rem; }
+.enter__required { color: var(--color-link); }
+.enter__check { display: inline-flex; gap: 0.35rem; align-items: center; min-height: 24px; margin: 0 1rem 0.3rem 0; }
+.enter__button {
+  min-height: 2.25rem;
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--color-link);
+  border-radius: 3px;
+  background: var(--color-link);
+  color: var(--color-bg);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.enter__button:hover { background: var(--color-link-hover); border-color: var(--color-link-hover); }
+.enter__button--quiet { background: transparent; color: var(--color-link); }
+.enter__button--quiet:hover { background: var(--color-bg-alt); color: var(--color-link-hover); }
+.enter__button:disabled { opacity: 0.55; cursor: not-allowed; }
+.enter__warning, .enter__status { min-height: 1.5rem; font-weight: 600; }
+.enter__credits { padding-left: 1.2rem; }
+.enter__credits li { margin-bottom: 0.8rem; }
+.enter__bulk, .enter__list { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--color-rule); }
+.enter__list li { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; }
+.picker { position: relative; }
+.picker__chosen { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0 0 0.3rem; padding: 0; list-style: none; }
+.picker__chosen:empty { display: none; }
+.picker__chosen li { display: inline-flex; gap: 0.3rem; align-items: center; padding: 0.15rem 0.2rem 0.15rem 0.55rem; border: 1px solid var(--color-rule); border-radius: 3px; background: var(--color-bg-alt); }
+.picker__chosen button { min-width: 24px; min-height: 24px; border: 0; background: transparent; color: var(--color-text); font: inherit; cursor: pointer; }
+.picker__list {
+  position: absolute;
+  z-index: 5;
+  left: 0;
+  right: 0;
+  margin: 2px 0 0;
+  padding: 0;
+  border: 1px solid var(--color-outline);
+  border-radius: 3px;
+  background: var(--color-bg-card);
+  list-style: none;
+}
+.picker__list li { padding: 0.45rem 0.6rem; cursor: pointer; }
+.picker__list li + li { border-top: 1px solid var(--color-rule); }
+.picker__list [aria-selected="true"], .picker__list [role="option"]:hover { background: var(--color-bg-alt); }
+.picker__none { color: var(--color-text-muted); cursor: default; }
