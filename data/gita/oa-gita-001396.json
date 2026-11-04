@@ -1,0 +1,119 @@
+{
+  "id": "oa-gita-001396",
+  "name": {
+    "en": "Chandana charchita nila kalebara",
+    "or": "ଚନ୍ଦନଚର୍ଚ୍ଚିତନୀଳକଳେବର…",
+    "alternates": [
+      "Chandana Charchita Nila Kalevara",
+      "Haririha Mugdha Vadhu Nikare",
+      "Haririha Mugdha Badhu Nikare",
+      "Chandanacharchita",
+      "Gita Govinda",
+      "Geeta Govinda",
+      "Gita Gobinda",
+      "Jayadeva",
+      "Jayadeba"
+    ]
+  },
+  "composer": "oa-person-000161",
+  "mula_raga": [
+    "oa-raga-000040"
+  ],
+  "mula_tala": [
+    "oa-tala-000005"
+  ],
+  "kabya": {
+    "id": "oa-kabya-000010"
+  },
+  "text": {
+    "edition": {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandana-charchita-nila-kalebara-haririha-mugdha-vadhunikare-gitagovinda-gita-gobinda/"
+    },
+    "stanzas": [
+      {
+        "n": 0,
+        "lines": [
+          "। ଚତୁର୍ଥଃ ପ୍ରବନ୍ଧଃ ।",
+          "ରାମକିରୀରାଗଯତିତାଳାଭ୍ୟାଂ ଗୀୟତେ ।"
+        ]
+      },
+      {
+        "n": 1,
+        "lines": [
+          "ଅସ୍ୟ ଲକ୍ଷଣମ୍ ।",
+          "ସ୍ୱର୍ଣ୍ଣପ୍ରଭା ଭାସ୍ୱରଭୂଷଣା ଚ ନୀଳଂ ନିଚୋଳଂ ବପୁଷା ବହନ୍ତୀ ।",
+          "କାନ୍ତେ ପ୍ରଦୋଷାନ୍ତମଧିଶ୍ରିତେଽପି ମାନୋନ୍ନତା ରାମକିରୀ ପ୍ରଦିଷ୍ଟା ।"
+        ]
+      },
+      {
+        "n": 2,
+        "lines": [
+          "ଚନ୍ଦନ-ଚର୍ଚ୍ଚିତ-ନୀଳକଳେବର-ପୀତବସନ-ବନମାଳୀ ।",
+          "କେଳି-ଚଳନ୍ମଣିକୁଣ୍ଡଳ-ମଣ୍ଡିତ-ଗଣ୍ଡଯୁଗ-ସ୍ମିତଶାଳୀ ।",
+          "ହରିରିହ ମୁଗ୍ଧ-ବଧୂ-ନିକରେ",
+          "ବିଳାସିନି ବିଳସତି କେଳିପରେ । ଧ୍ରୁବମ୍"
+        ]
+      },
+      {
+        "n": 3,
+        "lines": [
+          "ପୀନ-ପୟୋଧର-ଭାର-ଭରେଣ ହରିଂ ପରିରଭ୍ୟ ସରାଗମ୍ ।",
+          "ଗୋପବଧୂରନୁଗାୟତି କାଚିଦୁଦଞ୍ଚିତ-ପଞ୍ଚମ-ରାଗମ୍"
+        ]
+      },
+      {
+        "n": 4,
+        "lines": [
+          "କାପି ବିଳାସ-ବିଲୋଳ-ବିଲୋଚନ-ଖେଳନ-ଜନିତ-ମନୋଜମ୍ ।",
+          "ଧ୍ୟାୟତି ମୁଗ୍ଧ-ବଧୂରଧିକଂ ମଧୁସୂଦନ-ବଦନ-ସରୋଜମ୍"
+        ]
+      },
+      {
+        "n": 5,
+        "lines": [
+          "କାପି କପୋଳ-ତଳେ ମିଳିତା ଲପିତୁଂ କିମପି ଶ୍ରୁତି-ମୂଳେ ।",
+          "କାପି ଚୁଚୁମ୍ବ ନିତମ୍ବ-ବତୀ ଦୟିତଂ ପୁଲକୈରନୁକୂଳେ"
+        ]
+      },
+      {
+        "n": 6,
+        "lines": [
+          "କେଳିକଳା-କୁତୁକେନ ଚ କାଚିଦମୁଂ ଯମୁନା-ଜଳ-କୂଳେ ।",
+          "ମଞ୍ଜୁଳ-ବଞ୍ଜୁଳ-କୁଞ୍ଜ-ଗତଂ ବିଚକର୍ଷ କରେଣ ଦୁକୂଳେ"
+        ]
+      },
+      {
+        "n": 7,
+        "lines": [
+          "କରତଳ-ତାଳ-ତରଳ-ବଳୟାବଳି-କଳିତ-କଳସ୍ୱନ-ବଂଶେ",
+          "ରାସ-ରସେ ସହ-ନୃତ୍ୟପରା ହରିଣା ଯୁବତିଃ ପ୍ରଶଶଂସେ"
+        ]
+      },
+      {
+        "n": 8,
+        "lines": [
+          "ଶ୍ଳିଷ୍ୟତି କାମପି ଚୁମ୍ବତି କାମପି କାମପି ରମୟତି ରାମାମ୍ ।",
+          "ପଶ୍ୟତି ସସ୍ମିତ-ଚାରୁତରାମପରାମନୁଗଚ୍ଛତି ବାମାମ୍"
+        ]
+      },
+      {
+        "n": 9,
+        "lines": [
+          "ଶ୍ରୀଜୟଦେବ-ଭଣିତମିଦମଦ୍ଭୁତ-କେଶବ-କେଳି-ରହସ୍ୟମ୍ ।",
+          "ବୃନ୍ଦାବନ-ବିପିନେ ଲଳିତଂ ବିତନୋତୁ ଶୁଭାନି ଯଶସ୍ୟମ୍"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/chandana-charchita-nila-kalebara-haririha-mugdha-vadhunikare-gitagovinda-gita-gobinda/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-01",
+  "updated_at": "2026-11-02"
+}
