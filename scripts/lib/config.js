@@ -24,10 +24,14 @@ export const KINDS = ["gita", "kabya", "rendition", "carrier", "person", "raga",
 export const NAV_KINDS = ["gita", "raga", "tala", "kabya", "person", "rendition", "carrier", "collection"];
 export const LANGS = ["en"];
 
-// ark links stay off until the shoulder is assigned
+// ark links stay off untill n2t sends the shoulder to this site
+export const ARK_ON = false;
 export const ARK_NAAN = "15056";
-export const ARK_SHOULDER = null;
+// goes in front of every id; "" keeps the ids as they are
+export const ARK_SHOULDER = "";
+
+export const arkName = (id) => `ark:${ARK_NAAN}/${ARK_SHOULDER}${id}`;
 
 export function arkUrl(id) {
-  return ARK_SHOULDER ? `https://n2t.net/ark:/${ARK_NAAN}/${ARK_SHOULDER}${id}` : null;
+  return ARK_ON ? `https://n2t.net/${arkName(id)}` : null;
 }
