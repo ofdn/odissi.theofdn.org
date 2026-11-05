@@ -1,10 +1,15 @@
 {
   "id": "oa-person-000042",
   "name": {
-    "en": "Jadumani",
-    "or": "ଯଦୁମଣି",
+    "en": "Jadumani Mahapatra",
+    "or": "ଯଦୁମଣି ମହାପାତ୍ର",
+    "title": {
+      "en": "Utkalaghanta",
+      "or": "ଉତ୍କଳଘଣ୍ଟ"
+    },
     "alternates": [
-      "Utkala Ghanta Jadumani Mahapatra"
+      "Utkala Ghanta Jadumani Mahapatra",
+      "Yadumani Mahapatra"
     ]
   },
   "roles": [
