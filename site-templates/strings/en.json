@@ -209,6 +209,7 @@
   "archival_note.back": "Back to the text",
   "source.cite_code": "To cite this source in an archival note, write",
   "source.cite_code_copy": "Copy the citation code",
+  "redirect.text": "This record is at",
   "withdrawn.title": "Withdrawn record",
   "withdrawn.text": "The identifier {id} was used for a record that has been withdrawn. It will not be used again.",
   "enter.title": "Enter data",

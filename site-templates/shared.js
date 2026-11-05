@@ -136,6 +136,26 @@ export function arkPermalink(id, lang = "en") {
   return `<p class="ark-permalink">${escapeHtml(t("ark.label", {}, lang))} <code>${escapeHtml(url)}</code> <button type="button" class="copy-id copy-icon-btn" data-copy="${escapeHtml(url)}" aria-label="${escapeHtml(t("ark.copy", {}, lang))}">${COPY_ICON}</button></p>`;
 }
 
+// GitHub Pages has no redirects, so an ark gets a refresh page (from RTD)
+export function redirectPage(target, lang = "en") {
+  const url = escapeHtml(target);
+  return `<!doctype html>
+<html lang="${escapeHtml(lang)}">
+<head>
+<meta charset="utf-8">
+<title>${escapeHtml(SITE_NAME)}</title>
+<link rel="canonical" href="${url}">
+<meta http-equiv="refresh" content="0; url=${url}">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<p>${escapeHtml(t("redirect.text", {}, lang))} <a href="${url}">${url}</a></p>
+</body>
+</html>
+`;
+}
+
 // Stops a "</script>" inside a string from closing the tag.
 export function jsonLdScript(data) {
   const json = JSON.stringify(data, null, 2).replaceAll("</", "<\\/");
