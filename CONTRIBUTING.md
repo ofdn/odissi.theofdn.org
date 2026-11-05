@@ -137,6 +137,14 @@ When two records turn out to be the same person or work, keep one. Move any name
 
 Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to the list in `data/tombstones.json`. Create that file if it is not there yet. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
 
+## Permanent links (ARKs)
+
+Each record will get an ARK under O Foundation's NAAN 15056, such as `ark:15056/oa-gita-000001`. It opens through `https://n2t.net/ark:15056/oa-gita-000001`. ARKs are off until N2T sends them to this site.
+
+To switch them on, open `scripts/lib/config.js`. Set `ARK_ON` to `true`. If the shoulder isn't the id's own `oa`, put it in `ARK_SHOULDER`. The build then writes a redirect page for each ARK, under `ark:15056/` and `ark:/15056/`, with and without hyphens. Every page shows its permanent link, and citations use it.
+
+After that, ids are final. Don't merge records by deleting a file. Withdraw the old id instead, so its ARK still opens a page.
+
 ## Working on your own computer
 
 Install Node.js 20 or later. Run `npm install` once. Then:
