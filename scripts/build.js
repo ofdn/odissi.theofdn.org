@@ -8,7 +8,7 @@ import { createHash } from "node:crypto";
 import * as config from "./lib/config.js";
 import { loadRecords, refs, kindOf, publicCopy, tombstones } from "./lib/records.js";
 import { toCsv, flatten } from "./csv.js";
-import { configure, t, displayName, altNames, listPage, homePage, renditionTitle, pageShell, escapeHtml } from "../site-templates/shared.js";
+import { configure, t, displayName, altNames, listPage, homePage, renditionTitle, pageShell, escapeHtml, redirectPage } from "../site-templates/shared.js";
 
 const { DATA_DIR, OUT_DIR, TEMPLATE_DIR, KINDS, LANGS } = config;
 const STATIC_DIR = join(TEMPLATE_DIR, "static");
@@ -31,6 +31,16 @@ const pages = [];
 function page(relPath, html) {
   write(relPath, html);
   pages.push([relPath, html]);
+}
+
+// n2t can forward an ark with or without the slash after "ark:", and hyphens
+// dont count in arks, so each form gets a page (same as theofdn.org)
+function arkPages(id, target) {
+  if (!config.ARK_ON) return;
+  const blade = config.ARK_SHOULDER + id;
+  for (const b of new Set([blade, blade.replaceAll("-", "")])) {
+    for (const naan of [`ark:${config.ARK_NAAN}`, `ark:/${config.ARK_NAAN}`]) write(`${naan}/${b}/index.html`, redirectPage(target));
+  }
 }
 
 function hash(content) {
@@ -95,6 +105,7 @@ const search = [];
 for (const kind of pageKinds) {
   for (const record of byKind[kind]) {
     page(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
+    arkPages(record.id, config.SITE_URL + url(record.id).slice(1));
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
   }
   page(`${kind}/index.html`, rebase(lists[kind](ctx)));
@@ -107,12 +118,15 @@ for (const id of tombstones(DATA_DIR)) {
   const title = t("withdrawn.title", {}, lang);
   const body = `<div class="page__wrap">\n<h1 class="page__title">${escapeHtml(title)}</h1>\n<p>${escapeHtml(t("withdrawn.text", { id }, lang))}</p>\n</div>`;
   page(`${kind}/${id}/index.html`, rebase(pageShell({ title, body, lang, path: `/${kind}/${id}/` })));
+  arkPages(id, `${config.SITE_URL}${kind}/${id}/`);
 }
 
 const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
 page("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
+// the resolver's health check asks for this ark
+for (const naan of [`ark:${config.ARK_NAAN}`, `ark:/${config.ARK_NAAN}`]) write(`${naan}/servicestatus/index.html`, "<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\"><title>ARK service status</title><meta name=\"robots\" content=\"noindex\"></head><body><p>OK</p></body></html>\n");
 page("enter-data/index.html", rebase((await import(pathToFileURL(join(TEMPLATE_DIR, "enter-data.js")))).default({ ...ctx, enterVersion: hash(readFileSync(join(STATIC_DIR, "enter-data.js"))) })));
 if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
