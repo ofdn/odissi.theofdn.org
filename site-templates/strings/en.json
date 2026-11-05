@@ -3,7 +3,7 @@
   "nav.label": "Sections",
   "home": "Home",
   "search.label": "Search the archive",
-  "search.placeholder": "Search titles, names or song lines",
+  "search.placeholder": "Search titles, names or any text",
   "search.clear": "Clear search",
   "search.none": "No matches for “{q}”.",
   "theme.dark": "Switch to dark mode",

@@ -115,7 +115,7 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
     });
   }
 
-  // names first, then songs with a line holding every word of the query
+  // names first, then pages with a line holding every word of the query
   function findAll(q) {
     return Promise.all([find(q), loadIndex(), loadText()]).then(function (got) {
       var hits = got[0];
@@ -150,7 +150,7 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
       results.innerHTML = '<p class="no-matches">' + escapeHtml(form.getAttribute("data-none")).replace("{q}", escapeHtml(q)) + "</p>";
     } else {
       results.innerHTML = "<ul>" + hits.slice(0, MAX_RESULTS).map(function (m) {
-        var line = m.line ? '<span class="line" lang="or">' + escapeHtml(m.line) + "</span>" : "";
+        var line = m.line ? '<span class="line" lang="' + (/[\u0b00-\u0b7f]/.test(m.line) ? "or" : "en") + '">' + escapeHtml(m.line) + "</span>" : "";
         return '<li><a href="' + escapeHtml(m.url) + '"><span class="name">' + escapeHtml(m.title) + line + '</span><span class="kind-tag">' + escapeHtml(kinds[m.kind] || m.kind) + "</span></a></li>";
       }).join("") + "</ul>";
     }

@@ -225,7 +225,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 .header-search-results a:hover, .header-search-results a:focus { background: var(--color-bg-alt); color: var(--color-text); }
 .header-search-results a:focus-visible { outline: 2px solid var(--color-link); outline-offset: -2px; }
-.header-search-results .line { display: block; font-weight: 400; font-size: 0.95rem; }
+.header-search-results .line { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; font-weight: 400; font-size: 0.95rem; }
 .kind-tag { flex-shrink: 0; font-size: 0.8rem; font-weight: 400; color: var(--color-text-muted); }
 .no-matches { margin: 0; padding: 0.6rem 0.7rem; font-size: 0.9rem; color: var(--color-text-muted); }
 

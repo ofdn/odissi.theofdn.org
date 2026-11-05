@@ -102,14 +102,25 @@ const ctx = {
 };
 
 const search = [];
-// gīta lines, so a song can be found from a line someone remembers
+// text shown on each page, so a record can be found from a line someone remembers
 const text = [];
+const PROSE = ["description", "bio", "note", "subtitle", "place"];
+function pageText(record) {
+  const lines = (record.text?.stanzas ?? []).flatMap((st) => st.lines);
+  for (const st of record.meaning?.stanzas ?? []) lines.push(st.text);
+  for (const value of [...PROSE.map((key) => record[key]), record.name?.title, record.kabya?.section, record.rights?.note]) {
+    if (typeof value === "string") lines.push(value);
+    else if (value?.en || value?.or) lines.push(...[value.en, value.or].filter(Boolean));
+  }
+  return lines;
+}
 for (const kind of pageKinds) {
   for (const record of byKind[kind]) {
     page(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
     arkPages(record.id, config.SITE_URL + url(record.id).slice(1));
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
-    if (record.text) text.push({ id: record.id, lines: record.text.stanzas.flatMap((st) => st.lines) });
+    const lines = pageText(record);
+    if (lines.length) text.push({ id: record.id, lines });
   }
   page(`${kind}/index.html`, rebase(lists[kind](ctx)));
 }
