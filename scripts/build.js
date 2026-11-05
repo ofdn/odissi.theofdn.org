@@ -16,7 +16,7 @@ const STATIC_DIR = join(TEMPLATE_DIR, "static");
 // templates link from the site root; this moves those links under BASE_PATH
 // and opens links to other sites in a new window
 function rebase(html) {
-  const out = config.BASE_PATH === "/" ? html : html.replace(/ (href|src|action|data-index)="\/(?!\/)/g, ` $1="${config.BASE_PATH}`);
+  const out = config.BASE_PATH === "/" ? html : html.replace(/ (href|src|action|data-index|data-text)="\/(?!\/)/g, ` $1="${config.BASE_PATH}`);
   return out.replace(/<a ([^>]*?)href="(https?:\/\/[^"]+)"/g, (m, attrs, u) => (u.startsWith(config.SITE_URL) ? m : `<a ${attrs}href="${u}" target="_blank" rel="noopener"`));
 }
 
@@ -102,11 +102,14 @@ const ctx = {
 };
 
 const search = [];
+// gīta lines, so a song can be found from a line someone remembers
+const text = [];
 for (const kind of pageKinds) {
   for (const record of byKind[kind]) {
     page(`${kind}/${record.id}/index.html`, rebase(templates[kind](record, ctx)));
     arkPages(record.id, config.SITE_URL + url(record.id).slice(1));
     search.push({ id: record.id, kind, title: displayName(record, lang), alt: altNames(record), url: config.BASE_PATH + url(record.id).slice(1) });
+    if (record.text) text.push({ id: record.id, lines: record.text.stanzas.flatMap((st) => st.lines) });
   }
   page(`${kind}/index.html`, rebase(lists[kind](ctx)));
 }
@@ -125,6 +128,7 @@ const homeFile = join(TEMPLATE_DIR, "home.js");
 const renderHome = existsSync(homeFile) ? (await import(pathToFileURL(homeFile))).default : homePage;
 page("index.html", rebase(renderHome(ctx)));
 write("search.json", JSON.stringify(search));
+write("text.json", JSON.stringify(text));
 // the resolver's health check asks for this ark
 for (const naan of [`ark:${config.ARK_NAAN}`, `ark:/${config.ARK_NAAN}`]) write(`${naan}/servicestatus/index.html`, "<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\"><title>ARK service status</title><meta name=\"robots\" content=\"noindex\"></head><body><p>OK</p></body></html>\n");
 page("enter-data/index.html", rebase((await import(pathToFileURL(join(TEMPLATE_DIR, "enter-data.js")))).default({ ...ctx, enterVersion: hash(readFileSync(join(STATIC_DIR, "enter-data.js"))) })));

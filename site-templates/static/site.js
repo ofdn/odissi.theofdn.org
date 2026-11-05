@@ -9,9 +9,12 @@ function escapeHtml(value) {
 
 // Kāmodī, Kamodi and kaamodi all fold to "kamodi". v and b count as one letter, so do sh and s, ch and c
 // doubled letters count once, a final y is i (Mohanty, Mohanti), and Pattanayaka, Patnaik, Pattnaik and the rest are one surname
+// in Odia, joiners are dropped and ଵ and ୱ count as ବ
 function fold(s) {
   return s
     .normalize("NFD")
+    .replace(/[\u200c\u200d]/g, "")
+    .replace(/[ଵୱ]/g, "ବ")
     .replace(/[̀-ͯ]/g, "")
     .toLowerCase()
     .replace(/v/g, "b")
@@ -85,11 +88,20 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
   var clearBtn = document.getElementById("header-search-clear");
   var kinds = JSON.parse(form.getAttribute("data-kinds"));
   var indexPromise = null;
+  var textPromise = null;
   var MAX_RESULTS = 8;
 
   function loadIndex() {
     indexPromise = indexPromise || fetch(form.dataset.index).then(function (r) { return r.json(); });
     return indexPromise;
+  }
+
+  function loadText() {
+    textPromise = textPromise || fetch(form.dataset.text).then(function (r) { return r.json(); }).then(function (songs) {
+      songs.forEach(function (song) { song.folded = song.lines.map(fold); });
+      return songs;
+    });
+    return textPromise;
   }
 
   function find(q) {
@@ -100,6 +112,30 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
       return hits.sort(function (a, b) {
         return (fold(b.title).indexOf(folded) === 0) - (fold(a.title).indexOf(folded) === 0);
       });
+    });
+  }
+
+  // names first, then songs with a line holding every word of the query
+  function findAll(q) {
+    return Promise.all([find(q), loadIndex(), loadText()]).then(function (got) {
+      var hits = got[0];
+      var tokens = fold(q).split(" ").filter(Boolean);
+      if (!tokens.length) return hits;
+      var seen = {};
+      hits.forEach(function (h) { seen[h.id] = true; });
+      var byId = {};
+      got[1].forEach(function (item) { byId[item.id] = item; });
+      got[2].forEach(function (song) {
+        if (seen[song.id] || !byId[song.id]) return;
+        for (var i = 0; i < song.folded.length; i++) {
+          var line = song.folded[i];
+          if (tokens.every(function (tok) { return line.indexOf(tok) !== -1; })) {
+            hits.push({ id: song.id, kind: byId[song.id].kind, title: byId[song.id].title, url: byId[song.id].url, line: song.lines[i] });
+            return;
+          }
+        }
+      });
+      return hits;
     });
   }
 
@@ -114,7 +150,8 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
       results.innerHTML = '<p class="no-matches">' + escapeHtml(form.getAttribute("data-none")).replace("{q}", escapeHtml(q)) + "</p>";
     } else {
       results.innerHTML = "<ul>" + hits.slice(0, MAX_RESULTS).map(function (m) {
-        return '<li><a href="' + escapeHtml(m.url) + '"><span class="name">' + escapeHtml(m.title) + '</span><span class="kind-tag">' + escapeHtml(kinds[m.kind] || m.kind) + "</span></a></li>";
+        var line = m.line ? '<span class="line" lang="or">' + escapeHtml(m.line) + "</span>" : "";
+        return '<li><a href="' + escapeHtml(m.url) + '"><span class="name">' + escapeHtml(m.title) + line + '</span><span class="kind-tag">' + escapeHtml(kinds[m.kind] || m.kind) + "</span></a></li>";
       }).join("") + "</ul>";
     }
     results.hidden = false;
@@ -126,6 +163,9 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
     var q = input.value.trim();
     if (!q) return hide();
     find(q).then(function (hits) {
+      if (input.value.trim() === q && hits.length) show(hits, q);
+    });
+    findAll(q).then(function (hits) {
       if (input.value.trim() === q) show(hits, q);
     });
   });
@@ -150,7 +190,7 @@ document.querySelectorAll(".citation-block").forEach(function (block) {
     e.preventDefault();
     var q = input.value.trim();
     if (!q) return;
-    find(q).then(function (hits) {
+    findAll(q).then(function (hits) {
       if (hits.length) window.location.href = hits[0].url;
       else show(hits, q);
     });
