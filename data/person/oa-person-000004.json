@@ -24,6 +24,10 @@
   "place": {
     "en": "Balakati, Khordha"
   },
+ "gurus": [
+    "oa-person-000201",
+    "oa-person-000003"
+  ],
   "sampradaya": "Kataka",
   "sources": [
     {
