@@ -1,7 +1,8 @@
 {
   "id": "oa-person-000009",
   "name": {
-    "en": "Kanak Lata Sabath"
+    "en": "Kanak Lata Sabath",
+    "or": "କନକ ଲତା ସାବତ"
   },
   "roles": [
     "vocalist"
@@ -9,6 +10,7 @@
   "gurus": [
     "oa-person-000173"
   ],
+  "sampradaya": "South Odishan",
    "place": {
     "en": "Jayapura, Koraput"
   },
