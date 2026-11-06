@@ -142,6 +142,9 @@ write("search.json", JSON.stringify(search));
 write("text.json", JSON.stringify(text));
 // the resolver's health check asks for this ark
 for (const naan of [`ark:${config.ARK_NAAN}`, `ark:/${config.ARK_NAAN}`]) write(`${naan}/servicestatus/index.html`, "<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\"><title>ARK service status</title><meta name=\"robots\" content=\"noindex\"></head><body><p>OK</p></body></html>\n");
+const info = await import(pathToFileURL(join(TEMPLATE_DIR, "info.js")));
+page("about/index.html", rebase(info.about(ctx)));
+page("preservation/index.html", rebase(info.preservation(ctx)));
 page("enter-data/index.html", rebase((await import(pathToFileURL(join(TEMPLATE_DIR, "enter-data.js")))).default({ ...ctx, enterVersion: hash(readFileSync(join(STATIC_DIR, "enter-data.js"))) })));
 if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
