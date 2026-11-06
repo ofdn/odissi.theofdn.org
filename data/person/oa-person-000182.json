@@ -1,0 +1,39 @@
+{
+  "id": "oa-person-000182",
+  "name": {
+    "en": "Nrusingha Natha Khuntia",
+    "or": "ନୃସିଂହନାଥ ଖୁଣ୍ଟିଆ",
+    "title": {
+      "en": "Pandita",
+      "or": "ପଣ୍ଡିତ"
+    },
+    "alternates": [
+      "Nrusinghanath Khuntia",
+      "ନାଥ ଖୁଣ୍ଟିଆ"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "composer",
+    "scholar",
+    "notator"
+  ],
+  "gurus": [
+    "oa-person-000181",
+    "oa-person-000003"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000002"
+    }
+  ],
+  "place": {
+    "en": "Puri, Puri"
+  },
+  "sampradaya": "Puri",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oa-person-000183",
+  "name": {
+    "en": "Kashinath Pujapanda",
+    "or": "କାଶୀନାଥ ପୂଜାପଣ୍ଡା",
+    "title": {
+      "en": "Pandita",
+      "or": "ପଣ୍ଡିତ"
+    },
+    "alternates": [
+      "Kashi Pujapanda"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "composer"
+  ],
+  "gurus": [
+    "oa-person-000181",
+    "oa-person-000003"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000002"
+    }
+  ],
+  "place": {
+    "en": "Puri, Puri"
+  },
+  "sampradaya": "Puri",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}

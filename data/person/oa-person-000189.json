@@ -1,0 +1,35 @@
+{
+  "id": "oa-person-000189",
+  "name": {
+    "en": "Indira Pratihari",
+    "or": "ଇନ୍ଦିରା ପ୍ରତିହାରୀ",
+    "title": {
+      "en": "Bidusi",
+      "or": "ବିଦୁଷୀ"
+    },
+    "alternates": [
+      "Indira Padhiari",
+      "ଇନ୍ଦିରା ପଢ଼ିଆରୀ"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist"
+  ],
+  "gurus": [
+    "oa-person-000182"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000002"
+    }
+  ],
+  "place": {
+    "en": "Puri, Puri"
+  },
+  "sampradaya": "Puri",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
