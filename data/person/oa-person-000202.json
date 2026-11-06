@@ -1,0 +1,37 @@
+{
+  "id": "oa-person-000202",
+  "name": {
+    "en": "Gaurahari Mahapatra",
+    "or": "ଗୌରହରି ମହାପାତ୍ର",
+    "title": {
+      "en": "Sangitacharya",
+      "or": "ସଙ୍ଗୀତାଚାର୍ଯ୍ୟ"
+    },
+    "alternates": [
+      "Gourahari Mahapatra"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist"
+  ],
+  "instruments": [
+    "bipañcī (bīṇā)"
+  ],
+  "birth_year": 1870,
+  "place": {
+    "en": "Pailipada, Ganjam"
+  },
+  "sampradaya": "South Odishan",
+  "sources": [
+    {
+      "source": "oa-source-000003",
+      "pages" : "39-42"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
