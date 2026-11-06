@@ -1,10 +1,22 @@
 {
   "id": "oa-person-000004",
   "name": {
-    "en": "Balakrushna Dash"
+    "en": "Balakrushna Dash",
+    "or": "ବାଳକୃଷ୍ଣ ଦାଶ",
+    "title": {
+      "en": "Sangita Sudhakara",
+      "or": "ସଙ୍ଗୀତ ସୁଧାକର"
+    },
+    "alternates": [
+      "Bal Krishna Das",
+      "Balkrushna Das",
+      "Bala Krushna Dash"
+    ]
   },
   "roles": [
     "guru",
+    "vocalist",
+    "composer",
     "music_director"
   ],
   "sources": [
@@ -15,5 +27,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-06"
 }
