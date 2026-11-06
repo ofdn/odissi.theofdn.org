@@ -228,7 +228,7 @@ ${body}
 <footer class="site-footer">
 <div class="site-footer__inner">
 <img class="site-footer__logo" src="/ofdn-logo-white.svg" alt="" width="88" height="24">
-<p>${escapeHtml(SITE_NAME)}. ${tHtml("footer.project", { ofdn: '<a href="https://theofdn.org/">O Foundation</a>' }, lang)} ${tHtml("footer.licence", { licence: licenceLink }, lang)} <a href="/source/">${escapeHtml(t("footer.sources", {}, lang))}</a> <a href="/about/">${escapeHtml(t("footer.about", {}, lang))}</a> <a href="/preservation/">${escapeHtml(t("footer.preservation", {}, lang))}</a></p>
+<p>${escapeHtml(SITE_NAME)}. ${tHtml("footer.project", { ofdn: '<a href="https://theofdn.org/">O Foundation</a>' }, lang)} ${tHtml("footer.licence", { licence: licenceLink }, lang)} <a href="/source/">${escapeHtml(t("footer.sources", {}, lang))}</a> <a href="/about/">${escapeHtml(t("footer.about", {}, lang))}</a> <a href="/preservation/">${escapeHtml(t("footer.preservation", {}, lang))}</a> <a href="/about/#privacy">${escapeHtml(t("footer.privacy", {}, lang))}</a></p>
 </div>
 </footer>
 <script src="/site.js${site.jsVersion ? `?v=${site.jsVersion}` : ""}"></script>

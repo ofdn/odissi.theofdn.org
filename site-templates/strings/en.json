@@ -173,6 +173,7 @@
   "footer.sources": "Sources and credits.",
   "footer.about": "About the archive.",
   "footer.preservation": "Preservation and persistence.",
+  "footer.privacy": "Privacy.",
   "kind.source": "Source",
   "kind.source.plural": "Sources",
   "rendition.title": "{gita} ({details})",
