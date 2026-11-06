@@ -52,11 +52,13 @@
           "ଅପଘନ ଘନ ଘନ ବହେ ମଧୁର ମନ୍ଦ ପବନ"
         ]
       }
-    ]
-  "archival_note": {
-  "or": "ପାଠାନ୍ତର : କୁଞ୍ଜେ ମଦନମୋହନ । [@oa-source-000002, 12-14].\n\nSecond paragraph.",
-  "by": ["oa-person-000012"]
-}
+    ],
+    "archival_note": {
+      "or": "ପାଠାନ୍ତର : କୁଞ୍ଜେ ମଦନମୋହନ । [@oa-source-000002, 12-14].\n\nSecond paragraph.",
+      "by": [
+        "oa-person-000012"
+      ]
+    }
   },
   "sources": [
     {
@@ -67,5 +69,5 @@
   "record_status": "active",
   "superseded_by": null,
   "created_at": "2026-11-01",
-  "updated_at": "2026-11-01"
+  "updated_at": "2026-11-06"
 }
