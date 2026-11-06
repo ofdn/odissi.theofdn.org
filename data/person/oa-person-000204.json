@@ -1,0 +1,37 @@
+{
+  "id": "oa-person-000204",
+  "name": {
+    "en": "Hadu Patra",
+    "or": "ହାଡ଼ୁ ପାତ୍ର",
+    "title": {
+      "en": "Kalasagara",
+      "or": "କଳାସାଗର"
+    }
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist"
+  ],
+  "instruments": [
+    "bipañcī (bīṇā)"
+  ],
+  "birth_year": 1840,
+  "place": {
+    "en": "Boirani, Ganjam"
+  },
+  "gurus": [
+    "oa-person-000127"
+  ],
+  "sampradaya": "South Odishan",
+  "sources": [
+    {
+      "source": "oa-source-000003",
+      "pages" : "39-42"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}

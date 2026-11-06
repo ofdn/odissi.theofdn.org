@@ -1,0 +1,35 @@
+{
+  "id": "oa-person-000206",
+  "name": {
+    "en": "Adwaita Ballabha Dasa",
+    "or": "ଅଦ୍ୱୈତ ବଲ୍ଲଭ ଦାସ",
+    "title": {
+      "en": "Mahanta Sri",
+      "or": "ମହନ୍ତ ଶ୍ରୀ"
+    }
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist"
+  ],
+  "instruments": [
+    "bīṇā"
+  ],
+  "birth_year": 1864,
+  "death_year": 1942,
+  "place": {
+    "en": "Paralakhemundi, Gajapati"
+  },
+  "sampradaya": "South Odishan",
+  "sources": [
+    {
+      "source": "oa-source-000003",
+      "pages" : "39, 84"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
