@@ -9,10 +9,23 @@
     ]
   },
   "roles": [
+    "guru",
+    "vocalist",
     "composer"
   ],
+  "birth_year": 1770,
+  "death_year":1886,
+  "place": {
+    "en": "Athagada, Ganjam"
+  },
+  "gurus": [
+    "oa-person-000033"
+  ],
+  "sampradaya": "South Odishan",
   "sources": [
     {
+      "source": "oa-source-000003",
+      "pages" : "39",
       "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/poets/raghunatha-rajaguru-rajguru-mahapatra/"
     }

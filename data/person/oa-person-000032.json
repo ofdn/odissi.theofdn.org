@@ -3,15 +3,37 @@
   "name": {
     "en": "Gobinda Rayaguru",
     "or": "ଗୋବିନ୍ଦ ରାୟଗୁରୁ",
+    "title": {
+      "en": "Kabichandra",
+      "or": "କବିଚନ୍ଦ୍ର"
+    },
     "alternates": [
-      "Gobind Rayaguru"
+      "Gobind Rayaguru",
+      "Gobinda Kabichandra Rayaguru"
     ]
   },
   "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist",
     "composer"
   ],
+  "instruments": [
+    "bīṇā"
+  ],
+  "birth_year": 1861,
+  "death_year":1901,
+  "place": {
+    "en": "Dharakota, Ganjam"
+  },
+  "gurus": [
+    "oa-person-000033"
+  ],
+  "sampradaya": "South Odishan",
   "sources": [
     {
+      "source": "oa-source-000003",
+      "pages" : "39",
       "source": "oa-source-000001",
       "url": "https://odissimusic.co.in/index.php/poets/gobinda-rayaguru/"
     }
