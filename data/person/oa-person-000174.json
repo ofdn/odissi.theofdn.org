@@ -1,0 +1,26 @@
+{
+  "id": "oa-person-000174",
+  "name": {
+    "en": "Durjyodhana Sahu",
+    "or": "ଦୁର୍ଯ୍ୟୋଧନ ସାହୁ",
+    "alternates": [
+      "Duryodhan Sahu",
+      "Durjyodhan Sahoo"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist"
+  ],
+  "place": {
+    "en": "Boirani, Ganjam"
+  },
+  "gurus": [
+    "oa-person-000008"
+  ],
+  "sampradaya": "South Odishan",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
