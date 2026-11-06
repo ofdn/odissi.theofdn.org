@@ -1,0 +1,71 @@
+{
+  "id": "oa-gita-001462",
+  "name": {
+     "en": "Muralipani Aau Nahin Na",
+     "or": "ମୁରଲୀପାଣି ଆଉ ନାହିଁ ନା",
+     "alternates": [
+      "Murali Pani Au Nahi Na",
+      "Murali Pani Aau Nahin Na"
+     ]
+    },
+    "composer": "oa-person-000011",
+    "mula_raga": [
+     "oa-raga-000032"
+    ],
+    "mula_tala": [
+     "oa-tala-000001"
+    ],
+    "song_type": "chaupadi",
+    "text": {
+     "stanzas": [
+      {
+       "n": 0,
+       "lines": [
+        "ମୁରଲୀପାଣି",
+        "ଆଉ ନାହିଁ ନା ବଳିକି ଏ ଅନାଉଣି"
+       ]
+      },
+      {
+       "n": 1,
+       "lines": [
+        "ବରି ତୁମ୍ଭଙ୍କୁ କିଶୋରୀ ସରି ହେଲେହେଁ ପାଶୋରି",
+        "ହେବ କି ଆଉ କେ ସରି ଯାଉଁ ସରଣୀ"
+       ]
+      },
+      {
+       "n": 2,
+       "lines": [
+        "କି ଲଳନା ଚିତ୍ତ ହରିବାର ତୁମ୍ଭର ଚାତୁରୀ",
+        "ହେଲା ବଡ଼ ସୁମାଧୁରୀ ପ୍ରଘଟ ପୁଣି"
+       ]
+      },
+      {
+       "n": 3,
+       "lines": [
+        "ଧରି କରେ ବଂଶୀ ବ୍ୟାଜଭରେ ଧୀରେ ତ୍ୱରେ ବାଜ",
+        "ଲାଜ ହେଲେ ଆଜ ହେଜ ମାନସ ଜାଣି"
+       ]
+      },
+      {
+       "n": 4,
+       "lines": [
+        "ଏ ଦୀନ ରାମଚନ୍ଦ୍ରର ଘେନ ଗୁହାରି ସତ୍ୱର",
+        "ମାରମୋହନ ପୟର ମୋର ଭାଳେଣି"
+       ]
+      }
+     ]
+    },
+    "sources": [
+     {
+      "source": "oa-source-000001",
+      "url": "https://odissimusic.co.in/index.php/song/muralipani-aau-nahi-na/"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06",
+  "entered_by": [
+    "Prateek Pattanaik"
+  ]
+}
