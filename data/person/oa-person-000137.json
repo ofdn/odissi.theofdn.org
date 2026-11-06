@@ -3,13 +3,27 @@
   "name": {
     "en": "Banikantha",
     "or": "ବାଣୀକଣ୍ଠ",
+     "title": {
+      "en": "Banikantha",
+      "or": "ବାଣୀକଣ୍ଠ"
+    },
     "alternates": [
-      "Padmasri Banikantha Nimai Charan Harichandan"
+      "Padmasri Banikantha Nimai Charan Harichandan",
+      "Nimai Harichandan",
+      "Nemai Charan Harichandan"
     ]
   },
   "roles": [
+    "guru",
+    "vocalist",
     "composer"
   ],
+ "gurus": [
+    "oa-person-000201"
+  ],
+  "place": {
+    "en": "Kendrapada, Kendrapada"
+  },
   "sources": [
     {
       "source": "oa-source-000001",
