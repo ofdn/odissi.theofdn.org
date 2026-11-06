@@ -29,6 +29,9 @@
   "place": {
     "en": "Puri, Puri"
   },
+  "gurus": [
+    "oa-person-000181"
+  ],
   "sampradaya": "Puri",
   "record_status": "active",
   "superseded_by": null,
