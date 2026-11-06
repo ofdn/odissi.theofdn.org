@@ -17,23 +17,23 @@ Each record becomes its own pull request, with the issue linked. New records tha
 
 1. Open the folder for the kind of record, such as `data/gita/`.
 2. Open a similar record and copy its text.
-3. Click **Add file**, then **Create new file**. Name it `new-gita-` and a short word, such as `new-gita-kadamba.json`. See "Choosing an id" below.
+3. Click **Add file**, then **Create new file**. Name it `new-gita-` and a short word, such as `new-gita-kadamba.json`. See "Choosing an ID" below.
 4. Paste the text. Set the `id` inside to the same name, then edit the other fields.
 5. Click **Commit changes**. Choose **Create a new branch** and open a pull request.
 
 A check runs on every pull request. It tells you if a field is wrong or a link points to a record that does not exist. When the check passes, merge the pull request. The site updates in about a minute.
 
-## Choosing an id
+## Choosing an ID
 
 You don't choose the number. Name a new file `new-<kind>-<word>.json`, such as `data/gita/new-gita-kadamba.json`, and use the same name as its `id`. Other new records link to it by that name.
 
-When the pull request is merged, each new record gets the next free id. Every link to it changes too. Records merged one after another never share a number.
+When the pull request is merged, each new record gets the next free ID. Every link to it changes too. Records merged one after another never share a number.
 
-Never reuse an id, even after its file is deleted. The check refuses ids listed in `data/tombstones.json`.
+Never reuse an ID, even after its file is deleted. The check refuses IDs listed in `data/tombstones.json`.
 
 ## Linking records
 
-Records point to each other by id. A gīta names its composer as `"composer": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
+Records point to each other by ID. A gīta names its composer as `"composer": "oa-person-000001"`, and a rendition names its gīta as `"gita": "oa-gita-000001"`. Add the person, rāga or tāḷa first, then link to it.
 
 Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the śiṣyas by itself.
 
@@ -42,7 +42,7 @@ Gurus are listed on the śiṣya's record, in `gurus`. The guru's page lists the
 - Spell a person's name the way that person writes it. Put other spellings in `alternates`.
 - Citations put the last word of a name first, as the surname. If a name has no surname, such as Kali Charan, add `"as_written": true` to `name`.
 - `name.en` is for display and may carry diacritics, such as `Kāmodī`. Put plain spellings, such as `Kamodi`, in `alternates`. Search finds both.
-- Ids, field names and fixed values such as `"song_type": "chaupadi"` are always plain lower-case letters.
+- IDs, field names and fixed values such as `"song_type": "chaupadi"` are always plain lower-case letters.
 - Write the Odia text of a gīta stanza by stanza. The ghoṣā is stanza `0`.
 - Cite every source in `sources`. See "Citing sources" below.
 - A rendition needs no `name`. The site names it from the gīta and the people credited.
@@ -54,7 +54,7 @@ The full list of fields for each kind is in `schema/<kind>.schema.json`.
 
 ## Citing sources
 
-Each book, article, website or recording is a source record in `data/source/`. Add the source once, then cite it by id from any record:
+Each book, article, website or recording is a source record in `data/source/`. Add the source once, then cite it by ID from any record:
 
 ```json
 "sources": [
@@ -73,7 +73,7 @@ The site builds a BibTeX entry for every source. All of them are in `sources.bib
 
 A source is a work: a book, a chapter, a journal article, a thesis, a website, a talk, a recording, a video, an interview, or an unpublished manuscript or draft. A GitHub issue or a chat about the archive is not a source. If someone tells you a fact there, cite the work it comes from, or add it to their unpublished draft.
 
-Check the list of sources on the site first. If the source is already there, cite its id.
+Check the list of sources on the site first. If the source is already there, cite its ID.
 
 1. Open `data/source/` and find the highest number. If the last file is `oa-source-000004.json`, the new one is `oa-source-000005.json`.
 2. Create the new file as in "Add a record in the browser" above. Copy a source of the same type as a start.
@@ -99,12 +99,12 @@ Check the list of sources on the site first. If the source is already there, cit
 
    - `name.en` is the title as printed. Add the Odia title in `name.or`.
    - `type` is one of `book`, `book_chapter`, `article`, `thesis`, `website`, `talk`, `recording`, `video`, `interview` or `unpublished`.
-   - Write authors and editors by full name, as they write their own names. If a person has a record here, use the id instead, such as `"oa-person-000008"`.
+   - Write authors and editors by full name, as they write their own names. If a person has a record here, use the ID instead, such as `"oa-person-000008"`.
    - For a chapter or an article, put the book or journal title in `in`, and the pages in `pages`.
    - For a book listed on WorldCat, add its OCLC number as `oclc`, such as `"1434248522"`.
    - For a website, add `url`. Run `npm run archive` to add `archive_url`.
    - Leave out any field you do not know.
-4. Save, open a pull request and wait for the check to pass. Then cite the new id from your records.
+4. Save, open a pull request and wait for the check to pass. Then cite the new ID from your records.
 
 The source gets its own page, with a BibTeX entry and a list of every record that cites it.
 
@@ -135,19 +135,19 @@ When two records turn out to be the same person or work, keep one. Move any name
 
 ## Withdrawing a record
 
-Never reuse an id or give it to another record. To withdraw a record, delete its file and add its id to the list in `data/tombstones.json`. Create that file if it is not there yet. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn id.
+Never reuse an ID or give it to another record. To withdraw a record, delete its file and add its ID to the list in `data/tombstones.json`. Create that file if it is not there yet. The site then shows a short "withdrawn" page at the old address. The check refuses any new record that uses a withdrawn ID.
 
 ## Permanent links (ARKs)
 
 Each record will get an ARK under O Foundation's NAAN 15056, such as `ark:15056/oa-gita-000001`. It opens through `https://n2t.net/ark:15056/oa-gita-000001`. ARKs are off until N2T sends them to this site.
 
-To switch them on, open `scripts/lib/config.js`. Set `ARK_ON` to `true`. If the shoulder isn't the id's own `oa`, put it in `ARK_SHOULDER`. The build then writes a redirect page for each ARK, under `ark:15056/` and `ark:/15056/`, with and without hyphens. Every page shows its permanent link, and citations use it.
+To switch them on, open `scripts/lib/config.js`. Set `ARK_ON` to `true`. If the shoulder isn't the ID's own `oa`, put it in `ARK_SHOULDER`. The build then writes a redirect page for each ARK, under `ark:15056/` and `ark:/15056/`, with and without hyphens. Every page shows its permanent link, and citations use it.
 
 ## Working on your own computer
 
 Install Node.js 20 or later. Run `npm install` once. Then:
 
-- `npm run validate` checks every record. It checks `new-…` files with the ids they'll get on merge.
+- `npm run validate` checks every record. It checks `new-…` files with the IDs they'll get on merge.
 - `npm run build` writes the site to `dist/`.
 - `npm run archive` looks up Wayback Machine copies of cited pages. Add `-- --save` to archive pages that have no copy yet.
 

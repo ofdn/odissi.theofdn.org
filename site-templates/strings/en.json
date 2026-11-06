@@ -242,7 +242,7 @@
   "enter.source_url": "Page address",
   "enter.source_pages": "Pages",
   "enter.bulk": "Add many from a CSV file",
-  "enter.bulk_text": "Choose the kind above and download its template. Fill in one record per row. Put names or ids in link columns, and separate several with a semicolon. Write credits as Name (role) or Name (role, instrument).",
+  "enter.bulk_text": "Choose the kind above and download its template. Fill in one record per row. Put names or IDs in link columns, and separate several with a semicolon. Write credits as Name (role) or Name (role, instrument).",
   "enter.template": "Download the template",
   "enter.csv": "CSV file",
   "enter.list": "Records to send",

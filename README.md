@@ -20,7 +20,7 @@ Each record is one JSON file in `data/<kind>/`, checked against `schema/<kind>.s
 
 To add or edit records, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-Records link to each other by id, such as `oa-raga-000001`. Names with diacritics are for display only. Search matches them with or without diacritics.
+Records link to each other by ID, such as `oa-raga-000001`. Names with diacritics are for display only. Search matches them with or without diacritics.
 
 ## Build
 
@@ -32,7 +32,7 @@ npm run validate
 npm run build
 ```
 
-The site is written to `dist/`. To get the next free id for a new record, run `npm run mint -- gita`.
+The site is written to `dist/`. To get the next free ID for a new record, run `npm run mint -- gita`.
 
 ## Licence
 
