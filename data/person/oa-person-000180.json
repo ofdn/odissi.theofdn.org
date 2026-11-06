@@ -1,0 +1,29 @@
+{
+  "id": "oa-person-000179",
+  "name": {
+    "en": "Harmohan Khuntia",
+    "or": "ହରମୋହନ ଖୁଣ୍ଟିଆ",
+    "alternates": [
+      "Har Mohan Khuntia"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "instrumentalist"
+  ],
+  "instruments": [
+    "mardala"
+  ],
+  "place": {
+    "en": "Kataka, Kataka"
+  },
+  "gurus": [
+    "oa-person-000008"
+  ],
+  "sampradaya": "South Odishan",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
