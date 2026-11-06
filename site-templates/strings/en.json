@@ -171,6 +171,8 @@
   "home.lede": "An archive of Odissi music: gītas and the kābyas they come from, their renditions on shellac, vinyl, palm leaf and paper, and the gurus, śiṣyas, rāgas and tāḷas behind them.",
   "home.records": "Records",
   "footer.sources": "Sources and credits.",
+  "footer.about": "About the archive.",
+  "footer.preservation": "Preservation and persistence.",
   "kind.source": "Source",
   "kind.source.plural": "Sources",
   "rendition.title": "{gita} ({details})",
