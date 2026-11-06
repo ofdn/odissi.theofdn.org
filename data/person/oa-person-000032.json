@@ -31,12 +31,8 @@
   ],
   "sampradaya": "South Odishan",
   "sources": [
-    {
-      "source": "oa-source-000003",
-      "pages" : "39",
-      "source": "oa-source-000001",
-      "url": "https://odissimusic.co.in/index.php/poets/gobinda-rayaguru/"
-    }
+    {"source": "oa-source-000003", "pages" : "39"},
+    {"source": "oa-source-000001", "url": "https://odissimusic.co.in/index.php/poets/gobinda-rayaguru/"}
   ],
   "record_status": "active",
   "superseded_by": null,
