@@ -19,6 +19,10 @@
     "composer",
     "music_director"
   ],
+  "place": {
+    "en": "Balakati, Khordha"
+  },
+  "sampradaya": "Kataka",
   "sources": [
     {
       "source": "oa-source-000001"
