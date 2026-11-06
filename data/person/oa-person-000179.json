@@ -1,0 +1,28 @@
+{
+  "id": "oa-person-000177",
+  "name": {
+    "en": "Bansidhar Panda",
+    "or": "ବଂଶୀଧର ପଣ୍ଡା",
+    "alternates": [
+      "Banshidhar Panda",
+      "ବୈଂଶୀଧର ପଣ୍ଡା",
+      "ବଇଁଶୀ ପଣ୍ଡା"
+    ]
+  },
+  "roles": [
+    "guru",
+    "vocalist"
+  ],
+  "place": {
+    "en": "Boirani, Ganjam"
+  },
+  "gurus": [
+    "oa-person-000008",
+    "oa-person-000178"
+  ],
+  "sampradaya": "South Odishan",
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}
