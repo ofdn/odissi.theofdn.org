@@ -3,6 +3,10 @@
   "name": {
     "en": "Harmohan Khuntia",
     "or": "ହରମୋହନ ଖୁଣ୍ଟିଆ",
+    "title": {
+      "en": "Pandita",
+      "or": "ପଣ୍ଡିତ"
+    },
     "alternates": [
       "Har Mohan Khuntia"
     ]
@@ -10,10 +14,12 @@
   "roles": [
     "guru",
     "vocalist",
-    "instrumentalist"
+    "instrumentalist",
+    "composer"
   ],
   "instruments": [
-    "mardala"
+    "mardala",
+    "tabla"
   ],
   "place": {
     "en": "Kataka, Kataka"

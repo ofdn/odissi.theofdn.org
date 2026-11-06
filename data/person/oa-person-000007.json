@@ -1,14 +1,32 @@
 {
   "id": "oa-person-000007",
   "name": {
-    "en": "Bhubaneswar Mishra"
+    "en": "Bhubaneswar Mishra",
+    "or": "ଭୁବନେଶ୍ୱର ମିଶ୍ର",
+    "title": {
+      "en": "Pandita",
+      "or": "ପଣ୍ଡିତ"
+    },
+    "alternates" : [
+      "Bhuvaneswar Mishra",
+      "Bhubaneshwar Mishra",
+      "Bhuban"
+    ]
   },
   "roles": [
-    "instrumentalist"
+    "guru",
+    "instrumentalist",
+    "composer"
   ],
   "instruments": [
     "violin"
   ],
+  "birth_year": 1927,
+  "death_year": 1993,
+  "place": {
+    "en": "Paralakhemundi, Gajapati"
+  },
+  "sampradaya": "South Odishan",
   "sources": [
     {
       "source": "oa-source-000001"
