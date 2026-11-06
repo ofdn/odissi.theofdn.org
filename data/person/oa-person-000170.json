@@ -12,8 +12,16 @@
     ]
   },
   "roles": [
-    "guru"
+    "guru",
+    "vocalist",
+    "composer"
   ],
+  "birth_year": 1932,
+  "death_year": 2013,
+  "place": {
+    "en": "Gunupura, Rayagada"
+  },
+   "sampradaya": "South Odishan",
   "sources": [
     {
       "source": "oa-source-000001",
