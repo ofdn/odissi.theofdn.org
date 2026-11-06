@@ -1,5 +1,7 @@
 import { pageShell, escapeHtml, t } from "./shared.js";
 
+// privacy text from theofdn.org's policies page and Archiving the Present's PRIVACY.md
+
 const DOI = "10.5281/zenodo.23938196";
 
 function permanentLinks(config) {
@@ -46,9 +48,20 @@ ${permanentLinks(config)}
 </ul>
 <h2>Licence</h2>
 <p>Records and text are under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> unless a record says otherwise. You can copy and share them if you credit the archive and share under the same licence.</p>
+<h2 id="privacy">Privacy</h2>
+<p>This site has no accounts, comments, analytics or advertising. It sets no cookies.</p>
+<ul>
+<li><strong>Theme.</strong> If you switch between light and dark mode, your browser remembers the choice. It stays on your device.</li>
+<li><strong>Enter data.</strong> Records you add on <a href="/enter-data/">Enter data</a> are kept in your browser until you send or clear them.</li>
+<li><strong>Sending records.</strong> Sending records opens an issue on GitHub under your own account. The issue is public. Your GitHub name is saved with the records as the person who entered them, and it shows in the data files. It's never cited as an author.</li>
+<li><strong>Hosting.</strong> GitHub Pages hosts the site and Cloudflare serves it. Both may log your IP address for security. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a> and the <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare privacy policy</a>.</li>
+<li><strong>Fonts.</strong> The site loads fonts from Google Fonts, so your browser sends Google a request for them. See the <a href="https://developers.google.com/fonts/faq/privacy">Google Fonts privacy FAQ</a>.</li>
+<li><strong>Embedded media.</strong> Some rendition pages play recordings from YouTube, through youtube-nocookie.com, or from the Internet Archive. The player loads from that service, which may collect data about you as if you visited its site.</li>
+</ul>
+<p>Records about people hold their names, birth and death years and gender where known, a short biography, their gurus and śiṣyas, and the works they made or performed. These details come from published sources. If a record is about you or a family member, you can ask us to correct or remove details. If a whole record is removed, its ID is withdrawn and never reused.</p>
 <h2>Contact</h2>
-<p>To suggest a change, open an issue on <a href="${escapeHtml(config.REPO_URL)}/issues">GitHub</a> or write to O Foundation through <a href="https://theofdn.org/reach-out/">theofdn.org/reach-out</a>.</p>`;
-  return shell("About the archive", "/about/", "What The Odissi Archive holds, how its IDs work and how to use its data.", prose, lang);
+<p>To suggest a change or ask about your data, open an issue on <a href="${escapeHtml(config.REPO_URL)}/issues">GitHub</a> or write to O Foundation through <a href="https://theofdn.org/reach-out/">theofdn.org/reach-out</a>.</p>`;
+  return shell("About the archive", "/about/", "What The Odissi Archive holds, how its IDs work, how to use its data and how it handles privacy.", prose, lang);
 }
 
 export function preservation(ctx) {
