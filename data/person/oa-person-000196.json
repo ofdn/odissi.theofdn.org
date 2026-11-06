@@ -1,0 +1,33 @@
+{
+  "id": "oa-person-000196",
+  "name": {
+    "en": "Ramhari Das",
+    "or": "ରାମହରି ଦାସ",
+    "title": {
+      "en": "Pandita",
+      "or": "ପଣ୍ଡିତ"
+      }
+  },
+  "roles": [
+    "guru",
+    "vocalist",
+    "composer",
+    "scholar"
+  ],
+    "alternates": [
+      "Ramahari Das"
+    ],
+  "gurus": [
+    "oa-person-000004",
+    "oa-person-000162"
+  ],
+  "sources": [
+    {
+      "source": "oa-source-000002"
+    }
+  ],
+  "record_status": "active",
+  "superseded_by": null,
+  "created_at": "2026-11-06",
+  "updated_at": "2026-11-06"
+}

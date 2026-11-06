@@ -9,7 +9,11 @@
       }
     },
   "roles": [
-    "composer"
+    "guru",
+    "vocalist",
+    "composer",
+    "scholar",
+    "notator"
   ],
   "place": {
     "en": "Bhadrak, Bhadrak"
