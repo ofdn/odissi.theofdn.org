@@ -1,22 +1,16 @@
 {
   "id": "oa-person-000181",
   "name": {
-    "en": "Harihara Rayaguru",
-    "or": "ହରିହର ରାୟଗୁରୁ",
+    "en": "Andha Mana",
+    "or": "ଅନ୍ଧ ମାନ",
     "title": {
-      "en": "Pandita",
-      "or": "ପଣ୍ଡିତ"
-    },
-    "alternates": [
-      "Harihara Rajaguru",
-      "ହରିହର ରାଜଗୁରୁ"
-    ]
+      "en": "Andha",
+      "or": "ଅନ୍ଧ"
+    }
   },
   "roles": [
     "guru",
-    "vocalist",
-    "composer",
-    "scholar"
+    "vocalist"
   ],
   "sources": [
     {
