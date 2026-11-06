@@ -33,10 +33,10 @@ export function about(ctx) {
 <ul>
 ${counts}
 </ul>
-<h2 id="ids">Ids and permanent links</h2>
-<p>Every record has an id, such as <code>oa-gita-000001</code>. The id is a number with a short label for the kind of record. It says nothing else about the record, so it never has to change.</p>
+<h2 id="ids">IDs and permanent links</h2>
+<p>Every record has an ID, such as <code>oa-gita-000001</code>. The ID is a number with a short label for the kind of record. It says nothing else about the record, so it never has to change.</p>
 ${permanentLinks(config)}
-<p>An id is never reused or given to another record. See <a href="/preservation/">preservation and persistence</a>.</p>
+<p>An ID is never reused or given to another record. See <a href="/preservation/">preservation and persistence</a>.</p>
 <h2 id="using-the-data">Using the data</h2>
 <ul>
 <li>Every record is a JSON file at <code>/api/&lt;kind&gt;/&lt;id&gt;.json</code>, such as <a href="/api/gita/oa-gita-000001.json">api/gita/oa-gita-000001.json</a>. Each kind has a full list at <code>/api/&lt;kind&gt;.json</code>.</li>
@@ -48,19 +48,19 @@ ${permanentLinks(config)}
 <p>Records and text are under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> unless a record says otherwise. You can copy and share them if you credit the archive and share under the same licence.</p>
 <h2>Contact</h2>
 <p>To suggest a change, open an issue on <a href="${escapeHtml(config.REPO_URL)}/issues">GitHub</a> or write to O Foundation through <a href="https://theofdn.org/reach-out/">theofdn.org/reach-out</a>.</p>`;
-  return shell("About the archive", "/about/", "What The Odissi Archive holds, how its ids work and how to use its data.", prose, lang);
+  return shell("About the archive", "/about/", "What The Odissi Archive holds, how its IDs work and how to use its data.", prose, lang);
 }
 
 export function preservation(ctx) {
   const { config, lang } = ctx;
-  const prose = `<p>O Foundation keeps the records of The Odissi Archive and their ids available for the long term. This page says what we do to make that possible.</p>
-<h2>Ids</h2>
+  const prose = `<p>O Foundation keeps the records of The Odissi Archive and their IDs available for the long term. This page says what we do to make that possible.</p>
+<h2>IDs</h2>
 <ul>
-<li>An id, and the ARK built on it, is never reused or given to another record.</li>
-<li>Ids are opaque. They hold a number and the kind of record, not a name or a date that could change.</li>
-<li>Ids and ARKs are written in lower case.</li>
+<li>An ID, and the ARK built on it, is never reused or given to another record.</li>
+<li>IDs are opaque. They hold a number and the kind of record, not a name or a date that could change.</li>
+<li>IDs and ARKs are written in lower case.</li>
 <li>When a record is withdrawn, its address stays. It shows a short page saying the record was withdrawn.</li>
-<li>When two records turn out to be the same, one is kept and the other id is withdrawn in the same way.</li>
+<li>When two records turn out to be the same, one is kept and the other ID is withdrawn in the same way.</li>
 </ul>
 <h2>Copies of the data</h2>
 <ul>
@@ -72,7 +72,7 @@ export function preservation(ctx) {
 <h2>Licence</h2>
 <p>Records are under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Anyone may keep and share a copy, so the archive does not depend on one server.</p>
 <h2>Who is responsible</h2>
-<p>O Foundation, based in Bhubaneswar, Odisha, publishes and hosts the archive. Prateek Pattanaik leads it and edits the records. If O Foundation can no longer host it, we'll move it to another host and point the permanent links there.</p>
+<p>O Foundation, based in Bhubaneswar, Odisha, publishes and hosts the archive. Prateek Pattanaik leads it and edits the records. If this site's URL changes, the ARK IDs will continue to resolve to the existing entries.</p>
 <p>Contact O Foundation through <a href="https://theofdn.org/reach-out/">theofdn.org/reach-out</a>.</p>`;
-  return shell("Preservation and persistence", "/preservation/", "How The Odissi Archive keeps its records and ids available for the long term.", prose, lang);
+  return shell("Preservation and persistence", "/preservation/", "How The Odissi Archive keeps its records and IDs available for the long term.", prose, lang);
 }
