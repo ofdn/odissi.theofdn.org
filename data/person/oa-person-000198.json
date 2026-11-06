@@ -2,15 +2,15 @@
   "id": "oa-person-000198",
   "name": {
     "en": "Ghanashyam Panda",
-    "or": "ଘନଶ୍ୟାମ ପଣ୍ଡା"
+    "or": "ଘନଶ୍ୟାମ ପଣ୍ଡା",
+     "alternates": [
+      "Ghanshyam Panda"
+    ]
   },
   "roles": [
     "guru",
     "vocalist"
   ],
-    "alternates": [
-      "Ghanshyam Panda"
-    ],
   "gurus": [
     "oa-person-000003",
     "oa-person-000004"

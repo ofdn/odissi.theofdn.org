@@ -6,7 +6,10 @@
     "title": {
       "en": "Pandita",
       "or": "ପଣ୍ଡିତ"
-      }
+      },
+       "alternates": [
+      "Ramahari Das"
+    ]
   },
   "roles": [
     "guru",
@@ -14,9 +17,7 @@
     "composer",
     "scholar"
   ],
-    "alternates": [
-      "Ramahari Das"
-    ],
+   
   "gurus": [
     "oa-person-000004",
     "oa-person-000162"

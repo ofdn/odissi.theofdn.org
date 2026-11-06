@@ -2,15 +2,15 @@
   "id": "oa-person-000199",
   "name": {
     "en": "Krushna Chandra Ray",
-    "or": "କୃଷ୍ଣଚନ୍ଦ୍ର ରାୟ"
+    "or": "କୃଷ୍ଣଚନ୍ଦ୍ର ରାୟ",
+    "alternates": [
+      "Krishna Chandra Ray"
+    ]
   },
   "roles": [
     "guru",
     "vocalist"
   ],
-    "alternates": [
-      "Krishna Chandra Ray"
-    ],
   "gurus": [
     "oa-person-000004"
   ],

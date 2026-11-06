@@ -2,7 +2,10 @@
   "id": "oa-person-000194",
   "name": {
     "en": "Binod Bihari Panda",
-    "or": "ବିନୋଦ ବିହାରୀ ପଣ୍ଡା"
+    "or": "ବିନୋଦ ବିହାରୀ ପଣ୍ଡା",
+     "alternates": [
+      "Vinod Vihari Panda"
+    ]
   },
   "roles": [
     "guru",

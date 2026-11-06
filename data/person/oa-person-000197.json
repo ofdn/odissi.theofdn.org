@@ -2,15 +2,15 @@
   "id": "oa-person-000197",
   "name": {
     "en": "Akhila Kumar Lenka",
-    "or": "ଅଖିଳ କୁମାର ଲେଙ୍କା"
+    "or": "ଅଖିଳ କୁମାର ଲେଙ୍କା",
+    "alternates": [
+      "Akhil Kumar Lenka"
+    ]
   },
   "roles": [
     "guru",
     "vocalist"
   ],
-    "alternates": [
-      "Akhil Kumar Lenka"
-    ],
   "gurus": [
     "oa-person-000004"
   ],
