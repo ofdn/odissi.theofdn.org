@@ -24,9 +24,9 @@ export const KINDS = ["gita", "kabya", "rendition", "carrier", "person", "raga",
 export const NAV_KINDS = ["gita", "raga", "tala", "kabya", "person", "rendition", "carrier", "collection"];
 export const LANGS = ["en"];
 
-// ark links stay off untill n2t sends the shoulder to this site
-export const ARK_ON = false;
-export const ARK_NAAN = "15056";
+// arks.org sends ark:49256/<id> to this site as written
+export const ARK_ON = true;
+export const ARK_NAAN = "49256";
 // goes in front of every id; "" keeps the ids as they are
 export const ARK_SHOULDER = "";
 
