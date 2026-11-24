@@ -270,6 +270,9 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 }
 .site-footer__inner p { margin: 0; max-width: var(--max-prose); }
 .site-footer__logo { display: block; height: 24px; width: auto; }
+.site-footer__links { flex-basis: 100%; }
+.site-footer__links ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.25rem 1.5rem; margin: 0; padding: 0; list-style: none; }
+.site-footer__links a { display: inline-flex; align-items: center; min-height: 32px; }
 .site-footer a { color: #f0a084; }
 .site-footer a:hover { color: #FFFFFF; }
 .site-footer a:focus-visible { outline-color: #FFFFFF; }
