@@ -176,12 +176,12 @@ function searchForm(lang) {
 }
 
 function siteNav(path, lang) {
-  const items = NAV_KINDS.filter((k) => site.pageKinds.includes(k)).map((k) => {
-    const href = `/${k}/`;
+  const links = NAV_KINDS.filter((k) => site.pageKinds.includes(k)).map((k) => [`/${k}/`, t(`kind.${k}.plural`, {}, lang)]);
+  links.push(["/about/", t("nav.about", {}, lang)]);
+  const items = links.map(([href, label]) => {
     const current = path === href ? ' aria-current="page"' : path.startsWith(href) ? ' aria-current="true"' : "";
-    return `<li><a href="${href}"${current}>${escapeHtml(t(`kind.${k}.plural`, {}, lang))}</a></li>`;
+    return `<li><a href="${href}"${current}>${escapeHtml(label)}</a></li>`;
   });
-  if (!items.length) return "";
   return `<nav class="site-nav" aria-label="${escapeHtml(t("nav.label", {}, lang))}">\n<ul>\n${items.join("\n")}\n</ul>\n</nav>`;
 }
 
