@@ -139,9 +139,11 @@ Never reuse an ID or give it to another record. To withdraw a record, delete its
 
 ## Permanent links (ARKs)
 
-Each record will get an ARK under O Foundation's NAAN 15056, such as `ark:15056/oa-gita-000001`. It opens through `https://n2t.net/ark:15056/oa-gita-000001`. ARKs are off until N2T sends them to this site.
+O Foundation holds NAAN 49256 for this archive. Each record's ARK is its ID with the NAAN in front, such as `ark:49256/oa-gita-000001`. It opens through `https://n2t.net/ark:49256/oa-gita-000001`, which sends it on to this site. Records don't store the ARK.
 
-To switch them on, open `scripts/lib/config.js`. Set `ARK_ON` to `true`. If the shoulder isn't the ID's own `oa`, put it in `ARK_SHOULDER`. The build then writes a redirect page for each ARK, under `ark:15056/` and `ark:/15056/`, with and without hyphens. Every page shows its permanent link, and citations use it.
+The NAAN and the on/off switch are in `scripts/lib/config.js`. The build writes a redirect page for each ARK, under `ark:49256/` and `ark:/49256/`, with and without hyphens. It also writes `ark:49256/servicestatus`, which the resolver checks. Every page shows its permanent link, and citations, the API and the dumps use it.
+
+With ARKs on, IDs are final, so never renumber a record. Merge or withdraw it as above.
 
 ## Working on your own computer
 
