@@ -42,7 +42,7 @@ ${permanentLinks(config)}
 <h2 id="using-the-data">Using the data</h2>
 <ul>
 <li>Every record is a JSON file at <code>/api/&lt;kind&gt;/&lt;id&gt;.json</code>, such as <a href="/api/gita/oa-gita-000001.json">api/gita/oa-gita-000001.json</a>. Each kind has a full list at <code>/api/&lt;kind&gt;.json</code>.</li>
-<li>Each kind is also a CSV file, such as <a href="/dumps/gita.csv">dumps/gita.csv</a>. All records are in one NDJSON file, <a href="/dumps/all.ndjson">dumps/all.ndjson</a>.</li>
+<li>Each kind is also a CSV file, such as <a href="/dumps/gita.csv">dumps/gita.csv</a>. All records are in one NDJSON file, <a href="/dumps/all.ndjson">dumps/all.ndjson</a>. Each record in the JSON, CSV and NDJSON files carries its ARK in the <code>ark</code> field.</li>
 <li>Every source is in <a href="/sources.bib">sources.bib</a>, in BibTeX.</li>
 <li>The records, schemas and build are on <a href="${escapeHtml(config.REPO_URL)}">GitHub</a>.</li>
 </ul>
