@@ -148,14 +148,18 @@ page("preservation/index.html", rebase(info.preservation(ctx)));
 page("enter-data/index.html", rebase((await import(pathToFileURL(join(TEMPLATE_DIR, "enter-data.js")))).default({ ...ctx, enterVersion: hash(readFileSync(join(STATIC_DIR, "enter-data.js"))) })));
 if (modules.source) write("sources.bib", byKind.source.map((s) => modules.source.bibtex(s, ctx)).join("\n\n") + "\n");
 
+// the ark goes out with the api and dumps, but records dont store it
+const withArk = (r) => (config.ARK_ON ? { id: r.id, ark: config.arkUrl(r.id), ...r } : r);
+
 for (const kind of KINDS) {
-  for (const record of byKind[kind]) write(`api/${kind}/${record.id}.json`, JSON.stringify(record, null, 2) + "\n");
-  write(`api/${kind}.json`, JSON.stringify(byKind[kind], null, 2) + "\n");
-  const rows = byKind[kind].map((r) => flatten(r));
+  const out = byKind[kind].map(withArk);
+  for (const record of out) write(`api/${kind}/${record.id}.json`, JSON.stringify(record, null, 2) + "\n");
+  write(`api/${kind}.json`, JSON.stringify(out, null, 2) + "\n");
+  const rows = out.map((r) => flatten(r));
   const columns = [...new Set(rows.flatMap((r) => Object.keys(r)))];
   write(`dumps/${kind}.csv`, toCsv(rows, columns.length ? columns : ["id"]));
 }
-write("dumps/all.ndjson", [...records.values()].map((r) => JSON.stringify(r) + "\n").join(""));
+write("dumps/all.ndjson", [...records.values()].map((r) => JSON.stringify(withArk(r)) + "\n").join(""));
 
 // /dev/ is not linked from the site and asks search engines to stay away
 const DEV_DIR = join(TEMPLATE_DIR, "dev");
